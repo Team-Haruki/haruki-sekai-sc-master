@@ -1,0 +1,567 @@
+[
+    {
+        "id": 217,
+        "eventId": 108,
+        "seq": 1,
+        "eventMissionType": "live_clear_daily",
+        "eventMissionCategory": "normal",
+        "requirement1": 6,
+        "sentence": "1天完成1次演出累计达到6天。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 218,
+        "eventId": 108,
+        "seq": 2,
+        "eventMissionType": "any_live_clear",
+        "eventMissionCategory": "normal",
+        "requirement1": 50,
+        "sentence": "完成50次演出。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 219,
+        "eventId": 108,
+        "seq": 3,
+        "eventMissionType": "live_clear_full_combo",
+        "eventMissionCategory": "normal",
+        "requirement1": 10,
+        "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 220,
+        "eventId": 108,
+        "seq": 4,
+        "eventMissionType": "live_clear_different_music",
+        "eventMissionCategory": "normal",
+        "requirement1": 10,
+        "requirement2": 1,
+        "sentence": "在演出中完成10种歌曲。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 221,
+        "eventId": 108,
+        "seq": 5,
+        "eventMissionType": "read_last_event_story_episode",
+        "eventMissionCategory": "normal",
+        "requirement1": 1,
+        "sentence": "观看活动“Hello·Good·Day!”的活动剧情第8话。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 222,
+        "eventId": 108,
+        "seq": 6,
+        "eventMissionType": "consume_event_item",
+        "eventMissionCategory": "normal",
+        "requirement1": 20000,
+        "sentence": "在活动“Hello·Good·Day!”的兑换所消耗20000个徽章。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 223,
+        "eventId": 108,
+        "seq": 7,
+        "eventMissionType": "join_virtual_live",
+        "eventMissionCategory": "normal",
+        "requirement1": 1,
+        "sentence": "参加“Hello·Good·Day! 后日谈·演唱会”。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 224,
+        "eventId": 108,
+        "seq": 8,
+        "eventMissionType": "achieve_event_mission",
+        "eventMissionCategory": "complete",
+        "requirement1": 7,
+        "sentence": "完成所有7个任务。",
+        "rewards": [
+            [
+                8001
+            ]
+        ]
+    },
+    {
+        "id": 353,
+        "eventId": 125,
+        "seq": 1,
+        "eventMissionType": "live_clear_daily",
+        "eventMissionCategory": "normal",
+        "requirement1": 6,
+        "sentence": "1天完成1次演出累计达到6天。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 354,
+        "eventId": 125,
+        "seq": 2,
+        "eventMissionType": "any_live_clear",
+        "eventMissionCategory": "normal",
+        "requirement1": 50,
+        "sentence": "完成50次演出。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 355,
+        "eventId": 125,
+        "seq": 3,
+        "eventMissionType": "live_clear_full_combo",
+        "eventMissionCategory": "normal",
+        "requirement1": 10,
+        "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 356,
+        "eventId": 125,
+        "seq": 4,
+        "eventMissionType": "live_clear_different_music",
+        "eventMissionCategory": "normal",
+        "requirement1": 10,
+        "requirement2": 1,
+        "sentence": "在演出中完成10种歌曲。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 357,
+        "eventId": 125,
+        "seq": 5,
+        "eventMissionType": "read_last_event_story_episode",
+        "eventMissionCategory": "normal",
+        "requirement1": 1,
+        "sentence": "观看活动“The first concerto”的活动剧情第8话。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 358,
+        "eventId": 125,
+        "seq": 6,
+        "eventMissionType": "consume_event_item",
+        "eventMissionCategory": "normal",
+        "requirement1": 20000,
+        "sentence": "在活动“The first concerto”的兑换所消耗20000个徽章。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 359,
+        "eventId": 125,
+        "seq": 7,
+        "eventMissionType": "join_virtual_live",
+        "eventMissionCategory": "normal",
+        "requirement1": 1,
+        "sentence": "参加“The first concerto 后日谈·演唱会”。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 360,
+        "eventId": 125,
+        "seq": 8,
+        "eventMissionType": "achieve_event_mission",
+        "eventMissionCategory": "complete",
+        "requirement1": 7,
+        "sentence": "完成所有7个任务。",
+        "rewards": [
+            [
+                8001
+            ]
+        ]
+    },
+    {
+        "id": 361,
+        "eventId": 126,
+        "seq": 1,
+        "eventMissionType": "live_clear_daily",
+        "eventMissionCategory": "normal",
+        "requirement1": 6,
+        "sentence": "1天完成1次演出累计达到6天。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 362,
+        "eventId": 126,
+        "seq": 2,
+        "eventMissionType": "any_live_clear",
+        "eventMissionCategory": "normal",
+        "requirement1": 50,
+        "sentence": "完成50次演出。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 363,
+        "eventId": 126,
+        "seq": 3,
+        "eventMissionType": "live_clear_full_combo",
+        "eventMissionCategory": "normal",
+        "requirement1": 10,
+        "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 364,
+        "eventId": 126,
+        "seq": 4,
+        "eventMissionType": "live_clear_different_music",
+        "eventMissionCategory": "normal",
+        "requirement1": 10,
+        "requirement2": 1,
+        "sentence": "在演出中完成10种歌曲。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 365,
+        "eventId": 126,
+        "seq": 5,
+        "eventMissionType": "read_last_event_story_episode",
+        "eventMissionCategory": "normal",
+        "requirement1": 1,
+        "sentence": "观看活动“Rise as ONE！”的活动剧情第8话。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 366,
+        "eventId": 126,
+        "seq": 6,
+        "eventMissionType": "consume_event_item",
+        "eventMissionCategory": "normal",
+        "requirement1": 20000,
+        "sentence": "在活动“Rise as ONE！”的兑换所消耗20000个徽章。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 367,
+        "eventId": 126,
+        "seq": 7,
+        "eventMissionType": "join_virtual_live",
+        "eventMissionCategory": "normal",
+        "requirement1": 1,
+        "sentence": "参加“Rise as ONE！ 后日谈·演唱会”。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 368,
+        "eventId": 126,
+        "seq": 8,
+        "eventMissionType": "achieve_event_mission",
+        "eventMissionCategory": "complete",
+        "requirement1": 7,
+        "sentence": "完成所有7个任务。",
+        "rewards": [
+            [
+                8001
+            ]
+        ]
+    },
+    {
+        "id": 369,
+        "eventId": 127,
+        "seq": 1,
+        "eventMissionType": "live_clear_daily",
+        "eventMissionCategory": "normal",
+        "requirement1": 6,
+        "sentence": "1天完成1次演出累计达到6天。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 370,
+        "eventId": 127,
+        "seq": 2,
+        "eventMissionType": "any_live_clear",
+        "eventMissionCategory": "normal",
+        "requirement1": 50,
+        "sentence": "完成50次演出。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 371,
+        "eventId": 127,
+        "seq": 3,
+        "eventMissionType": "live_clear_full_combo",
+        "eventMissionCategory": "normal",
+        "requirement1": 10,
+        "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 372,
+        "eventId": 127,
+        "seq": 4,
+        "eventMissionType": "live_clear_different_music",
+        "eventMissionCategory": "normal",
+        "requirement1": 10,
+        "requirement2": 1,
+        "sentence": "在演出中完成10种歌曲。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 373,
+        "eventId": 127,
+        "seq": 5,
+        "eventMissionType": "read_last_event_story_episode",
+        "eventMissionCategory": "normal",
+        "requirement1": 1,
+        "sentence": "观看活动“Knowing the Unseen”的活动剧情第8话。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 374,
+        "eventId": 127,
+        "seq": 6,
+        "eventMissionType": "consume_event_item",
+        "eventMissionCategory": "normal",
+        "requirement1": 20000,
+        "sentence": "在活动“Knowing the Unseen”的兑换所消耗20000个徽章。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 375,
+        "eventId": 127,
+        "seq": 7,
+        "eventMissionType": "join_virtual_live",
+        "eventMissionCategory": "normal",
+        "requirement1": 1,
+        "sentence": "参加“Knowing the Unseen 后日谈·演唱会”。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 376,
+        "eventId": 127,
+        "seq": 8,
+        "eventMissionType": "achieve_event_mission",
+        "eventMissionCategory": "complete",
+        "requirement1": 7,
+        "sentence": "完成所有7个任务。",
+        "rewards": [
+            [
+                8001
+            ]
+        ]
+    },
+    {
+        "id": 377,
+        "eventId": 128,
+        "seq": 1,
+        "eventMissionType": "live_clear_daily",
+        "eventMissionCategory": "normal",
+        "requirement1": 6,
+        "sentence": "1天完成1次演出累计达到6天。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 378,
+        "eventId": 128,
+        "seq": 2,
+        "eventMissionType": "any_live_clear",
+        "eventMissionCategory": "normal",
+        "requirement1": 50,
+        "sentence": "完成50次演出。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 379,
+        "eventId": 128,
+        "seq": 3,
+        "eventMissionType": "live_clear_full_combo",
+        "eventMissionCategory": "normal",
+        "requirement1": 10,
+        "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 380,
+        "eventId": 128,
+        "seq": 4,
+        "eventMissionType": "live_clear_different_music",
+        "eventMissionCategory": "normal",
+        "requirement1": 10,
+        "requirement2": 1,
+        "sentence": "在演出中完成10种歌曲。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 381,
+        "eventId": 128,
+        "seq": 5,
+        "eventMissionType": "read_last_event_story_episode",
+        "eventMissionCategory": "normal",
+        "requirement1": 1,
+        "sentence": "观看活动“Parallel Harmonies”的活动剧情第8话。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 382,
+        "eventId": 128,
+        "seq": 6,
+        "eventMissionType": "consume_event_item",
+        "eventMissionCategory": "normal",
+        "requirement1": 20000,
+        "sentence": "观看活动“Parallel Harmonies”的兑换所消耗20000个徽章。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 383,
+        "eventId": 128,
+        "seq": 7,
+        "eventMissionType": "join_virtual_live",
+        "eventMissionCategory": "normal",
+        "requirement1": 1,
+        "sentence": "参加“Parallel Harmonies 后日谈·演唱会”。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 384,
+        "eventId": 128,
+        "seq": 8,
+        "eventMissionType": "achieve_event_mission",
+        "eventMissionCategory": "complete",
+        "requirement1": 7,
+        "sentence": "完成所有7个任务。",
+        "rewards": [
+            [
+                8001
+            ]
+        ]
+    }
+]
