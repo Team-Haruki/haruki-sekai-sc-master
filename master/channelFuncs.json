@@ -1,14 +1,14 @@
 [
-  {
-    "id": 1,
-    "type": "home_banner",
-    "funcId": 20012,
-    "channels": "taptap,bsdk,App Store,bilibili"
-  },
-  {
-    "id": 5,
-    "type": "mini_program",
-    "funcId": 9999,
-    "channels": "taptap"
-  }
+    {
+        "id": 1,
+        "type": "home_banner",
+        "funcId": 20012,
+        "channels": "taptap,bsdk,App Store,bilibili"
+    },
+    {
+        "id": 5,
+        "type": "mini_program",
+        "funcId": 9999,
+        "channels": "taptap"
+    }
 ]
