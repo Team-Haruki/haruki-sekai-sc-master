@@ -37394,6 +37394,24 @@
         "startAt": 1764399600000
     },
     {
+        "id": 10715,
+        "shopId": 2,
+        "seq": 256192400,
+        "releaseConditionId": 1,
+        "resourceBoxId": 10715,
+        "costs": [
+            {
+                "cost": [
+                    13,
+                    "material",
+                    0,
+                    10
+                ]
+            }
+        ],
+        "startAt": 1743750000000
+    },
+    {
         "id": 20001,
         "shopId": 12,
         "seq": 6700,
