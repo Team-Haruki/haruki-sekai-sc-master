@@ -1,86 +1,86 @@
 [
-    [
-        1,
-        "read_main_story",
-        1,
-        "阅读完成一个团体的主线剧情吧。",
-        1,
-        [
-            [
-                22222223
-            ]
+    {
+        "id": 1,
+        "sekaiEchoMissionType": "read_main_story",
+        "seq": 1,
+        "sentence": "阅读完成一个团体的主线剧情吧。",
+        "requirement": 1,
+        "rewards": [
+            {
+                "resourceBoxId": 22222223
+            }
         ]
-    ],
-    [
-        2,
-        "read_character_box_story",
-        2,
-        "阅读完成一个角色的第一学年全部关键剧情吧。",
-        1,
-        [
-            [
-                22222224
-            ]
+    },
+    {
+        "id": 2,
+        "sekaiEchoMissionType": "read_character_box_story",
+        "seq": 2,
+        "sentence": "阅读完成一个角色的第一学年全部关键剧情吧。",
+        "requirement": 1,
+        "rewards": [
+            {
+                "resourceBoxId": 22222224
+            }
         ]
-    ],
-    [
-        3,
-        "read_unit_box_story",
-        3,
-        "阅读完成一个团体的第一学年关键剧情吧。",
-        1,
-        [
-            [
-                22222225
-            ]
+    },
+    {
+        "id": 3,
+        "sekaiEchoMissionType": "read_unit_box_story",
+        "seq": 3,
+        "sentence": "阅读完成一个团体的第一学年关键剧情吧。",
+        "requirement": 1,
+        "rewards": [
+            {
+                "resourceBoxId": 22222225
+            }
         ]
-    ],
-    [
-        4,
-        "get_box_story_honor_stamp",
-        4,
-        "获得某个关键剧情的称号和贴图吧。（贴图参加虚拟live后获得）",
-        1,
-        [
-            [
-                22222226
-            ]
+    },
+    {
+        "id": 4,
+        "sekaiEchoMissionType": "get_box_story_honor_stamp",
+        "seq": 4,
+        "sentence": "获得某个关键剧情的称号和贴图吧。（贴图参加虚拟live后获得）",
+        "requirement": 1,
+        "rewards": [
+            {
+                "resourceBoxId": 22222226
+            }
         ]
-    ],
-    [
-        5,
-        "clear_event_music",
-        5,
-        "从本活动页面游玩一次活动歌曲吧。",
-        1,
-        [
-            [
-                22222227
-            ]
+    },
+    {
+        "id": 5,
+        "sekaiEchoMissionType": "clear_event_music",
+        "seq": 5,
+        "sentence": "从本活动页面游玩一次活动歌曲吧。",
+        "requirement": 1,
+        "rewards": [
+            {
+                "resourceBoxId": 22222227
+            }
         ]
-    ],
-    [
-        6,
-        "read_graph",
-        6,
-        "观看某个团体的角色关系图吧。",
-        1,
-        [
-            [
-                22222228
-            ]
+    },
+    {
+        "id": 6,
+        "sekaiEchoMissionType": "read_graph",
+        "seq": 6,
+        "sentence": "观看某个团体的角色关系图吧。",
+        "requirement": 1,
+        "rewards": [
+            {
+                "resourceBoxId": 22222228
+            }
         ]
-    ],
-    [
-        7,
-        "read_all_pv",
-        7,
-        "观看某个团体的PV吧。",
-        1,
-        [
-            [
-                22222229
-            ]
+    },
+    {
+        "id": 7,
+        "sekaiEchoMissionType": "read_all_pv",
+        "seq": 7,
+        "sentence": "观看某个团体的PV吧。",
+        "requirement": 1,
+        "rewards": [
+            {
+                "resourceBoxId": 22222229
+            }
         ]
-    ]
+    }
 ]

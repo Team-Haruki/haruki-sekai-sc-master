@@ -1,365 +1,298 @@
 [
-    [
-        1,
-        "shining_exchange",
-        3,
-        1,
-        1,
-        "weekly",
-        null,
-        null,
-        null
-    ],
-    [
-        2,
-        "shining_exchange",
-        29,
-        2,
-        1,
-        "weekly",
-        80,
-        null,
-        null
-    ],
-    [
-        3,
-        "shining_exchange",
-        16,
-        3,
-        5,
-        "weekly",
-        40,
-        null,
-        null
-    ],
-    [
-        4,
-        "shining_exchange",
-        15,
-        4,
-        5,
-        "weekly",
-        40,
-        null,
-        null
-    ],
-    [
-        5,
-        "shining_exchange",
-        27,
-        5,
-        10,
-        "weekly",
-        30,
-        null,
-        null
-    ],
-    [
-        6,
-        "shining_exchange",
-        14,
-        6,
-        10,
-        "weekly",
-        20,
-        null,
-        null
-    ],
-    [
-        7,
-        "shining_exchange",
-        11,
-        7,
-        10,
-        "weekly",
-        15,
-        null,
-        null
-    ],
-    [
-        8,
-        "shining_exchange",
-        4,
-        8,
-        10,
-        "weekly",
-        15,
-        null,
-        null
-    ],
-    [
-        9,
-        "shining_exchange",
-        28,
-        9,
-        3,
-        "weekly",
-        20,
-        null,
-        null
-    ],
-    [
-        10,
-        "shining_exchange",
-        31,
-        10,
-        1,
-        "weekly",
-        20,
-        null,
-        null
-    ],
-    [
-        11,
-        "shining_exchange",
-        32,
-        11,
-        10,
-        "weekly",
-        20,
-        null,
-        null
-    ],
-    [
-        12,
-        "shining_exchange",
-        26,
-        12,
-        5,
-        "weekly",
-        20,
-        null,
-        null
-    ],
-    [
-        13,
-        "shining_exchange",
-        25,
-        13,
-        5,
-        "weekly",
-        20,
-        null,
-        null
-    ],
-    [
-        14,
-        "shining_exchange",
-        24,
-        14,
-        5,
-        "weekly",
-        20,
-        null,
-        null
-    ],
-    [
-        15,
-        "shining_exchange",
-        23,
-        15,
-        5,
-        "weekly",
-        20,
-        null,
-        null
-    ],
-    [
-        16,
-        "shining_exchange",
-        22,
-        16,
-        5,
-        "weekly",
-        20,
-        null,
-        null
-    ],
-    [
-        17,
-        "shining_exchange",
-        12,
-        17,
-        50,
-        "weekly",
-        10,
-        null,
-        null
-    ],
-    [
-        18,
-        "shining_exchange",
-        33,
-        18,
-        10,
-        "weekly",
-        5,
-        null,
-        null
-    ],
-    [
-        19,
-        "shining_exchange",
-        21,
-        19,
-        5,
-        "weekly",
-        10,
-        null,
-        null
-    ],
-    [
-        20,
-        "shining_exchange",
-        20,
-        20,
-        5,
-        "weekly",
-        10,
-        null,
-        null
-    ],
-    [
-        21,
-        "shining_exchange",
-        19,
-        21,
-        5,
-        "weekly",
-        10,
-        null,
-        null
-    ],
-    [
-        22,
-        "shining_exchange",
-        18,
-        22,
-        5,
-        "weekly",
-        10,
-        null,
-        null
-    ],
-    [
-        23,
-        "shining_exchange",
-        17,
-        23,
-        5,
-        "weekly",
-        10,
-        null,
-        null
-    ],
-    [
-        24,
-        "shining_exchange",
-        30,
-        24,
-        50,
-        "weekly",
-        2,
-        null,
-        null
-    ],
-    [
-        25,
-        "shining_exchange",
-        10,
-        25,
-        300,
-        "weekly",
-        1,
-        null,
-        null
-    ],
-    [
-        26,
-        "shining_exchange",
-        5,
-        26,
-        300,
-        "weekly",
-        1,
-        null,
-        null
-    ],
-    [
-        27,
-        "shining_exchange",
-        7,
-        27,
-        300,
-        "weekly",
-        1,
-        null,
-        null
-    ],
-    [
-        28,
-        "shining_exchange",
-        8,
-        28,
-        300,
-        "weekly",
-        1,
-        null,
-        null
-    ],
-    [
-        29,
-        "shining_exchange",
-        9,
-        29,
-        300,
-        "weekly",
-        1,
-        null,
-        null
-    ],
-    [
-        30,
-        "shining_exchange",
-        6,
-        30,
-        300,
-        "weekly",
-        1,
-        null,
-        null
-    ],
-    [
-        31,
-        "event_exchange",
-        2,
-        31,
-        3500,
-        "weekly",
-        1,
-        null,
-        null
-    ],
-    [
-        32,
-        "event_exchange",
-        1,
-        32,
-        10500,
-        "weekly",
-        1,
-        null,
-        null
-    ],
-    [
-        33,
-        "shining_exchange",
-        13,
-        33,
-        500,
-        "weekly",
-        2,
-        null,
-        null
-    ]
+    {
+        "id": 1,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 3,
+        "resourceBoxId": 1,
+        "cost": 1,
+        "refreshCycle": "weekly"
+    },
+    {
+        "id": 2,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 29,
+        "resourceBoxId": 2,
+        "cost": 1,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 80
+    },
+    {
+        "id": 3,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 16,
+        "resourceBoxId": 3,
+        "cost": 5,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 40
+    },
+    {
+        "id": 4,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 15,
+        "resourceBoxId": 4,
+        "cost": 5,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 40
+    },
+    {
+        "id": 5,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 27,
+        "resourceBoxId": 5,
+        "cost": 10,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 30
+    },
+    {
+        "id": 6,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 14,
+        "resourceBoxId": 6,
+        "cost": 10,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 20
+    },
+    {
+        "id": 7,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 11,
+        "resourceBoxId": 7,
+        "cost": 10,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 15
+    },
+    {
+        "id": 8,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 4,
+        "resourceBoxId": 8,
+        "cost": 10,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 15
+    },
+    {
+        "id": 9,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 28,
+        "resourceBoxId": 9,
+        "cost": 3,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 20
+    },
+    {
+        "id": 10,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 31,
+        "resourceBoxId": 10,
+        "cost": 1,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 20
+    },
+    {
+        "id": 11,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 32,
+        "resourceBoxId": 11,
+        "cost": 10,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 20
+    },
+    {
+        "id": 12,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 26,
+        "resourceBoxId": 12,
+        "cost": 5,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 20
+    },
+    {
+        "id": 13,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 25,
+        "resourceBoxId": 13,
+        "cost": 5,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 20
+    },
+    {
+        "id": 14,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 24,
+        "resourceBoxId": 14,
+        "cost": 5,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 20
+    },
+    {
+        "id": 15,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 23,
+        "resourceBoxId": 15,
+        "cost": 5,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 20
+    },
+    {
+        "id": 16,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 22,
+        "resourceBoxId": 16,
+        "cost": 5,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 20
+    },
+    {
+        "id": 17,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 12,
+        "resourceBoxId": 17,
+        "cost": 50,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 10
+    },
+    {
+        "id": 18,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 33,
+        "resourceBoxId": 18,
+        "cost": 10,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 5
+    },
+    {
+        "id": 19,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 21,
+        "resourceBoxId": 19,
+        "cost": 5,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 10
+    },
+    {
+        "id": 20,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 20,
+        "resourceBoxId": 20,
+        "cost": 5,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 10
+    },
+    {
+        "id": 21,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 19,
+        "resourceBoxId": 21,
+        "cost": 5,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 10
+    },
+    {
+        "id": 22,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 18,
+        "resourceBoxId": 22,
+        "cost": 5,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 10
+    },
+    {
+        "id": 23,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 17,
+        "resourceBoxId": 23,
+        "cost": 5,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 10
+    },
+    {
+        "id": 24,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 30,
+        "resourceBoxId": 24,
+        "cost": 50,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 2
+    },
+    {
+        "id": 25,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 10,
+        "resourceBoxId": 25,
+        "cost": 300,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 1
+    },
+    {
+        "id": 26,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 5,
+        "resourceBoxId": 26,
+        "cost": 300,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 1
+    },
+    {
+        "id": 27,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 7,
+        "resourceBoxId": 27,
+        "cost": 300,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 1
+    },
+    {
+        "id": 28,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 8,
+        "resourceBoxId": 28,
+        "cost": 300,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 1
+    },
+    {
+        "id": 29,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 9,
+        "resourceBoxId": 29,
+        "cost": 300,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 1
+    },
+    {
+        "id": 30,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 6,
+        "resourceBoxId": 30,
+        "cost": 300,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 1
+    },
+    {
+        "id": 31,
+        "shiningExchangeType": "event_exchange",
+        "seq": 2,
+        "resourceBoxId": 31,
+        "cost": 3500,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 1
+    },
+    {
+        "id": 32,
+        "shiningExchangeType": "event_exchange",
+        "seq": 1,
+        "resourceBoxId": 32,
+        "cost": 10500,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 1
+    },
+    {
+        "id": 33,
+        "shiningExchangeType": "shining_exchange",
+        "seq": 13,
+        "resourceBoxId": 33,
+        "cost": 500,
+        "refreshCycle": "weekly",
+        "exchangeLimit": 2
+    }
 ]

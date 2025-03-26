@@ -5551,7 +5551,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_haruka_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 6
             }
         ],
@@ -5570,7 +5570,7 @@
         "startAt": 1602226800000,
         "endAt": 1603263599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 100008,
+        "archiveReleaseConditionId": 100008,
         "virtualLiveSetlists": [
             {
                 "id": 47,
@@ -6299,7 +6299,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_planetarium",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             }
         ],
         "virtualLiveAppeals": [],
@@ -6317,7 +6317,7 @@
         "startAt": 1603177200000,
         "endAt": 1604213999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 100108,
+        "archiveReleaseConditionId": 100108,
         "virtualLiveSetlists": [
             {
                 "id": 50,
@@ -7036,7 +7036,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_marionette",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             }
         ],
         "virtualLiveAppeals": [],
@@ -7712,7 +7712,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_honami_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 3
             }
         ],
@@ -8511,7 +8511,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_halloween_2020",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             }
         ],
         "virtualLiveAppeals": [],
@@ -8529,7 +8529,7 @@
         "startAt": 1604127600000,
         "endAt": 1604991599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 100208,
+        "archiveReleaseConditionId": 100208,
         "virtualLiveSetlists": [
             {
                 "id": 64,
@@ -9251,7 +9251,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_zombie",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             }
         ],
         "virtualLiveAppeals": [],
@@ -9934,7 +9934,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_meiko_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 25
             }
         ],
@@ -22576,7 +22576,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_akito_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 11
             },
             {
@@ -23107,7 +23107,7 @@
         "startAt": 1605769200000,
         "endAt": 1606805999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 100408,
+        "archiveReleaseConditionId": 100408,
         "virtualLiveSetlists": [
             {
                 "id": 203,
@@ -23814,7 +23814,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_restart",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 44,
@@ -23845,7 +23845,7 @@
         "startAt": 1606719600000,
         "endAt": 1608447599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 100508,
+        "archiveReleaseConditionId": 100508,
         "virtualLiveSetlists": [
             {
                 "id": 593,
@@ -24569,7 +24569,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_forward",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             }
         ],
         "virtualLiveAppeals": [],
@@ -25245,7 +25245,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_shizuku_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 8
             }
         ],
@@ -25264,7 +25264,7 @@
         "startAt": 1608447600000,
         "endAt": 1609397999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 100708,
+        "archiveReleaseConditionId": 100708,
         "virtualLiveSetlists": [
             {
                 "id": 599,
@@ -25925,7 +25925,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_nijiiro",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             }
         ],
         "virtualLiveAppeals": [],
@@ -26720,7 +26720,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_xmas",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             }
         ],
         "virtualLiveAppeals": [],
@@ -27406,7 +27406,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_rin_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 22
             }
         ],
@@ -28090,7 +28090,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_len_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 23
             }
         ],
@@ -28852,7 +28852,7 @@
                 "costJewel": 10,
                 "effectAssetbundleName": "event_new_year_01",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 61,
@@ -28865,7 +28865,7 @@
                 "costJewel": 10,
                 "effectAssetbundleName": "event_new_year_02",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 62,
@@ -28878,7 +28878,7 @@
                 "costJewel": 10,
                 "effectAssetbundleName": "event_new_year_03",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 63,
@@ -28891,7 +28891,7 @@
                 "costJewel": 10,
                 "effectAssetbundleName": "event_new_year_04",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 64,
@@ -28904,7 +28904,7 @@
                 "costJewel": 10,
                 "effectAssetbundleName": "event_new_year_05",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             }
         ],
         "virtualLiveAppeals": [],
@@ -33093,7 +33093,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_shiho_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 4
             }
         ],
@@ -33112,7 +33112,7 @@
         "startAt": 1610262000000,
         "endAt": 1611212399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 100908,
+        "archiveReleaseConditionId": 100908,
         "virtualLiveSetlists": [
             {
                 "id": 655,
@@ -33785,7 +33785,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_hareomatsu",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             }
         ],
         "virtualLiveAppeals": [],
@@ -33803,7 +33803,7 @@
         "startAt": 1611212400000,
         "endAt": 1612076399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 101008,
+        "archiveReleaseConditionId": 101008,
         "virtualLiveSetlists": [
             {
                 "id": 669,
@@ -33966,7 +33966,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_color",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -34653,7 +34653,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_mafuyu_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 18
             },
             {
@@ -35430,7 +35430,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_luka_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 24
             },
             {
@@ -35961,7 +35961,7 @@
         "startAt": 1612076400000,
         "endAt": 1612853999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 101108,
+        "archiveReleaseConditionId": 101108,
         "virtualLiveSetlists": [
             {
                 "id": 679,
@@ -36116,7 +36116,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_nocturne",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -36880,7 +36880,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_kanade_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 17
             },
             {
@@ -37874,7 +37874,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_valentine_2021",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -38577,7 +38577,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_kaito_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 26
             },
             {
@@ -39108,7 +39108,7 @@
         "startAt": 1613631600000,
         "endAt": 1614495599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 101308,
+        "archiveReleaseConditionId": 101308,
         "virtualLiveSetlists": [
             {
                 "id": 699,
@@ -39271,7 +39271,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_infinitelygray",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -39963,7 +39963,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_kohane_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 9
             },
             {
@@ -40494,7 +40494,7 @@
         "startAt": 1614495600000,
         "endAt": 1615359599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 101408,
+        "archiveReleaseConditionId": 101408,
         "virtualLiveSetlists": [
             {
                 "id": 705,
@@ -40657,7 +40657,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_dream",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -41187,7 +41187,7 @@
         "startAt": 1615359600000,
         "endAt": 1616396399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 101508,
+        "archiveReleaseConditionId": 101508,
         "virtualLiveSetlists": [
             {
                 "id": 708,
@@ -41388,7 +41388,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_hinamatsuri",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -42201,7 +42201,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_whiteday_2021",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -42893,7 +42893,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_airi_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 7
             },
             {
@@ -43430,7 +43430,7 @@
         "startAt": 1616396400000,
         "endAt": 1617260399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 101608,
+        "archiveReleaseConditionId": 101608,
         "virtualLiveSetlists": [
             {
                 "id": 722,
@@ -43593,7 +43593,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_angelclover",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -44123,7 +44123,7 @@
         "startAt": 1617260400000,
         "endAt": 1618124399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 101708,
+        "archiveReleaseConditionId": 101708,
         "virtualLiveSetlists": [
             {
                 "id": 725,
@@ -44304,7 +44304,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_hanami",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -44834,7 +44834,7 @@
         "startAt": 1618124400000,
         "endAt": 1618988399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 101808,
+        "archiveReleaseConditionId": 101808,
         "virtualLiveSetlists": [
             {
                 "id": 730,
@@ -44994,7 +44994,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_secret",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -45686,7 +45686,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_minori_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 5
             },
             {
@@ -46217,7 +46217,7 @@
         "startAt": 1618988400000,
         "endAt": 1619765999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 101908,
+        "archiveReleaseConditionId": 101908,
         "virtualLiveSetlists": [
             {
                 "id": 736,
@@ -46380,7 +46380,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_resonate",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -47073,7 +47073,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_ena_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 19
             },
             {
@@ -47604,7 +47604,7 @@
         "startAt": 1619766000000,
         "endAt": 1620629999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 102008,
+        "archiveReleaseConditionId": 102008,
         "virtualLiveSetlists": [
             {
                 "id": 742,
@@ -47764,7 +47764,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_stray",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -48456,7 +48456,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_saki_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 2
             },
             {
@@ -48987,7 +48987,7 @@
         "startAt": 1620630000000,
         "endAt": 1621580399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 102108,
+        "archiveReleaseConditionId": 102108,
         "virtualLiveSetlists": [
             {
                 "id": 748,
@@ -49178,7 +49178,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_picnic",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -49868,7 +49868,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_tukasa_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 13
             },
             {
@@ -50399,7 +50399,7 @@
         "startAt": 1621580400000,
         "endAt": 1622444399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 102208,
+        "archiveReleaseConditionId": 102208,
         "virtualLiveSetlists": [
             {
                 "id": 756,
@@ -50558,7 +50558,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_breaktime",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -51248,7 +51248,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_toya_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 12
             },
             {
@@ -51779,7 +51779,7 @@
         "startAt": 1622444400000,
         "endAt": 1623394799000,
         "rankingAnnounceAt": 4102415999000,
-        "": 102308,
+        "archiveReleaseConditionId": 102308,
         "virtualLiveSetlists": [
             {
                 "id": 762,
@@ -51968,7 +51968,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_bridal",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -52498,7 +52498,7 @@
         "startAt": 1623394800000,
         "endAt": 1624258799000,
         "rankingAnnounceAt": 4102415999000,
-        "": 102408,
+        "archiveReleaseConditionId": 102408,
         "virtualLiveSetlists": [
             {
                 "id": 767,
@@ -52673,7 +52673,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_wonders",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -53203,7 +53203,7 @@
         "startAt": 1624258800000,
         "endAt": 1625036399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 102508,
+        "archiveReleaseConditionId": 102508,
         "virtualLiveSetlists": [
             {
                 "id": 770,
@@ -53364,7 +53364,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_carnation",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -54061,7 +54061,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_rui_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 16
             },
             {
@@ -54592,7 +54592,7 @@
         "startAt": 1625036400000,
         "endAt": 1625813999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 102608,
+        "archiveReleaseConditionId": 102608,
         "virtualLiveSetlists": [
             {
                 "id": 777,
@@ -54755,7 +54755,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_unnamed",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -55571,7 +55571,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_tanabata",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -56101,7 +56101,7 @@
         "startAt": 1625814000000,
         "endAt": 1626764399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 102708,
+        "archiveReleaseConditionId": 102708,
         "virtualLiveSetlists": [
             {
                 "id": 787,
@@ -56262,7 +56262,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_awakening",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -56952,7 +56952,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_nene_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 15
             },
             {
@@ -57483,7 +57483,7 @@
         "startAt": 1626764400000,
         "endAt": 1627714799000,
         "rankingAnnounceAt": 4102415999000,
-        "": 102808,
+        "archiveReleaseConditionId": 102808,
         "virtualLiveSetlists": [
             {
                 "id": 793,
@@ -58644,7 +58644,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_an_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 10
             },
             {
@@ -59175,7 +59175,7 @@
         "startAt": 1627714800000,
         "endAt": 1628578799000,
         "rankingAnnounceAt": 4102415999000,
-        "": 102908,
+        "archiveReleaseConditionId": 102908,
         "virtualLiveSetlists": [
             {
                 "id": 801,
@@ -60340,7 +60340,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_ichika_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 1
             },
             {
@@ -60882,7 +60882,7 @@
         "startAt": 1628578800000,
         "endAt": 1629442799000,
         "rankingAnnounceAt": 4102415999000,
-        "": 103008,
+        "archiveReleaseConditionId": 103008,
         "virtualLiveSetlists": [
             {
                 "id": 809,
@@ -61850,7 +61850,7 @@
         "startAt": 1629442800000,
         "endAt": 1630393199000,
         "rankingAnnounceAt": 4102415999000,
-        "": 103108,
+        "archiveReleaseConditionId": 103108,
         "virtualLiveSetlists": [
             {
                 "id": 812,
@@ -62974,7 +62974,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_mizuki_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 20
             },
             {
@@ -63672,7 +63672,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_miku_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 21
             },
             {
@@ -64203,7 +64203,7 @@
         "startAt": 1630393200000,
         "endAt": 1631257199000,
         "rankingAnnounceAt": 4102415999000,
-        "": 103208,
+        "archiveReleaseConditionId": 103208,
         "virtualLiveSetlists": [
             {
                 "id": 822,
@@ -65362,7 +65362,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_emu_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 14
             },
             {
@@ -65899,7 +65899,7 @@
         "startAt": 1631257200000,
         "endAt": 1632207599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 103308,
+        "archiveReleaseConditionId": 103308,
         "virtualLiveSetlists": [
             {
                 "id": 829,
@@ -66867,7 +66867,7 @@
         "startAt": 1632207600000,
         "endAt": 1633071599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 103408,
+        "archiveReleaseConditionId": 103408,
         "virtualLiveSetlists": [
             {
                 "id": 832,
@@ -68380,7 +68380,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_anniversary_01",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 108,
@@ -68393,7 +68393,7 @@
                 "costJewel": 100,
                 "effectAssetbundleName": "event_anniversary_02",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "unit": "piapro"
             },
             {
@@ -68407,7 +68407,7 @@
                 "costJewel": 100,
                 "effectAssetbundleName": "event_anniversary_03",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "unit": "light_sound"
             },
             {
@@ -68421,7 +68421,7 @@
                 "costJewel": 100,
                 "effectAssetbundleName": "event_anniversary_04",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "unit": "idol"
             },
             {
@@ -68435,7 +68435,7 @@
                 "costJewel": 100,
                 "effectAssetbundleName": "event_anniversary_05",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "unit": "street"
             },
             {
@@ -68449,7 +68449,7 @@
                 "costJewel": 100,
                 "effectAssetbundleName": "event_anniversary_06",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "unit": "theme_park"
             },
             {
@@ -68463,7 +68463,7 @@
                 "costJewel": 100,
                 "effectAssetbundleName": "event_anniversary_07",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "unit": "school_refusal"
             },
             {
@@ -69164,7 +69164,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_haruka_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 6
             },
             {
@@ -69701,7 +69701,7 @@
         "startAt": 1633071600000,
         "endAt": 1633935599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 103510,
+        "archiveReleaseConditionId": 103510,
         "virtualLiveSetlists": [
             {
                 "id": 864,
@@ -70672,7 +70672,7 @@
         "startAt": 1633935600000,
         "endAt": 1634799599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 103608,
+        "archiveReleaseConditionId": 103608,
         "virtualLiveSetlists": [
             {
                 "id": 867,
@@ -71643,7 +71643,7 @@
         "startAt": 1634799600000,
         "endAt": 1635663599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 103708,
+        "archiveReleaseConditionId": 103708,
         "virtualLiveSetlists": [
             {
                 "id": 870,
@@ -72767,7 +72767,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_honami_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 3
             },
             {
@@ -73588,7 +73588,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_halloween_2020",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -74118,7 +74118,7 @@
         "startAt": 1635663600000,
         "endAt": 1636613999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 103808,
+        "archiveReleaseConditionId": 103808,
         "virtualLiveSetlists": [
             {
                 "id": 883,
@@ -75298,7 +75298,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_meiko_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 25
             },
             {
@@ -75988,7 +75988,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_akito_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 11
             },
             {
@@ -76519,7 +76519,7 @@
         "startAt": 1636614000000,
         "endAt": 1637391599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 103908,
+        "archiveReleaseConditionId": 103908,
         "virtualLiveSetlists": [
             {
                 "id": 896,
@@ -77493,7 +77493,7 @@
         "startAt": 1637391600000,
         "endAt": 1638255599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 104008,
+        "archiveReleaseConditionId": 104008,
         "virtualLiveSetlists": [
             {
                 "id": 899,
@@ -78496,7 +78496,7 @@
         "startAt": 1638255600000,
         "endAt": 1639119599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 104108,
+        "archiveReleaseConditionId": 104108,
         "virtualLiveSetlists": [
             {
                 "id": 904,
@@ -79645,7 +79645,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_shizuku_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 8
             },
             {
@@ -80182,7 +80182,7 @@
         "startAt": 1639119600000,
         "endAt": 1639983599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 104208,
+        "archiveReleaseConditionId": 104208,
         "virtualLiveSetlists": [
             {
                 "id": 911,
@@ -81150,7 +81150,7 @@
         "startAt": 1639983600000,
         "endAt": 1640933999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 104308,
+        "archiveReleaseConditionId": 104308,
         "virtualLiveSetlists": [
             {
                 "id": 914,
@@ -82415,7 +82415,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_xmas",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -83153,7 +83153,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_rin_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 22
             },
             {
@@ -83900,7 +83900,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_len_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 23
             },
             {
@@ -84652,7 +84652,7 @@
                 "costJewel": 10,
                 "effectAssetbundleName": "event_new_year_01",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 61,
@@ -84665,7 +84665,7 @@
                 "costJewel": 10,
                 "effectAssetbundleName": "event_new_year_02",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 62,
@@ -84678,7 +84678,7 @@
                 "costJewel": 10,
                 "effectAssetbundleName": "event_new_year_03",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 63,
@@ -84691,7 +84691,7 @@
                 "costJewel": 10,
                 "effectAssetbundleName": "event_new_year_04",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 64,
@@ -84704,7 +84704,7 @@
                 "costJewel": 10,
                 "effectAssetbundleName": "event_new_year_05",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -85234,7 +85234,7 @@
         "startAt": 1640934000000,
         "endAt": 1641970799000,
         "rankingAnnounceAt": 4102415999000,
-        "": 104409,
+        "archiveReleaseConditionId": 104409,
         "virtualLiveSetlists": [
             {
                 "id": 944,
@@ -89972,7 +89972,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_shiho_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 4
             },
             {
@@ -90503,7 +90503,7 @@
         "startAt": 1641970800000,
         "endAt": 1642748399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 104508,
+        "archiveReleaseConditionId": 104508,
         "virtualLiveSetlists": [
             {
                 "id": 978,
@@ -91471,7 +91471,7 @@
         "startAt": 1642748400000,
         "endAt": 1643612399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 104608,
+        "archiveReleaseConditionId": 104608,
         "virtualLiveSetlists": [
             {
                 "id": 981,
@@ -92599,7 +92599,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_mafuyu_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 18
             },
             {
@@ -93334,7 +93334,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_luka_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 24
             },
             {
@@ -93865,7 +93865,7 @@
         "startAt": 1643612400000,
         "endAt": 1644389999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 104708,
+        "archiveReleaseConditionId": 104708,
         "virtualLiveSetlists": [
             {
                 "id": 993,
@@ -95021,7 +95021,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_kanade_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 17
             },
             {
@@ -95552,7 +95552,7 @@
         "startAt": 1644390000000,
         "endAt": 1645167599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 104808,
+        "archiveReleaseConditionId": 104808,
         "virtualLiveSetlists": [
             {
                 "id": 1000,
@@ -96805,7 +96805,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_valentine_2021",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -97550,7 +97550,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_kaito_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 26
             },
             {
@@ -98081,7 +98081,7 @@
         "startAt": 1645167600000,
         "endAt": 1646031599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 104908,
+        "archiveReleaseConditionId": 104908,
         "virtualLiveSetlists": [
             {
                 "id": 1016,
@@ -99049,7 +99049,7 @@
         "startAt": 1646031600000,
         "endAt": 1646981999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 105008,
+        "archiveReleaseConditionId": 105008,
         "virtualLiveSetlists": [
             {
                 "id": 1019,
@@ -100198,7 +100198,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_kohane_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 9
             },
             {
@@ -100729,7 +100729,7 @@
         "startAt": 1648623600000,
         "endAt": 1648709999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 105108,
+        "archiveReleaseConditionId": 105108,
         "virtualLiveSetlists": [
             {
                 "id": 1027,
@@ -102007,7 +102007,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_whiteday_2021",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -102713,7 +102713,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_airi_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 7
             },
             {
@@ -103250,7 +103250,7 @@
         "startAt": 1647759600000,
         "endAt": 1648623599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 105208,
+        "archiveReleaseConditionId": 105208,
         "virtualLiveSetlists": [
             {
                 "id": 1039,
@@ -104218,7 +104218,7 @@
         "startAt": 1648623600000,
         "endAt": 1649660399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 105308,
+        "archiveReleaseConditionId": 105308,
         "virtualLiveSetlists": [
             {
                 "id": 1042,
@@ -105274,7 +105274,7 @@
         "startAt": 1649660400000,
         "endAt": 1650524399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 105408,
+        "archiveReleaseConditionId": 105408,
         "virtualLiveSetlists": [
             {
                 "id": 1053,
@@ -106397,7 +106397,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_minori_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 5
             },
             {
@@ -106928,7 +106928,7 @@
         "startAt": 1650524400000,
         "endAt": 1651301999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 105508,
+        "archiveReleaseConditionId": 105508,
         "virtualLiveSetlists": [
             {
                 "id": 1059,
@@ -108058,7 +108058,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_ena_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 19
             },
             {
@@ -108589,7 +108589,7 @@
         "startAt": 1651302000000,
         "endAt": 1652165999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 105608,
+        "archiveReleaseConditionId": 105608,
         "virtualLiveSetlists": [
             {
                 "id": 1065,
@@ -109719,7 +109719,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_saki_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 2
             },
             {
@@ -110250,7 +110250,7 @@
         "startAt": 1652166000000,
         "endAt": 1653029999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 105708,
+        "archiveReleaseConditionId": 105708,
         "virtualLiveSetlists": [
             {
                 "id": 1071,
@@ -111409,7 +111409,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_tukasa_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 13
             },
             {
@@ -111940,7 +111940,7 @@
         "startAt": 1653030000000,
         "endAt": 1653980399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 105808,
+        "archiveReleaseConditionId": 105808,
         "virtualLiveSetlists": [
             {
                 "id": 1079,
@@ -113071,7 +113071,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_toya_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 12
             },
             {
@@ -113602,7 +113602,7 @@
         "startAt": 1653980400000,
         "endAt": 1654844399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 105908,
+        "archiveReleaseConditionId": 105908,
         "virtualLiveSetlists": [
             {
                 "id": 1085,
@@ -114620,7 +114620,7 @@
         "startAt": 1654844400000,
         "endAt": 1655708399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 106008,
+        "archiveReleaseConditionId": 106008,
         "virtualLiveSetlists": [
             {
                 "id": 1091,
@@ -115586,7 +115586,7 @@
         "startAt": 1655708400000,
         "endAt": 1656572399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 106108,
+        "archiveReleaseConditionId": 106108,
         "virtualLiveSetlists": [
             {
                 "id": 1094,
@@ -116713,7 +116713,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_rui_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 16
             },
             {
@@ -117244,7 +117244,7 @@
         "startAt": 1656572400000,
         "endAt": 1657522799000,
         "rankingAnnounceAt": 4102415999000,
-        "": 106208,
+        "archiveReleaseConditionId": 106208,
         "virtualLiveSetlists": [
             {
                 "id": 1100,
@@ -118521,7 +118521,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_tanabata",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -119051,7 +119051,7 @@
         "startAt": 1657522800000,
         "endAt": 1658386799000,
         "rankingAnnounceAt": 4102415999000,
-        "": 106308,
+        "archiveReleaseConditionId": 106308,
         "virtualLiveSetlists": [
             {
                 "id": 1109,
@@ -120175,7 +120175,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_nene_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 15
             },
             {
@@ -120706,7 +120706,7 @@
         "startAt": 1658386800000,
         "endAt": 1659250799000,
         "rankingAnnounceAt": 4102415999000,
-        "": 106408,
+        "archiveReleaseConditionId": 106408,
         "virtualLiveSetlists": [
             {
                 "id": 1115,
@@ -121833,7 +121833,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_an_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 10
             },
             {
@@ -122364,7 +122364,7 @@
         "startAt": 1659250800000,
         "endAt": 1660114799000,
         "rankingAnnounceAt": 4102415999000,
-        "": 106508,
+        "archiveReleaseConditionId": 106508,
         "virtualLiveSetlists": [
             {
                 "id": 1121,
@@ -123501,7 +123501,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_ichika_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 1
             },
             {
@@ -124032,7 +124032,7 @@
         "startAt": 1660114800000,
         "endAt": 1660978799000,
         "rankingAnnounceAt": 4102415999000,
-        "": 106608,
+        "archiveReleaseConditionId": 106608,
         "virtualLiveSetlists": [
             {
                 "id": 1128,
@@ -125000,7 +125000,7 @@
         "startAt": 1660978800000,
         "endAt": 1661929199000,
         "rankingAnnounceAt": 4102415999000,
-        "": 106708,
+        "archiveReleaseConditionId": 106708,
         "virtualLiveSetlists": [
             {
                 "id": 1131,
@@ -126124,7 +126124,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_mizuki_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 20
             },
             {
@@ -126859,7 +126859,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_miku_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 21
             },
             {
@@ -127390,7 +127390,7 @@
         "startAt": 1661929200000,
         "endAt": 1662706799000,
         "rankingAnnounceAt": 4102415999000,
-        "": 106808,
+        "archiveReleaseConditionId": 106808,
         "virtualLiveSetlists": [
             {
                 "id": 1143,
@@ -128517,7 +128517,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_emu_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 14
             },
             {
@@ -129048,7 +129048,7 @@
         "startAt": 1662706800000,
         "endAt": 1663657199000,
         "rankingAnnounceAt": 4102415999000,
-        "": 106908,
+        "archiveReleaseConditionId": 106908,
         "virtualLiveSetlists": [
             {
                 "id": 1149,
@@ -130053,7 +130053,7 @@
         "startAt": 1663657200000,
         "endAt": 1664521199000,
         "rankingAnnounceAt": 4102415999000,
-        "": 107008,
+        "archiveReleaseConditionId": 107008,
         "virtualLiveSetlists": [
             {
                 "id": 1154,
@@ -131021,7 +131021,7 @@
         "startAt": 1664521200000,
         "endAt": 1665557999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 107110,
+        "archiveReleaseConditionId": 107110,
         "virtualLiveSetlists": [
             {
                 "id": 1157,
@@ -132207,7 +132207,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_haruka_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 6
             },
             {
@@ -132744,7 +132744,7 @@
         "startAt": 1665558000000,
         "endAt": 1666335599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 107208,
+        "archiveReleaseConditionId": 107208,
         "virtualLiveSetlists": [
             {
                 "id": 1167,
@@ -133712,7 +133712,7 @@
         "startAt": 1666335600000,
         "endAt": 1667199599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 107308,
+        "archiveReleaseConditionId": 107308,
         "virtualLiveSetlists": [
             {
                 "id": 1170,
@@ -134837,7 +134837,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_honami_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 3
             },
             {
@@ -135643,7 +135643,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_halloween_2020",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -136173,7 +136173,7 @@
         "startAt": 1667199600000,
         "endAt": 1668149999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 107408,
+        "archiveReleaseConditionId": 107408,
         "virtualLiveSetlists": [
             {
                 "id": 1181,
@@ -137419,7 +137419,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_meiko_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 25
             },
             {
@@ -138112,7 +138112,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_akito_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 11
             },
             {
@@ -138643,7 +138643,7 @@
         "startAt": 1668150000000,
         "endAt": 1668927599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 107508,
+        "archiveReleaseConditionId": 107508,
         "virtualLiveSetlists": [
             {
                 "id": 1201,
@@ -139608,7 +139608,7 @@
         "startAt": 1668927600000,
         "endAt": 1669791599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 107608,
+        "archiveReleaseConditionId": 107608,
         "virtualLiveSetlists": [
             {
                 "id": 1204,
@@ -140574,7 +140574,7 @@
         "startAt": 1669791600000,
         "endAt": 1670741999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 107708,
+        "archiveReleaseConditionId": 107708,
         "virtualLiveSetlists": [
             {
                 "id": 1207,
@@ -141699,7 +141699,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_shizuku_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 8
             },
             {
@@ -142246,7 +142246,7 @@
         "startAt": 1670742000000,
         "endAt": 1671605999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 107808,
+        "archiveReleaseConditionId": 107808,
         "virtualLiveSetlists": [
             {
                 "id": 1213,
@@ -143214,7 +143214,7 @@
         "startAt": 1671606000000,
         "endAt": 1672469999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 107908,
+        "archiveReleaseConditionId": 107908,
         "virtualLiveSetlists": [
             {
                 "id": 1219,
@@ -144516,7 +144516,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_xmas",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -145252,7 +145252,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_rin_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 22
             },
             {
@@ -145996,7 +145996,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_len_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 23
             },
             {
@@ -146760,7 +146760,7 @@
                 "costJewel": 10,
                 "effectAssetbundleName": "event_new_year_01",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 61,
@@ -146773,7 +146773,7 @@
                 "costJewel": 10,
                 "effectAssetbundleName": "event_new_year_02",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 62,
@@ -146786,7 +146786,7 @@
                 "costJewel": 10,
                 "effectAssetbundleName": "event_new_year_03",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 63,
@@ -146799,7 +146799,7 @@
                 "costJewel": 10,
                 "effectAssetbundleName": "event_new_year_04",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 64,
@@ -146812,7 +146812,7 @@
                 "costJewel": 10,
                 "effectAssetbundleName": "event_new_year_05",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -147337,7 +147337,7 @@
                 "costJewel": 100,
                 "effectAssetbundleName": "event_yuandan_01",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1002,
@@ -147350,7 +147350,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_yuandan_02",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1009,
@@ -147363,7 +147363,7 @@
                 "costJewel": 100,
                 "effectAssetbundleName": "event_new_year_2024_01",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1010,
@@ -147376,7 +147376,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_new_year_2024_02",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             }
         ],
         "virtualLiveAppeals": [],
@@ -147394,7 +147394,7 @@
         "startAt": 1672470000000,
         "endAt": 1673333999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 108008,
+        "archiveReleaseConditionId": 108008,
         "virtualLiveSetlists": [
             {
                 "id": 1252,
@@ -152053,7 +152053,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_shiho_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 4
             },
             {
@@ -152584,7 +152584,7 @@
         "startAt": 1673334000000,
         "endAt": 1674284399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 108108,
+        "archiveReleaseConditionId": 108108,
         "virtualLiveSetlists": [
             {
                 "id": 1284,
@@ -153552,7 +153552,7 @@
         "startAt": 1674284400000,
         "endAt": 1675148399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 108208,
+        "archiveReleaseConditionId": 108208,
         "virtualLiveSetlists": [
             {
                 "id": 1287,
@@ -154677,7 +154677,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_mafuyu_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 18
             },
             {
@@ -155413,7 +155413,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_luka_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 24
             },
             {
@@ -155944,7 +155944,7 @@
         "startAt": 1675148400000,
         "endAt": 1676012399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 108308,
+        "archiveReleaseConditionId": 108308,
         "virtualLiveSetlists": [
             {
                 "id": 1302,
@@ -157107,7 +157107,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_kanade_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 17
             },
             {
@@ -157638,7 +157638,7 @@
         "startAt": 1676012400000,
         "endAt": 1676789999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 108408,
+        "archiveReleaseConditionId": 108408,
         "virtualLiveSetlists": [
             {
                 "id": 1310,
@@ -158886,7 +158886,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_valentine_2021",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -159619,7 +159619,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_kaito_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 26
             },
             {
@@ -160150,7 +160150,7 @@
         "startAt": 1676790000000,
         "endAt": 1677567599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 108508,
+        "archiveReleaseConditionId": 108508,
         "virtualLiveSetlists": [
             {
                 "id": 1325,
@@ -161113,7 +161113,7 @@
         "startAt": 1677567600000,
         "endAt": 1678517999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 108608,
+        "archiveReleaseConditionId": 108608,
         "virtualLiveSetlists": [
             {
                 "id": 1328,
@@ -162271,7 +162271,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_kohane_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 9
             },
             {
@@ -162802,7 +162802,7 @@
         "startAt": 1678518000000,
         "endAt": 1679381999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 108708,
+        "archiveReleaseConditionId": 108708,
         "virtualLiveSetlists": [
             {
                 "id": 1336,
@@ -164063,7 +164063,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_whiteday_2021",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -164750,7 +164750,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_airi_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 7
             },
             {
@@ -165287,7 +165287,7 @@
         "startAt": 1679382000000,
         "endAt": 1680159599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 108808,
+        "archiveReleaseConditionId": 108808,
         "virtualLiveSetlists": [
             {
                 "id": 1358,
@@ -166252,7 +166252,7 @@
         "startAt": 1680159600000,
         "endAt": 1681196399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 108908,
+        "archiveReleaseConditionId": 108908,
         "virtualLiveSetlists": [
             {
                 "id": 1361,
@@ -167255,7 +167255,7 @@
         "startAt": 1681196400000,
         "endAt": 1682060399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 109008,
+        "archiveReleaseConditionId": 109008,
         "virtualLiveSetlists": [
             {
                 "id": 1366,
@@ -168382,7 +168382,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_minori_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 5
             },
             {
@@ -168919,7 +168919,7 @@
         "startAt": 1682060400000,
         "endAt": 1682837999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 109108,
+        "archiveReleaseConditionId": 109108,
         "virtualLiveSetlists": [
             {
                 "id": 1372,
@@ -170043,7 +170043,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_ena_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 19
             },
             {
@@ -170574,7 +170574,7 @@
         "startAt": 1682838000000,
         "endAt": 1683788399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 109208,
+        "archiveReleaseConditionId": 109208,
         "virtualLiveSetlists": [
             {
                 "id": 1378,
@@ -171711,7 +171711,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_saki_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 2
             },
             {
@@ -172242,7 +172242,7 @@
         "startAt": 1683788400000,
         "endAt": 1684565999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 109308,
+        "archiveReleaseConditionId": 109308,
         "virtualLiveSetlists": [
             {
                 "id": 1384,
@@ -173407,7 +173407,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_tukasa_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 13
             },
             {
@@ -173938,7 +173938,7 @@
         "startAt": 1684566000000,
         "endAt": 1685516399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 109408,
+        "archiveReleaseConditionId": 109408,
         "virtualLiveSetlists": [
             {
                 "id": 1392,
@@ -175055,7 +175055,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_toya_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 12
             },
             {
@@ -175586,7 +175586,7 @@
         "startAt": 1685516400000,
         "endAt": 1686380399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 109508,
+        "archiveReleaseConditionId": 109508,
         "virtualLiveSetlists": [
             {
                 "id": 1398,
@@ -176602,7 +176602,7 @@
         "startAt": 1686380400000,
         "endAt": 1687244399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 109608,
+        "archiveReleaseConditionId": 109608,
         "virtualLiveSetlists": [
             {
                 "id": 1404,
@@ -177567,7 +177567,7 @@
         "startAt": 1687244400000,
         "endAt": 1688108399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 109708,
+        "archiveReleaseConditionId": 109708,
         "virtualLiveSetlists": [
             {
                 "id": 1407,
@@ -178694,7 +178694,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_rui_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 16
             },
             {
@@ -179225,7 +179225,7 @@
         "startAt": 1688108400000,
         "endAt": 1689058799000,
         "rankingAnnounceAt": 4102415999000,
-        "": 109808,
+        "archiveReleaseConditionId": 109808,
         "virtualLiveSetlists": [
             {
                 "id": 1437,
@@ -180515,7 +180515,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_tanabata",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -181045,7 +181045,7 @@
         "startAt": 1689058800000,
         "endAt": 1689922799000,
         "rankingAnnounceAt": 4102415999000,
-        "": 109908,
+        "archiveReleaseConditionId": 109908,
         "virtualLiveSetlists": [
             {
                 "id": 1448,
@@ -182172,7 +182172,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_nene_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 15
             },
             {
@@ -182703,7 +182703,7 @@
         "startAt": 1689922800000,
         "endAt": 1690786799000,
         "rankingAnnounceAt": 4102415999000,
-        "": 110008,
+        "archiveReleaseConditionId": 110008,
         "virtualLiveSetlists": [
             {
                 "id": 1454,
@@ -183832,7 +183832,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_an_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 10
             },
             {
@@ -184363,7 +184363,7 @@
         "startAt": 1690786800000,
         "endAt": 1691650799000,
         "rankingAnnounceAt": 4102415999000,
-        "": 110108,
+        "archiveReleaseConditionId": 110108,
         "virtualLiveSetlists": [
             {
                 "id": 1460,
@@ -185509,7 +185509,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_ichika_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 1
             },
             {
@@ -186040,7 +186040,7 @@
         "startAt": 1691650800000,
         "endAt": 1692601199000,
         "rankingAnnounceAt": 4102415999000,
-        "": 110208,
+        "archiveReleaseConditionId": 110208,
         "virtualLiveSetlists": [
             {
                 "id": 1470,
@@ -187003,7 +187003,7 @@
         "startAt": 1692601200000,
         "endAt": 1693465199000,
         "rankingAnnounceAt": 4102415999000,
-        "": 110308,
+        "archiveReleaseConditionId": 110308,
         "virtualLiveSetlists": [
             {
                 "id": 1473,
@@ -188142,7 +188142,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_mizuki_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 20
             },
             {
@@ -188879,7 +188879,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_miku_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 21
             },
             {
@@ -189416,7 +189416,7 @@
         "startAt": 1693465200000,
         "endAt": 1694415599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 110408,
+        "archiveReleaseConditionId": 110408,
         "virtualLiveSetlists": [
             {
                 "id": 1491,
@@ -190644,7 +190644,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_emu_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 14
             },
             {
@@ -191175,7 +191175,7 @@
         "startAt": 1694415600000,
         "endAt": 1695193199000,
         "rankingAnnounceAt": 4102415999000,
-        "": 110508,
+        "archiveReleaseConditionId": 110508,
         "virtualLiveSetlists": [
             {
                 "id": 1505,
@@ -192176,7 +192176,7 @@
         "startAt": 1696575600000,
         "endAt": 1696748399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 110608,
+        "archiveReleaseConditionId": 110608,
         "virtualLiveSetlists": [
             {
                 "id": 1510,
@@ -193197,7 +193197,7 @@
         "startAt": 1743145200000,
         "endAt": 1743749999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 110708,
+        "archiveReleaseConditionId": 110708,
         "virtualLiveSetlists": [
             {
                 "id": 1515,
@@ -194362,7 +194362,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_haruka_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 6
             },
             {
@@ -194899,7 +194899,7 @@
         "startAt": 1728716400000,
         "endAt": 1729580399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 110808,
+        "archiveReleaseConditionId": 110808,
         "virtualLiveSetlists": [
             {
                 "id": 1523,
@@ -195867,7 +195867,7 @@
         "startAt": 1729580400000,
         "endAt": 1730357999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 110908,
+        "archiveReleaseConditionId": 110908,
         "virtualLiveSetlists": [
             {
                 "id": 1526,
@@ -196989,7 +196989,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_honami_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 3
             },
             {
@@ -197794,7 +197794,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_halloween_2020",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -198324,7 +198324,7 @@
         "startAt": 1730358000000,
         "endAt": 1731067199000,
         "rankingAnnounceAt": 4102415999000,
-        "": 111008,
+        "archiveReleaseConditionId": 111008,
         "virtualLiveSetlists": [
             {
                 "id": 1537,
@@ -199493,7 +199493,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_meiko_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 25
             },
             {
@@ -200035,7 +200035,7 @@
         "startAt": 1757678400000,
         "endAt": 1758524399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 111105,
+        "archiveReleaseConditionId": 111105,
         "virtualLiveSetlists": [
             {
                 "id": 1546,
@@ -201160,7 +201160,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_akito_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 11
             },
             {
@@ -201691,7 +201691,7 @@
         "startAt": 1732258800000,
         "endAt": 1732949999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 111208,
+        "archiveReleaseConditionId": 111208,
         "virtualLiveSetlists": [
             {
                 "id": 1552,
@@ -202656,7 +202656,7 @@
         "startAt": 1732950000000,
         "endAt": 1733813999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 111308,
+        "archiveReleaseConditionId": 111308,
         "virtualLiveSetlists": [
             {
                 "id": 1555,
@@ -203812,7 +203812,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_shizuku_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 8
             },
             {
@@ -204354,7 +204354,7 @@
         "startAt": 1733814000000,
         "endAt": 1734677999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 111408,
+        "archiveReleaseConditionId": 111408,
         "virtualLiveSetlists": [
             {
                 "id": 1562,
@@ -205354,7 +205354,7 @@
         "startAt": 1734678000000,
         "endAt": 1735628399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 111508,
+        "archiveReleaseConditionId": 111508,
         "virtualLiveSetlists": [
             {
                 "id": 1566,
@@ -206605,7 +206605,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_xmas",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -207338,7 +207338,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_rin_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 22
             },
             {
@@ -208078,7 +208078,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_len_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 23
             },
             {
@@ -208919,7 +208919,7 @@
                 "costJewel": 10,
                 "effectAssetbundleName": "event_new_year_01",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 61,
@@ -208932,7 +208932,7 @@
                 "costJewel": 10,
                 "effectAssetbundleName": "event_new_year_02",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 62,
@@ -208945,7 +208945,7 @@
                 "costJewel": 10,
                 "effectAssetbundleName": "event_new_year_03",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 63,
@@ -208958,7 +208958,7 @@
                 "costJewel": 10,
                 "effectAssetbundleName": "event_new_year_04",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 64,
@@ -208971,7 +208971,7 @@
                 "costJewel": 10,
                 "effectAssetbundleName": "event_new_year_05",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 118,
@@ -208984,7 +208984,7 @@
                 "costJewel": 100,
                 "effectAssetbundleName": "event_new_year_2024_01",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 119,
@@ -208997,7 +208997,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_new_year_2024_02",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -209527,7 +209527,7 @@
         "startAt": 1735628400000,
         "endAt": 1736423999000,
         "rankingAnnounceAt": 4102415999000,
-        "": 111608,
+        "archiveReleaseConditionId": 111608,
         "virtualLiveSetlists": [
             {
                 "id": 1596,
@@ -211020,7 +211020,7 @@
                 "costJewel": 100,
                 "effectAssetbundleName": "event_new_year_2024_01",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 119,
@@ -211033,7 +211033,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_new_year_2024_02",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -211722,7 +211722,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_shiho_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 4
             },
             {
@@ -212253,7 +212253,7 @@
         "startAt": 1749729600000,
         "endAt": 1750575599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 111705,
+        "archiveReleaseConditionId": 111705,
         "virtualLiveSetlists": [
             {
                 "id": 1616,
@@ -213218,7 +213218,7 @@
         "startAt": 1737615600000,
         "endAt": 1738324799000,
         "rankingAnnounceAt": 4102415999000,
-        "": 111808,
+        "archiveReleaseConditionId": 111808,
         "virtualLiveSetlists": [
             {
                 "id": 1619,
@@ -214340,7 +214340,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_mafuyu_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 18
             },
             {
@@ -215077,7 +215077,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_luka_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 24
             },
             {
@@ -215608,7 +215608,7 @@
         "startAt": 1738324800000,
         "endAt": 1739170799000,
         "rankingAnnounceAt": 4102415999000,
-        "": 111908,
+        "archiveReleaseConditionId": 111908,
         "virtualLiveSetlists": [
             {
                 "id": 1631,
@@ -216766,7 +216766,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_kanade_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 17
             },
             {
@@ -217297,7 +217297,7 @@
         "startAt": 1739170800000,
         "endAt": 1740034799000,
         "rankingAnnounceAt": 4102415999000,
-        "": 112008,
+        "archiveReleaseConditionId": 112008,
         "virtualLiveSetlists": [
             {
                 "id": 1641,
@@ -218555,7 +218555,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_valentine_2021",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -219288,7 +219288,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_kaito_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 26
             },
             {
@@ -219825,7 +219825,7 @@
         "startAt": 1740034800000,
         "endAt": 1740812399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 112108,
+        "archiveReleaseConditionId": 112108,
         "virtualLiveSetlists": [
             {
                 "id": 1657,
@@ -220790,7 +220790,7 @@
         "startAt": 1740812400000,
         "endAt": 1741435199000,
         "rankingAnnounceAt": 4102415999000,
-        "": 112208,
+        "archiveReleaseConditionId": 112208,
         "virtualLiveSetlists": [
             {
                 "id": 1660,
@@ -221932,7 +221932,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_kohane_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 9
             },
             {
@@ -222463,7 +222463,7 @@
         "startAt": 1744977600000,
         "endAt": 1745823599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 112305,
+        "archiveReleaseConditionId": 112305,
         "virtualLiveSetlists": [
             {
                 "id": 1667,
@@ -223694,7 +223694,7 @@
                 "costJewel": 150,
                 "effectAssetbundleName": "event_whiteday_2021",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special"
+                "virtualItemLabelType": "special"
             },
             {
                 "id": 1,
@@ -224379,7 +224379,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_airi_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 7
             },
             {
@@ -224916,7 +224916,7 @@
         "startAt": 1743750000000,
         "endAt": 1744354799000,
         "rankingAnnounceAt": 4102415999000,
-        "": 112408,
+        "archiveReleaseConditionId": 112408,
         "virtualLiveSetlists": [
             {
                 "id": 1679,
@@ -225884,7 +225884,7 @@
         "startAt": 1744354800000,
         "endAt": 1744977599000,
         "rankingAnnounceAt": 4102415999000,
-        "": 112508,
+        "archiveReleaseConditionId": 112508,
         "virtualLiveSetlists": [
             {
                 "id": 1682,
@@ -226887,7 +226887,7 @@
         "startAt": 1745823600000,
         "endAt": 1746428399000,
         "rankingAnnounceAt": 4102415999000,
-        "": 112608,
+        "archiveReleaseConditionId": 112608,
         "virtualLiveSetlists": [
             {
                 "id": 1687,
@@ -228010,7 +228010,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_minori_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 5
             },
             {
@@ -228552,7 +228552,7 @@
         "startAt": 1746428400000,
         "endAt": 1747033199000,
         "rankingAnnounceAt": 4102415999000,
-        "": 112708,
+        "archiveReleaseConditionId": 112708,
         "virtualLiveSetlists": [
             {
                 "id": 1693,
@@ -229670,7 +229670,7 @@
                 "costJewel": 300,
                 "effectAssetbundleName": "chara_ena_birthday",
                 "effectExpressionType": "throw_effect",
-                "unknown": "special",
+                "virtualItemLabelType": "special",
                 "gameCharacterUnitId": 19
             },
             {
