@@ -1,37 +1,37 @@
 [
-    {
-        "id": 1,
-        "ingameNoteJadgeType": "perfect",
-        "scoreCoefficient": 1.0
-    },
-    {
-        "id": 2,
-        "ingameNoteJadgeType": "great",
-        "scoreCoefficient": 0.699999988079071
-    },
-    {
-        "id": 3,
-        "ingameNoteJadgeType": "good",
-        "scoreCoefficient": 0.5
-    },
-    {
-        "id": 4,
-        "ingameNoteJadgeType": "bad",
-        "scoreCoefficient": 0.0
-    },
-    {
-        "id": 5,
-        "ingameNoteJadgeType": "miss",
-        "scoreCoefficient": 0.0
-    },
-    {
-        "id": 6,
-        "ingameNoteJadgeType": "dead",
-        "scoreCoefficient": 0.699999988079071
-    },
-    {
-        "id": 7,
-        "ingameNoteJadgeType": "auto",
-        "scoreCoefficient": 0.699999988079071
-    }
+  {
+    "id": 1,
+    "ingameNoteJadgeType": "perfect",
+    "scoreCoefficient": 1.0
+  },
+  {
+    "id": 2,
+    "ingameNoteJadgeType": "great",
+    "scoreCoefficient": 0.699999988079071
+  },
+  {
+    "id": 3,
+    "ingameNoteJadgeType": "good",
+    "scoreCoefficient": 0.5
+  },
+  {
+    "id": 4,
+    "ingameNoteJadgeType": "bad",
+    "scoreCoefficient": 0.0
+  },
+  {
+    "id": 5,
+    "ingameNoteJadgeType": "miss",
+    "scoreCoefficient": 0.0
+  },
+  {
+    "id": 6,
+    "ingameNoteJadgeType": "dead",
+    "scoreCoefficient": 0.699999988079071
+  },
+  {
+    "id": 7,
+    "ingameNoteJadgeType": "auto",
+    "scoreCoefficient": 0.699999988079071
+  }
 ]
