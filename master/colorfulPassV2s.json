@@ -1,41 +1,41 @@
 [
-    {
-        "id": 1,
-        "colorfulPassTier": "tier_1",
-        "presentSentence": "此为「缤纷通行证～BASIC～」的购买奖励。",
-        "expireDays": 30,
-        "challengeLivePointRate": 2,
-        "livePointRate": 2,
-        "dailyFreeGachaSpinLimit": 0,
-        "dailyPaidGachaSpinLimit": 2,
-        "virtualItemRelationGroupId": 1,
-        "virtualLiveCheerMessageRelationGroupId": 1
-    },
-    {
-        "id": 2,
-        "colorfulPassTier": "tier_2",
-        "presentSentence": "此为「缤纷通行证～DELUXE～」的购买奖励。",
-        "expireDays": 30,
-        "challengeLivePointRate": 2,
-        "livePointRate": 2,
-        "dailyFreeGachaSpinLimit": 0,
-        "dailyPaidGachaSpinLimit": 2,
-        "maxLiveBonusCount": 30,
-        "virtualItemRelationGroupId": 2,
-        "virtualLiveCheerMessageRelationGroupId": 1
-    },
-    {
-        "id": 3,
-        "colorfulPassTier": "tier_3",
-        "presentSentence": "此为「缤纷通行证～PRECIOUS～」的购买奖励。",
-        "expireDays": 30,
-        "challengeLivePointRate": 2,
-        "livePointRate": 2,
-        "dailyFreeGachaSpinLimit": 1,
-        "dailyPaidGachaSpinLimit": 2,
-        "maxLiveBonusCount": 30,
-        "maxAutoPlayCount": 99,
-        "virtualItemRelationGroupId": 3,
-        "virtualLiveCheerMessageRelationGroupId": 1
-    }
+  {
+    "id": 1,
+    "colorfulPassTier": "tier_1",
+    "presentSentence": "此为「缤纷通行证～BASIC～」的购买奖励。",
+    "expireDays": 30,
+    "challengeLivePointRate": 2,
+    "livePointRate": 2,
+    "dailyFreeGachaSpinLimit": 0,
+    "dailyPaidGachaSpinLimit": 2,
+    "virtualItemRelationGroupId": 1,
+    "virtualLiveCheerMessageRelationGroupId": 1
+  },
+  {
+    "id": 2,
+    "colorfulPassTier": "tier_2",
+    "presentSentence": "此为「缤纷通行证～DELUXE～」的购买奖励。",
+    "expireDays": 30,
+    "challengeLivePointRate": 2,
+    "livePointRate": 2,
+    "dailyFreeGachaSpinLimit": 0,
+    "dailyPaidGachaSpinLimit": 2,
+    "maxLiveBonusCount": 30,
+    "virtualItemRelationGroupId": 2,
+    "virtualLiveCheerMessageRelationGroupId": 1
+  },
+  {
+    "id": 3,
+    "colorfulPassTier": "tier_3",
+    "presentSentence": "此为「缤纷通行证～PRECIOUS～」的购买奖励。",
+    "expireDays": 30,
+    "challengeLivePointRate": 2,
+    "livePointRate": 2,
+    "dailyFreeGachaSpinLimit": 1,
+    "dailyPaidGachaSpinLimit": 2,
+    "maxLiveBonusCount": 30,
+    "maxAutoPlayCount": 99,
+    "virtualItemRelationGroupId": 3,
+    "virtualLiveCheerMessageRelationGroupId": 1
+  }
 ]

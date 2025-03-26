@@ -1,42 +1,42 @@
 [
-    {
-        "id": 1,
-        "seq": 1,
-        "name": "自由房间",
-        "photonLobbyName": "publicFreeMultiLive",
-        "matchingLogic": "random",
-        "totalPower": 0,
-        "assetbundleName": "room1",
-        "multiLiveLobbyType": "normal"
-    },
-    {
-        "id": 2,
-        "seq": 2,
-        "name": "高手房间",
-        "photonLobbyName": "publicVeteranMultiLive_{SCALE_INDEX}",
-        "matchingLogic": "power",
-        "totalPower": 150000,
-        "assetbundleName": "room2",
-        "multiLiveLobbyType": "normal"
-    },
-    {
-        "id": 3,
-        "seq": 3,
-        "name": "自由匹配",
-        "photonLobbyName": "publicFreeCheerfulParty",
-        "matchingLogic": "random",
-        "totalPower": 0,
-        "assetbundleName": "room1",
-        "multiLiveLobbyType": "cheerful_carnival"
-    },
-    {
-        "id": 4,
-        "seq": 4,
-        "name": "高手匹配",
-        "photonLobbyName": "publicVeteranCheerfulParty_{SCALE_INDEX}",
-        "matchingLogic": "power",
-        "totalPower": 150000,
-        "assetbundleName": "room2",
-        "multiLiveLobbyType": "cheerful_carnival"
-    }
+  {
+    "id": 1,
+    "seq": 1,
+    "name": "自由房间",
+    "photonLobbyName": "publicFreeMultiLive",
+    "matchingLogic": "random",
+    "totalPower": 0,
+    "assetbundleName": "room1",
+    "multiLiveLobbyType": "normal"
+  },
+  {
+    "id": 2,
+    "seq": 2,
+    "name": "高手房间",
+    "photonLobbyName": "publicVeteranMultiLive_{SCALE_INDEX}",
+    "matchingLogic": "power",
+    "totalPower": 150000,
+    "assetbundleName": "room2",
+    "multiLiveLobbyType": "normal"
+  },
+  {
+    "id": 3,
+    "seq": 3,
+    "name": "自由匹配",
+    "photonLobbyName": "publicFreeCheerfulParty",
+    "matchingLogic": "random",
+    "totalPower": 0,
+    "assetbundleName": "room1",
+    "multiLiveLobbyType": "cheerful_carnival"
+  },
+  {
+    "id": 4,
+    "seq": 4,
+    "name": "高手匹配",
+    "photonLobbyName": "publicVeteranCheerfulParty_{SCALE_INDEX}",
+    "matchingLogic": "power",
+    "totalPower": 150000,
+    "assetbundleName": "room2",
+    "multiLiveLobbyType": "cheerful_carnival"
+  }
 ]

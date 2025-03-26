@@ -1,123 +1,123 @@
 [
-    {
-        "customProfileResourceType": "player_info",
-        "id": 2,
-        "seq": 3,
-        "name": "综合力",
-        "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile\/ContentView\/General",
-        "fileName": "TotalPower"
-    },
-    {
-        "customProfileResourceType": "player_info",
-        "id": 3,
-        "seq": 9,
-        "name": "主要组合",
-        "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile\/ContentView\/General",
-        "fileName": "Deck"
-    },
-    {
-        "customProfileResourceType": "player_info",
-        "id": 4,
-        "seq": 2,
-        "name": "个性签名",
-        "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile\/ContentView\/General",
-        "fileName": "Comment"
-    },
-    {
-        "customProfileResourceType": "player_info",
-        "id": 5,
-        "seq": 4,
-        "name": "队长成员",
-        "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile\/ContentView\/General",
-        "fileName": "LeaderCard"
-    },
-    {
-        "customProfileResourceType": "player_info",
-        "id": 6,
-        "seq": 8,
-        "name": "称号",
-        "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile\/ContentView\/General",
-        "fileName": "HonorDeck"
-    },
-    {
-        "customProfileResourceType": "player_info",
-        "id": 9,
-        "seq": 5,
-        "name": "MVP\nSUPERSTAR",
-        "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile\/ContentView\/General",
-        "fileName": "MultiLive"
-    },
-    {
-        "customProfileResourceType": "player_info",
-        "id": 10,
-        "seq": 11,
-        "name": "挑战演出",
-        "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile\/ContentView\/General",
-        "fileName": "ChallengeLive"
-    },
-    {
-        "customProfileResourceType": "player_info",
-        "id": 11,
-        "seq": 6,
-        "name": "角色等级·挑战舞台",
-        "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile\/ContentView\/General",
-        "fileName": "CharacterRankAndChallengeStage",
-        "groupId": 1
-    },
-    {
-        "customProfileResourceType": "player_info",
-        "id": 12,
-        "seq": 10,
-        "name": "歌曲信息",
-        "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile\/ContentView\/General",
-        "fileName": "MusicClearInfo",
-        "groupId": 2
-    },
-    {
-        "customProfileResourceType": "player_info",
-        "id": 13,
-        "seq": 1,
-        "name": "玩家名称",
-        "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile\/ContentView\/General",
-        "fileName": "EditUserName"
-    },
-    {
-        "customProfileResourceType": "player_info",
-        "id": 14,
-        "seq": 12,
-        "name": "最喜欢的剧情",
-        "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile\/ContentView\/General",
-        "fileName": "StoryFavorite"
-    },
-    {
-        "customProfileResourceType": "player_info",
-        "id": 15,
-        "seq": 98,
-        "name": "角色等级·挑战舞台",
-        "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile\/ContentView\/General",
-        "fileName": "CharacterRankAndChallengeStageScroll",
-        "groupId": 1
-    },
-    {
-        "customProfileResourceType": "player_info",
-        "id": 16,
-        "seq": 99,
-        "name": "歌曲信息",
-        "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile\/ContentView\/General",
-        "fileName": "MusicClearSelectTabInfo",
-        "groupId": 2
-    }
+  {
+    "customProfileResourceType": "player_info",
+    "id": 2,
+    "seq": 3,
+    "name": "综合力",
+    "resourceLoadType": "prefab",
+    "resourceLoadVal": "CustomProfile/ContentView/General",
+    "fileName": "TotalPower"
+  },
+  {
+    "customProfileResourceType": "player_info",
+    "id": 3,
+    "seq": 9,
+    "name": "主要组合",
+    "resourceLoadType": "prefab",
+    "resourceLoadVal": "CustomProfile/ContentView/General",
+    "fileName": "Deck"
+  },
+  {
+    "customProfileResourceType": "player_info",
+    "id": 4,
+    "seq": 2,
+    "name": "个性签名",
+    "resourceLoadType": "prefab",
+    "resourceLoadVal": "CustomProfile/ContentView/General",
+    "fileName": "Comment"
+  },
+  {
+    "customProfileResourceType": "player_info",
+    "id": 5,
+    "seq": 4,
+    "name": "队长成员",
+    "resourceLoadType": "prefab",
+    "resourceLoadVal": "CustomProfile/ContentView/General",
+    "fileName": "LeaderCard"
+  },
+  {
+    "customProfileResourceType": "player_info",
+    "id": 6,
+    "seq": 8,
+    "name": "称号",
+    "resourceLoadType": "prefab",
+    "resourceLoadVal": "CustomProfile/ContentView/General",
+    "fileName": "HonorDeck"
+  },
+  {
+    "customProfileResourceType": "player_info",
+    "id": 9,
+    "seq": 5,
+    "name": "MVP\nSUPERSTAR",
+    "resourceLoadType": "prefab",
+    "resourceLoadVal": "CustomProfile/ContentView/General",
+    "fileName": "MultiLive"
+  },
+  {
+    "customProfileResourceType": "player_info",
+    "id": 10,
+    "seq": 11,
+    "name": "挑战演出",
+    "resourceLoadType": "prefab",
+    "resourceLoadVal": "CustomProfile/ContentView/General",
+    "fileName": "ChallengeLive"
+  },
+  {
+    "customProfileResourceType": "player_info",
+    "id": 11,
+    "seq": 6,
+    "name": "角色等级·挑战舞台",
+    "resourceLoadType": "prefab",
+    "resourceLoadVal": "CustomProfile/ContentView/General",
+    "fileName": "CharacterRankAndChallengeStage",
+    "groupId": 1
+  },
+  {
+    "customProfileResourceType": "player_info",
+    "id": 12,
+    "seq": 10,
+    "name": "歌曲信息",
+    "resourceLoadType": "prefab",
+    "resourceLoadVal": "CustomProfile/ContentView/General",
+    "fileName": "MusicClearInfo",
+    "groupId": 2
+  },
+  {
+    "customProfileResourceType": "player_info",
+    "id": 13,
+    "seq": 1,
+    "name": "玩家名称",
+    "resourceLoadType": "prefab",
+    "resourceLoadVal": "CustomProfile/ContentView/General",
+    "fileName": "EditUserName"
+  },
+  {
+    "customProfileResourceType": "player_info",
+    "id": 14,
+    "seq": 12,
+    "name": "最喜欢的剧情",
+    "resourceLoadType": "prefab",
+    "resourceLoadVal": "CustomProfile/ContentView/General",
+    "fileName": "StoryFavorite"
+  },
+  {
+    "customProfileResourceType": "player_info",
+    "id": 15,
+    "seq": 98,
+    "name": "角色等级·挑战舞台",
+    "resourceLoadType": "prefab",
+    "resourceLoadVal": "CustomProfile/ContentView/General",
+    "fileName": "CharacterRankAndChallengeStageScroll",
+    "groupId": 1
+  },
+  {
+    "customProfileResourceType": "player_info",
+    "id": 16,
+    "seq": 99,
+    "name": "歌曲信息",
+    "resourceLoadType": "prefab",
+    "resourceLoadVal": "CustomProfile/ContentView/General",
+    "fileName": "MusicClearSelectTabInfo",
+    "groupId": 2
+  }
 ]
