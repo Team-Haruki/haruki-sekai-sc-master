@@ -102,7 +102,7 @@
                         "sudokuMissionGroupLabelId": 3,
                         "title": "进行演出",
                         "sentence": "在单人或多人演出中完成歌曲《一样》",
-                        "description": "- 请选择适合自己的难度。当然，您也可使用自动演出完成该任务。",
+                        "description": "- 请选择适合自己的难度。当然，您也可使用自动演出完成该任务。\n（歌曲可在礼物箱中领取）",
                         "resourceBoxId": 400031
                     },
                     {
@@ -263,7 +263,8 @@
                         "requirement": 1,
                         "sudokuMissionGroupLabelId": 4,
                         "title": "虚拟歌手们的意义",
-                        "sentence": "观看虚拟歌手任意组合主线剧情的第1话",
+                        "sentence": "观看虚拟歌手任意「世界」篇剧情的第1话",
+                        "description": "- 可通过[剧情]→[主线\/活动剧情]→选择任意虚拟歌手「世界」篇剧情（教室\/舞台\/街头\/奇幻乐园\/无人「世界」）。",
                         "resourceBoxId": 400031
                     },
                     {
