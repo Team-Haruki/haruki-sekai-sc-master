@@ -17,7 +17,7 @@
     },
     {
         "wordingKey": "AntiAddiction_URL",
-        "value": "https://sf3-draftcdn-tos.pstatp.com/obj/ies-hotsoon-draft/GSDK/teenage_rules.html"
+        "value": "https:\/\/sf3-draftcdn-tos.pstatp.com\/obj\/ies-hotsoon-draft\/GSDK\/teenage_rules.html"
     },
     {
         "wordingKey": "AntiAddiction_URL_Click",
@@ -37,7 +37,7 @@
     },
     {
         "wordingKey": "CG_URL",
-        "value": "https://lf3-cdn-tos.draftstatic.com/obj/ies-hotsoon-draft/pjsk/bepoliteplz.html"
+        "value": "https:\/\/lf3-cdn-tos.draftstatic.com\/obj\/ies-hotsoon-draft\/pjsk\/bepoliteplz.html"
     },
     {
         "wordingKey": "CHANGE_MUSIC_NAME_ENABLED",
@@ -237,7 +237,7 @@
     },
     {
         "wordingKey": "LICENSE_URL",
-        "value": "https://lf16-mkovscdn-sg.bytedgame.com/obj/lf-game-alisg/gdl_app_5245/web/license.html"
+        "value": "https:\/\/lf16-mkovscdn-sg.bytedgame.com\/obj\/lf-game-alisg\/gdl_app_5245\/web\/license.html"
     },
     {
         "wordingKey": "LIMIT_MISSION_RECEIVE_INVALID_TERM_REWARD",
@@ -277,7 +277,7 @@
     },
     {
         "wordingKey": "LOGOUT_URL",
-        "value": "https://gsdk.dailygn.com/h5/personal_protection/logoff"
+        "value": "https:\/\/gsdk.dailygn.com\/h5\/personal_protection\/logoff"
     },
     {
         "wordingKey": "LV",
@@ -325,7 +325,7 @@
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_AD_REWARD_CONTENT",
-        "value": "1天观看1次“演出积分&心愿碎片礼物”广告\n可<color=#ff5599>获得30</color>演出积分。"
+        "value": "1天观看1次“演出积分&心愿碎片礼物”广告\n可<color=#ff5599>获得30<\/color>演出积分。"
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_AD_REWARD_CONTENT_TITLE",
@@ -333,7 +333,7 @@
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_BONUS_MISSION_CONTENT",
-        "value": "每完成1个活动期间设置的奖励任务\n即可<color=#ff5599>获得50</color>演出积分。\n另外，完成全部任务即可再<color=#ff5599>获得150</color>演出积分。"
+        "value": "每完成1个活动期间设置的奖励任务\n即可<color=#ff5599>获得50<\/color>演出积分。\n另外，完成全部任务即可再<color=#ff5599>获得150<\/color>演出积分。"
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_BONUS_MISSION_CONTENT_TITLE",
@@ -341,7 +341,7 @@
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_CHALLENGE_LIVE_CONTENT",
-        "value": "每完成1次即可<color=#ff5599>获得30</color>演出积分。"
+        "value": "每完成1次即可<color=#ff5599>获得30<\/color>演出积分。"
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_CHALLENGE_LIVE_CONTENT_TITLE",
@@ -349,15 +349,15 @@
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_CONTENT",
-        "value": "每完成1次即可<color=#ff5599>获得1</color>演出积分。\n*通过消耗演出能量即可增加获得量。"
+        "value": "每完成1次即可<color=#ff5599>获得1<\/color>演出积分。\n*通过消耗演出能量即可增加获得量。"
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_CONTENT_TITLE",
-        "value": "单人演出/多人演出/欢乐演出/排位赛"
+        "value": "单人演出\/多人演出\/欢乐演出\/排位赛"
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_DAILY_BONUS_CONTENT",
-        "value": "每完成1次“多人演出·欢乐演出”即可<color=#ff5599>获得10</color>演出积分，\n1天最多可获得3次。"
+        "value": "每完成1次“多人演出·欢乐演出”即可<color=#ff5599>获得10<\/color>演出积分，\n1天最多可获得3次。"
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_DAILY_BONUS_CONTENT_TITLE",
@@ -393,11 +393,11 @@
     },
     {
         "wordingKey": "MSG_AD_REWARD_BOOST_CONFIRM_DIALOG",
-        "value": "是否观看广告，\n恢复5演出能量？\n<size=24><color=#ff5599>观看一定时间后会出现“关闭标记”，点击后即可获得奖励。</color></size>"
+        "value": "是否观看广告，\n恢复5演出能量？\n<size=24><color=#ff5599>观看一定时间后会出现“关闭标记”，点击后即可获得奖励。<\/color><\/size>"
     },
     {
         "wordingKey": "MSG_AD_REWARD_CONFIRM_DIALOG",
-        "value": "是否开始观看广告？\n<size=24><color=#ff5599>观看一定时间后会出现“关闭标记”，点击后即可获得奖励。</color></size>"
+        "value": "是否开始观看广告？\n<size=24><color=#ff5599>观看一定时间后会出现“关闭标记”，点击后即可获得奖励。<\/color><\/size>"
     },
     {
         "wordingKey": "MSG_AD_REWARD_COTION",
@@ -493,7 +493,7 @@
     },
     {
         "wordingKey": "MSG_AND_NAVY",
-        "value": "<color=#444466>と</color>{0}"
+        "value": "<color=#444466>と<\/color>{0}"
     },
     {
         "wordingKey": "MSG_ANOTHER_3DMV_CUTIN_DETAIL_DIALOG_BODY",
@@ -501,11 +501,11 @@
     },
     {
         "wordingKey": "MSG_ANOTHER_3DMV_CUTIN_DETAIL_DIALOG_NOTES",
-        "value": "<color=#ff5588>*需要将成员的专家等级提升到2级。</color>"
+        "value": "<color=#ff5588>*需要将成员的专家等级提升到2级。<\/color>"
     },
     {
         "wordingKey": "MSG_ANOTHER_COLOR_ACQUISITION_CONDITIONS_NL",
-        "value": "提升“{0} {1}”的\n<color=#FF3366>专家等级</color>即可解锁\n其他颜色。"
+        "value": "提升“{0} {1}”的\n<color=#FF3366>专家等级<\/color>即可解锁\n其他颜色。"
     },
     {
         "wordingKey": "MSG_ANOTHER_VICAL_RELEASE_CONDITION",
@@ -573,7 +573,7 @@
     },
     {
         "wordingKey": "MSG_BILLING_REFUND_DIALOG_TEXT_2",
-        "value": "与退款等额的付费水晶已被收回。\n\n{0}个 -> {1}个\n<color=#FF5599>*对于不足购买时单价的部分，会从之前购买的付费水晶中收回。</color>"
+        "value": "与退款等额的付费水晶已被收回。\n\n{0}个 -> {1}个\n<color=#FF5599>*对于不足购买时单价的部分，会从之前购买的付费水晶中收回。<\/color>"
     },
     {
         "wordingKey": "MSG_BILLING_REFUND_DIALOG_TEXT_3",
@@ -617,7 +617,7 @@
     },
     {
         "wordingKey": "MSG_BONDS_CHARACTER_SELECT_DESCRIPTION",
-        "value": "请选择要确认与“<color=#77eedd>{0}</color>”之间牵绊等级的角色。"
+        "value": "请选择要确认与“<color=#77eedd>{0}<\/color>”之间牵绊等级的角色。"
     },
     {
         "wordingKey": "MSG_BONDS_RANK_MAX",
@@ -645,7 +645,7 @@
     },
     {
         "wordingKey": "MSG_BOOST_RECOVER_METHOD_JEWEL_CONFIRM",
-        "value": "是否消耗<color=#ff5599>{0}</color>水晶\n来恢复<color=#ff5599>{1}</color>演出能量？"
+        "value": "是否消耗<color=#ff5599>{0}<\/color>水晶\n来恢复<color=#ff5599>{1}<\/color>演出能量？"
     },
     {
         "wordingKey": "MSG_BORDER_RANKING",
@@ -685,7 +685,7 @@
     },
     {
         "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_INFO",
-        "value": "<color=#ff5599>*每周一4点重置印章。</color>"
+        "value": "<color=#ff5599>*每周一4点重置印章。<\/color>"
     },
     {
         "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_RESET",
@@ -757,7 +757,7 @@
     },
     {
         "wordingKey": "MSG_CHEERFUL_CARNIVAL_CHECK_JOIN_TEAM",
-        "value": "确定要选择<color=#ff5588>“{0}”</color>\n阵营吗？"
+        "value": "确定要选择<color=#ff5588>“{0}”<\/color>\n阵营吗？"
     },
     {
         "wordingKey": "MSG_CHEERFUL_CARNIVAL_TEAM_CHANGE_FIRST",
@@ -781,11 +781,11 @@
     },
     {
         "wordingKey": "MSG_COLLECTION_GACHA_SPIN_CONFIRM",
-        "value": "是否消耗<color=#FF5599>{1}个</color>{0}\n打开<color=#FF5599>{2}个</color>\n{3}？"
+        "value": "是否消耗<color=#FF5599>{1}个<\/color>{0}\n打开<color=#FF5599>{2}个<\/color>\n{3}？"
     },
     {
         "wordingKey": "MSG_COLLECTION_OPEN_COUNT",
-        "value": "<size=24>打开</size>{0}次"
+        "value": "<size=24>打开<\/size>{0}次"
     },
     {
         "wordingKey": "MSG_COLORFUL_PASS_ALERT",
@@ -977,11 +977,11 @@
     },
     {
         "wordingKey": "MSG_CONSECUTIVE_AUTO_COLORFULPASS_EXPIRED",
-        "value": "缤纷通行证～PRECIOUS～已过期，\n演出中断。\n\n<color=#FF77AA>*已显示中断前的演出成绩。</color>"
+        "value": "缤纷通行证～PRECIOUS～已过期，\n演出中断。\n\n<color=#FF77AA>*已显示中断前的演出成绩。<\/color>"
     },
     {
         "wordingKey": "MSG_CONSECUTIVE_AUTO_EVENT_MAINTENANCE",
-        "value": "正在对活动进行维护，\n中断自动演出。\n\n<color=#FF77AA>*已显示中断前的演出成绩。\n*无法获得维护后的活动积分和章节徽章。</color>"
+        "value": "正在对活动进行维护，\n中断自动演出。\n\n<color=#FF77AA>*已显示中断前的演出成绩。\n*无法获得维护后的活动积分和章节徽章。<\/color>"
     },
     {
         "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_COMPLETE",
@@ -989,11 +989,11 @@
     },
     {
         "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_ENDED_LIMITED_MUSIC",
-        "value": "歌曲的公开时间已结束，\n中断自动演出。\n\n<color=#FF77AA>*已显示中断前的演出成绩。</color>"
+        "value": "歌曲的公开时间已结束，\n中断自动演出。\n\n<color=#FF77AA>*已显示中断前的演出成绩。<\/color>"
     },
     {
         "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_NOT_ENOUGH",
-        "value": "演出能量不足，\n中断自动演出。\n\n<color=#FF77AA>*已显示中断前的演出成绩。</color>"
+        "value": "演出能量不足，\n中断自动演出。\n\n<color=#FF77AA>*已显示中断前的演出成绩。<\/color>"
     },
     {
         "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_PAUSE_AND_RESTART",
@@ -1029,7 +1029,7 @@
     },
     {
         "wordingKey": "MSG_CONSUME_SIZE_NUM_FORMAT",
-        "value": "消耗<size={0}>{1}</size>"
+        "value": "消耗<size={0}>{1}<\/size>"
     },
     {
         "wordingKey": "MSG_CONVERT_MESSAGE",
@@ -1133,7 +1133,7 @@
     },
     {
         "wordingKey": "MSG_DATA_LINK_RELEASE_CONFIRM_HINT",
-        "value": "<color=#ff5599>*解除后可再次同步。</color>"
+        "value": "<color=#ff5599>*解除后可再次同步。<\/color>"
     },
     {
         "wordingKey": "MSG_DATA_LINK_WARNING_OVERWRITE",
@@ -1141,7 +1141,7 @@
     },
     {
         "wordingKey": "MSG_DATE_LIMIT",
-        "value": "至{0:D4}/{1:D2}/{2:D2} {3:D2}:{4:D2}为止"
+        "value": "至{0:D4}\/{1:D2}\/{2:D2} {3:D2}:{4:D2}为止"
     },
     {
         "wordingKey": "MSG_DECIDE_CURRENT_MEMBER",
@@ -1185,7 +1185,7 @@
     },
     {
         "wordingKey": "MSG_DISCONNECT_LEFT_ROOM_CODE",
-        "value": "连接已中断，将返回主界面。<size=28>({0})</size>"
+        "value": "连接已中断，将返回主界面。<size=28>({0})<\/size>"
     },
     {
         "wordingKey": "MSG_DOWNLOAD_CONFIRM_1",
@@ -1245,11 +1245,11 @@
     },
     {
         "wordingKey": "MSG_ENTER_STREAMING_LIVE_CONFIRM_TO_USE",
-        "value": "是否消耗\n<color=#ff5588>{1}张</color>{0}入场？"
+        "value": "是否消耗\n<color=#ff5588>{1}张<\/color>{0}入场？"
     },
     {
         "wordingKey": "MSG_ENTER_STREAMING_LIVE_WITH_TICKET_ONLY_DIALOG",
-        "value": "是否消耗\n<color=#ff5588>{1}张</color>{0}入场？"
+        "value": "是否消耗\n<color=#ff5588>{1}张<\/color>{0}入场？"
     },
     {
         "wordingKey": "MSG_ENTRY_CONFIRMATION",
@@ -1301,7 +1301,7 @@
     },
     {
         "wordingKey": "MSG_EVENT_LIVE_BOOST_EXCEPTION",
-        "value": "活动期间的消耗数量<color=#ff5599>最多可设置为{0}</color>。"
+        "value": "活动期间的消耗数量<color=#ff5599>最多可设置为{0}<\/color>。"
     },
     {
         "wordingKey": "MSG_EVENT_MAINTENANCE_ON_GOING_DIALOG",
@@ -1333,7 +1333,7 @@
     },
     {
         "wordingKey": "MSG_EXCHANGE_JEWEL_TO_VIRTUAL_COIN",
-        "value": "是否用<color={0}>{1}个</color>水晶兑换\n<color={0}>{2}个</color>虚拟硬币？"
+        "value": "是否用<color={0}>{1}个<\/color>水晶兑换\n<color={0}>{2}个<\/color>虚拟硬币？"
     },
     {
         "wordingKey": "MSG_EXCHANGE_MATERIAL",
@@ -1365,7 +1365,7 @@
     },
     {
         "wordingKey": "MSG_EXP_FRONT_SIZE_FORMAT",
-        "value": "经验值<size={0}>{1}</size>"
+        "value": "经验值<size={0}>{1}<\/size>"
     },
     {
         "wordingKey": "MSG_EXP_PLUS",
@@ -1385,11 +1385,11 @@
     },
     {
         "wordingKey": "MSG_FAVORITE_COMMENT_INFORMATION",
-        "value": "<color=#f7a>{0}</color>与其他{1}人推荐"
+        "value": "<color=#f7a>{0}<\/color>与其他{1}人推荐"
     },
     {
         "wordingKey": "MSG_FAVORITE_COMMENT_INFORMATION_SINGLE",
-        "value": "<color=#f7a>{0}</color>推荐"
+        "value": "<color=#f7a>{0}<\/color>推荐"
     },
     {
         "wordingKey": "MSG_FEEDBACK",
@@ -1489,7 +1489,7 @@
     },
     {
         "wordingKey": "MSG_FRIEND_INVITE_REWARD_DIALOG",
-        "value": "<color=#ff5588>{0}</color>\n看完主线剧情{1}、{2}、\n{3}，完成了邀请任务，\n因此获得了奖励。"
+        "value": "<color=#ff5588>{0}<\/color>\n看完主线剧情{1}、{2}、\n{3}，完成了邀请任务，\n因此获得了奖励。"
     },
     {
         "wordingKey": "MSG_FRIEND_LIMIT_COUNT_FOR_OTHER",
@@ -1533,7 +1533,7 @@
     },
     {
         "wordingKey": "MSG_GACHA_BEGINNER_ZH_PAID_JEWEL_SPIN",
-        "value": "是否消耗<color=#FF5599>{1}个</color>{0}\n购买<color=#FF5599>1张</color>“{3}”，\n并免费进行<color=#FF5599>{4}次</color>“{5}”招募？"
+        "value": "是否消耗<color=#FF5599>{1}个<\/color>{0}\n购买<color=#FF5599>1张<\/color>“{3}”，\n并免费进行<color=#FF5599>{4}次<\/color>“{5}”招募？"
     },
     {
         "wordingKey": "MSG_GACHA_CEIL_TICKET_CONVERT_CONFIRM",
@@ -1541,19 +1541,19 @@
     },
     {
         "wordingKey": "MSG_GACHA_CEIL_TICKET_EXCHANGE_CONFIRM",
-        "value": "是否消耗<color=#FF5599>{1}</color>张{0}\n来兑换道具？"
+        "value": "是否消耗<color=#FF5599>{1}<\/color>张{0}\n来兑换道具？"
     },
     {
         "wordingKey": "MSG_GACHA_CEIL_ZH_JEWEL_SPIN",
-        "value": "是否消耗<color=#FF5599>{1}个</color>{0}\n购买<color=#FF5599>{2}张</color>“{3}”招募贴纸，\n并免费进行<color=#FF5599>{4}次</color>“{5}”招募？"
+        "value": "是否消耗<color=#FF5599>{1}个<\/color>{0}\n购买<color=#FF5599>{2}张<\/color>“{3}”招募贴纸，\n并免费进行<color=#FF5599>{4}次<\/color>“{5}”招募？"
     },
     {
         "wordingKey": "MSG_GACHA_CEIL_ZH_PAID_JEWEL_SPIN",
-        "value": "是否消耗<color=#FF5599>{1}个</color>{0}\n购买<color=#FF5599>{2}张</color>“{3}”招募贴纸，\n并免费进行<color=#FF5599>{4}次</color>“{5}”招募？"
+        "value": "是否消耗<color=#FF5599>{1}个<\/color>{0}\n购买<color=#FF5599>{2}张<\/color>“{3}”招募贴纸，\n并免费进行<color=#FF5599>{4}次<\/color>“{5}”招募？"
     },
     {
         "wordingKey": "MSG_GACHA_CEIL_ZH_TICKET_SPIN",
-        "value": "是否消耗<color=#FF5599>{1}个</color>{0}\n购买<color=#FF5599>{2}张</color>“{3}”招募贴纸，\n并免费进行<color=#FF5599>{4}次</color>“{5}”招募？"
+        "value": "是否消耗<color=#FF5599>{1}个<\/color>{0}\n购买<color=#FF5599>{2}张<\/color>“{3}”招募贴纸，\n并免费进行<color=#FF5599>{4}次<\/color>“{5}”招募？"
     },
     {
         "wordingKey": "MSG_GACHA_EXCHANGE_NUMBER_OF_PURCHASE",
@@ -1569,7 +1569,7 @@
     },
     {
         "wordingKey": "MSG_GACHA_NORMAL_ZH_TICKET_SPIN",
-        "value": "是否消耗<color=#FF5599>{1}个</color>{0}，\n并免费进行<color=#FF5599>{2}次</color>“{3}”招募？"
+        "value": "是否消耗<color=#FF5599>{1}个<\/color>{0}，\n并免费进行<color=#FF5599>{2}次<\/color>“{3}”招募？"
     },
     {
         "wordingKey": "MSG_GACHA_PAID_JEWEL_PRIORITY_USE",
@@ -1589,15 +1589,15 @@
     },
     {
         "wordingKey": "MSG_GACHA_SPIN",
-        "value": "是否消耗<color=#FF5599>{1}个</color>{0}\n<color=#FF5599>进行{2}次</color>“{3}”招募？"
+        "value": "是否消耗<color=#FF5599>{1}个<\/color>{0}\n<color=#FF5599>进行{2}次<\/color>“{3}”招募？"
     },
     {
         "wordingKey": "MSG_GACHA_SPIN_COUNT",
-        "value": "<size=24>招募</size>{0}次"
+        "value": "<size=24>招募<\/size>{0}次"
     },
     {
         "wordingKey": "MSG_GACHA_SPIN_COUNT_PAID",
-        "value": "<size=32>（付费）招募</size>{0}次"
+        "value": "<size=32>（付费）招募<\/size>{0}次"
     },
     {
         "wordingKey": "MSG_GACHA_SPIN_ERROR",
@@ -1609,7 +1609,7 @@
     },
     {
         "wordingKey": "MSG_GACHA_TICKET_SPIN",
-        "value": "是否消耗<color=#FF5599>{1}张</color>{0}\n<color=#FF5599>进行{2}次</color>“{3}”招募？"
+        "value": "是否消耗<color=#FF5599>{1}张<\/color>{0}\n<color=#FF5599>进行{2}次<\/color>“{3}”招募？"
     },
     {
         "wordingKey": "MSG_GACHA_TIME_OVER",
@@ -1621,11 +1621,11 @@
     },
     {
         "wordingKey": "MSG_GACHA_ZH_JEWEL_SPIN",
-        "value": "是否消耗<color=#FF5599>{1}个</color>{0}，\n并免费进行<color=#FF5599>{2}次</color>“{3}”招募？"
+        "value": "是否消耗<color=#FF5599>{1}个<\/color>{0}，\n并免费进行<color=#FF5599>{2}次<\/color>“{3}”招募？"
     },
     {
         "wordingKey": "MSG_GACHA_ZH_PAID_JEWEL_SPIN",
-        "value": "是否消耗<color=#FF5599>{1}个</color>{0}购买“{2}”，\n并免费进行<color=#FF5599>{3}次</color>“{4}”招募？"
+        "value": "是否消耗<color=#FF5599>{1}个<\/color>{0}购买“{2}”，\n并免费进行<color=#FF5599>{3}次<\/color>“{4}”招募？"
     },
     {
         "wordingKey": "MSG_GET_LIVE_MISSION_POINT",
@@ -1633,7 +1633,7 @@
     },
     {
         "wordingKey": "MSG_GIFT_NOT_SELECT_CONFIRM",
-        "value": "需要设置好道具，\n才能进行欢乐礼物包招募。\n要稍后设置道具吗？\n\n<color=#ff5599>*在进行招募前，\n可以自由变更道具。</color>"
+        "value": "需要设置好道具，\n才能进行欢乐礼物包招募。\n要稍后设置道具吗？\n\n<color=#ff5599>*在进行招募前，\n可以自由变更道具。<\/color>"
     },
     {
         "wordingKey": "MSG_GIFT_SELECT",
@@ -1641,7 +1641,7 @@
     },
     {
         "wordingKey": "MSG_GIFT_SELECT_CONFIRM",
-        "value": "是否确定设置这个道具？\n<color=#ff5599>*在进行招募前，可以自由变更道具。</color>"
+        "value": "是否确定设置这个道具？\n<color=#ff5599>*在进行招募前，可以自由变更道具。<\/color>"
     },
     {
         "wordingKey": "MSG_GIFT_SELECT_INDUCTION",
@@ -1649,7 +1649,7 @@
     },
     {
         "wordingKey": "MSG_GIVE_LIVE_BONUS",
-        "value": "收到<color=#ff5599>{0}</color>赠送的\n演出能量×{1}。"
+        "value": "收到<color=#ff5599>{0}<\/color>赠送的\n演出能量×{1}。"
     },
     {
         "wordingKey": "MSG_HAS_CUTIN",
@@ -1657,11 +1657,11 @@
     },
     {
         "wordingKey": "MSG_HIGH_SCORE_COMPLETE_REWARD",
-        "value": "达成最高得分<color=#FF5599>{0}</color>的奖励"
+        "value": "达成最高得分<color=#FF5599>{0}<\/color>的奖励"
     },
     {
         "wordingKey": "MSG_HIGH_SCORE_UPDATE_REWARD",
-        "value": "每次刷新最高得分<color=#FF5599>{0}</color>的奖励"
+        "value": "每次刷新最高得分<color=#FF5599>{0}<\/color>的奖励"
     },
     {
         "wordingKey": "MSG_ID_NOT_FOUND",
@@ -1689,7 +1689,7 @@
     },
     {
         "wordingKey": "MSG_INHERIT_LIMIT_START",
-        "value": "已到达活动排行榜前<color=#ff5588>300名</color>。\n\n为保证活动的公平公正，\n到达排行榜前<color=#ff5588>300名</color>的玩家，\n在本次活动期间的数据继承次数将受到限制。\n\n限制时间：至活动结束（{0}）\n限制次数：剩余{1}次\n\n感谢您的理解。"
+        "value": "已到达活动排行榜前<color=#ff5588>300名<\/color>。\n\n为保证活动的公平公正，\n到达排行榜前<color=#ff5588>300名<\/color>的玩家，\n在本次活动期间的数据继承次数将受到限制。\n\n限制时间：至活动结束（{0}）\n限制次数：剩余{1}次\n\n感谢您的理解。"
     },
     {
         "wordingKey": "MSG_INHERIT_LIMIT_WARNING",
@@ -1829,11 +1829,11 @@
     },
     {
         "wordingKey": "MSG_LIVE_CONTINUE",
-        "value": "是否消耗<color=#FF5599>{0}</color>个水晶恢复全部生命值，\n并继续演出？"
+        "value": "是否消耗<color=#FF5599>{0}<\/color>个水晶恢复全部生命值，\n并继续演出？"
     },
     {
         "wordingKey": "MSG_LIVE_FAILED",
-        "value": "生命值已耗尽。 \n可消耗<color=#FF5599>{0}</color>个水晶恢复全部生命值，\n并继续演出。"
+        "value": "生命值已耗尽。 \n可消耗<color=#FF5599>{0}<\/color>个水晶恢复全部生命值，\n并继续演出。"
     },
     {
         "wordingKey": "MSG_LIVE_IS_FULL",
@@ -1845,7 +1845,7 @@
     },
     {
         "wordingKey": "MSG_LIVE_RESULT_EVENT_MAINTENANCE",
-        "value": "正在对活动进行维护，\n 中断自动演出。\n \n <color=#FF77AA>*中断前的演出成绩将正常得到统计。\n *无法获得维护后的活动积分和章节徽章。</color>"
+        "value": "正在对活动进行维护，\n 中断自动演出。\n \n <color=#FF77AA>*中断前的演出成绩将正常得到统计。\n *无法获得维护后的活动积分和章节徽章。<\/color>"
     },
     {
         "wordingKey": "MSG_LIVE_SKIP_BODY",
@@ -1857,7 +1857,7 @@
     },
     {
         "wordingKey": "MSG_LOGINBONUS_RECEIVE",
-        "value": "获得了<color=#ff5599>{0}</color> ！"
+        "value": "获得了<color=#ff5599>{0}<\/color> ！"
     },
     {
         "wordingKey": "MSG_LV_TEXT",
@@ -1873,7 +1873,7 @@
     },
     {
         "wordingKey": "MSG_MASTER_LESSON_EXECUTE",
-        "value": "是否消耗<color={2}>{1}</color>个{0}\n来进行专家训练？"
+        "value": "是否消耗<color={2}>{1}<\/color>个{0}\n来进行专家训练？"
     },
     {
         "wordingKey": "MSG_MASTER_LESSON_EXECUTE_CONFIRMATION",
@@ -1881,11 +1881,11 @@
     },
     {
         "wordingKey": "MSG_MASTER_LESSON_EXECUTE_CONFIRMATION_ITEM",
-        "value": "<color={2}>{1}</color>个{0}"
+        "value": "<color={2}>{1}<\/color>个{0}"
     },
     {
         "wordingKey": "MSG_MASTER_LESSON_MATERIAL_EXCHANGE_CONFIRM",
-        "value": "是否消耗<color=#FF5599>{0}</color>个心愿碎片\n来兑换道具？"
+        "value": "是否消耗<color=#FF5599>{0}<\/color>个心愿碎片\n来兑换道具？"
     },
     {
         "wordingKey": "MSG_MASTER_LESSON_NOTHING",
@@ -1897,15 +1897,15 @@
     },
     {
         "wordingKey": "MSG_MASTER_RANK_ACQUISITION_CONDITIONS_1",
-        "value": "<color=#00CCBB>1级</color>解锁"
+        "value": "<color=#00CCBB>1级<\/color>解锁"
     },
     {
         "wordingKey": "MSG_MASTER_RANK_ACQUISITION_CONDITIONS_3",
-        "value": "<color=#00CCBB>3级</color>解锁"
+        "value": "<color=#00CCBB>3级<\/color>解锁"
     },
     {
         "wordingKey": "MSG_MASTER_RANK_ACQUISITION_CONDITIONS_5",
-        "value": "<color=#00CCBB>5级</color>解锁"
+        "value": "<color=#00CCBB>5级<\/color>解锁"
     },
     {
         "wordingKey": "MSG_MATCHING_CONNECTING",
@@ -1937,7 +1937,7 @@
     },
     {
         "wordingKey": "MSG_MATERIAL_EXCHANGE_CONFIRM",
-        "value": "是否消耗<color=#FF5599>{1}</color>个{0}\n来兑换道具？"
+        "value": "是否消耗<color=#FF5599>{1}<\/color>个{0}\n来兑换道具？"
     },
     {
         "wordingKey": "MSG_MAX_ANOUNCE",
@@ -2097,7 +2097,7 @@
     },
     {
         "wordingKey": "MSG_MULTI_RESULT_WAITING",
-        "value": "正在等待其他玩家……({0}/{1})"
+        "value": "正在等待其他玩家……({0}\/{1})"
     },
     {
         "wordingKey": "MSG_MULTI_WAITING",
@@ -2133,7 +2133,7 @@
     },
     {
         "wordingKey": "MSG_MV_DELETE_TOTAL_SIZE",
-        "value": "所占用的数据空间将减少<color=#ff5599>{0}MB</color>。"
+        "value": "所占用的数据空间将减少<color=#ff5599>{0}MB<\/color>。"
     },
     {
         "wordingKey": "MSG_MV_SAVE_SIZE_SETTING_CONFIRM",
@@ -2169,11 +2169,11 @@
     },
     {
         "wordingKey": "MSG_NEED_COLORFUL_SELECT_LIST_SETTING",
-        "value": "若要进行招募，需要设置Pick Up清单。\n\n<color=#ff5599>*需要完成所有成员栏位的设置。</color>"
+        "value": "若要进行招募，需要设置Pick Up清单。\n\n<color=#ff5599>*需要完成所有成员栏位的设置。<\/color>"
     },
     {
         "wordingKey": "MSG_NEED_SELECT_LIST_SETTING",
-        "value": "若要进行招募，需要设置自选清单。\n\n<color=#ff5599>*必须完成所有成员栏位的设置。</color>"
+        "value": "若要进行招募，需要设置自选清单。\n\n<color=#ff5599>*必须完成所有成员栏位的设置。<\/color>"
     },
     {
         "wordingKey": "MSG_NETWORKNOTAVAILABLE_CN",
@@ -2185,7 +2185,7 @@
     },
     {
         "wordingKey": "MSG_NEXT_EPISODE_RELEASE_DATE_AT",
-        "value": "{0}的剧情\n<color=#ff77AA>{1:MM/dd HH:mm} 解锁</color>"
+        "value": "{0}的剧情\n<color=#ff77AA>{1:MM\/dd HH:mm} 解锁<\/color>"
     },
     {
         "wordingKey": "MSG_NGWORD_BALLOON",
@@ -2409,19 +2409,19 @@
     },
     {
         "wordingKey": "MSG_OFFLINE_EVENT_CELL_BEFORE_ENTRY",
-        "value": "<color=#ff5599>{0}～开始报名！</color>"
+        "value": "<color=#ff5599>{0}～开始报名！<\/color>"
     },
     {
         "wordingKey": "MSG_OFFLINE_EVENT_CELL_CAN_ENTRY_CONTINUOUS_BUY",
-        "value": "<color=#ff5599>继续购买缤纷通行证即可参加报名。\n*会按照超过有效期后第二天购买的情况进行计算。</color>"
+        "value": "<color=#ff5599>继续购买缤纷通行证即可参加报名。\n*会按照超过有效期后第二天购买的情况进行计算。<\/color>"
     },
     {
         "wordingKey": "MSG_OFFLINE_EVENT_CELL_ENTRY",
-        "value": "<color=#ff5599>报名时间 {0}～{1}为止</color>"
+        "value": "<color=#ff5599>报名时间 {0}～{1}为止<\/color>"
     },
     {
         "wordingKey": "MSG_OFFLINE_EVENT_CELL_NOT_APPLICABLE",
-        "value": "<color=#ff5599>持续购买时长不满{0}个月，\n不满足该活动的报名条件。</color>"
+        "value": "<color=#ff5599>持续购买时长不满{0}个月，\n不满足该活动的报名条件。<\/color>"
     },
     {
         "wordingKey": "MSG_OFFLINE_EVENT_ENTRY_CONFIRM_DIALOG_ATTENSION1",
@@ -2429,11 +2429,11 @@
     },
     {
         "wordingKey": "MSG_OFFLINE_EVENT_ENTRY_CONFIRM_DIALOG_ATTENSION2",
-        "value": "*需要在报名网站提供报名ID参加抽签。\n<color=#ff5588>*报名ID为个人专用ID，\n切勿告知他人。</color>"
+        "value": "*需要在报名网站提供报名ID参加抽签。\n<color=#ff5588>*报名ID为个人专用ID，\n切勿告知他人。<\/color>"
     },
     {
         "wordingKey": "MSG_OFFLINE_EVENT_EVALUATION_PERIOD",
-        "value": "{0} ～\n{1}\n<color=#ff5588>*必须在这段时间内</color>\n<color=#ff5588>达成持续购买时长的条件。</color>"
+        "value": "{0} ～\n{1}\n<color=#ff5588>*必须在这段时间内<\/color>\n<color=#ff5588>达成持续购买时长的条件。<\/color>"
     },
     {
         "wordingKey": "MSG_OLD_COLOFRUL_PASS_USER_DIALOG_BODY",
@@ -2545,7 +2545,7 @@
     },
     {
         "wordingKey": "MSG_PLACEMENT_MATCH_COUNT",
-        "value": "离确定起始段位\n还有<color=#FF5599>{0}</color>次匹配"
+        "value": "离确定起始段位\n还有<color=#FF5599>{0}<\/color>次匹配"
     },
     {
         "wordingKey": "MSG_PRACTICE_EXECUTE",
@@ -2649,7 +2649,7 @@
     },
     {
         "wordingKey": "MSG_RANK_FORMAT",
-        "value": "等级<size={0}>{1}</size>/{2}"
+        "value": "等级<size={0}>{1}<\/size>\/{2}"
     },
     {
         "wordingKey": "MSG_RANK_LIVE_END_SEASON",
@@ -2685,7 +2685,7 @@
     },
     {
         "wordingKey": "MSG_RANK_LIVE_PLACEMENT_REQUIRED_MATCH_COUNT_FORMAT",
-        "value": "离确定起始段位\n还有<size=80> {0} </size>次匹配"
+        "value": "离确定起始段位\n还有<size=80> {0} <\/size>次匹配"
     },
     {
         "wordingKey": "MSG_RANK_MATCH_CLOSE_NEXT_TIME_FORMAT",
@@ -2733,7 +2733,7 @@
     },
     {
         "wordingKey": "MSG_RECEIVED_LIVE_COSTUME",
-        "value": "获得演出服装。\n<color=#ff77AA>可以在服装商店制作其他角色的演出服装了。</color>"
+        "value": "获得演出服装。\n<color=#ff77AA>可以在服装商店制作其他角色的演出服装了。<\/color>"
     },
     {
         "wordingKey": "MSG_RECEIVED_LOGIN_BONUS",
@@ -2761,7 +2761,7 @@
     },
     {
         "wordingKey": "MSG_RECONNECT_CODE",
-        "value": "正在重新连接。<size=28>({0})</size>"
+        "value": "正在重新连接。<size=28>({0})<\/size>"
     },
     {
         "wordingKey": "MSG_RELEASE_ATTRIBUTE_AREA_SHOP",
@@ -2781,7 +2781,7 @@
     },
     {
         "wordingKey": "MSG_REMING_COUNT_SIZE_FORMAT",
-        "value": "还剩<size={0}>{1}次</size>"
+        "value": "还剩<size={0}>{1}次<\/size>"
     },
     {
         "wordingKey": "MSG_REPLACE_CUT_IN_NOTE",
@@ -2941,7 +2941,7 @@
     },
     {
         "wordingKey": "MSG_SHOP_EXPIRATION_DATE",
-        "value": "<color={0}>有效期限 {1} </color>"
+        "value": "<color={0}>有效期限 {1} <\/color>"
     },
     {
         "wordingKey": "MSG_SHOP_EXPIRATION_DATE_2",
@@ -3057,7 +3057,7 @@
     },
     {
         "wordingKey": "MSG_STAMP_CARD_BACK_SCREEN_WARNING",
-        "value": "尚未完成集点卡设置。\n选择{0}张集点卡，\n点击“任务开始”即可开始印章任务。\n是否稍后再设置集点卡？\n\n<color=#ff5588>*点击“任务开始”前\n可以自由变更集点卡。</color>"
+        "value": "尚未完成集点卡设置。\n选择{0}张集点卡，\n点击“任务开始”即可开始印章任务。\n是否稍后再设置集点卡？\n\n<color=#ff5588>*点击“任务开始”前\n可以自由变更集点卡。<\/color>"
     },
     {
         "wordingKey": "MSG_STAMP_CARD_CHOOSE_TO_REQUEST",
@@ -3077,7 +3077,7 @@
     },
     {
         "wordingKey": "MSG_STAMP_CARD_SELECT_CONFIRM_WARNING",
-        "value": "<color=#ff5588>*在确定后无法更改。</color>"
+        "value": "<color=#ff5588>*在确定后无法更改。<\/color>"
     },
     {
         "wordingKey": "MSG_STAMP_CARD_SELECT_SELECTED",
@@ -3257,7 +3257,7 @@
     },
     {
         "wordingKey": "MSG_UNLOCK_WITH_OVER_TOTAL_POWER",
-        "value": "综合力达到{0}后解锁/<color={1}>当前为{2}</color>"
+        "value": "综合力达到{0}后解锁\/<color={1}>当前为{2}<\/color>"
     },
     {
         "wordingKey": "MSG_UNLOCK_WORLD_BLOOM_EVENTSTORY_BODY",
@@ -3281,7 +3281,7 @@
     },
     {
         "wordingKey": "MSG_USE_120FPS_DIALOG",
-        "value": "将演出的流畅度（帧率）从最高60帧设置为120帧。\n\n<color=#FF3366>*该选项为试用功能。\n如果该功能无法正常运作，请将设置变更为“标准”，\n并通过“联系我们”反馈。</color>"
+        "value": "将演出的流畅度（帧率）从最高60帧设置为120帧。\n\n<color=#FF3366>*该选项为试用功能。\n如果该功能无法正常运作，请将设置变更为“标准”，\n并通过“联系我们”反馈。<\/color>"
     },
     {
         "wordingKey": "MSG_USE_VIRTUAL_LIVE_ITEM",
@@ -3289,7 +3289,7 @@
     },
     {
         "wordingKey": "MSG_USE_VSYNC_DIALOG",
-        "value": "演出的流畅度（帧率）会根据设备性能自动调整。\n\n<color=#FF3366>*该选项为试用功能。\n如果该功能无法正常运作，请将设置变更为“开”，\n并通过“联系我们”反馈。</color>"
+        "value": "演出的流畅度（帧率）会根据设备性能自动调整。\n\n<color=#FF3366>*该选项为试用功能。\n如果该功能无法正常运作，请将设置变更为“开”，\n并通过“联系我们”反馈。<\/color>"
     },
     {
         "wordingKey": "MSG_VETERAN_ROOM_DESCRIPTION",
@@ -3401,11 +3401,11 @@
     },
     {
         "wordingKey": "MSG_WEARABLE_MEMBER_1",
-        "value": "·获得“<color=#FF77AAFF>[{0}]{1}</color>”后，\n即可为<color=#FF77AAFF>{1}</color>穿戴“<color=#FF77AAFF>{2}</color>”。"
+        "value": "·获得“<color=#FF77AAFF>[{0}]{1}<\/color>”后，\n即可为<color=#FF77AAFF>{1}<\/color>穿戴“<color=#FF77AAFF>{2}<\/color>”。"
     },
     {
         "wordingKey": "MSG_WEARABLE_MEMBER_2_1",
-        "value": "·获得“<color=#FF77AAFF>[{0}]{1}</color>”后，\n服装商店将新增“<color=#FF77AAFF>{2}</color>”。\n\n·在服装商店指定可穿戴“<color=#FF77AAFF>{2}</color>”的角色并制作服装后，"
+        "value": "·获得“<color=#FF77AAFF>[{0}]{1}<\/color>”后，\n服装商店将新增“<color=#FF77AAFF>{2}<\/color>”。\n\n·在服装商店指定可穿戴“<color=#FF77AAFF>{2}<\/color>”的角色并制作服装后，"
     },
     {
         "wordingKey": "MSG_WEARABLE_MEMBER_2_2",
@@ -3473,7 +3473,7 @@
     },
     {
         "wordingKey": "MSG_WORLD_BLOOM_CHAPTER_INHERIT_LIMIT_START",
-        "value": "已到达章节{0}排行榜前<color=#ff5588>{1}名</color>。\n\n为保证活动的公平公正，\n到达章节排行榜前<color=#ff5588>{2}名</color>的玩家\n在本次活动期间的数据继承次数将受到限制。\n\n限制时间：至章节结束（{3}）\n限制次数：剩余{4}次\n<color=#ff3366>*限制次数与综合排行榜共通。</color>\n\n感谢您的理解。"
+        "value": "已到达章节{0}排行榜前<color=#ff5588>{1}名<\/color>。\n\n为保证活动的公平公正，\n到达章节排行榜前<color=#ff5588>{2}名<\/color>的玩家\n在本次活动期间的数据继承次数将受到限制。\n\n限制时间：至章节结束（{3}）\n限制次数：剩余{4}次\n<color=#ff3366>*限制次数与综合排行榜共通。<\/color>\n\n感谢您的理解。"
     },
     {
         "wordingKey": "MSG_WORLD_BLOOM_CHAPTER_YOUR_TOTAL_EVENT_POINT",
@@ -3481,7 +3481,7 @@
     },
     {
         "wordingKey": "MSG_WORLD_BLOOM_INHERIT_LIMIT_START",
-        "value": "已到达活动综合排行榜前<color=#ff5588>{0}名</color>。\n\n为保证活动的公平公正，\n到达综合排行榜前<color=#ff5588>{1}名</color>的玩家\n在本次活动期间的数据继承次数将受到限制。\n\n限制时间：至活动结束（{2}）\n限制次数：剩余{3}次\n<color=#ff3366>*限制次数与各章节排行榜共通。</color>\n\n感谢您的理解。"
+        "value": "已到达活动综合排行榜前<color=#ff5588>{0}名<\/color>。\n\n为保证活动的公平公正，\n到达综合排行榜前<color=#ff5588>{1}名<\/color>的玩家\n在本次活动期间的数据继承次数将受到限制。\n\n限制时间：至活动结束（{2}）\n限制次数：剩余{3}次\n<color=#ff3366>*限制次数与各章节排行榜共通。<\/color>\n\n感谢您的理解。"
     },
     {
         "wordingKey": "MSG_WORLD_BLOOM_YOUR_TOTAL_EVENT_POINT",
@@ -3529,19 +3529,19 @@
     },
     {
         "wordingKey": "PermissionList_Url",
-        "value": "https://lf26-cdn-tos.draftstatic.com/obj/ies-hotsoon-draft/GSDK/c7999693-1c9d-4b79-9a36-363597b69068.html"
+        "value": "https:\/\/lf26-cdn-tos.draftstatic.com\/obj\/ies-hotsoon-draft\/GSDK\/c7999693-1c9d-4b79-9a36-363597b69068.html"
     },
     {
         "wordingKey": "PersonalInformationCollectLis_Url",
-        "value": "https://lf26-cdn-tos.draftstatic.com/obj/ies-hotsoon-draft/GSDK/info_collect_list.html"
+        "value": "https:\/\/lf26-cdn-tos.draftstatic.com\/obj\/ies-hotsoon-draft\/GSDK\/info_collect_list.html"
     },
     {
         "wordingKey": "Personal_protectionUrl",
-        "value": "https://gsdk.dailygn.com"
+        "value": "https:\/\/gsdk.dailygn.com"
     },
     {
         "wordingKey": "PRIVATE_POLICY",
-        "value": "https://lf9-cdn-tos.draftstatic.com/obj/ies-hotsoon-draft/GSDK/d576fa3d-f639-421c-af9f-1860c26a7350.html"
+        "value": "https:\/\/lf9-cdn-tos.draftstatic.com\/obj\/ies-hotsoon-draft\/GSDK\/d576fa3d-f639-421c-af9f-1860c26a7350.html"
     },
     {
         "wordingKey": "RANK_LIVE_LOADING_LABEL",
@@ -3561,7 +3561,7 @@
     },
     {
         "wordingKey": "SDKList_Url",
-        "value": "https://lf26-cdn-tos.draftstatic.com/obj/ies-hotsoon-draft/GSDK/a78bdfdd-13ff-4f76-9c2f-4d3a94c45afe.html"
+        "value": "https:\/\/lf26-cdn-tos.draftstatic.com\/obj\/ies-hotsoon-draft\/GSDK\/a78bdfdd-13ff-4f76-9c2f-4d3a94c45afe.html"
     },
     {
         "wordingKey": "SELECT_TAB_WORD_ADD_FRIEND",
@@ -3617,7 +3617,7 @@
     },
     {
         "wordingKey": "STAFF_URL",
-        "value": "https://lf3-mkcncdn-tos.dailygn.com/obj/lf-game-lf/gdl_app_5236/web/staff_chs_obt.html"
+        "value": "https:\/\/lf3-mkcncdn-tos.dailygn.com\/obj\/lf-game-lf\/gdl_app_5236\/web\/staff_chs_obt.html"
     },
     {
         "wordingKey": "SUPPORT_EVENT_BOOST_LIVE_RANK",
@@ -3629,7 +3629,7 @@
     },
     {
         "wordingKey": "SUPPORT_EVENT_LIVE_RANK",
-        "value": "{0}<color=#FF77AAFF>倍</color>"
+        "value": "{0}<color=#FF77AAFF>倍<\/color>"
     },
     {
         "wordingKey": "SUPPORT_EVENT_LIVE_RESULT",
@@ -3649,7 +3649,7 @@
     },
     {
         "wordingKey": "SUPPORT_EVENT_REWARD_LEGEND",
-        "value": "个人奖励于2/19/统一发送到“礼物”"
+        "value": "个人奖励于2\/19\/统一发送到“礼物”"
     },
     {
         "wordingKey": "SUPPORT_EVENT_REWARD_LOCK",
@@ -3729,7 +3729,7 @@
     },
     {
         "wordingKey": "USER_POLICY",
-        "value": "https://lf26-cdn-tos.draftstatic.com/obj/ies-hotsoon-draft/GSDK/965a5b76-a8a8-48a9-ac0e-da1cf832fbd5.html"
+        "value": "https:\/\/lf26-cdn-tos.draftstatic.com\/obj\/ies-hotsoon-draft\/GSDK\/965a5b76-a8a8-48a9-ac0e-da1cf832fbd5.html"
     },
     {
         "wordingKey": "VirtualLiveLobbyLiveStatusView_Distance_To_Start",
@@ -3977,7 +3977,7 @@
     },
     {
         "wordingKey": "WORD_AD_REWARD_PRESENTBOX_JSON",
-        "value": "{\n\"title\": \"奖励详情\",\n\"list\" : [\n{\n\"head\" : \" \",\n\"desc\" : \"观看广告可获得以下奖励，1天仅限2次。\n\n·★4成员×1\n·★3成员×1\n·★2成员×1\n·演出能量饮料（小）×2\n·可爱宝石×30、帅气宝石×30、纯真宝石×30、快乐宝石×30、神秘宝石×30\n·奇迹宝石×20\n·魔法之布×50\n·魔法之线×5\n·奇异种子×5\n\n*可观看广告的次数会在每天4点重置\n*奖励内容可能会在未提前通知的情况下发生改变。\n\n■关于成员\n成员范围如下。\n*不包含限时成员、缤纷节日限定成员、组合活动限定成员、生日成员、纪念日成员、联动限定成员。\n\n◯★4成员\n★4[串连彼此心愿的星星手势] 星乃一歌\n★4[记忆的深渊] 天马咲希\n★4[因为你是我珍贵的朋友] 望月穗波\n★4[豁然开朗的答案] 日野森志步\n★4[为了“你”] 花里实乃理\n★4[与大家心意相通] 桐谷遥\n★4[最强的偶像笑容！] 桃井爱莉\n★4[世上独一无二的‘我’] 日野森雫\n★4[了解那场“传奇”] 小豆泽心羽\n★4[温暖的回忆] 白石杏\n★4[洞察到的热情] 东云彰人\n★4[户外烹饪！] 青柳冬弥\n★4[星星的旋律] 天马司\n★4[笑梦队员埋头调查！] 凤笑梦\n★4[放烟花庆祝] 草薙宁宁\n★4[晚风吹拂] 神代类\n★4[这条街上最受欢迎的专卖店] 宵崎奏\n★4[只有你知晓的静谧] 朝比奈真冬\n★4[想画的表情] 东云绘名\n★4[给予勇气的宝物] 晓山瑞希\n★4[向大家呈献首演] 初音未来\n★4[看录像的时候不要说话！] 镜音铃\n★4[腼腆的招呼] 镜音连\n★4[河童最爱吃的食物？] 巡音流歌\n★4[喝杯咖啡聊聊天] MEIKO\n★4[改成什么样比较好呢？] KAITO\n\n◯★3成员\n★3[仰望天空尽头] 星乃一歌\n★3[想做的100件事] 天马咲希\n★3[味道没变] 望月穗波\n★3[难忘的旋律] 日野森志步\n★3[演唱会前夜的决心] 花里实乃理\n★3[不是偶像的我] 桐谷遥\n★3[为梦想加油！] 桃井爱莉\n★3[在华丽的舞台上] 日野森雫\n★3[在「世界」小憩] 小豆泽心羽\n★3[热火朝天助人为乐！！] 白石杏\n★3[藏不住的焦躁] 东云彰人\n★3[断绝的情谊] 青柳冬弥\n★3[来自玩偶装的问候] 天马司\n★3[作战会议开始！] 凤笑梦\n★3[正在后台工作] 草薙宁宁\n★3[神出鬼没的表演者] 神代类\n★3[屏幕的另一边……] 宵崎奏\n★3[我是“乖乖女”] 朝比奈真冬\n★3[最佳角度] 东云绘名\n★3[无法妥协的态度] 晓山瑞希\n★3[守护的目光] 初音未来\n★3[耀眼的舞台] 镜音铃\n★3[困难的“和好”] 镜音连\n★3[指引者] 巡音流歌\n★3[精益求精的饮品] MEIKO\n★3[剧团成员招募中！] KAITO\n★3[好好休息] 望月穗波\n★3[片刻嬉戏] 晓山瑞希\n★3[骑上熊猫] 凤笑梦\n★3[欢乐满分的两人三足？] 朝比奈真冬\n★3[我想成为的是……] 日野森雫\n★3[悠闲的咖啡时光] 青柳冬弥\n★3[动物棉花糖♪] 草薙宁宁\n★3[安眠一夜] 神代类\n★3[无比重要的愿望] 天马咲希\n★3[暗中支持] 天马咲希\n★3[偶像的责任] 桐谷遥\n★3[忧郁之夜] 小豆泽心羽\n★3[介绍一下吧！！] 天马司\n★3[寻找邂逅的意义] 镜音铃\n★3[用最擅长的方法！] 镜音连\n★3[快乐的女儿节♪] 巡音流歌\n★3[偶像的心得] 巡音流歌\n★3[扩大交友圈] 花里实乃理\n★3[虚幻与美丽] 宵崎奏\n★3[传递我的心愿] 星乃一歌\n★3[渴望共同进步] 小豆泽心羽\n★3[脱缰的构思与失控] 神代类\n★3[与红色相衬的新面孔！] MEIKO\n★3[回味幸福] 东云彰人\n★3[微笑狂欢之夜！] 镜音铃\n★3[牵起迷惑的手] 晓山瑞希\n★3[想着伙伴] 望月穗波\n★3[对伙伴的敬畏] 青柳冬弥\n★3[那太狡猾了吧！] 桃井爱莉\n★3[大大的贝壳在哪里？] 初音未来\n★3[秘密交涉] 日野森雫\n★3[团长的休假日] KAITO\n★3[在天台的交谈] 初音未来\n★3[接下来是总结会] 日野森志步\n★3[取消的消息] 东云绘名\n★3[音乐为我展现的世界] 宵崎奏\n★3[我的不称职的搭档] 镜音连\n★3[军官的危机] 天马司\n★3[正确的天平] MEIKO\n★3[新歌的方向] 星乃一歌\n★3[激动的最高峰！] 白石杏\n★3[一如往常的拉面] 宵崎奏\n★3[偶像兼经纪人？！] KAITO\n★3[自由人登场！] 巡音流歌\n★3[歌牌界的顶尖偶像] 初音未来\n★3[我还以为我要不行了] 草薙宁宁\n★3[为了做出相符的东西] 东云绘名\n★3[蛋糕上的偶像♪] 镜音铃\n★3[现在开始营业！] 白石杏\n★3[未来之星的教导] 天马咲希\n★3[饱含感谢之情] 日野森志步\n★3[为了突出“我们”] 桐谷遥\n★3[被想起的色彩] 朝比奈真冬\n★3[试吃春季新餐品] MEIKO\n★3[微笑作战圆满成功] 凤笑梦\n★3[今後的發展] 日野森志步\n★3[挠痒痒怎么样？] 初音未来\n★3[管不了那么多了！] 东云彰人\n★3[肚子是不会骗人的] 青柳冬弥\n★3[用可爱捕获你的视线] 桃井爱莉\n★3[最吸引人的角度] 东云绘名\n★3[挑战的心得] MEIKO\n★3[烈日下的鼓励] 巡音流歌\n★3[喝杯柠檬水放松一下♪] 小豆泽心羽\n★3[直面心愿之歌] KAITO\n★3[与玩偶们一起] 东云彰人\n★3[寄托心愿的冰沙] 花里实乃理\n★3[想要完成最好的作品] 东云绘名\n★3[无法说出口的话] 镜音铃\n★3[我眼中最酷炫的表现！] 镜音连\n★3[模糊不清的语言] 白石杏\n★3[为了让更多人认识我们] 望月穗波\n★3[激动人心的开箱♪] 日野森雫\n★3[超级超级失落] 初音未来\n★3[闪耀无比的洪水？！] 桐谷遥\n★3[相信大家的温柔] 天马咲希\n★3[也去问问绘名弟弟吧——！] 晓山瑞希\n★3[深夜的MC特训] 花里实乃理\n★3[圣诞节已近在眼前] 小豆泽心羽\n★3[第一次体验茶道] 桃井爱莉\n★3[汽车之旅GO！GO！] 草薙宁宁\n★3[永不言败] 天马司\n★3[学姐的目光] 初音未来\n★3[在微笑前面的是] 望月穗波\n★3[回到这个地方] 桐谷遥\n★3[无可挑剔的图书委员] 青柳冬弥\n★3[很擅长料理？] 初音未来\n★3[秘密武器！凤凰机器人] 神代类\n★3[冲动的显现] KAITO\n★3[为了接近金丝雀] 草薙宁宁\n★3[期待已久的消息] 星乃一歌\n★3[相信不会消失的感情] KAITO\n★3[倾注在蝴蝶结中的关怀] 镜音连\n★3[感觉像是乔装的艺人？] 天马咲希\n★3[梦想的背后] 凤笑梦\n★3[作战成功，击掌！] 镜音铃\n★3[被堵上的出路] 东云彰人\n★3[中午的学习会] 日野森雫\n★3[休息时间] 朝比奈真冬\n★3[等待已久的通知] 晓山瑞希\n★3[和支持我们的大家一起] 望月穗波\n★3[“好吃”的三段活用] 花里实乃理\n★3[偶尔有这么一天也不错] 白石杏\n★3[半夜的纠葛] 神代类\n★3[哪怕能尽一点力] MEIKO\n★3[甜甜～的回忆] 凤笑梦\n★3[交给我吧！] 天马司\n\n◯★2成员\n★2[Leo/need] 星乃一歌\n★2[Leo/need] 天马咲希\n★2[Leo/need] 望月穗波\n★2[Leo/need] 日野森志步\n★2[MORE MORE JUMP！] 花里实乃理\n★2[MORE MORE JUMP！] 桐谷遥\n★2[MORE MORE JUMP！] 桃井爱莉\n★2[MORE MORE JUMP！] 日野森雫\n★2[Vivid BAD SQUAD] 小豆泽心羽\n★2[Vivid BAD SQUAD] 白石杏\n★2[Vivid BAD SQUAD] 东云彰人\n★2[Vivid BAD SQUAD] 青柳冬弥\n★2[Wonderlands×Showtime] 天马司\n★2[Wonderlands×Showtime] 凤笑梦\n★2[Wonderlands×Showtime] 草薙宁宁\n★2[Wonderlands×Showtime] 神代类\n★2[25点，Nightcord见。] 宵崎奏\n★2[25点，Nightcord见。] 朝比奈真冬\n★2[25点，Nightcord见。] 东云绘名\n★2[25点，Nightcord见。] 晓山瑞希\n★2[教室「世界」] 初音未来\n★2[舞台「世界」] 初音未来\n★2[街头「世界」] 初音未来\n★2[奇幻乐园「世界」] 初音未来\n★2[无人「世界」] 初音未来\n★2[舞台「世界」] 镜音铃\n★2[街頭的「世界」] 镜音连\n★2[教室「世界」] 巡音流歌\n★2[街头「世界」] MEIKO\n★2[奇幻乐园「世界」] KAITO\n★2[星之舞步] 星乃一歌\n★2[提线木偶的礼服] 东云绘名\n★2[奇幻手杖] 草薙宁宁\n★2[我是体育节组织委员！] 天马咲希\n★2[喜悦之蓝 桐谷遥\n★2[温暖的目光] MEIKO\n★2[意料之外的才能？] 青柳冬弥\n★2[闪亮驯鹿发箍☆] 凤笑梦\n★2[新年全员出动] 天马司\n★2[各种各样的温柔] 日野森志步\n★2[积极的小花] 花里实乃理\n★2[感伤的旋律] 镜音连\n★2[疯狂的怪物] 神代类\n★2[相信你] 晓山瑞希\n★2[气球艺术表演者] 天马司\n★2[虽然不该那样做……] 望月穗波\n★2[能为后辈做的事] 桃井爱莉\n★2[今春与你共赏……] 宵崎奏\n★2[废弃校舍的邂逅] 朝比奈真冬\n★2[寻找答案] MEIKO\n★2[身为搭档] 青柳冬弥\n★2[精灵灯笼♪] 巡音流歌\n★2[完美甜品] 桃井爱莉\n★2[即兴加入的舞者] 白石杏\n★2[柴郡猫与微笑] KAITO\n★2[希望说出来] 东云绘名\n★2[等待雨晴的雨伞] 星乃一歌\n★2[跳出「世界」] 镜音铃\n★2[仲夏夜庆典] 晓山瑞希\n★2[寄托心愿的海玻璃] 小豆泽心羽\n★2[冒失的信使] 花里实乃理\n★2[想要守护的笑容] 凤笑梦\n★2[抬头看到的月亮是同一个] 朝比奈真冬\n★2[曲奇饼干声援] 天马咲希\n★2[笨拙的下午茶] 宵崎奏\n★2[自豪的选择] 东云彰人\n★2[聪颖女孩] 镜音铃\n★2[引导之杖] 朝比奈真冬\n★2[碰撞心愿的坚强] 镜音连\n★2[菲尼乐园的夜晚约会] 日野森雫\n★2[为了重要的儿时伙伴] 望月穗波\n★2[Present for you！] 桐谷遥\n★2[温暖的露营风] 小豆泽心羽\n★2[不管是音乐之路还是书法之路] 日野森志步\n★2[Rainbow☆Cast] 神代类\n★2[守护初始的心愿] 初音未来\n★2[情人节淑女] 日野森雫\n★2[走向传奇] 东云彰人\n★2[帅气女骑手] 望月穗波\n★2[圣洁的侍从骑士] 镜音连\n★2[神秘之心·女巫] 桃井爱莉\n★2[只有三人的夜晚] 晓山瑞希\n★2[如樱花般怒放的偶像♪] 镜音铃\n★2[挑战代演！] 初音未来\n★2[可靠的建议] 巡音流歌\n★2[完成报告！] 日野森雫\n★2[体育节的幕后工作] 东云绘名\n★2[一丝后悔] 白石杏\n★2[美丽伴娘] 小豆泽心羽\n★2[不要松开紧握的手] 宵崎奏\n★2[挑战野外求生！] 神代类\n★2[一定要主动些才行] 星乃一歌\n★2[那些感受究竟是] 青柳冬弥\n★2[昂首挺胸一雪前耻] 日野森志步\n★2[未来未来☆神枪手！] 初音未来\n★2[夏天！集训！泳装！] 桐谷遥\n★2[可以选择等待] 巡音流歌\n★2[信赖的力量] 望月穗波\n★2[连接友谊的桥梁] 宵崎奏\n★2[各自的休憩时间] 东云彰人\n★2[可靠的前辈们] KAITO\n★2[一起即兴表演♪] 凤笑梦\n★2[尽情享受文化节♪] 镜音铃\n★2[用演奏鼓励] KAITO\n★2[各自的方法] 镜音连\n★2[看清未来] 日野森雫\n★2[限定餐单问卷调查！] 白石杏\n★2[Leo/need一起玩雪] 日野森志步\n★2[移动途中也很重要] 东云彰人\n★2[靠自己学到的内容] 草薙宁宁\n★2[紧张的感谢消息] 星乃一歌\n★2[将寄托的心愿化为现实] 镜音连\n★2[为了更好地支持大家] MEIKO\n★2[随意但丰富的回响] 巡音流歌\n★2[倾注心意，精心准备] 天马咲希\n★2[温柔才是力量的源泉] MEIKO\n★2[无法压抑的心意] 朝比奈真冬\n★2[技术专家] 日野森志步\n★2[被友情化解] 花里实乃理\n★2[沮丧、后悔和感谢] 东云绘名\n★2[就算分隔两地，也要默默在背后] 草薙宁宁\n★2[一步一个脚印] 天马司\n★2[想象着传闻中的她] 晓山瑞希\n★2[最后的练习] 小豆泽心羽\n★2[惊喜的背后] 桐谷遥\n★2[我也很期待啦] 桃井爱莉\n★2[逐渐高涨的恐惧 巡音流歌\n★2[大家集合～！感谢演出！] 天马咲希\n★2[和姐姐一起☆] 凤笑梦\n★2[就是要光彩夺目] 初音未来\n★2[发表自己的感谢之前] 天马司\n★2[秘密的期望] KAITO\n★2[为重要的学妹送上满～满的爱] 桃井爱莉\n★2[夜晚的学习] 东云彰人\"\n},\n]\n}"
+        "value": "{\n\"title\": \"奖励详情\",\n\"list\" : [\n{\n\"head\" : \" \",\n\"desc\" : \"观看广告可获得以下奖励，1天仅限2次。\n\n·★4成员×1\n·★3成员×1\n·★2成员×1\n·演出能量饮料（小）×2\n·可爱宝石×30、帅气宝石×30、纯真宝石×30、快乐宝石×30、神秘宝石×30\n·奇迹宝石×20\n·魔法之布×50\n·魔法之线×5\n·奇异种子×5\n\n*可观看广告的次数会在每天4点重置\n*奖励内容可能会在未提前通知的情况下发生改变。\n\n■关于成员\n成员范围如下。\n*不包含限时成员、缤纷节日限定成员、组合活动限定成员、生日成员、纪念日成员、联动限定成员。\n\n◯★4成员\n★4[串连彼此心愿的星星手势] 星乃一歌\n★4[记忆的深渊] 天马咲希\n★4[因为你是我珍贵的朋友] 望月穗波\n★4[豁然开朗的答案] 日野森志步\n★4[为了“你”] 花里实乃理\n★4[与大家心意相通] 桐谷遥\n★4[最强的偶像笑容！] 桃井爱莉\n★4[世上独一无二的‘我’] 日野森雫\n★4[了解那场“传奇”] 小豆泽心羽\n★4[温暖的回忆] 白石杏\n★4[洞察到的热情] 东云彰人\n★4[户外烹饪！] 青柳冬弥\n★4[星星的旋律] 天马司\n★4[笑梦队员埋头调查！] 凤笑梦\n★4[放烟花庆祝] 草薙宁宁\n★4[晚风吹拂] 神代类\n★4[这条街上最受欢迎的专卖店] 宵崎奏\n★4[只有你知晓的静谧] 朝比奈真冬\n★4[想画的表情] 东云绘名\n★4[给予勇气的宝物] 晓山瑞希\n★4[向大家呈献首演] 初音未来\n★4[看录像的时候不要说话！] 镜音铃\n★4[腼腆的招呼] 镜音连\n★4[河童最爱吃的食物？] 巡音流歌\n★4[喝杯咖啡聊聊天] MEIKO\n★4[改成什么样比较好呢？] KAITO\n\n◯★3成员\n★3[仰望天空尽头] 星乃一歌\n★3[想做的100件事] 天马咲希\n★3[味道没变] 望月穗波\n★3[难忘的旋律] 日野森志步\n★3[演唱会前夜的决心] 花里实乃理\n★3[不是偶像的我] 桐谷遥\n★3[为梦想加油！] 桃井爱莉\n★3[在华丽的舞台上] 日野森雫\n★3[在「世界」小憩] 小豆泽心羽\n★3[热火朝天助人为乐！！] 白石杏\n★3[藏不住的焦躁] 东云彰人\n★3[断绝的情谊] 青柳冬弥\n★3[来自玩偶装的问候] 天马司\n★3[作战会议开始！] 凤笑梦\n★3[正在后台工作] 草薙宁宁\n★3[神出鬼没的表演者] 神代类\n★3[屏幕的另一边……] 宵崎奏\n★3[我是“乖乖女”] 朝比奈真冬\n★3[最佳角度] 东云绘名\n★3[无法妥协的态度] 晓山瑞希\n★3[守护的目光] 初音未来\n★3[耀眼的舞台] 镜音铃\n★3[困难的“和好”] 镜音连\n★3[指引者] 巡音流歌\n★3[精益求精的饮品] MEIKO\n★3[剧团成员招募中！] KAITO\n★3[好好休息] 望月穗波\n★3[片刻嬉戏] 晓山瑞希\n★3[骑上熊猫] 凤笑梦\n★3[欢乐满分的两人三足？] 朝比奈真冬\n★3[我想成为的是……] 日野森雫\n★3[悠闲的咖啡时光] 青柳冬弥\n★3[动物棉花糖♪] 草薙宁宁\n★3[安眠一夜] 神代类\n★3[无比重要的愿望] 天马咲希\n★3[暗中支持] 天马咲希\n★3[偶像的责任] 桐谷遥\n★3[忧郁之夜] 小豆泽心羽\n★3[介绍一下吧！！] 天马司\n★3[寻找邂逅的意义] 镜音铃\n★3[用最擅长的方法！] 镜音连\n★3[快乐的女儿节♪] 巡音流歌\n★3[偶像的心得] 巡音流歌\n★3[扩大交友圈] 花里实乃理\n★3[虚幻与美丽] 宵崎奏\n★3[传递我的心愿] 星乃一歌\n★3[渴望共同进步] 小豆泽心羽\n★3[脱缰的构思与失控] 神代类\n★3[与红色相衬的新面孔！] MEIKO\n★3[回味幸福] 东云彰人\n★3[微笑狂欢之夜！] 镜音铃\n★3[牵起迷惑的手] 晓山瑞希\n★3[想着伙伴] 望月穗波\n★3[对伙伴的敬畏] 青柳冬弥\n★3[那太狡猾了吧！] 桃井爱莉\n★3[大大的贝壳在哪里？] 初音未来\n★3[秘密交涉] 日野森雫\n★3[团长的休假日] KAITO\n★3[在天台的交谈] 初音未来\n★3[接下来是总结会] 日野森志步\n★3[取消的消息] 东云绘名\n★3[音乐为我展现的世界] 宵崎奏\n★3[我的不称职的搭档] 镜音连\n★3[军官的危机] 天马司\n★3[正确的天平] MEIKO\n★3[新歌的方向] 星乃一歌\n★3[激动的最高峰！] 白石杏\n★3[一如往常的拉面] 宵崎奏\n★3[偶像兼经纪人？！] KAITO\n★3[自由人登场！] 巡音流歌\n★3[歌牌界的顶尖偶像] 初音未来\n★3[我还以为我要不行了] 草薙宁宁\n★3[为了做出相符的东西] 东云绘名\n★3[蛋糕上的偶像♪] 镜音铃\n★3[现在开始营业！] 白石杏\n★3[未来之星的教导] 天马咲希\n★3[饱含感谢之情] 日野森志步\n★3[为了突出“我们”] 桐谷遥\n★3[被想起的色彩] 朝比奈真冬\n★3[试吃春季新餐品] MEIKO\n★3[微笑作战圆满成功] 凤笑梦\n★3[今後的發展] 日野森志步\n★3[挠痒痒怎么样？] 初音未来\n★3[管不了那么多了！] 东云彰人\n★3[肚子是不会骗人的] 青柳冬弥\n★3[用可爱捕获你的视线] 桃井爱莉\n★3[最吸引人的角度] 东云绘名\n★3[挑战的心得] MEIKO\n★3[烈日下的鼓励] 巡音流歌\n★3[喝杯柠檬水放松一下♪] 小豆泽心羽\n★3[直面心愿之歌] KAITO\n★3[与玩偶们一起] 东云彰人\n★3[寄托心愿的冰沙] 花里实乃理\n★3[想要完成最好的作品] 东云绘名\n★3[无法说出口的话] 镜音铃\n★3[我眼中最酷炫的表现！] 镜音连\n★3[模糊不清的语言] 白石杏\n★3[为了让更多人认识我们] 望月穗波\n★3[激动人心的开箱♪] 日野森雫\n★3[超级超级失落] 初音未来\n★3[闪耀无比的洪水？！] 桐谷遥\n★3[相信大家的温柔] 天马咲希\n★3[也去问问绘名弟弟吧——！] 晓山瑞希\n★3[深夜的MC特训] 花里实乃理\n★3[圣诞节已近在眼前] 小豆泽心羽\n★3[第一次体验茶道] 桃井爱莉\n★3[汽车之旅GO！GO！] 草薙宁宁\n★3[永不言败] 天马司\n★3[学姐的目光] 初音未来\n★3[在微笑前面的是] 望月穗波\n★3[回到这个地方] 桐谷遥\n★3[无可挑剔的图书委员] 青柳冬弥\n★3[很擅长料理？] 初音未来\n★3[秘密武器！凤凰机器人] 神代类\n★3[冲动的显现] KAITO\n★3[为了接近金丝雀] 草薙宁宁\n★3[期待已久的消息] 星乃一歌\n★3[相信不会消失的感情] KAITO\n★3[倾注在蝴蝶结中的关怀] 镜音连\n★3[感觉像是乔装的艺人？] 天马咲希\n★3[梦想的背后] 凤笑梦\n★3[作战成功，击掌！] 镜音铃\n★3[被堵上的出路] 东云彰人\n★3[中午的学习会] 日野森雫\n★3[休息时间] 朝比奈真冬\n★3[等待已久的通知] 晓山瑞希\n★3[和支持我们的大家一起] 望月穗波\n★3[“好吃”的三段活用] 花里实乃理\n★3[偶尔有这么一天也不错] 白石杏\n★3[半夜的纠葛] 神代类\n★3[哪怕能尽一点力] MEIKO\n★3[甜甜～的回忆] 凤笑梦\n★3[交给我吧！] 天马司\n\n◯★2成员\n★2[Leo\/need] 星乃一歌\n★2[Leo\/need] 天马咲希\n★2[Leo\/need] 望月穗波\n★2[Leo\/need] 日野森志步\n★2[MORE MORE JUMP！] 花里实乃理\n★2[MORE MORE JUMP！] 桐谷遥\n★2[MORE MORE JUMP！] 桃井爱莉\n★2[MORE MORE JUMP！] 日野森雫\n★2[Vivid BAD SQUAD] 小豆泽心羽\n★2[Vivid BAD SQUAD] 白石杏\n★2[Vivid BAD SQUAD] 东云彰人\n★2[Vivid BAD SQUAD] 青柳冬弥\n★2[Wonderlands×Showtime] 天马司\n★2[Wonderlands×Showtime] 凤笑梦\n★2[Wonderlands×Showtime] 草薙宁宁\n★2[Wonderlands×Showtime] 神代类\n★2[25点，Nightcord见。] 宵崎奏\n★2[25点，Nightcord见。] 朝比奈真冬\n★2[25点，Nightcord见。] 东云绘名\n★2[25点，Nightcord见。] 晓山瑞希\n★2[教室「世界」] 初音未来\n★2[舞台「世界」] 初音未来\n★2[街头「世界」] 初音未来\n★2[奇幻乐园「世界」] 初音未来\n★2[无人「世界」] 初音未来\n★2[舞台「世界」] 镜音铃\n★2[街頭的「世界」] 镜音连\n★2[教室「世界」] 巡音流歌\n★2[街头「世界」] MEIKO\n★2[奇幻乐园「世界」] KAITO\n★2[星之舞步] 星乃一歌\n★2[提线木偶的礼服] 东云绘名\n★2[奇幻手杖] 草薙宁宁\n★2[我是体育节组织委员！] 天马咲希\n★2[喜悦之蓝 桐谷遥\n★2[温暖的目光] MEIKO\n★2[意料之外的才能？] 青柳冬弥\n★2[闪亮驯鹿发箍☆] 凤笑梦\n★2[新年全员出动] 天马司\n★2[各种各样的温柔] 日野森志步\n★2[积极的小花] 花里实乃理\n★2[感伤的旋律] 镜音连\n★2[疯狂的怪物] 神代类\n★2[相信你] 晓山瑞希\n★2[气球艺术表演者] 天马司\n★2[虽然不该那样做……] 望月穗波\n★2[能为后辈做的事] 桃井爱莉\n★2[今春与你共赏……] 宵崎奏\n★2[废弃校舍的邂逅] 朝比奈真冬\n★2[寻找答案] MEIKO\n★2[身为搭档] 青柳冬弥\n★2[精灵灯笼♪] 巡音流歌\n★2[完美甜品] 桃井爱莉\n★2[即兴加入的舞者] 白石杏\n★2[柴郡猫与微笑] KAITO\n★2[希望说出来] 东云绘名\n★2[等待雨晴的雨伞] 星乃一歌\n★2[跳出「世界」] 镜音铃\n★2[仲夏夜庆典] 晓山瑞希\n★2[寄托心愿的海玻璃] 小豆泽心羽\n★2[冒失的信使] 花里实乃理\n★2[想要守护的笑容] 凤笑梦\n★2[抬头看到的月亮是同一个] 朝比奈真冬\n★2[曲奇饼干声援] 天马咲希\n★2[笨拙的下午茶] 宵崎奏\n★2[自豪的选择] 东云彰人\n★2[聪颖女孩] 镜音铃\n★2[引导之杖] 朝比奈真冬\n★2[碰撞心愿的坚强] 镜音连\n★2[菲尼乐园的夜晚约会] 日野森雫\n★2[为了重要的儿时伙伴] 望月穗波\n★2[Present for you！] 桐谷遥\n★2[温暖的露营风] 小豆泽心羽\n★2[不管是音乐之路还是书法之路] 日野森志步\n★2[Rainbow☆Cast] 神代类\n★2[守护初始的心愿] 初音未来\n★2[情人节淑女] 日野森雫\n★2[走向传奇] 东云彰人\n★2[帅气女骑手] 望月穗波\n★2[圣洁的侍从骑士] 镜音连\n★2[神秘之心·女巫] 桃井爱莉\n★2[只有三人的夜晚] 晓山瑞希\n★2[如樱花般怒放的偶像♪] 镜音铃\n★2[挑战代演！] 初音未来\n★2[可靠的建议] 巡音流歌\n★2[完成报告！] 日野森雫\n★2[体育节的幕后工作] 东云绘名\n★2[一丝后悔] 白石杏\n★2[美丽伴娘] 小豆泽心羽\n★2[不要松开紧握的手] 宵崎奏\n★2[挑战野外求生！] 神代类\n★2[一定要主动些才行] 星乃一歌\n★2[那些感受究竟是] 青柳冬弥\n★2[昂首挺胸一雪前耻] 日野森志步\n★2[未来未来☆神枪手！] 初音未来\n★2[夏天！集训！泳装！] 桐谷遥\n★2[可以选择等待] 巡音流歌\n★2[信赖的力量] 望月穗波\n★2[连接友谊的桥梁] 宵崎奏\n★2[各自的休憩时间] 东云彰人\n★2[可靠的前辈们] KAITO\n★2[一起即兴表演♪] 凤笑梦\n★2[尽情享受文化节♪] 镜音铃\n★2[用演奏鼓励] KAITO\n★2[各自的方法] 镜音连\n★2[看清未来] 日野森雫\n★2[限定餐单问卷调查！] 白石杏\n★2[Leo\/need一起玩雪] 日野森志步\n★2[移动途中也很重要] 东云彰人\n★2[靠自己学到的内容] 草薙宁宁\n★2[紧张的感谢消息] 星乃一歌\n★2[将寄托的心愿化为现实] 镜音连\n★2[为了更好地支持大家] MEIKO\n★2[随意但丰富的回响] 巡音流歌\n★2[倾注心意，精心准备] 天马咲希\n★2[温柔才是力量的源泉] MEIKO\n★2[无法压抑的心意] 朝比奈真冬\n★2[技术专家] 日野森志步\n★2[被友情化解] 花里实乃理\n★2[沮丧、后悔和感谢] 东云绘名\n★2[就算分隔两地，也要默默在背后] 草薙宁宁\n★2[一步一个脚印] 天马司\n★2[想象着传闻中的她] 晓山瑞希\n★2[最后的练习] 小豆泽心羽\n★2[惊喜的背后] 桐谷遥\n★2[我也很期待啦] 桃井爱莉\n★2[逐渐高涨的恐惧 巡音流歌\n★2[大家集合～！感谢演出！] 天马咲希\n★2[和姐姐一起☆] 凤笑梦\n★2[就是要光彩夺目] 初音未来\n★2[发表自己的感谢之前] 天马司\n★2[秘密的期望] KAITO\n★2[为重要的学妹送上满～满的爱] 桃井爱莉\n★2[夜晚的学习] 东云彰人\"\n},\n]\n}"
     },
     {
         "wordingKey": "WORD_AFTER_LIVE",
@@ -3993,7 +3993,7 @@
     },
     {
         "wordingKey": "WORD_AGGREGATION_PERIOD_FORMAT",
-        "value": "至{0}/{1} {2}:{3:00}为止"
+        "value": "至{0}\/{1} {2}:{3:00}为止"
     },
     {
         "wordingKey": "WORD_ALL",
@@ -4165,7 +4165,7 @@
     },
     {
         "wordingKey": "WORD_AROUND_DATE_TIME",
-        "value": "{0:00}/{1:00}\n {2}点左右"
+        "value": "{0:00}\/{1:00}\n {2}点左右"
     },
     {
         "wordingKey": "WORD_ARRANGEMENT_DETERMINING",
@@ -4269,7 +4269,7 @@
     },
     {
         "wordingKey": "WORD_BETTLEPASS_AWARD_CONTENT",
-        "value": "\"购买“<color=#FF5599>白金任务通行证</color>”、“<color=#FF5599>白金任务通行证・进阶版</color>”与“<color=#FF5599>白金任务通行证・补充包</color>”后可立刻获得以下奖励。\n<color=#FF5599>白金任务通行证</color>：付费水晶×1390\n<color=#FF5599>白金任务通行证・进阶版</color>：付费水晶×2010、免费水晶×800、心愿碎片×500、当月限定服装（原版颜色+其他颜色×3）、演出积分×3900\n<color=#FF5599>白金任务通行证・补充包</color>：付费水晶×620、免费水晶×800、心愿碎片×500、当月限定服装（其他颜色×3）、演出积分×3900\""
+        "value": "\"购买“<color=#FF5599>白金任务通行证<\/color>”、“<color=#FF5599>白金任务通行证・进阶版<\/color>”与“<color=#FF5599>白金任务通行证・补充包<\/color>”后可立刻获得以下奖励。\n<color=#FF5599>白金任务通行证<\/color>：付费水晶×1390\n<color=#FF5599>白金任务通行证・进阶版<\/color>：付费水晶×2010、免费水晶×800、心愿碎片×500、当月限定服装（原版颜色+其他颜色×3）、演出积分×3900\n<color=#FF5599>白金任务通行证・补充包<\/color>：付费水晶×620、免费水晶×800、心愿碎片×500、当月限定服装（其他颜色×3）、演出积分×3900\""
     },
     {
         "wordingKey": "WORD_BETTLEPASS_AWARD_REWARD",
@@ -4277,7 +4277,7 @@
     },
     {
         "wordingKey": "WORD_BETTLEPASS_BUY_RULE",
-        "value": "关于购买/继续购买规则"
+        "value": "关于购买\/继续购买规则"
     },
     {
         "wordingKey": "WORD_BETTLEPASS_BUY_RULE_CONTENT",
@@ -4285,23 +4285,23 @@
     },
     {
         "wordingKey": "WORD_BETTLEPASS_COMMODITY_CONTENT_1",
-        "value": "购买<color=#FF5599>白金任务通行证</color>后，可解锁当月演出任务白金奖励。根据购买的<color=#FF5599>白金任务通行证</color>类型，可获得相应的水晶等道具奖励。完成任务最多可获得免费水晶×4200、心愿碎片×500、当月限定服装（原版颜色）。"
+        "value": "购买<color=#FF5599>白金任务通行证<\/color>后，可解锁当月演出任务白金奖励。根据购买的<color=#FF5599>白金任务通行证<\/color>类型，可获得相应的水晶等道具奖励。完成任务最多可获得免费水晶×4200、心愿碎片×500、当月限定服装（原版颜色）。"
     },
     {
         "wordingKey": "WORD_BETTLEPASS_COMMODITY_CONTENT_2",
-        "value": "<color=#FF5599>白金任务通行证</color>共有三种，满足不同需求的「世界」居民选购。\n购买<color=#FF5599>白金任务通行证</color>能立刻解锁当月演出任务白金奖励，并能立即获得付费水晶等奖励。"
+        "value": "<color=#FF5599>白金任务通行证<\/color>共有三种，满足不同需求的「世界」居民选购。\n购买<color=#FF5599>白金任务通行证<\/color>能立刻解锁当月演出任务白金奖励，并能立即获得付费水晶等奖励。"
     },
     {
         "wordingKey": "WORD_BETTLEPASS_COMMODITY_CONTENT_3",
-        "value": "购买<color=#FF5599>白金任务通行证・进阶版</color>能立刻获得付费水晶、免费水晶、心愿碎片、演出积分，并领取当月限定服装（原版颜色+其他颜色×3）。购买后也能立刻解锁当月演出任务白金奖励。\n购买<color=#FF5599>白金任务通行证</color>后，也可通过购买<color=#FF5599>白金任务通行证・补充包</color>，升级为<color=#FF5599>白金任务通行证・进阶版</color>。"
+        "value": "购买<color=#FF5599>白金任务通行证・进阶版<\/color>能立刻获得付费水晶、免费水晶、心愿碎片、演出积分，并领取当月限定服装（原版颜色+其他颜色×3）。购买后也能立刻解锁当月演出任务白金奖励。\n购买<color=#FF5599>白金任务通行证<\/color>后，也可通过购买<color=#FF5599>白金任务通行证・补充包<\/color>，升级为<color=#FF5599>白金任务通行证・进阶版<\/color>。"
     },
     {
         "wordingKey": "WORD_BETTLEPASS_COMMODITY_CONTENT_4",
-        "value": "三种<color=#FF5599>白金任务通行证</color>价格如下："
+        "value": "三种<color=#FF5599>白金任务通行证<\/color>价格如下："
     },
     {
         "wordingKey": "WORD_BETTLEPASS_COMMODITY_CONTENT_5",
-        "value": "<color=#FF5599>白金任务通行证</color>：{0}\n<color=#FF5599>白金任务通行证・补充包</color>：{1}\n<color=#FF5599>白金任务通行证・进阶版</color>：{2}"
+        "value": "<color=#FF5599>白金任务通行证<\/color>：{0}\n<color=#FF5599>白金任务通行证・补充包<\/color>：{1}\n<color=#FF5599>白金任务通行证・进阶版<\/color>：{2}"
     },
     {
         "wordingKey": "WORD_BETTLEPASS_COMMODITY_REWARD",
@@ -4373,7 +4373,7 @@
     },
     {
         "wordingKey": "WORD_BLOCK_PLAYER_NUM",
-        "value": "{0}/{1}"
+        "value": "{0}\/{1}"
     },
     {
         "wordingKey": "WORD_BODY",
@@ -4521,7 +4521,7 @@
     },
     {
         "wordingKey": "WORD_BONUS_POINT_FORMAT",
-        "value": "{0}/{1}"
+        "value": "{0}\/{1}"
     },
     {
         "wordingKey": "WORD_BONUS_POINT_FULL_COMBO_FORMAT",
@@ -4961,7 +4961,7 @@
     },
     {
         "wordingKey": "WORD_CHARACTER_MISSION_INFO_JSON",
-        "value": "{\n    \"title\": \"■EX任务\",\n    \"list\": [\n        {\n            \"head\": \"\",\n            \"desc\": \"对于部分超出完成次数上限的角色任务，可切换为达成条件与奖励不同的“EX任务”再进行挑战。此外，可以将完成普通任务超出的完成次数累计到EX任务上。\\n【对应角色任务】\\n·成就“队长游玩”\\n·成就“送到休息室”\"\n        },\n        {\n            \"head\": \"■EX任务的达成条件与奖励\",\n            \"desc\": \"【队长游玩】\\n[达成条件]\\n500次/500次/500次/600次/600次/600次/700次/700次/700次/800次/800次/800次/900次/900次/900次/1000次/1000次/1000次/1100次/1100次/1100次/1200次/1200次/1200次/1300次/1300次/1300次/1400次/1400次/1400次/1500次（再次循环）\\n[达成奖励]\\n·500次～1400次：角色等级经验值+1\\n·1500次以上：心愿碎片×100\\n\\n【送到休息室】\\n[达成条件]\\n20次/20次/20次/23次/23次/23次/26次/26次/26次/29次/29次/29次/32次/32次/32次/35次/35次/35次/38次/38次/38次/41次/41次/41次/44次/44次/44次/47次/47次/47次/50次（再次循环）\\n[达成奖励]\\n·20次～47次：角色等级经验值+1\\n·50次以上：心愿碎片×100\"\n        },\n        {\n            \"head\": \"【送到休息室】\",\n            \"desc\": \"[达成条件]\\n20次/20次/20次/23次/23次/23次/26次/26次/26次/29次/29次/29次/32次/32次/32次/35次/35次/35次/38次/38次/38次/41次/41次/41次/44次/44次/44次/47次/47次/47次/50次（再次循环）\\n[达成奖励]\\n·20次～47次：角色等级经验值+1\\n·50次以上：心愿碎片×100\"\n        }\n    ]\n}"
+        "value": "{\n    \"title\": \"■EX任务\",\n    \"list\": [\n        {\n            \"head\": \"\",\n            \"desc\": \"对于部分超出完成次数上限的角色任务，可切换为达成条件与奖励不同的“EX任务”再进行挑战。此外，可以将完成普通任务超出的完成次数累计到EX任务上。\\n【对应角色任务】\\n·成就“队长游玩”\\n·成就“送到休息室”\"\n        },\n        {\n            \"head\": \"■EX任务的达成条件与奖励\",\n            \"desc\": \"【队长游玩】\\n[达成条件]\\n500次\/500次\/500次\/600次\/600次\/600次\/700次\/700次\/700次\/800次\/800次\/800次\/900次\/900次\/900次\/1000次\/1000次\/1000次\/1100次\/1100次\/1100次\/1200次\/1200次\/1200次\/1300次\/1300次\/1300次\/1400次\/1400次\/1400次\/1500次（再次循环）\\n[达成奖励]\\n·500次～1400次：角色等级经验值+1\\n·1500次以上：心愿碎片×100\\n\\n【送到休息室】\\n[达成条件]\\n20次\/20次\/20次\/23次\/23次\/23次\/26次\/26次\/26次\/29次\/29次\/29次\/32次\/32次\/32次\/35次\/35次\/35次\/38次\/38次\/38次\/41次\/41次\/41次\/44次\/44次\/44次\/47次\/47次\/47次\/50次（再次循环）\\n[达成奖励]\\n·20次～47次：角色等级经验值+1\\n·50次以上：心愿碎片×100\"\n        },\n        {\n            \"head\": \"【送到休息室】\",\n            \"desc\": \"[达成条件]\\n20次\/20次\/20次\/23次\/23次\/23次\/26次\/26次\/26次\/29次\/29次\/29次\/32次\/32次\/32次\/35次\/35次\/35次\/38次\/38次\/38次\/41次\/41次\/41次\/44次\/44次\/44次\/47次\/47次\/47次\/50次（再次循环）\\n[达成奖励]\\n·20次～47次：角色等级经验值+1\\n·50次以上：心愿碎片×100\"\n        }\n    ]\n}"
     },
     {
         "wordingKey": "WORD_CHARACTER_MISSION_RECEIVED_TITLE",
@@ -5165,11 +5165,11 @@
     },
     {
         "wordingKey": "Word_ColorfulPassV2Tier1_Web",
-        "value": "https://lf9-cdn-tos.draftstatic.com/obj/ies-hotsoon-draft/GSDK/3e719cd2-70c7-4ca1-b7d4-2abe06eae161.html"
+        "value": "https:\/\/lf9-cdn-tos.draftstatic.com\/obj\/ies-hotsoon-draft\/GSDK\/3e719cd2-70c7-4ca1-b7d4-2abe06eae161.html"
     },
     {
         "wordingKey": "Word_ColorfulPassV2Tier3_Web",
-        "value": "https://lf3-cdn-tos.draftstatic.com/obj/ies-hotsoon-draft/GSDK/f5d2730c-0425-406f-976e-b8f5d84d2381.html"
+        "value": "https:\/\/lf3-cdn-tos.draftstatic.com\/obj\/ies-hotsoon-draft\/GSDK\/f5d2730c-0425-406f-976e-b8f5d84d2381.html"
     },
     {
         "wordingKey": "WORD_COLORFULPASS_APPLY_EVENT_BUTTON",
@@ -5201,11 +5201,11 @@
     },
     {
         "wordingKey": "WORD_COLORFUL_ACCUMULATIVE_RULE_CONTENT_1",
-        "value": "第1次：<color=#FF5599>150</color>个免费水晶\n第2次：<color=#FF5599>200</color>个免费水晶\n第3次：<color=#FF5599>250</color>个免费水晶"
+        "value": "第1次：<color=#FF5599>150<\/color>个免费水晶\n第2次：<color=#FF5599>200<\/color>个免费水晶\n第3次：<color=#FF5599>250<\/color>个免费水晶"
     },
     {
         "wordingKey": "WORD_COLORFUL_ACCUMULATIVE_RULE_CONTENT_2",
-        "value": "第4次：<color=#FF5599>350</color>个免费水晶\n第5次：<color=#FF5599>450</color>个免费水晶\n第6次：<color=#FF5599>600</color>个免费水晶"
+        "value": "第4次：<color=#FF5599>350<\/color>个免费水晶\n第5次：<color=#FF5599>450<\/color>个免费水晶\n第6次：<color=#FF5599>600<\/color>个免费水晶"
     },
     {
         "wordingKey": "WORD_COLORFUL_ACCUMULATIVE_RULE_CONTENT_3",
@@ -5217,11 +5217,11 @@
     },
     {
         "wordingKey": "WORD_COLORFUL_BUY_EFFECT_CONTENT",
-        "value": "<color=#FF5599>30</color>天加成为缤纷通行证有效期间可获得的额外加成：\n<color=#FF5599>*提升“缤纷通行证”收益！</color> \n·每天自动演出次数上限增加为<color=#FF5599>20</color>次。 \n·挑战积分获得量变为<color=#FF5599>2</color>倍。 \n・演出积分获得量变为<color=#FF5599>2</color>倍。"
+        "value": "<color=#FF5599>30<\/color>天加成为缤纷通行证有效期间可获得的额外加成：\n<color=#FF5599>*提升“缤纷通行证”收益！<\/color> \n·每天自动演出次数上限增加为<color=#FF5599>20<\/color>次。 \n·挑战积分获得量变为<color=#FF5599>2<\/color>倍。 \n・演出积分获得量变为<color=#FF5599>2<\/color>倍。"
     },
     {
         "wordingKey": "WORD_COLORFUL_BUY_EFFECT_CONTENT_1",
-        "value": "·“1天1次付费招募”的次数增加为<color=#FF5599>1</color>天<color=#FF5599>2</color>次。\n・自动恢复的演出能量上限从<color=#FF5599>10</color>变为<color=#FF5599>20</color>。"
+        "value": "·“1天1次付费招募”的次数增加为<color=#FF5599>1<\/color>天<color=#FF5599>2<\/color>次。\n・自动恢复的演出能量上限从<color=#FF5599>10<\/color>变为<color=#FF5599>20<\/color>。"
     },
     {
         "wordingKey": "WORD_COLORFUL_BUY_REWARD",
@@ -5229,15 +5229,15 @@
     },
     {
         "wordingKey": "WORD_COLORFUL_BUY_REWARD_CONTENT",
-        "value": "<color=#FF5599>300</color>个付费水晶\n缤纷通行证生效期间，每天可前往“礼物”领取<color=#FF5599>50</color>个免费水晶。"
+        "value": "<color=#FF5599>300<\/color>个付费水晶\n缤纷通行证生效期间，每天可前往“礼物”领取<color=#FF5599>50<\/color>个免费水晶。"
     },
     {
         "wordingKey": "WORD_COLORFUL_BUY_RULE",
-        "value": "购买/继续购买规则"
+        "value": "购买\/继续购买规则"
     },
     {
         "wordingKey": "WORD_COLORFUL_BUY_RULE_CONTENT",
-        "value": "累计购买6个月以上则额外奖励以最大值计算。\n在缤纷通行证过期一周内继续购买，会在上次累计的购买次数上增加<color=#FF5599>1</color>次购买次数。\n如果超过一周后继续购买，累计购买次数会重新计算。"
+        "value": "累计购买6个月以上则额外奖励以最大值计算。\n在缤纷通行证过期一周内继续购买，会在上次累计的购买次数上增加<color=#FF5599>1<\/color>次购买次数。\n如果超过一周后继续购买，累计购买次数会重新计算。"
     },
     {
         "wordingKey": "WORD_COLORFUL_DETAIL_TITLE",
@@ -5273,7 +5273,7 @@
     },
     {
         "wordingKey": "WORD_COLORFUL_PASS_OTHER_PURCHASED",
-        "value": "<color=#ffffff>正在使用其他缤纷通行证</color>"
+        "value": "<color=#ffffff>正在使用其他缤纷通行证<\/color>"
     },
     {
         "wordingKey": "WORD_COLORFUL_PASS_RENEWAL",
@@ -5293,7 +5293,7 @@
     },
     {
         "wordingKey": "WORD_COLORFUL_PATH_SUBSCRIBE_DESCRIBE",
-        "value": "<color=#FF5599>*到期后会自动继续购买，且有效期限将自动延长30天，\n可随时取消。</color>"
+        "value": "<color=#FF5599>*到期后会自动继续购买，且有效期限将自动延长30天，\n可随时取消。<\/color>"
     },
     {
         "wordingKey": "WORD_COLORFUL_SELECT_LIST",
@@ -5633,11 +5633,11 @@
     },
     {
         "wordingKey": "Word_Custom_101",
-        "value": "解锁主线剧情「Leo/need」\\n需看完第1话内容"
+        "value": "解锁主线剧情「Leo\/need」\\n需看完第1话内容"
     },
     {
         "wordingKey": "Word_Custom_1010",
-        "value": "到2022/11/7 20:49"
+        "value": "到2022\/11\/7 20:49"
     },
     {
         "wordingKey": "Word_Custom_1011",
@@ -5853,11 +5853,11 @@
     },
     {
         "wordingKey": "Word_Custom_1060",
-        "value": "0/10"
+        "value": "0\/10"
     },
     {
         "wordingKey": "Word_Custom_1061",
-        "value": "100/100"
+        "value": "100\/100"
     },
     {
         "wordingKey": "Word_Custom_1062",
@@ -5869,7 +5869,7 @@
     },
     {
         "wordingKey": "Word_Custom_1064",
-        "value": "结果将于所有演出结束后公布，\\n10/1 01:00"
+        "value": "结果将于所有演出结束后公布，\\n10\/1 01:00"
     },
     {
         "wordingKey": "Word_Custom_1065",
@@ -6097,7 +6097,7 @@
     },
     {
         "wordingKey": "Word_Custom_1115",
-        "value": "至2021/99/99 14:59为止"
+        "value": "至2021\/99\/99 14:59为止"
     },
     {
         "wordingKey": "Word_Custom_1116",
@@ -6137,7 +6137,7 @@
     },
     {
         "wordingKey": "Word_Custom_113",
-        "value": "等级 ?/<size=28>?</size>"
+        "value": "等级 ?\/<size=28>?<\/size>"
     },
     {
         "wordingKey": "Word_Custom_114",
@@ -6145,7 +6145,7 @@
     },
     {
         "wordingKey": "Word_Custom_115",
-        "value": "等级 ?/<size=28>?</size>"
+        "value": "等级 ?\/<size=28>?<\/size>"
     },
     {
         "wordingKey": "Word_Custom_116",
@@ -6157,7 +6157,7 @@
     },
     {
         "wordingKey": "Word_Custom_118",
-        "value": "12/31 15:30"
+        "value": "12\/31 15:30"
     },
     {
         "wordingKey": "Word_Custom_119",
@@ -6249,7 +6249,7 @@
     },
     {
         "wordingKey": "Word_Custom_1285",
-        "value": "正在等待其他玩家……(3/5)"
+        "value": "正在等待其他玩家……(3\/5)"
     },
     {
         "wordingKey": "Word_Custom_1286",
@@ -6281,7 +6281,7 @@
     },
     {
         "wordingKey": "Word_Custom_1292",
-        "value": "aaa/aa/aa/aa"
+        "value": "aaa\/aa\/aa\/aa"
     },
     {
         "wordingKey": "Word_Custom_1293",
@@ -6537,11 +6537,11 @@
     },
     {
         "wordingKey": "Word_Custom_135",
-        "value": "--/--"
+        "value": "--\/--"
     },
     {
         "wordingKey": "Word_Custom_1350",
-        "value": "yyyy/mm/dd hh:mm"
+        "value": "yyyy\/mm\/dd hh:mm"
     },
     {
         "wordingKey": "Word_Custom_1351",
@@ -6557,7 +6557,7 @@
     },
     {
         "wordingKey": "Word_Custom_1354",
-        "value": "是否消耗\n<color=#ff5588>{1}张</color>{0}入场？"
+        "value": "是否消耗\n<color=#ff5588>{1}张<\/color>{0}入场？"
     },
     {
         "wordingKey": "Word_Custom_1355",
@@ -6593,7 +6593,7 @@
     },
     {
         "wordingKey": "Word_Custom_1362",
-        "value": "等级 ?/<size=28>?</size>"
+        "value": "等级 ?\/<size=28>?<\/size>"
     },
     {
         "wordingKey": "Word_Custom_1363",
@@ -6601,7 +6601,7 @@
     },
     {
         "wordingKey": "Word_Custom_1364",
-        "value": "等级 ?/<size=28>?</size>"
+        "value": "等级 ?\/<size=28>?<\/size>"
     },
     {
         "wordingKey": "Word_Custom_1365",
@@ -6629,7 +6629,7 @@
     },
     {
         "wordingKey": "Word_Custom_1370",
-        "value": "是否消耗<color=#FF5599>1500个</color>水晶抽取\\n“礼盒名”？"
+        "value": "是否消耗<color=#FF5599>1500个<\/color>水晶抽取\\n“礼盒名”？"
     },
     {
         "wordingKey": "Word_Custom_1371",
@@ -6645,11 +6645,11 @@
     },
     {
         "wordingKey": "Word_Custom_1374",
-        "value": "至2001/99/99 14:59为止"
+        "value": "至2001\/99\/99 14:59为止"
     },
     {
         "wordingKey": "Word_Custom_1375",
-        "value": "<size=28>招募</size>1次"
+        "value": "<size=28>招募<\/size>1次"
     },
     {
         "wordingKey": "Word_Custom_1376",
@@ -6749,11 +6749,11 @@
     },
     {
         "wordingKey": "Word_Custom_1398",
-        "value": "<color=#444466>5</color>"
+        "value": "<color=#444466>5<\/color>"
     },
     {
         "wordingKey": "Word_Custom_1399",
-        "value": "<color=#444466>0</color>"
+        "value": "<color=#444466>0<\/color>"
     },
     {
         "wordingKey": "Word_Custom_140",
@@ -6761,11 +6761,11 @@
     },
     {
         "wordingKey": "Word_Custom_1400",
-        "value": "<color=#444466>5</color>"
+        "value": "<color=#444466>5<\/color>"
     },
     {
         "wordingKey": "Word_Custom_1401",
-        "value": "<color=#444466>0</color>"
+        "value": "<color=#444466>0<\/color>"
     },
     {
         "wordingKey": "Word_Custom_1402",
@@ -6773,7 +6773,7 @@
     },
     {
         "wordingKey": "Word_Custom_1403",
-        "value": "<size=28>招募</size>1次"
+        "value": "<size=28>招募<\/size>1次"
     },
     {
         "wordingKey": "Word_Custom_1404",
@@ -6841,7 +6841,7 @@
     },
     {
         "wordingKey": "Word_Custom_1419",
-        "value": "至yyyy/mm/dd hh:mm为止"
+        "value": "至yyyy\/mm\/dd hh:mm为止"
     },
     {
         "wordingKey": "Word_Custom_142",
@@ -6857,11 +6857,11 @@
     },
     {
         "wordingKey": "Word_Custom_1422",
-        "value": "至2001/99/99 14:59为止"
+        "value": "至2001\/99\/99 14:59为止"
     },
     {
         "wordingKey": "Word_Custom_1423",
-        "value": "<size=28>招募</size>1次"
+        "value": "<size=28>招募<\/size>1次"
     },
     {
         "wordingKey": "Word_Custom_1424",
@@ -6929,7 +6929,7 @@
     },
     {
         "wordingKey": "Word_Custom_1439",
-        "value": "2020/99/00 23:59:59"
+        "value": "2020\/99\/00 23:59:59"
     },
     {
         "wordingKey": "Word_Custom_1440",
@@ -7105,7 +7105,7 @@
     },
     {
         "wordingKey": "Word_Custom_1483",
-        "value": "是否消耗<color=#FF5599>1500个</color>水晶抽取\\n“礼盒名”？"
+        "value": "是否消耗<color=#FF5599>1500个<\/color>水晶抽取\\n“礼盒名”？"
     },
     {
         "wordingKey": "Word_Custom_1484",
@@ -7221,7 +7221,7 @@
     },
     {
         "wordingKey": "Word_Custom_151",
-        "value": "8888/9999"
+        "value": "8888\/9999"
     },
     {
         "wordingKey": "Word_Custom_1510",
@@ -7265,7 +7265,7 @@
     },
     {
         "wordingKey": "Word_Custom_152",
-        "value": "截止至12/31 23:59"
+        "value": "截止至12\/31 23:59"
     },
     {
         "wordingKey": "Word_Custom_1520",
@@ -7309,7 +7309,7 @@
     },
     {
         "wordingKey": "Word_Custom_153",
-        "value": "--/---"
+        "value": "--\/---"
     },
     {
         "wordingKey": "Word_Custom_1530",
@@ -7345,11 +7345,11 @@
     },
     {
         "wordingKey": "Word_Custom_1538",
-        "value": "aaa/aa/aa/aa"
+        "value": "aaa\/aa\/aa\/aa"
     },
     {
         "wordingKey": "Word_Custom_1539",
-        "value": "<size=28>招募</size>1次"
+        "value": "<size=28>招募<\/size>1次"
     },
     {
         "wordingKey": "Word_Custom_154",
@@ -7373,7 +7373,7 @@
     },
     {
         "wordingKey": "Word_Custom_1544",
-        "value": "至yyyy/mm/dd hh:mm为止"
+        "value": "至yyyy\/mm\/dd hh:mm为止"
     },
     {
         "wordingKey": "Word_Custom_1545",
@@ -7385,7 +7385,7 @@
     },
     {
         "wordingKey": "Word_Custom_1547",
-        "value": "10/200"
+        "value": "10\/200"
     },
     {
         "wordingKey": "Word_Custom_1548",
@@ -7397,7 +7397,7 @@
     },
     {
         "wordingKey": "Word_Custom_155",
-        "value": "--/---"
+        "value": "--\/---"
     },
     {
         "wordingKey": "Word_Custom_1550",
@@ -7461,7 +7461,7 @@
     },
     {
         "wordingKey": "Word_Custom_1564",
-        "value": "至2021/99/99 14:59为止"
+        "value": "至2021\/99\/99 14:59为止"
     },
     {
         "wordingKey": "Word_Custom_1565",
@@ -7469,11 +7469,11 @@
     },
     {
         "wordingKey": "Word_Custom_1566",
-        "value": "12/12\\n23时左右"
+        "value": "12\/12\\n23时左右"
     },
     {
         "wordingKey": "Word_Custom_1567",
-        "value": "12/12\\n23时左右"
+        "value": "12\/12\\n23时左右"
     },
     {
         "wordingKey": "Word_Custom_1568",
@@ -7665,7 +7665,7 @@
     },
     {
         "wordingKey": "Word_Custom_167",
-        "value": "--/--"
+        "value": "--\/--"
     },
     {
         "wordingKey": "Word_Custom_168",
@@ -7713,7 +7713,7 @@
     },
     {
         "wordingKey": "Word_Custom_178",
-        "value": "举办时间至12/12 03:59为止"
+        "value": "举办时间至12\/12 03:59为止"
     },
     {
         "wordingKey": "Word_Custom_1784",
@@ -7725,7 +7725,7 @@
     },
     {
         "wordingKey": "Word_Custom_179",
-        "value": "举办时间至12/12 03:59为止"
+        "value": "举办时间至12\/12 03:59为止"
     },
     {
         "wordingKey": "Word_Custom_1796",
@@ -7733,11 +7733,11 @@
     },
     {
         "wordingKey": "Word_Custom_180",
-        "value": "举办时间至12/12 03:59为止"
+        "value": "举办时间至12\/12 03:59为止"
     },
     {
         "wordingKey": "Word_Custom_181",
-        "value": "举办时间至12/12 03:59为止"
+        "value": "举办时间至12\/12 03:59为止"
     },
     {
         "wordingKey": "Word_Custom_182",
@@ -7753,7 +7753,7 @@
     },
     {
         "wordingKey": "Word_Custom_1834",
-        "value": "是否消耗\n<color=#ff5588>{1}张</color>{0}入场？"
+        "value": "是否消耗\n<color=#ff5588>{1}张<\/color>{0}入场？"
     },
     {
         "wordingKey": "Word_Custom_1838",
@@ -7765,7 +7765,7 @@
     },
     {
         "wordingKey": "Word_Custom_1840",
-        "value": "是否消耗<color=#FF5599>1500个</color>水晶抽取\\n“礼盒名”？"
+        "value": "是否消耗<color=#FF5599>1500个<\/color>水晶抽取\\n“礼盒名”？"
     },
     {
         "wordingKey": "Word_Custom_185",
@@ -7781,7 +7781,7 @@
     },
     {
         "wordingKey": "Word_Custom_186",
-        "value": "1/40"
+        "value": "1\/40"
     },
     {
         "wordingKey": "Word_Custom_1864",
@@ -7813,7 +7813,7 @@
     },
     {
         "wordingKey": "Word_Custom_192",
-        "value": "<color=#3fd5c8>「世界」的居民</color>: 小未来真可爱！"
+        "value": "<color=#3fd5c8>「世界」的居民<\/color>: 小未来真可爱！"
     },
     {
         "wordingKey": "Word_Custom_193",
@@ -7841,7 +7841,7 @@
     },
     {
         "wordingKey": "Word_Custom_199",
-        "value": "解锁主线剧情「Leo/need」\\n需看完第1话内容"
+        "value": "解锁主线剧情「Leo\/need」\\n需看完第1话内容"
     },
     {
         "wordingKey": "Word_Custom_2",
@@ -7917,7 +7917,7 @@
     },
     {
         "wordingKey": "Word_Custom_211",
-        "value": "--/---"
+        "value": "--\/---"
     },
     {
         "wordingKey": "Word_Custom_2112",
@@ -7969,7 +7969,7 @@
     },
     {
         "wordingKey": "Word_Custom_2207",
-        "value": "1. 按下下方按键后，会通过所显示的页面发行<color=#FF5599>代币</color>。"
+        "value": "1. 按下下方按键后，会通过所显示的页面发行<color=#FF5599>代币<\/color>。"
     },
     {
         "wordingKey": "Word_Custom_2208",
@@ -7977,7 +7977,7 @@
     },
     {
         "wordingKey": "Word_Custom_2209",
-        "value": "2. 复制已经发行的<color=#FF5599>代币</color>，通过以下「<color=#FF5599>Paste</color>」按键进行输入。"
+        "value": "2. 复制已经发行的<color=#FF5599>代币<\/color>，通过以下「<color=#FF5599>Paste<\/color>」按键进行输入。"
     },
     {
         "wordingKey": "Word_Custom_221",
@@ -8029,7 +8029,7 @@
     },
     {
         "wordingKey": "Word_Custom_2220",
-        "value": "2220/99/99 14:59为止"
+        "value": "2220\/99\/99 14:59为止"
     },
     {
         "wordingKey": "Word_Custom_2221",
@@ -8081,7 +8081,7 @@
     },
     {
         "wordingKey": "Word_Custom_2232",
-        "value": "是否消耗<color=#FF5599>1500个</color>水晶抽取\\n“礼盒名”？"
+        "value": "是否消耗<color=#FF5599>1500个<\/color>水晶抽取\\n“礼盒名”？"
     },
     {
         "wordingKey": "Word_Custom_2233",
@@ -8217,11 +8217,11 @@
     },
     {
         "wordingKey": "Word_Custom_2314",
-        "value": "12/31 23:59为止"
+        "value": "12\/31 23:59为止"
     },
     {
         "wordingKey": "Word_Custom_2315",
-        "value": "--/-- --:--为止"
+        "value": "--\/-- --:--为止"
     },
     {
         "wordingKey": "Word_Custom_2316",
@@ -8281,7 +8281,7 @@
     },
     {
         "wordingKey": "Word_Custom_233",
-        "value": "2020/10/01〜"
+        "value": "2020\/10\/01〜"
     },
     {
         "wordingKey": "Word_Custom_2330",
@@ -8289,7 +8289,7 @@
     },
     {
         "wordingKey": "Word_Custom_2331",
-        "value": "5/6 23:59为止"
+        "value": "5\/6 23:59为止"
     },
     {
         "wordingKey": "Word_Custom_2332",
@@ -8301,7 +8301,7 @@
     },
     {
         "wordingKey": "Word_Custom_2334",
-        "value": "YYYY/MM/DD hh:mm为止"
+        "value": "YYYY\/MM\/DD hh:mm为止"
     },
     {
         "wordingKey": "Word_Custom_2335",
@@ -8365,7 +8365,7 @@
     },
     {
         "wordingKey": "Word_Custom_235",
-        "value": "<size=38>15</size>/20"
+        "value": "<size=38>15<\/size>\/20"
     },
     {
         "wordingKey": "Word_Custom_2350",
@@ -8393,7 +8393,7 @@
     },
     {
         "wordingKey": "Word_Custom_237",
-        "value": "--/10"
+        "value": "--\/10"
     },
     {
         "wordingKey": "Word_Custom_239",
@@ -8429,7 +8429,7 @@
     },
     {
         "wordingKey": "Word_Custom_2410",
-        "value": "可输入字体大小36Pt/n十四个字符×两行。"
+        "value": "可输入字体大小36Pt\/n十四个字符×两行。"
     },
     {
         "wordingKey": "Word_Custom_2412",
@@ -8561,7 +8561,7 @@
     },
     {
         "wordingKey": "Word_Custom_2524",
-        "value": "是否确定下载追加数据<color=#FF5599>200MB</color>？"
+        "value": "是否确定下载追加数据<color=#FF5599>200MB<\/color>？"
     },
     {
         "wordingKey": "Word_Custom_2525",
@@ -8605,7 +8605,7 @@
     },
     {
         "wordingKey": "Word_Custom_2535",
-        "value": "是否消耗<color=#FF55AA>100个</color>水晶\\n参加一次“求签名hogehoge”？"
+        "value": "是否消耗<color=#FF55AA>100个<\/color>水晶\\n参加一次“求签名hogehoge”？"
     },
     {
         "wordingKey": "Word_Custom_2536",
@@ -8677,7 +8677,7 @@
     },
     {
         "wordingKey": "Word_Custom_2551",
-        "value": "「世界」 \\n难度<color=#CC33FF>MASTER</color>已解锁。"
+        "value": "「世界」 \\n难度<color=#CC33FF>MASTER<\/color>已解锁。"
     },
     {
         "wordingKey": "Word_Custom_2552",
@@ -8801,7 +8801,7 @@
     },
     {
         "wordingKey": "Word_Custom_258",
-        "value": "2020/99/00 23:59:59"
+        "value": "2020\/99\/00 23:59:59"
     },
     {
         "wordingKey": "Word_Custom_2580",
@@ -8821,7 +8821,7 @@
     },
     {
         "wordingKey": "Word_Custom_2584",
-        "value": "在1/1 00:00重置"
+        "value": "在1\/1 00:00重置"
     },
     {
         "wordingKey": "Word_Custom_2585",
@@ -8837,7 +8837,7 @@
     },
     {
         "wordingKey": "Word_Custom_2588",
-        "value": "来自<color=#ff5599>热乎乎的松饼</color>的\\n好友申请。\\n"
+        "value": "来自<color=#ff5599>热乎乎的松饼<\/color>的\\n好友申请。\\n"
     },
     {
         "wordingKey": "Word_Custom_2589",
@@ -8953,7 +8953,7 @@
     },
     {
         "wordingKey": "Word_Custom_2613",
-        "value": "离确定起始等级￼\\n还有<color=#FF5599>3</color>次匹配"
+        "value": "离确定起始等级￼\\n还有<color=#FF5599>3<\/color>次匹配"
     },
     {
         "wordingKey": "Word_Custom_2614",
@@ -8973,7 +8973,7 @@
     },
     {
         "wordingKey": "Word_Custom_2618",
-        "value": "看上去很酷，但其实是很为朋友着想的温柔少女。和咲希、穗波、志步是儿时的好友。因为某些原因，与穗波和志步逐渐疏远。\\n喜欢听未来的歌。在Leo/need中担任吉他手和主唱。"
+        "value": "看上去很酷，但其实是很为朋友着想的温柔少女。和咲希、穗波、志步是儿时的好友。因为某些原因，与穗波和志步逐渐疏远。\\n喜欢听未来的歌。在Leo\/need中担任吉他手和主唱。"
     },
     {
         "wordingKey": "Word_Custom_2619",
@@ -9069,7 +9069,7 @@
     },
     {
         "wordingKey": "Word_Custom_264",
-        "value": "32/32"
+        "value": "32\/32"
     },
     {
         "wordingKey": "Word_Custom_2640",
@@ -9097,7 +9097,7 @@
     },
     {
         "wordingKey": "Word_Custom_2646",
-        "value": "2023/1/31 ～ 2023/3/31\\n※必须在此期间\\n达成所需持续时间。"
+        "value": "2023\/1\/31 ～ 2023\/3\/31\\n※必须在此期间\\n达成所需持续时间。"
     },
     {
         "wordingKey": "Word_Custom_2647",
@@ -9121,7 +9121,7 @@
     },
     {
         "wordingKey": "Word_Custom_2651",
-        "value": "12/30 xx:xx ～ 12/31 xx:xx为止"
+        "value": "12\/30 xx:xx ～ 12\/31 xx:xx为止"
     },
     {
         "wordingKey": "Word_Custom_2652",
@@ -9141,11 +9141,11 @@
     },
     {
         "wordingKey": "Word_Custom_2656",
-        "value": "2024/01/10 14:59为止"
+        "value": "2024\/01\/10 14:59为止"
     },
     {
         "wordingKey": "Word_Custom_2657",
-        "value": "01/31 23:59 为止"
+        "value": "01\/31 23:59 为止"
     },
     {
         "wordingKey": "Word_Custom_2658",
@@ -9177,11 +9177,11 @@
     },
     {
         "wordingKey": "Word_Custom_2664",
-        "value": "1/1 00:00为止"
+        "value": "1\/1 00:00为止"
     },
     {
         "wordingKey": "Word_Custom_2665",
-        "value": "0000/00/00 00:00 为止"
+        "value": "0000\/00\/00 00:00 为止"
     },
     {
         "wordingKey": "Word_Custom_2666",
@@ -9213,7 +9213,7 @@
     },
     {
         "wordingKey": "Word_Custom_2672",
-        "value": "销售日期 2023/12/21 11:59结束"
+        "value": "销售日期 2023\/12\/21 11:59结束"
     },
     {
         "wordingKey": "Word_Custom_2673",
@@ -9229,7 +9229,7 @@
     },
     {
         "wordingKey": "Word_Custom_2676",
-        "value": "{0}次<size=24>招募</size>"
+        "value": "{0}次<size=24>招募<\/size>"
     },
     {
         "wordingKey": "Word_Custom_2677",
@@ -9317,7 +9317,7 @@
     },
     {
         "wordingKey": "Word_Custom_2702",
-        "value": "活动期间的消耗数量<color=#ff5599>最多可设置为{0}</color>。"
+        "value": "活动期间的消耗数量<color=#ff5599>最多可设置为{0}<\/color>。"
     },
     {
         "wordingKey": "Word_Custom_2703",
@@ -9493,7 +9493,7 @@
     },
     {
         "wordingKey": "Word_Custom_2743",
-        "value": "至2024/12/31 14:59为止"
+        "value": "至2024\/12\/31 14:59为止"
     },
     {
         "wordingKey": "Word_Custom_2744",
@@ -9513,11 +9513,11 @@
     },
     {
         "wordingKey": "Word_Custom_2748",
-        "value": "<size=80>“金枪鱼和三文鱼”</size>\\n<color=white><size=52>提起日式烤串会想到？</size></color>"
+        "value": "<size=80>“金枪鱼和三文鱼”<\/size>\\n<color=white><size=52>提起日式烤串会想到？<\/size><\/color>"
     },
     {
         "wordingKey": "Word_Custom_2749",
-        "value": "至2024/09/30 20:59为止"
+        "value": "至2024\/09\/30 20:59为止"
     },
     {
         "wordingKey": "Word_Custom_275",
@@ -9553,7 +9553,7 @@
     },
     {
         "wordingKey": "Word_Custom_2757",
-        "value": "至9999/99/99 14:59为止"
+        "value": "至9999\/99\/99 14:59为止"
     },
     {
         "wordingKey": "Word_Custom_2758",
@@ -9713,7 +9713,7 @@
     },
     {
         "wordingKey": "Word_Custom_2793",
-        "value": "离确定起始等级\\n还有<size=80> {0} </size>次匹配"
+        "value": "离确定起始等级\\n还有<size=80> {0} <\/size>次匹配"
     },
     {
         "wordingKey": "Word_Custom_2794",
@@ -9737,7 +9737,7 @@
     },
     {
         "wordingKey": "Word_Custom_280",
-        "value": "<color=#AAAAAAFF>0</color><color=#FF5599FF>00000000000000</color>"
+        "value": "<color=#AAAAAAFF>0<\/color><color=#FF5599FF>00000000000000<\/color>"
     },
     {
         "wordingKey": "Word_Custom_281",
@@ -9745,7 +9745,7 @@
     },
     {
         "wordingKey": "Word_Custom_282",
-        "value": "<color=#AAAAAAFF>0</color><color=#FF5599FF>00000000000000</color>"
+        "value": "<color=#AAAAAAFF>0<\/color><color=#FF5599FF>00000000000000<\/color>"
     },
     {
         "wordingKey": "Word_Custom_283",
@@ -9817,7 +9817,7 @@
     },
     {
         "wordingKey": "Word_Custom_30",
-        "value": "--/--"
+        "value": "--\/--"
     },
     {
         "wordingKey": "Word_Custom_300",
@@ -10181,7 +10181,7 @@
     },
     {
         "wordingKey": "Word_Custom_393",
-        "value": "<size=45>15</size>/20"
+        "value": "<size=45>15<\/size>\/20"
     },
     {
         "wordingKey": "Word_Custom_394",
@@ -10189,7 +10189,7 @@
     },
     {
         "wordingKey": "Word_Custom_395",
-        "value": "12/31 15:30"
+        "value": "12\/31 15:30"
     },
     {
         "wordingKey": "Word_Custom_396",
@@ -10241,7 +10241,7 @@
     },
     {
         "wordingKey": "Word_Custom_407",
-        "value": "12/30（三）～12/30（三）"
+        "value": "12\/30（三）～12\/30（三）"
     },
     {
         "wordingKey": "Word_Custom_408",
@@ -10309,7 +10309,7 @@
     },
     {
         "wordingKey": "Word_Custom_427",
-        "value": "10/200"
+        "value": "10\/200"
     },
     {
         "wordingKey": "Word_Custom_429",
@@ -10397,19 +10397,19 @@
     },
     {
         "wordingKey": "Word_Custom_454",
-        "value": "12/12\\n23时左右"
+        "value": "12\/12\\n23时左右"
     },
     {
         "wordingKey": "Word_Custom_455",
-        "value": "12/12\\n23时左右"
+        "value": "12\/12\\n23时左右"
     },
     {
         "wordingKey": "Word_Custom_456",
-        "value": "12/30（三）～12/30（三）"
+        "value": "12\/30（三）～12\/30（三）"
     },
     {
         "wordingKey": "Word_Custom_457",
-        "value": "12/30（三）～12/30（三）"
+        "value": "12\/30（三）～12\/30（三）"
     },
     {
         "wordingKey": "Word_Custom_458",
@@ -10429,7 +10429,7 @@
     },
     {
         "wordingKey": "Word_Custom_461",
-        "value": "<color=#AAAAAAFF>0</color><color=#FF5599FF>00000000000000</color>"
+        "value": "<color=#AAAAAAFF>0<\/color><color=#FF5599FF>00000000000000<\/color>"
     },
     {
         "wordingKey": "Word_Custom_462",
@@ -10437,7 +10437,7 @@
     },
     {
         "wordingKey": "Word_Custom_463",
-        "value": "<color=#AAAAAAFF>0</color><color=#FF5599FF>00000000000000</color>"
+        "value": "<color=#AAAAAAFF>0<\/color><color=#FF5599FF>00000000000000<\/color>"
     },
     {
         "wordingKey": "Word_Custom_464",
@@ -10461,11 +10461,11 @@
     },
     {
         "wordingKey": "Word_Custom_469",
-        "value": "--/---"
+        "value": "--\/---"
     },
     {
         "wordingKey": "Word_Custom_47",
-        "value": "正在等待其他玩家……(3/5)"
+        "value": "正在等待其他玩家……(3\/5)"
     },
     {
         "wordingKey": "Word_Custom_470",
@@ -10553,7 +10553,7 @@
     },
     {
         "wordingKey": "Word_Custom_49",
-        "value": "12/31 15:30"
+        "value": "12\/31 15:30"
     },
     {
         "wordingKey": "Word_Custom_490",
@@ -10701,7 +10701,7 @@
     },
     {
         "wordingKey": "Word_Custom_83",
-        "value": "32/32"
+        "value": "32\/32"
     },
     {
         "wordingKey": "Word_Custom_84",
@@ -10717,7 +10717,7 @@
     },
     {
         "wordingKey": "Word_Custom_87",
-        "value": "--/--"
+        "value": "--\/--"
     },
     {
         "wordingKey": "Word_Custom_88",
@@ -10745,7 +10745,7 @@
     },
     {
         "wordingKey": "Word_Custom_98",
-        "value": "12/30（三）～12/30（三）"
+        "value": "12\/30（三）～12\/30（三）"
     },
     {
         "wordingKey": "Word_Custom_980",
@@ -10813,7 +10813,7 @@
     },
     {
         "wordingKey": "Word_Custom_996",
-        "value": "结果将于所有演出结束后公布，\\n10/1 01:00"
+        "value": "结果将于所有演出结束后公布，\\n10\/1 01:00"
     },
     {
         "wordingKey": "Word_Custom_997",
@@ -10845,15 +10845,15 @@
     },
     {
         "wordingKey": "WORD_CUSTOM_PROFILE_LAYER_MAX_FORMAT",
-        "value": "<color=#ff5588>{0}/{1}</color>"
+        "value": "<color=#ff5588>{0}\/{1}<\/color>"
     },
     {
         "wordingKey": "WORD_CUSTOM_PROFILE_LAYER_NUM_FORMAT",
-        "value": "{0}/{1}"
+        "value": "{0}\/{1}"
     },
     {
         "wordingKey": "WORD_CUSTOM_PROFILE_SELECT_CONTENT_FORMAT",
-        "value": "<color=#ff5588>{0}</color>"
+        "value": "<color=#ff5588>{0}<\/color>"
     },
     {
         "wordingKey": "WORD_CUSTOM_PROFILE_SELECT_CONTENT_TYPE_DIALOG_TITLE",
@@ -11185,7 +11185,7 @@
     },
     {
         "wordingKey": "WORD_END_AT_FORMAT",
-        "value": "至{0}/{1:00}/{2:00} {3:00}:{4:00}为止"
+        "value": "至{0}\/{1:00}\/{2:00} {3:00}:{4:00}为止"
     },
     {
         "wordingKey": "WORD_ENTER_LIMIT",
@@ -11501,7 +11501,7 @@
     },
     {
         "wordingKey": "WORD_EXCHANGE_LIMIT_FORMAT",
-        "value": "{0}/{1:00}/{2:00} {3:00}:{4:00}"
+        "value": "{0}\/{1:00}\/{2:00} {3:00}:{4:00}"
     },
     {
         "wordingKey": "WORD_EXCHANGE_SELECT_ALL_MEMBER",
@@ -11537,7 +11537,7 @@
     },
     {
         "wordingKey": "WORD_EX_CHARACTER_MISSION_ADD_COMPLETE",
-        "value": "已累计<color=#FF77AA>{1}</color>次到“{0}”EX任务。"
+        "value": "已累计<color=#FF77AA>{1}<\/color>次到“{0}”EX任务。"
     },
     {
         "wordingKey": "WORD_EX_CHARACTER_MISSION_INFORMATION_DIALOG_TITLE",
@@ -11597,7 +11597,7 @@
     },
     {
         "wordingKey": "WORD_FAST_LATE_FLICK",
-        "value": "LATE/FAST/FLICK"
+        "value": "LATE\/FAST\/FLICK"
     },
     {
         "wordingKey": "WORD_FAVORITE",
@@ -11725,7 +11725,7 @@
     },
     {
         "wordingKey": "Word_FriendInvitationCampaign_Web",
-        "value": "https://lf26-cdn-tos.draftstatic.com/obj/ies-hotsoon-draft/GSDK/62fb2802-77f9-493f-9874-1d76c5feef47.html"
+        "value": "https:\/\/lf26-cdn-tos.draftstatic.com\/obj\/ies-hotsoon-draft\/GSDK\/62fb2802-77f9-493f-9874-1d76c5feef47.html"
     },
     {
         "wordingKey": "WORD_FRIEND_BLOCKING",
@@ -11741,11 +11741,11 @@
     },
     {
         "wordingKey": "WORD_FRIEND_INVITE",
-        "value": "<color=#ff5599>{0}</color>发来了演出邀请。"
+        "value": "<color=#ff5599>{0}<\/color>发来了演出邀请。"
     },
     {
         "wordingKey": "WORD_FRIEND_INVITE_CAMPAIGN_DETAIL_JSON",
-        "value": "{\n\"title\": \"[3周年纪念]欢迎来到「世界」大作战！！\",\n\"list\" : [\n{\n\"head\" : \"■举办时间 \",\n\"desc\" : \"【活动举办时间】9/30 00:00 ～ 11/24 23:59\n【任务达成奖励领取时间】9/30 00:00 ～ 11/02 23:59\n【[邀请朋友]★4成员必出招募举办时间】9/30 00:00 ～ 11/22 23:59\"\n},\n{\n\"head\" : \"■任务进行方式\",\n\"desc\" : \" ▼关于邀请者\n当邀请的朋友完成邀请任务后，你就能获得DELUXE奖励。\n【参加对象】在9/30 0:00前完成教学关卡的玩家\n【活动流程】\n[1] 把邀请活动界面中的邀请码告诉你的朋友！\n[2] 只要你的朋友输入邀请码并完成全部邀请任务，你就能获得奖励！\n\n■任务进行方式\n▼关于邀请者\n当邀请的朋友完成邀请任务后，你就能获得DELUXE奖励。\n\n\n【奖励】\n第1人的完成奖励\n·首次限定：[邀请朋友]★4成员必出招募券×1\n\n第2～10人的完成奖励\n·每当有1人完成任务 心愿碎片×50\n\n*在本活动中获得过首发限定奖励后，下次邀请活动时可获得的奖励可能会不同。\n\n▼关于受邀者\n完成邀请任务，根据完成进度获得DELUXE奖励。\n\n【参加对象】\n在9/30 00:00以后完成教学关卡的玩家\n\n【活动流程】\n[1] 让正在游玩 《初音未来：缤纷舞台》的朋友告诉你邀请码，在邀请活动界面输入邀请码！\n[2] 不使用跳过或快进功能观看各个组合的主线剧情！\n\n【奖励】\n看完1个组合的主线剧情\n·心愿碎片×300\n\n看完1个组合的主线剧情\n·水晶×300\n\n看完1个组合的主线剧情\n·[邀请朋友]★4成员必出招募券×1\n\"\n},\n{\n\"head\" : \" ■关于[邀请朋友]★4成员必出招募\",\n\"desc\" : \" 是使用[邀请朋友]★4成员必出招募券的专用招募。\n使用1张[邀请朋友]★4成员必出招募券可招募1次。\n使用1张[邀请朋友]★4成员必出招募券招募，必定获得1名★4成员。\n出现的★4成员为在2024/9/20 15:00以前的招募中登场过的常规成员。\n*不会出现缤纷节日限定成员、限时成员、生日成员、纪念日成员、联动限定成员。\n[邀请朋友]★4成员必出招募仅在持有该招募票券时会出现在招募界面。\"\n},\n{\n\"head\" : \" ■注意事项\",\n\"desc\" : \" ·活动时间可能会在未提前通知的情况下发生改变。\n·获得的“[邀请朋友]★4成员必出招募券”，将无法在以后举办的“[邀请朋友]★4成员必出招募”中使用。\n·在本活动中获得过首发限定奖励后，下次邀请活动时可获得的奖励可能会不同。\n·当受邀玩家完成所有邀请任务后，发出邀请的玩家会收到该玩家看完哪个组合剧情的通知。\n·请注意，如果超过任务完成奖励领取时间，将无法领取任务奖励。\"\n},\n]\n}"
+        "value": "{\n\"title\": \"[3周年纪念]欢迎来到「世界」大作战！！\",\n\"list\" : [\n{\n\"head\" : \"■举办时间 \",\n\"desc\" : \"【活动举办时间】9\/30 00:00 ～ 11\/24 23:59\n【任务达成奖励领取时间】9\/30 00:00 ～ 11\/02 23:59\n【[邀请朋友]★4成员必出招募举办时间】9\/30 00:00 ～ 11\/22 23:59\"\n},\n{\n\"head\" : \"■任务进行方式\",\n\"desc\" : \" ▼关于邀请者\n当邀请的朋友完成邀请任务后，你就能获得DELUXE奖励。\n【参加对象】在9\/30 0:00前完成教学关卡的玩家\n【活动流程】\n[1] 把邀请活动界面中的邀请码告诉你的朋友！\n[2] 只要你的朋友输入邀请码并完成全部邀请任务，你就能获得奖励！\n\n■任务进行方式\n▼关于邀请者\n当邀请的朋友完成邀请任务后，你就能获得DELUXE奖励。\n\n\n【奖励】\n第1人的完成奖励\n·首次限定：[邀请朋友]★4成员必出招募券×1\n\n第2～10人的完成奖励\n·每当有1人完成任务 心愿碎片×50\n\n*在本活动中获得过首发限定奖励后，下次邀请活动时可获得的奖励可能会不同。\n\n▼关于受邀者\n完成邀请任务，根据完成进度获得DELUXE奖励。\n\n【参加对象】\n在9\/30 00:00以后完成教学关卡的玩家\n\n【活动流程】\n[1] 让正在游玩 《初音未来：缤纷舞台》的朋友告诉你邀请码，在邀请活动界面输入邀请码！\n[2] 不使用跳过或快进功能观看各个组合的主线剧情！\n\n【奖励】\n看完1个组合的主线剧情\n·心愿碎片×300\n\n看完1个组合的主线剧情\n·水晶×300\n\n看完1个组合的主线剧情\n·[邀请朋友]★4成员必出招募券×1\n\"\n},\n{\n\"head\" : \" ■关于[邀请朋友]★4成员必出招募\",\n\"desc\" : \" 是使用[邀请朋友]★4成员必出招募券的专用招募。\n使用1张[邀请朋友]★4成员必出招募券可招募1次。\n使用1张[邀请朋友]★4成员必出招募券招募，必定获得1名★4成员。\n出现的★4成员为在2024\/9\/20 15:00以前的招募中登场过的常规成员。\n*不会出现缤纷节日限定成员、限时成员、生日成员、纪念日成员、联动限定成员。\n[邀请朋友]★4成员必出招募仅在持有该招募票券时会出现在招募界面。\"\n},\n{\n\"head\" : \" ■注意事项\",\n\"desc\" : \" ·活动时间可能会在未提前通知的情况下发生改变。\n·获得的“[邀请朋友]★4成员必出招募券”，将无法在以后举办的“[邀请朋友]★4成员必出招募”中使用。\n·在本活动中获得过首发限定奖励后，下次邀请活动时可获得的奖励可能会不同。\n·当受邀玩家完成所有邀请任务后，发出邀请的玩家会收到该玩家看完哪个组合剧情的通知。\n·请注意，如果超过任务完成奖励领取时间，将无法领取任务奖励。\"\n},\n]\n}"
     },
     {
         "wordingKey": "WORD_FRIEND_INVITE_CODE",
@@ -11809,7 +11809,7 @@
     },
     {
         "wordingKey": "WORD_FRIEND_NOTICE_REQUEST",
-        "value": "<color=#ff5599>{0}</color>发来了\n好友申请。"
+        "value": "<color=#ff5599>{0}<\/color>发来了\n好友申请。"
     },
     {
         "wordingKey": "WORD_FRIEND_NOTICE_REQUEST_MESSAGE",
@@ -12021,7 +12021,7 @@
     },
     {
         "wordingKey": "WORD_GET_COSTUME_DIALOG",
-        "value": "{0} {1}\n\n<color={2}>{3}</color>"
+        "value": "{0} {1}\n\n<color={2}>{3}<\/color>"
     },
     {
         "wordingKey": "WORD_GET_EXCLAMATION_MARK",
@@ -12357,7 +12357,7 @@
     },
     {
         "wordingKey": "WORD_GUIDE_URL",
-        "value": "https://lf3-cdn-tos.draftstatic.com/obj/ies-hotsoon-draft/pjsk/9fe86079-15d1-47b8-92e6-4bed244d3276.html"
+        "value": "https:\/\/lf3-cdn-tos.draftstatic.com\/obj\/ies-hotsoon-draft\/pjsk\/9fe86079-15d1-47b8-92e6-4bed244d3276.html"
     },
     {
         "wordingKey": "WORD_HAIR",
@@ -12385,15 +12385,15 @@
     },
     {
         "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_1",
-        "value": "·“<color=#FF3366>{0} {1}</color>”的专家等级提升到2后即可解锁发型。"
+        "value": "·“<color=#FF3366>{0} {1}<\/color>”的专家等级提升到2后即可解锁发型。"
     },
     {
         "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_2",
-        "value": "·“<color=#FF3366>{0}</color>”为<color=#FF3366>{1}</color>的专属发型。"
+        "value": "·“<color=#FF3366>{0}<\/color>”为<color=#FF3366>{1}<\/color>的专属发型。"
     },
     {
         "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_3",
-        "value": "·“<color=#FF3366>{0}</color>”无法与部分专用饰品同时设置。"
+        "value": "·“<color=#FF3366>{0}<\/color>”无法与部分专用饰品同时设置。"
     },
     {
         "wordingKey": "WORD_HAIR_TYPE",
@@ -12781,7 +12781,7 @@
     },
     {
         "wordingKey": "WORD_LEVEL_FORMAT",
-        "value": "Lv. {0}/<size=24>{1}</size>"
+        "value": "Lv. {0}\/<size=24>{1}<\/size>"
     },
     {
         "wordingKey": "WORD_LEVEL_UP",
@@ -13161,7 +13161,7 @@
     },
     {
         "wordingKey": "WORD_MASTER_LESSON_MATERIAL_EXCHANGE_NEXT_REFRESH",
-        "value": "重置为{0}/{1} {2}:{3}"
+        "value": "重置为{0}\/{1} {2}:{3}"
     },
     {
         "wordingKey": "WORD_MASTER_LESSON_MATERIAL_EXCHANGE_REMAINING_NUM",
@@ -13273,7 +13273,7 @@
     },
     {
         "wordingKey": "WORD_MEMBER_EXCHANGE_CONFIRM_SHOP",
-        "value": "已经获得该成员，是否继续兑换？\n<color=#ff5588>*获得过的成员将被送至休息室。</color>"
+        "value": "已经获得该成员，是否继续兑换？\n<color=#ff5588>*获得过的成员将被送至休息室。<\/color>"
     },
     {
         "wordingKey": "WORD_MEMBER_EXCHANGE_SHOP",
@@ -13393,7 +13393,7 @@
     },
     {
         "wordingKey": "WORD_MISSION_PROGRESS_FORMAT",
-        "value": "{0}/{1}"
+        "value": "{0}\/{1}"
     },
     {
         "wordingKey": "WORD_MISSION_START",
@@ -13885,11 +13885,11 @@
     },
     {
         "wordingKey": "Word_MusicName_65",
-        "value": "Leo/need的歌曲C"
+        "value": "Leo\/need的歌曲C"
     },
     {
         "wordingKey": "Word_MusicName_66",
-        "value": "Hello/How are you"
+        "value": "Hello\/How are you"
     },
     {
         "wordingKey": "Word_MusicName_67",
@@ -14609,7 +14609,7 @@
     },
     {
         "wordingKey": "WORD_PAIDVIRTUALLIVE_WEB",
-        "value": "https://lf3-cdn-tos.draftstatic.com/obj/ies-hotsoon-draft/GSDK/abcb24ef-8ef3-40eb-9339-416dd846d94a_zh-TW.html"
+        "value": "https:\/\/lf3-cdn-tos.draftstatic.com\/obj\/ies-hotsoon-draft\/GSDK\/abcb24ef-8ef3-40eb-9339-416dd846d94a_zh-TW.html"
     },
     {
         "wordingKey": "WORD_PAID_CHARGE",
@@ -14645,7 +14645,7 @@
     },
     {
         "wordingKey": "WORD_PAMPHLET_PAGE_NUM",
-        "value": "{0}/{1}"
+        "value": "{0}\/{1}"
     },
     {
         "wordingKey": "WORD_PANELGUIDE_BUTTONTEXT_01",
@@ -14937,7 +14937,7 @@
     },
     {
         "wordingKey": "WORD_PRACTICE_LEVEL_FORMAT",
-        "value": "{0}/<size=24>{1}</size>"
+        "value": "{0}\/<size=24>{1}<\/size>"
     },
     {
         "wordingKey": "WORD_PRACTICE_LEVEL_MAX",
@@ -14949,7 +14949,7 @@
     },
     {
         "wordingKey": "WORD_PREFIX_SPIN_COLLECTION_GACHA",
-        "value": "<size=28>打开</size>{0}次"
+        "value": "<size=28>打开<\/size>{0}次"
     },
     {
         "wordingKey": "WORD_PREMIUM",
@@ -15129,7 +15129,7 @@
     },
     {
         "wordingKey": "WORD_RANK_CLASS_POINT_FORMAT",
-        "value": "×<color=#bb99ff>{0}</color>"
+        "value": "×<color=#bb99ff>{0}<\/color>"
     },
     {
         "wordingKey": "WORD_RANK_LIVE_FIND_OPPONENT_FIX_BUTTON_LABEL",
@@ -15237,7 +15237,7 @@
     },
     {
         "wordingKey": "WORD_RECOMMENDED_NOTE_CN",
-        "value": "<color=#FF3366>新手推荐音符速度为“7.0”到“9.0”。</color>"
+        "value": "<color=#FF3366>新手推荐音符速度为“7.0”到“9.0”。<\/color>"
     },
     {
         "wordingKey": "Word_RecommendSettingCancel",
@@ -15249,7 +15249,7 @@
     },
     {
         "wordingKey": "Word_RecommendSettingContent",
-        "value": "根据本设备性能，推荐设置画质为：\n模式：<color=#FF5599>{0}</color>\n3DMV品质设置：<color=#FF5599>{1}</color>\n虚拟演唱会画质：<color=#FF5599>{2}</color>\n是否使用推荐的设置？\n \n*进入游戏后可在选项中更改画质设置"
+        "value": "根据本设备性能，推荐设置画质为：\n模式：<color=#FF5599>{0}<\/color>\n3DMV品质设置：<color=#FF5599>{1}<\/color>\n虚拟演唱会画质：<color=#FF5599>{2}<\/color>\n是否使用推荐的设置？\n \n*进入游戏后可在选项中更改画质设置"
     },
     {
         "wordingKey": "Word_RecommendSettingDialog_content",
@@ -15681,7 +15681,7 @@
     },
     {
         "wordingKey": "WORD_SEKAI_ECHO_SUPPORT",
-        "value": "{\n  \"title\": \"「世界」的回响\",\n  \"list\": [\n    {\n      \"head\": \" \",\n      \"desc\": \"·“「世界」的回响”不会收录混合成员活动、连接「世界」活动。\\n·“「世界」的回响”将持续收录后续上线的组合成员活动。\\n·3月27日后上线的组合成员活动，将于4.0版本更新后收录。\\n·3月27日后上线的组合成员活动，不支持称号升级。\"\n    },\n    {\n      \"head\": \"■活动卡片与卡片任务\",\n      \"desc\": \"\\n·活动卡片收录了当期活动对应的物料，可通过活动卡片快速前往相关任务或查看物料的获取信息。\\n·“「世界」的回响”收录的每期活动都有对应的活动卡片任务，完成活动卡片任务即可解锁“CLEAR/COMPLETE”状态，并获得活动卡片的相关奖励。\\n·关于神代类的“惜别谢幕”活动，由于对应活动歌曲空缺，可通过游玩歌曲《变身土豆》、《Showtime Ruler》、《サイバーパンクデッドボーイ》中的任一首来积累任务进度。\"\n    },\n    {\n      \"head\": \"■称号升级与称号升级任务\",\n      \"desc\": \"\\n·往期组合成员活动的称号可通过完成称号升级任务，晋升到“纪念”、“初芒”、“闪耀”等级。\\n·每期组合成员活动称号的回响点数不互通，各等级之间的回响点数可被继承。\\n·完成活动卡片任务获取的回响点数，需要前往称号升级界面使用。\\n·关于神代类的“惜别谢幕”活动，由于对应活动歌曲空缺，可通过游玩歌曲《变身土豆》、《Showtime Ruler》、《サイバーパンクデッドボーイ》中的任一首来积累任务进度。\"\n    }\n  ]\n}"
+        "value": "{\n  \"title\": \"「世界」的回响\",\n  \"list\": [\n    {\n      \"head\": \" \",\n      \"desc\": \"·“「世界」的回响”不会收录混合成员活动、连接「世界」活动。\\n·“「世界」的回响”将持续收录后续上线的组合成员活动。\\n·3月27日后上线的组合成员活动，将于4.0版本更新后收录。\\n·3月27日后上线的组合成员活动，不支持称号升级。\"\n    },\n    {\n      \"head\": \"■活动卡片与卡片任务\",\n      \"desc\": \"\\n·活动卡片收录了当期活动对应的物料，可通过活动卡片快速前往相关任务或查看物料的获取信息。\\n·“「世界」的回响”收录的每期活动都有对应的活动卡片任务，完成活动卡片任务即可解锁“CLEAR\/COMPLETE”状态，并获得活动卡片的相关奖励。\\n·关于神代类的“惜别谢幕”活动，由于对应活动歌曲空缺，可通过游玩歌曲《变身土豆》、《Showtime Ruler》、《サイバーパンクデッドボーイ》中的任一首来积累任务进度。\"\n    },\n    {\n      \"head\": \"■称号升级与称号升级任务\",\n      \"desc\": \"\\n·往期组合成员活动的称号可通过完成称号升级任务，晋升到“纪念”、“初芒”、“闪耀”等级。\\n·每期组合成员活动称号的回响点数不互通，各等级之间的回响点数可被继承。\\n·完成活动卡片任务获取的回响点数，需要前往称号升级界面使用。\\n·关于神代类的“惜别谢幕”活动，由于对应活动歌曲空缺，可通过游玩歌曲《变身土豆》、《Showtime Ruler》、《サイバーパンクデッドボーイ》中的任一首来积累任务进度。\"\n    }\n  ]\n}"
     },
     {
         "wordingKey": "WORD_SEKAI_ECHO_UNIT_STORY_25",
@@ -15985,11 +15985,11 @@
     },
     {
         "wordingKey": "WORD_SHOP_PRICE",
-        "value": "<color={0}>{1}元</color>"
+        "value": "<color={0}>{1}元<\/color>"
     },
     {
         "wordingKey": "WORD_SHOP_PRICE_DESC",
-        "value": "<color={0}>{1}</color>"
+        "value": "<color={0}>{1}<\/color>"
     },
     {
         "wordingKey": "WORD_SHOP_PURCHASE",
@@ -16353,7 +16353,7 @@
     },
     {
         "wordingKey": "WORD_STOP_PERIOD",
-        "value": "停止期间 {0}/{1:00}/{2:00} {3:00}:{4:00}为止"
+        "value": "停止期间 {0}\/{1:00}\/{2:00} {3:00}:{4:00}为止"
     },
     {
         "wordingKey": "WORD_STORY",
@@ -16445,7 +16445,7 @@
     },
     {
         "wordingKey": "WORD_SUDOKU_MISSION_PROGRESS",
-        "value": "（{0}/{1}）"
+        "value": "（{0}\/{1}）"
     },
     {
         "wordingKey": "WORD_SUDOKU_TIP",
@@ -16569,11 +16569,11 @@
     },
     {
         "wordingKey": "WORD_TIME_LIMIT_FROAMT",
-        "value": "{0}/{1:00}/{2:00} {3:00}:{4:00}为止"
+        "value": "{0}\/{1:00}\/{2:00} {3:00}:{4:00}为止"
     },
     {
         "wordingKey": "WORD_TIME_LIMIT_RANGE_FORMAT",
-        "value": "{0}/{1:00}/{2:00} {3:00}:{4:00} ~ {5}/{6:00}/{7:00} {8:00}:{9:00}"
+        "value": "{0}\/{1:00}\/{2:00} {3:00}:{4:00} ~ {5}\/{6:00}\/{7:00} {8:00}:{9:00}"
     },
     {
         "wordingKey": "WORD_TIME_TO_APPEARANCE",
@@ -17161,7 +17161,7 @@
     },
     {
         "wordingKey": "WORD_VIRTUAL_LIVE_TUTORIAL_ZOOM",
-        "value": "两指按住屏幕靠拢/伸开，\n就能缩小/放大哦！"
+        "value": "两指按住屏幕靠拢\/伸开，\n就能缩小\/放大哦！"
     },
     {
         "wordingKey": "WORD_VIRTUAL_LIVE_UPDATE_AVATAR",
@@ -17405,7 +17405,7 @@
     },
     {
         "wordingKey": "WORD_WORLD_BLOOM_CHAPTER_DATE_PERIOD",
-        "value": "{0:MM/dd HH:mm} ～ {1:MM/dd HH:mm}为止"
+        "value": "{0:MM\/dd HH:mm} ～ {1:MM\/dd HH:mm}为止"
     },
     {
         "wordingKey": "WORD_WORLD_BLOOM_CHAPTER_ENG",
