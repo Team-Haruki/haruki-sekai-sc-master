@@ -1636,7 +1636,7 @@
     },
     {
         "id": 15,
-        "description": "{{44;d}}秒内，得分提高{{44;v}}%。\n 除自身以外，每编组1名“Leo/need”成员，得分提高{{44;e}}%，若所有成员所属组合相同则再提高{{44;e}}%（最多{{44;m}}%）。",
+        "description": "{{44;d}}秒内，得分提高{{44;v}}%。\n 除自身以外，每编组1名“Leo\/need”成员，得分提高{{44;e}}%，若所有成员所属组合相同则再提高{{44;e}}%（最多{{44;m}}%）。",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [
