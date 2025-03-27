@@ -3,7 +3,7 @@
         "id": 1,
         "sekaiEchoMissionType": "read_main_story",
         "seq": 1,
-        "sentence": "阅读完成一个团体的主线剧情吧。",
+        "sentence": "不使用跳过或快进功能，观看任意组合的全部主线剧情。",
         "requirement": 1,
         "rewards": [
             {
@@ -15,7 +15,7 @@
         "id": 2,
         "sekaiEchoMissionType": "read_character_box_story",
         "seq": 2,
-        "sentence": "阅读完成一个角色的第一学年全部关键剧情吧。",
+        "sentence": "不使用跳过或快进功能，观看任意角色第一学年的关键剧情。",
         "requirement": 1,
         "rewards": [
             {
@@ -27,7 +27,7 @@
         "id": 3,
         "sekaiEchoMissionType": "read_unit_box_story",
         "seq": 3,
-        "sentence": "阅读完成一个团体的第一学年关键剧情吧。",
+        "sentence": "不使用跳过或快进功能，观看任意组合第一学年的关键剧情。",
         "requirement": 1,
         "rewards": [
             {
@@ -39,7 +39,7 @@
         "id": 4,
         "sekaiEchoMissionType": "get_box_story_honor_stamp",
         "seq": 4,
-        "sentence": "获得某个关键剧情的称号和贴图吧。（贴图参加虚拟live后获得）",
+        "sentence": "获得1个关键剧情的称号和表情。（可通过参加虚拟演唱会获得。）",
         "requirement": 1,
         "rewards": [
             {
@@ -51,7 +51,7 @@
         "id": 5,
         "sekaiEchoMissionType": "clear_event_music",
         "seq": 5,
-        "sentence": "从本活动页面游玩一次活动歌曲吧。",
+        "sentence": "从本活动入口进入任意剧情界面，参加1次“活动创作歌曲”的演唱会。",
         "requirement": 1,
         "rewards": [
             {
@@ -63,7 +63,7 @@
         "id": 6,
         "sekaiEchoMissionType": "read_graph",
         "seq": 6,
-        "sentence": "观看某个团体的角色关系图吧。",
+        "sentence": "观看任意组合的角色关系图。",
         "requirement": 1,
         "rewards": [
             {
@@ -75,7 +75,7 @@
         "id": 7,
         "sekaiEchoMissionType": "read_all_pv",
         "seq": 7,
-        "sentence": "观看某个团体的PV吧。",
+        "sentence": "观看所有组合的PV。",
         "requirement": 1,
         "rewards": [
             {
