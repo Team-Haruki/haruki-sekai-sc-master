@@ -5,7 +5,7 @@
         "seq": 3,
         "name": "综合力",
         "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile/ContentView/General",
+        "resourceLoadVal": "CustomProfile\/ContentView\/General",
         "fileName": "TotalPower"
     },
     {
@@ -14,7 +14,7 @@
         "seq": 9,
         "name": "主要组合",
         "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile/ContentView/General",
+        "resourceLoadVal": "CustomProfile\/ContentView\/General",
         "fileName": "Deck"
     },
     {
@@ -23,7 +23,7 @@
         "seq": 2,
         "name": "个性签名",
         "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile/ContentView/General",
+        "resourceLoadVal": "CustomProfile\/ContentView\/General",
         "fileName": "Comment"
     },
     {
@@ -32,7 +32,7 @@
         "seq": 4,
         "name": "队长成员",
         "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile/ContentView/General",
+        "resourceLoadVal": "CustomProfile\/ContentView\/General",
         "fileName": "LeaderCard"
     },
     {
@@ -41,7 +41,7 @@
         "seq": 8,
         "name": "称号",
         "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile/ContentView/General",
+        "resourceLoadVal": "CustomProfile\/ContentView\/General",
         "fileName": "HonorDeck"
     },
     {
@@ -50,7 +50,7 @@
         "seq": 5,
         "name": "MVP\nSUPERSTAR",
         "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile/ContentView/General",
+        "resourceLoadVal": "CustomProfile\/ContentView\/General",
         "fileName": "MultiLive"
     },
     {
@@ -59,7 +59,7 @@
         "seq": 11,
         "name": "挑战演出",
         "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile/ContentView/General",
+        "resourceLoadVal": "CustomProfile\/ContentView\/General",
         "fileName": "ChallengeLive"
     },
     {
@@ -68,7 +68,7 @@
         "seq": 6,
         "name": "角色等级·挑战舞台",
         "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile/ContentView/General",
+        "resourceLoadVal": "CustomProfile\/ContentView\/General",
         "fileName": "CharacterRankAndChallengeStage",
         "groupId": 1
     },
@@ -78,7 +78,7 @@
         "seq": 10,
         "name": "歌曲信息",
         "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile/ContentView/General",
+        "resourceLoadVal": "CustomProfile\/ContentView\/General",
         "fileName": "MusicClearInfo",
         "groupId": 2
     },
@@ -88,7 +88,7 @@
         "seq": 1,
         "name": "玩家名称",
         "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile/ContentView/General",
+        "resourceLoadVal": "CustomProfile\/ContentView\/General",
         "fileName": "EditUserName"
     },
     {
@@ -97,7 +97,7 @@
         "seq": 12,
         "name": "最喜欢的剧情",
         "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile/ContentView/General",
+        "resourceLoadVal": "CustomProfile\/ContentView\/General",
         "fileName": "StoryFavorite"
     },
     {
@@ -106,7 +106,7 @@
         "seq": 98,
         "name": "角色等级·挑战舞台",
         "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile/ContentView/General",
+        "resourceLoadVal": "CustomProfile\/ContentView\/General",
         "fileName": "CharacterRankAndChallengeStageScroll",
         "groupId": 1
     },
@@ -116,7 +116,7 @@
         "seq": 99,
         "name": "歌曲信息",
         "resourceLoadType": "prefab",
-        "resourceLoadVal": "CustomProfile/ContentView/General",
+        "resourceLoadVal": "CustomProfile\/ContentView\/General",
         "fileName": "MusicClearSelectTabInfo",
         "groupId": 2
     }
