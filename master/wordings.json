@@ -12084,8 +12084,16 @@
         "value": "前往商店"
     },
     {
+        "wordingKey": "WORD_GO_ANOTHER_VOCAL_SCENE",
+        "value": "前往Another Vocal商店"
+    },
+    {
         "wordingKey": "WORD_GO_ANOTHER_VO_SHOP",
         "value": "前往Another Vocal\n商店"
+    },
+    {
+        "wordingKey": "WORD_GO_ARCHIVE_EVENT",
+        "value": "前往剧情"
     },
     {
         "wordingKey": "WORD_GO_AREA",
@@ -12094,6 +12102,10 @@
     {
         "wordingKey": "WORD_GO_AREA_SHOP",
         "value": "前往区域道具商店"
+    },
+    {
+        "wordingKey": "WORD_GO_BOOST_RECOVERY",
+        "value": "前往体力设置"
     },
     {
         "wordingKey": "WORD_GO_CARD_LEVEL_UP",
@@ -12126,6 +12138,10 @@
     {
         "wordingKey": "WORD_GO_EVENT_EXCHANGE",
         "value": "前往兑换所"
+    },
+    {
+        "wordingKey": "WORD_GO_EVENT_MISSION",
+        "value": "前往任务"
     },
     {
         "wordingKey": "WORD_GO_EXCHANGE",
@@ -12168,6 +12184,10 @@
         "value": "前往成员一览"
     },
     {
+        "wordingKey": "WORD_GO_MEMBER_TOP",
+        "value": "前往成员"
+    },
+    {
         "wordingKey": "WORD_GO_MULTI_LIVE",
         "value": "前往多人演出"
     },
@@ -12180,8 +12200,16 @@
         "value": "前往MV"
     },
     {
+        "wordingKey": "WORD_GO_MYLIST",
+        "value": "前往我的歌单"
+    },
+    {
         "wordingKey": "WORD_GO_PRACTICE",
         "value": "前往练习"
+    },
+    {
+        "wordingKey": "WORD_GO_PRESENT",
+        "value": "前往礼物箱"
     },
     {
         "wordingKey": "WORD_GO_PROFILE",
@@ -12194,6 +12222,10 @@
     {
         "wordingKey": "WORD_GO_REAL_WORLD",
         "value": "前往现实世界"
+    },
+    {
+        "wordingKey": "WORD_GO_SEKAIECHO",
+        "value": "前往「世界」的回响"
     },
     {
         "wordingKey": "WORD_GO_SEKAI_AREA",

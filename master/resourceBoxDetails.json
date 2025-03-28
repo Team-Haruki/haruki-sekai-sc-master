@@ -341728,6 +341728,22 @@
         "resourceType": "material"
     },
     {
+        "resourceBoxId": 20029,
+        "resourceQuantity": 300,
+        "resourceId": null,
+        "resourceBoxPurpose": "gift_detail",
+        "resourceLevel": null,
+        "resourceType": "jewel"
+    },
+    {
+        "resourceBoxId": 20029,
+        "resourceQuantity": 2,
+        "resourceId": 2,
+        "resourceBoxPurpose": "gift_detail",
+        "resourceLevel": null,
+        "resourceType": "boost_item"
+    },
+    {
         "resourceBoxId": 9999999,
         "resourceQuantity": 1,
         "resourceId": 1,
