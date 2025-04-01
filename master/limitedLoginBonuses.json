@@ -66,5 +66,31 @@
                 "resourceBoxId": 2031
             }
         ]
+    },
+    {
+        "id": 1059,
+        "startAt": 1743710400000,
+        "endAt": 1744127999000,
+        "assetbundleName": "outinginspring_cn",
+        "limitedLoginBonusDetails": [
+            {
+                "id": 1170,
+                "limitedLoginBonusId": 1059,
+                "day": 1,
+                "resourceBoxId": 2033
+            },
+            {
+                "id": 1171,
+                "limitedLoginBonusId": 1059,
+                "day": 2,
+                "resourceBoxId": 2034
+            },
+            {
+                "id": 1172,
+                "limitedLoginBonusId": 1059,
+                "day": 3,
+                "resourceBoxId": 2035
+            }
+        ]
     }
 ]
