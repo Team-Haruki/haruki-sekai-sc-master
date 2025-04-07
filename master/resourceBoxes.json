@@ -86516,6 +86516,13 @@
         "assetbundleName": null,
         "resourceBoxPurpose": "gift_detail",
         "name": null,
+        "id": 20030,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gift_detail",
+        "name": null,
         "id": 9999999,
         "resourceBoxType": "expand"
     },
@@ -88522,6 +88529,48 @@
         "resourceBoxType": "expand"
     },
     {
+        "assetbundleName": "gacha_cos0060_01",
+        "resourceBoxPurpose": "master_lesson_reward",
+        "name": "狂热新年[其他颜色1]",
+        "id": 61,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": "gacha_cos0060_02",
+        "resourceBoxPurpose": "master_lesson_reward",
+        "name": "狂热新年[其他颜色2]",
+        "id": 62,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": "gacha_cos0060_03",
+        "resourceBoxPurpose": "master_lesson_reward",
+        "name": "狂热新年[其他颜色3]",
+        "id": 63,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": "gacha_cos0061_01",
+        "resourceBoxPurpose": "master_lesson_reward",
+        "name": "贺岁·卫衣[其他颜色1]",
+        "id": 64,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": "gacha_cos0061_02",
+        "resourceBoxPurpose": "master_lesson_reward",
+        "name": "贺岁·卫衣[其他颜色2]",
+        "id": 65,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": "gacha_cos0061_03",
+        "resourceBoxPurpose": "master_lesson_reward",
+        "name": "贺岁·卫衣[其他颜色3]",
+        "id": 66,
+        "resourceBoxType": "expand"
+    },
+    {
         "assetbundleName": "gacha_cos0062_01",
         "resourceBoxPurpose": "master_lesson_reward",
         "name": "神圣彩璃·温柔之心[其他颜色1]",
@@ -89996,6 +90045,27 @@
         "resourceBoxPurpose": "master_lesson_reward",
         "name": "古老的炼金术师[其他颜色3]",
         "id": 277,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": "gacha_cos0157_01",
+        "resourceBoxPurpose": "master_lesson_reward",
+        "name": "森林守护者[其他颜色1]",
+        "id": 278,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": "gacha_cos0157_02",
+        "resourceBoxPurpose": "master_lesson_reward",
+        "name": "森林守护者[其他颜色2]",
+        "id": 279,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": "gacha_cos0157_03",
+        "resourceBoxPurpose": "master_lesson_reward",
+        "name": "森林守护者[其他颜色3]",
+        "id": 280,
         "resourceBoxType": "expand"
     },
     {
