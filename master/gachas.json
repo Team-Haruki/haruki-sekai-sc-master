@@ -167867,7 +167867,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1315,
+                "id": 1316,
                 "gachaId": 236,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -172738,7 +172738,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1297,
+                "id": 1298,
                 "gachaId": 238,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -180428,7 +180428,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1298,
+                "id": 1299,
                 "gachaId": 246,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -185167,7 +185167,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1299,
+                "id": 1300,
                 "gachaId": 248,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -187957,7 +187957,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1300,
+                "id": 1301,
                 "gachaId": 251,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -195837,7 +195837,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1301,
+                "id": 1302,
                 "gachaId": 254,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -201031,7 +201031,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1302,
+                "id": 1303,
                 "gachaId": 258,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -204193,7 +204193,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1303,
+                "id": 1304,
                 "gachaId": 263,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -209400,7 +209400,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1304,
+                "id": 1305,
                 "gachaId": 265,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -214481,7 +214481,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1305,
+                "id": 1306,
                 "gachaId": 267,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -217449,7 +217449,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1306,
+                "id": 1307,
                 "gachaId": 270,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -222824,7 +222824,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1307,
+                "id": 1308,
                 "gachaId": 272,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -226279,7 +226279,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1308,
+                "id": 1309,
                 "gachaId": 277,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -231511,7 +231511,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1309,
+                "id": 1310,
                 "gachaId": 280,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -234577,7 +234577,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1310,
+                "id": 1311,
                 "gachaId": 283,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -240127,7 +240127,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1311,
+                "id": 1312,
                 "gachaId": 285,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -246131,7 +246131,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1312,
+                "id": 1313,
                 "gachaId": 291,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -249295,7 +249295,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1313,
+                "id": 1314,
                 "gachaId": 294,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -255316,7 +255316,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1314,
+                "id": 1315,
                 "gachaId": 298,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -303276,7 +303276,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1203,
+                "id": 1204,
                 "gachaId": 325,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -303284,12 +303284,12 @@
                 "spinCount": 1,
                 "executeLimit": 1,
                 "groupId": 1,
-                "priority": 1,
+                "priority": 2,
                 "resourceCategory": "consume_resource",
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1204,
+                "id": 1205,
                 "gachaId": 325,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -303302,7 +303302,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1205,
+                "id": 1206,
                 "gachaId": 325,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -303315,7 +303315,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1206,
+                "id": 1207,
                 "gachaId": 325,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -303327,7 +303327,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1207,
+                "id": 1208,
                 "gachaId": 325,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -303340,7 +303340,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1208,
+                "id": 1209,
                 "gachaId": 325,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -305045,7 +305045,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1209,
+                "id": 1210,
                 "gachaId": 326,
                 "gachaBehaviorType": "once_a_week",
                 "spinCount": 1,
@@ -305183,7 +305183,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1216,
+                "id": 1217,
                 "gachaId": 328,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -305196,7 +305196,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1217,
+                "id": 1218,
                 "gachaId": 328,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -305208,7 +305208,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1218,
+                "id": 1219,
                 "gachaId": 328,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -305221,7 +305221,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1219,
+                "id": 1220,
                 "gachaId": 328,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -305336,7 +305336,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1220,
+                "id": 1221,
                 "gachaId": 329,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -305349,7 +305349,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1221,
+                "id": 1222,
                 "gachaId": 329,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -305361,7 +305361,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1222,
+                "id": 1223,
                 "gachaId": 329,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -305374,7 +305374,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1223,
+                "id": 1224,
                 "gachaId": 329,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -308380,7 +308380,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1224,
+                "id": 1225,
                 "gachaId": 330,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -308391,7 +308391,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1225,
+                "id": 1226,
                 "gachaId": 330,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -308404,7 +308404,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1226,
+                "id": 1227,
                 "gachaId": 330,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -308417,7 +308417,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1227,
+                "id": 1228,
                 "gachaId": 330,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -308430,7 +308430,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1228,
+                "id": 1229,
                 "gachaId": 330,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -308442,7 +308442,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1229,
+                "id": 1230,
                 "gachaId": 330,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -308455,7 +308455,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1230,
+                "id": 1231,
                 "gachaId": 330,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -311489,7 +311489,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1231,
+                "id": 1232,
                 "gachaId": 331,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -311502,7 +311502,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1232,
+                "id": 1233,
                 "gachaId": 331,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -311515,7 +311515,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1233,
+                "id": 1234,
                 "gachaId": 331,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -311528,7 +311528,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1234,
+                "id": 1235,
                 "gachaId": 331,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -311540,7 +311540,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1235,
+                "id": 1236,
                 "gachaId": 331,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -311553,7 +311553,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1236,
+                "id": 1237,
                 "gachaId": 331,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -311669,7 +311669,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1237,
+                "id": 1238,
                 "gachaId": 332,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -311682,7 +311682,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1238,
+                "id": 1239,
                 "gachaId": 332,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -311694,7 +311694,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1239,
+                "id": 1240,
                 "gachaId": 332,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -311707,7 +311707,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1240,
+                "id": 1241,
                 "gachaId": 332,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -311815,7 +311815,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1241,
+                "id": 1242,
                 "gachaId": 333,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -311828,7 +311828,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1242,
+                "id": 1243,
                 "gachaId": 333,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -311840,7 +311840,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1243,
+                "id": 1244,
                 "gachaId": 333,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -311853,7 +311853,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1244,
+                "id": 1245,
                 "gachaId": 333,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -314880,7 +314880,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1245,
+                "id": 1246,
                 "gachaId": 334,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -314891,7 +314891,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1246,
+                "id": 1247,
                 "gachaId": 334,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -314904,7 +314904,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1247,
+                "id": 1248,
                 "gachaId": 334,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -314917,7 +314917,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1248,
+                "id": 1249,
                 "gachaId": 334,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -314930,7 +314930,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1249,
+                "id": 1250,
                 "gachaId": 334,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -314942,7 +314942,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1250,
+                "id": 1251,
                 "gachaId": 334,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -314955,7 +314955,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1251,
+                "id": 1252,
                 "gachaId": 334,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -315085,7 +315085,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1252,
+                "id": 1253,
                 "gachaId": 335,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -315098,7 +315098,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1253,
+                "id": 1254,
                 "gachaId": 335,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -315110,7 +315110,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1254,
+                "id": 1255,
                 "gachaId": 335,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -315123,7 +315123,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1255,
+                "id": 1256,
                 "gachaId": 335,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -315245,7 +315245,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1256,
+                "id": 1257,
                 "gachaId": 336,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -315258,7 +315258,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1257,
+                "id": 1258,
                 "gachaId": 336,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -315270,7 +315270,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1258,
+                "id": 1259,
                 "gachaId": 336,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -315283,7 +315283,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1259,
+                "id": 1260,
                 "gachaId": 336,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -318182,7 +318182,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1260,
+                "id": 1261,
                 "gachaId": 337,
                 "gachaBehaviorType": "over_rarity_4_once",
                 "costResourceType": "paid_jewel",
@@ -321267,7 +321267,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1261,
+                "id": 1262,
                 "gachaId": 338,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -321278,7 +321278,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1262,
+                "id": 1263,
                 "gachaId": 338,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -321291,7 +321291,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1263,
+                "id": 1264,
                 "gachaId": 338,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -321304,7 +321304,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1264,
+                "id": 1265,
                 "gachaId": 338,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -321317,7 +321317,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1265,
+                "id": 1266,
                 "gachaId": 338,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -321329,7 +321329,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1266,
+                "id": 1267,
                 "gachaId": 338,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -321342,7 +321342,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1267,
+                "id": 1268,
                 "gachaId": 338,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -323110,7 +323110,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1268,
+                "id": 1269,
                 "gachaId": 339,
                 "gachaBehaviorType": "once_a_week",
                 "spinCount": 1,
@@ -326223,7 +326223,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1269,
+                "id": 1270,
                 "gachaId": 340,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -326234,7 +326234,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1270,
+                "id": 1271,
                 "gachaId": 340,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -326247,7 +326247,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1271,
+                "id": 1272,
                 "gachaId": 340,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -326260,7 +326260,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1272,
+                "id": 1273,
                 "gachaId": 340,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -326273,7 +326273,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1273,
+                "id": 1274,
                 "gachaId": 340,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -326285,7 +326285,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1274,
+                "id": 1275,
                 "gachaId": 340,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -326298,7 +326298,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1275,
+                "id": 1276,
                 "gachaId": 340,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -329416,7 +329416,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1276,
+                "id": 1277,
                 "gachaId": 341,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -329429,7 +329429,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1277,
+                "id": 1278,
                 "gachaId": 341,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -329442,7 +329442,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1278,
+                "id": 1279,
                 "gachaId": 341,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -329455,7 +329455,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1279,
+                "id": 1280,
                 "gachaId": 341,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -329467,7 +329467,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1280,
+                "id": 1281,
                 "gachaId": 341,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -329480,7 +329480,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1281,
+                "id": 1282,
                 "gachaId": 341,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -332599,7 +332599,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1282,
+                "id": 1283,
                 "gachaId": 342,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -332610,7 +332610,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1283,
+                "id": 1284,
                 "gachaId": 342,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -332623,7 +332623,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1284,
+                "id": 1285,
                 "gachaId": 342,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -332636,7 +332636,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1285,
+                "id": 1286,
                 "gachaId": 342,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -332649,7 +332649,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1286,
+                "id": 1287,
                 "gachaId": 342,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -332661,7 +332661,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1287,
+                "id": 1288,
                 "gachaId": 342,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -332674,7 +332674,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1288,
+                "id": 1289,
                 "gachaId": 342,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -332797,7 +332797,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1289,
+                "id": 1290,
                 "gachaId": 343,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -332810,7 +332810,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1290,
+                "id": 1291,
                 "gachaId": 343,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -332822,7 +332822,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1291,
+                "id": 1292,
                 "gachaId": 343,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -332835,7 +332835,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1292,
+                "id": 1293,
                 "gachaId": 343,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -332950,7 +332950,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1293,
+                "id": 1294,
                 "gachaId": 344,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -332963,7 +332963,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1294,
+                "id": 1295,
                 "gachaId": 344,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -332975,7 +332975,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1295,
+                "id": 1296,
                 "gachaId": 344,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -332988,7 +332988,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1296,
+                "id": 1297,
                 "gachaId": 344,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -336259,7 +336259,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1322,
+                "id": 1323,
                 "gachaId": 345,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -336270,7 +336270,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1323,
+                "id": 1324,
                 "gachaId": 345,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -336283,7 +336283,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1324,
+                "id": 1325,
                 "gachaId": 345,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -336296,7 +336296,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1325,
+                "id": 1326,
                 "gachaId": 345,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -336309,7 +336309,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1326,
+                "id": 1327,
                 "gachaId": 345,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -336321,7 +336321,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1327,
+                "id": 1328,
                 "gachaId": 345,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -336334,7 +336334,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1328,
+                "id": 1329,
                 "gachaId": 345,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -338173,7 +338173,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1329,
+                "id": 1330,
                 "gachaId": 346,
                 "gachaBehaviorType": "once_a_week",
                 "spinCount": 1,
@@ -341327,7 +341327,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1330,
+                "id": 1331,
                 "gachaId": 347,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -341338,7 +341338,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1331,
+                "id": 1332,
                 "gachaId": 347,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -341351,7 +341351,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1332,
+                "id": 1333,
                 "gachaId": 347,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -341364,7 +341364,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1333,
+                "id": 1334,
                 "gachaId": 347,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -341377,7 +341377,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1334,
+                "id": 1335,
                 "gachaId": 347,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -341389,7 +341389,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1335,
+                "id": 1336,
                 "gachaId": 347,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -341402,7 +341402,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1336,
+                "id": 1337,
                 "gachaId": 347,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -344584,7 +344584,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1337,
+                "id": 1338,
                 "gachaId": 348,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -344595,7 +344595,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1338,
+                "id": 1339,
                 "gachaId": 348,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -344608,7 +344608,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1339,
+                "id": 1340,
                 "gachaId": 348,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -344621,7 +344621,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1340,
+                "id": 1341,
                 "gachaId": 348,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -344634,7 +344634,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1341,
+                "id": 1342,
                 "gachaId": 348,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -344646,7 +344646,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1342,
+                "id": 1343,
                 "gachaId": 348,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -344659,7 +344659,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1343,
+                "id": 1344,
                 "gachaId": 348,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -347861,7 +347861,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1344,
+                "id": 1345,
                 "gachaId": 349,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -347874,7 +347874,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1345,
+                "id": 1346,
                 "gachaId": 349,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -347887,7 +347887,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1346,
+                "id": 1347,
                 "gachaId": 349,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -347900,7 +347900,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1347,
+                "id": 1348,
                 "gachaId": 349,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -347912,7 +347912,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1348,
+                "id": 1349,
                 "gachaId": 349,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -347925,7 +347925,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1349,
+                "id": 1350,
                 "gachaId": 349,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -348034,7 +348034,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1350,
+                "id": 1351,
                 "gachaId": 350,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -348047,7 +348047,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1351,
+                "id": 1352,
                 "gachaId": 350,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -348059,7 +348059,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1352,
+                "id": 1353,
                 "gachaId": 350,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -348072,7 +348072,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1353,
+                "id": 1354,
                 "gachaId": 350,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -348173,7 +348173,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1354,
+                "id": 1355,
                 "gachaId": 351,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -348186,7 +348186,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1355,
+                "id": 1356,
                 "gachaId": 351,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -348198,7 +348198,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1356,
+                "id": 1357,
                 "gachaId": 351,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -348211,7 +348211,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1357,
+                "id": 1358,
                 "gachaId": 351,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -351406,7 +351406,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1358,
+                "id": 1359,
                 "gachaId": 352,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -351417,7 +351417,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1359,
+                "id": 1360,
                 "gachaId": 352,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -351430,7 +351430,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1360,
+                "id": 1361,
                 "gachaId": 352,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -351443,7 +351443,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1361,
+                "id": 1362,
                 "gachaId": 352,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -351456,7 +351456,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1362,
+                "id": 1363,
                 "gachaId": 352,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -351468,7 +351468,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1363,
+                "id": 1364,
                 "gachaId": 352,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -351481,7 +351481,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1364,
+                "id": 1365,
                 "gachaId": 352,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -351611,7 +351611,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1365,
+                "id": 1366,
                 "gachaId": 353,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -351624,7 +351624,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1366,
+                "id": 1367,
                 "gachaId": 353,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -351636,7 +351636,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1367,
+                "id": 1368,
                 "gachaId": 353,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -351649,7 +351649,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1368,
+                "id": 1369,
                 "gachaId": 353,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -351771,7 +351771,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1369,
+                "id": 1370,
                 "gachaId": 354,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -351784,7 +351784,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1370,
+                "id": 1371,
                 "gachaId": 354,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -351796,7 +351796,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1371,
+                "id": 1372,
                 "gachaId": 354,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -351809,7 +351809,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1372,
+                "id": 1373,
                 "gachaId": 354,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -354876,7 +354876,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1373,
+                "id": 1374,
                 "gachaId": 355,
                 "gachaBehaviorType": "over_rarity_4_once",
                 "costResourceType": "paid_jewel",
@@ -358112,7 +358112,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1374,
+                "id": 1375,
                 "gachaId": 356,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -358123,7 +358123,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1375,
+                "id": 1376,
                 "gachaId": 356,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -358136,7 +358136,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1376,
+                "id": 1377,
                 "gachaId": 356,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -358149,7 +358149,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1377,
+                "id": 1378,
                 "gachaId": 356,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -358162,7 +358162,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1378,
+                "id": 1379,
                 "gachaId": 356,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -358174,7 +358174,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1379,
+                "id": 1380,
                 "gachaId": 356,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -358187,7 +358187,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1380,
+                "id": 1381,
                 "gachaId": 356,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -360081,7 +360081,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1381,
+                "id": 1382,
                 "gachaId": 357,
                 "gachaBehaviorType": "once_a_week",
                 "spinCount": 1,
@@ -363362,7 +363362,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1382,
+                "id": 1383,
                 "gachaId": 358,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -363373,7 +363373,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1383,
+                "id": 1384,
                 "gachaId": 358,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -363386,7 +363386,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1384,
+                "id": 1385,
                 "gachaId": 358,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -363399,7 +363399,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1385,
+                "id": 1386,
                 "gachaId": 358,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -363412,7 +363412,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1386,
+                "id": 1387,
                 "gachaId": 358,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -363424,7 +363424,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1387,
+                "id": 1388,
                 "gachaId": 358,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -363437,7 +363437,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1388,
+                "id": 1389,
                 "gachaId": 358,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -363567,7 +363567,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1389,
+                "id": 1390,
                 "gachaId": 359,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -363580,7 +363580,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1390,
+                "id": 1391,
                 "gachaId": 359,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -363592,7 +363592,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1391,
+                "id": 1392,
                 "gachaId": 359,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -363605,7 +363605,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1392,
+                "id": 1393,
                 "gachaId": 359,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -363727,7 +363727,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1393,
+                "id": 1394,
                 "gachaId": 360,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -363740,7 +363740,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1394,
+                "id": 1395,
                 "gachaId": 360,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -363752,7 +363752,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1395,
+                "id": 1396,
                 "gachaId": 360,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -363765,7 +363765,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1396,
+                "id": 1397,
                 "gachaId": 360,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -367043,7 +367043,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1397,
+                "id": 1398,
                 "gachaId": 361,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -367056,7 +367056,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1398,
+                "id": 1399,
                 "gachaId": 361,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -367069,7 +367069,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1399,
+                "id": 1400,
                 "gachaId": 361,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -367082,7 +367082,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1400,
+                "id": 1401,
                 "gachaId": 361,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -367094,7 +367094,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1401,
+                "id": 1402,
                 "gachaId": 361,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -367107,7 +367107,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1402,
+                "id": 1403,
                 "gachaId": 361,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -370394,7 +370394,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1403,
+                "id": 1404,
                 "gachaId": 362,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -370405,7 +370405,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1404,
+                "id": 1405,
                 "gachaId": 362,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -370418,7 +370418,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1405,
+                "id": 1406,
                 "gachaId": 362,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -370431,7 +370431,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1406,
+                "id": 1407,
                 "gachaId": 362,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -370444,7 +370444,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1407,
+                "id": 1408,
                 "gachaId": 362,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -370456,7 +370456,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1408,
+                "id": 1409,
                 "gachaId": 362,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -370469,7 +370469,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1409,
+                "id": 1410,
                 "gachaId": 362,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -373628,7 +373628,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1410,
+                "id": 1411,
                 "gachaId": 363,
                 "gachaBehaviorType": "over_rarity_4_once",
                 "costResourceType": "paid_jewel",
@@ -373788,7 +373788,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1411,
+                "id": 1412,
                 "gachaId": 364,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -373801,7 +373801,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1412,
+                "id": 1413,
                 "gachaId": 364,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -373813,7 +373813,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1413,
+                "id": 1414,
                 "gachaId": 364,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -373826,7 +373826,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1414,
+                "id": 1415,
                 "gachaId": 364,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -373948,7 +373948,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1415,
+                "id": 1416,
                 "gachaId": 365,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -373961,7 +373961,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1416,
+                "id": 1417,
                 "gachaId": 365,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -373973,7 +373973,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1417,
+                "id": 1418,
                 "gachaId": 365,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -373986,7 +373986,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1418,
+                "id": 1419,
                 "gachaId": 365,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -374157,7 +374157,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1419,
+                "id": 1420,
                 "gachaId": 366,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -374170,7 +374170,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1420,
+                "id": 1421,
                 "gachaId": 366,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -374182,7 +374182,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1421,
+                "id": 1422,
                 "gachaId": 366,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -374195,7 +374195,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1422,
+                "id": 1423,
                 "gachaId": 366,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -374366,7 +374366,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1423,
+                "id": 1424,
                 "gachaId": 367,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -374379,7 +374379,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1424,
+                "id": 1425,
                 "gachaId": 367,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -374391,7 +374391,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1425,
+                "id": 1426,
                 "gachaId": 367,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -374404,7 +374404,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1426,
+                "id": 1427,
                 "gachaId": 367,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -377710,7 +377710,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1427,
+                "id": 1428,
                 "gachaId": 368,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -377721,7 +377721,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1428,
+                "id": 1429,
                 "gachaId": 368,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -377734,7 +377734,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1429,
+                "id": 1430,
                 "gachaId": 368,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -377747,7 +377747,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1430,
+                "id": 1431,
                 "gachaId": 368,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -377760,7 +377760,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1431,
+                "id": 1432,
                 "gachaId": 368,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -377772,7 +377772,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1432,
+                "id": 1433,
                 "gachaId": 368,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -377785,7 +377785,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1433,
+                "id": 1434,
                 "gachaId": 368,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -379746,7 +379746,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1434,
+                "id": 1435,
                 "gachaId": 369,
                 "gachaBehaviorType": "once_a_week",
                 "spinCount": 1,
@@ -379884,7 +379884,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1435,
+                "id": 1436,
                 "gachaId": 370,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -379897,7 +379897,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1436,
+                "id": 1437,
                 "gachaId": 370,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -379909,7 +379909,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1437,
+                "id": 1438,
                 "gachaId": 370,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -379922,7 +379922,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1438,
+                "id": 1439,
                 "gachaId": 370,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -380037,7 +380037,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1439,
+                "id": 1440,
                 "gachaId": 371,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -380050,7 +380050,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1440,
+                "id": 1441,
                 "gachaId": 371,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -380062,7 +380062,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1441,
+                "id": 1442,
                 "gachaId": 371,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -380075,7 +380075,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1442,
+                "id": 1443,
                 "gachaId": 371,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -383417,7 +383417,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1443,
+                "id": 1444,
                 "gachaId": 372,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -383428,7 +383428,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1444,
+                "id": 1445,
                 "gachaId": 372,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -383441,7 +383441,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1445,
+                "id": 1446,
                 "gachaId": 372,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -383454,7 +383454,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1446,
+                "id": 1447,
                 "gachaId": 372,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -383467,7 +383467,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1447,
+                "id": 1448,
                 "gachaId": 372,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -383479,7 +383479,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1448,
+                "id": 1449,
                 "gachaId": 372,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -383492,7 +383492,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1449,
+                "id": 1450,
                 "gachaId": 372,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -386862,7 +386862,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1450,
+                "id": 1451,
                 "gachaId": 373,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -386875,7 +386875,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1451,
+                "id": 1452,
                 "gachaId": 373,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -386888,7 +386888,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1452,
+                "id": 1453,
                 "gachaId": 373,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -386901,7 +386901,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1453,
+                "id": 1454,
                 "gachaId": 373,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -386913,7 +386913,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1454,
+                "id": 1455,
                 "gachaId": 373,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -386926,7 +386926,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1455,
+                "id": 1456,
                 "gachaId": 373,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -390297,7 +390297,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1456,
+                "id": 1457,
                 "gachaId": 374,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -390308,7 +390308,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1457,
+                "id": 1458,
                 "gachaId": 374,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -390321,7 +390321,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1458,
+                "id": 1459,
                 "gachaId": 374,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -390334,7 +390334,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1459,
+                "id": 1460,
                 "gachaId": 374,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -390347,7 +390347,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1460,
+                "id": 1461,
                 "gachaId": 374,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -390359,7 +390359,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1461,
+                "id": 1462,
                 "gachaId": 374,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -390372,7 +390372,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1462,
+                "id": 1463,
                 "gachaId": 374,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -393615,7 +393615,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1463,
+                "id": 1464,
                 "gachaId": 375,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -394902,7 +394902,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1464,
+                "id": 1465,
                 "gachaId": 376,
                 "gachaBehaviorType": "over_rarity_4_once",
                 "costResourceType": "gacha_ticket",
@@ -397403,7 +397403,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1465,
+                "id": 1466,
                 "gachaId": 377,
                 "gachaBehaviorType": "over_rarity_4_once",
                 "costResourceType": "paid_jewel",
@@ -400928,7 +400928,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1466,
+                "id": 1467,
                 "gachaId": 378,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -402025,7 +402025,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1467,
+                "id": 1468,
                 "gachaId": 379,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -402650,7 +402650,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1468,
+                "id": 1469,
                 "gachaId": 380,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -403232,7 +403232,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1469,
+                "id": 1470,
                 "gachaId": 381,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -403828,7 +403828,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1470,
+                "id": 1471,
                 "gachaId": 382,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -404396,7 +404396,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1471,
+                "id": 1472,
                 "gachaId": 383,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -405006,7 +405006,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1472,
+                "id": 1473,
                 "gachaId": 384,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -409277,7 +409277,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1473,
+                "id": 1474,
                 "gachaId": 385,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -414123,7 +414123,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1474,
+                "id": 1475,
                 "gachaId": 386,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -414134,7 +414134,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1475,
+                "id": 1476,
                 "gachaId": 386,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -414147,7 +414147,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1476,
+                "id": 1477,
                 "gachaId": 386,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -414160,7 +414160,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1477,
+                "id": 1478,
                 "gachaId": 386,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -414173,7 +414173,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1478,
+                "id": 1479,
                 "gachaId": 386,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -414185,7 +414185,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1479,
+                "id": 1480,
                 "gachaId": 386,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -414198,7 +414198,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1480,
+                "id": 1481,
                 "gachaId": 386,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -417181,7 +417181,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1481,
+                "id": 1482,
                 "gachaId": 387,
                 "gachaBehaviorType": "once_a_week",
                 "spinCount": 1,
@@ -421490,7 +421490,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1482,
+                "id": 1483,
                 "gachaId": 388,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -421501,7 +421501,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1483,
+                "id": 1484,
                 "gachaId": 388,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -421514,7 +421514,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1484,
+                "id": 1485,
                 "gachaId": 388,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -421527,7 +421527,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1485,
+                "id": 1486,
                 "gachaId": 388,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -421540,7 +421540,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1486,
+                "id": 1487,
                 "gachaId": 388,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -421552,7 +421552,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1487,
+                "id": 1488,
                 "gachaId": 388,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -421565,7 +421565,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1488,
+                "id": 1489,
                 "gachaId": 388,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -425834,7 +425834,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1501,
+                "id": 1502,
                 "gachaId": 392,
                 "gachaBehaviorType": "over_rarity_4_once",
                 "costResourceType": "gacha_ticket",
@@ -430113,7 +430113,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1502,
+                "id": 1503,
                 "gachaId": 393,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -433934,7 +433934,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1536,
+                "id": 1537,
                 "gachaId": 401,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -433945,7 +433945,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1537,
+                "id": 1538,
                 "gachaId": 401,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -433958,7 +433958,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1538,
+                "id": 1539,
                 "gachaId": 401,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -433971,7 +433971,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1539,
+                "id": 1540,
                 "gachaId": 401,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -433984,7 +433984,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1540,
+                "id": 1541,
                 "gachaId": 401,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -433996,7 +433996,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1541,
+                "id": 1542,
                 "gachaId": 401,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -434009,7 +434009,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1542,
+                "id": 1543,
                 "gachaId": 401,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -437778,7 +437778,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1561,
+                "id": 1562,
                 "gachaId": 407,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -437789,7 +437789,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1562,
+                "id": 1563,
                 "gachaId": 407,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -437802,7 +437802,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1563,
+                "id": 1564,
                 "gachaId": 407,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -437815,7 +437815,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1564,
+                "id": 1565,
                 "gachaId": 407,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -437828,7 +437828,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1565,
+                "id": 1566,
                 "gachaId": 407,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -437840,7 +437840,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1566,
+                "id": 1567,
                 "gachaId": 407,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -437853,7 +437853,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1567,
+                "id": 1568,
                 "gachaId": 407,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -441640,7 +441640,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1614,
+                "id": 1615,
                 "gachaId": 416,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -441651,7 +441651,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1615,
+                "id": 1616,
                 "gachaId": 416,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -441664,7 +441664,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1616,
+                "id": 1617,
                 "gachaId": 416,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -441677,7 +441677,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1617,
+                "id": 1618,
                 "gachaId": 416,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -441690,7 +441690,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1618,
+                "id": 1619,
                 "gachaId": 416,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -441702,7 +441702,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1619,
+                "id": 1620,
                 "gachaId": 416,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -441715,7 +441715,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1620,
+                "id": 1621,
                 "gachaId": 416,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -445582,7 +445582,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1711,
+                "id": 1712,
                 "gachaId": 438,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -445593,7 +445593,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1712,
+                "id": 1713,
                 "gachaId": 438,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -445606,7 +445606,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1713,
+                "id": 1714,
                 "gachaId": 438,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -445619,7 +445619,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1714,
+                "id": 1715,
                 "gachaId": 438,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -445632,7 +445632,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1715,
+                "id": 1716,
                 "gachaId": 438,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -445644,7 +445644,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1716,
+                "id": 1717,
                 "gachaId": 438,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -445657,7 +445657,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1717,
+                "id": 1718,
                 "gachaId": 438,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -449573,7 +449573,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1730,
+                "id": 1731,
                 "gachaId": 442,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -449584,7 +449584,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1731,
+                "id": 1732,
                 "gachaId": 442,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -449597,7 +449597,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1732,
+                "id": 1733,
                 "gachaId": 442,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -449610,7 +449610,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1733,
+                "id": 1734,
                 "gachaId": 442,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -449623,7 +449623,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1734,
+                "id": 1735,
                 "gachaId": 442,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -449635,7 +449635,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1735,
+                "id": 1736,
                 "gachaId": 442,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -449648,7 +449648,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1736,
+                "id": 1737,
                 "gachaId": 442,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -453582,7 +453582,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1787,
+                "id": 1788,
                 "gachaId": 454,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -453593,7 +453593,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1788,
+                "id": 1789,
                 "gachaId": 454,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -453606,7 +453606,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1789,
+                "id": 1790,
                 "gachaId": 454,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -453619,7 +453619,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1790,
+                "id": 1791,
                 "gachaId": 454,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -453632,7 +453632,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1791,
+                "id": 1792,
                 "gachaId": 454,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -453644,7 +453644,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1792,
+                "id": 1793,
                 "gachaId": 454,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -453657,7 +453657,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1793,
+                "id": 1794,
                 "gachaId": 454,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -457671,7 +457671,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1852,
+                "id": 1853,
                 "gachaId": 468,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -457682,7 +457682,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1853,
+                "id": 1854,
                 "gachaId": 468,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -457695,7 +457695,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1854,
+                "id": 1855,
                 "gachaId": 468,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -457708,7 +457708,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1855,
+                "id": 1856,
                 "gachaId": 468,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -457721,7 +457721,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1856,
+                "id": 1857,
                 "gachaId": 468,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -457733,7 +457733,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1857,
+                "id": 1858,
                 "gachaId": 468,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -457746,7 +457746,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1858,
+                "id": 1859,
                 "gachaId": 468,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -458673,7 +458673,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1859,
+                "id": 1860,
                 "gachaId": 469,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -458686,7 +458686,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1860,
+                "id": 1861,
                 "gachaId": 469,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -458699,7 +458699,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1861,
+                "id": 1862,
                 "gachaId": 469,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -458711,7 +458711,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1862,
+                "id": 1863,
                 "gachaId": 469,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -458724,7 +458724,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1863,
+                "id": 1864,
                 "gachaId": 469,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -463047,7 +463047,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1877,
+                "id": 1878,
                 "gachaId": 474,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -463058,7 +463058,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1878,
+                "id": 1879,
                 "gachaId": 474,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -463071,7 +463071,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1879,
+                "id": 1880,
                 "gachaId": 474,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -463084,7 +463084,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1880,
+                "id": 1881,
                 "gachaId": 474,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -463097,7 +463097,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1881,
+                "id": 1882,
                 "gachaId": 474,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -463109,7 +463109,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1882,
+                "id": 1883,
                 "gachaId": 474,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -463122,7 +463122,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1883,
+                "id": 1884,
                 "gachaId": 474,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -467918,7 +467918,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1914,
+                "id": 1915,
                 "gachaId": 482,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -467929,7 +467929,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1915,
+                "id": 1916,
                 "gachaId": 482,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -467942,7 +467942,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1916,
+                "id": 1917,
                 "gachaId": 482,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -467955,7 +467955,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1917,
+                "id": 1918,
                 "gachaId": 482,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -467968,7 +467968,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1918,
+                "id": 1919,
                 "gachaId": 482,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -467980,7 +467980,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1919,
+                "id": 1920,
                 "gachaId": 482,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -467993,7 +467993,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1920,
+                "id": 1921,
                 "gachaId": 482,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -470391,7 +470391,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1932,
+                "id": 1933,
                 "gachaId": 488,
                 "gachaBehaviorType": "once_a_week",
                 "spinCount": 1,
@@ -474714,7 +474714,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1933,
+                "id": 1934,
                 "gachaId": 489,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -474725,7 +474725,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1934,
+                "id": 1935,
                 "gachaId": 489,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -474738,7 +474738,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1935,
+                "id": 1936,
                 "gachaId": 489,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -474751,7 +474751,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1936,
+                "id": 1937,
                 "gachaId": 489,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -474764,7 +474764,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1937,
+                "id": 1938,
                 "gachaId": 489,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -474776,7 +474776,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1938,
+                "id": 1939,
                 "gachaId": 489,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -474789,7 +474789,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1939,
+                "id": 1940,
                 "gachaId": 489,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -479374,7 +479374,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1940,
+                "id": 1941,
                 "gachaId": 490,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -479385,7 +479385,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1941,
+                "id": 1942,
                 "gachaId": 490,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -479398,7 +479398,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1942,
+                "id": 1943,
                 "gachaId": 490,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -479411,7 +479411,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1943,
+                "id": 1944,
                 "gachaId": 490,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -479424,7 +479424,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1944,
+                "id": 1945,
                 "gachaId": 490,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -479436,7 +479436,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1945,
+                "id": 1946,
                 "gachaId": 490,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -479449,7 +479449,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1946,
+                "id": 1947,
                 "gachaId": 490,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -479607,7 +479607,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1954,
+                "id": 1955,
                 "gachaId": 493,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -479620,7 +479620,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1955,
+                "id": 1956,
                 "gachaId": 493,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -479632,7 +479632,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1956,
+                "id": 1957,
                 "gachaId": 493,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -479645,7 +479645,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1957,
+                "id": 1958,
                 "gachaId": 493,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -479795,7 +479795,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1958,
+                "id": 1959,
                 "gachaId": 494,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -479808,7 +479808,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1959,
+                "id": 1960,
                 "gachaId": 494,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -479820,7 +479820,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1960,
+                "id": 1961,
                 "gachaId": 494,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -479833,7 +479833,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1961,
+                "id": 1962,
                 "gachaId": 494,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -479983,7 +479983,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1962,
+                "id": 1963,
                 "gachaId": 495,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -479996,7 +479996,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1963,
+                "id": 1964,
                 "gachaId": 495,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -480008,7 +480008,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1964,
+                "id": 1965,
                 "gachaId": 495,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -480021,7 +480021,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1965,
+                "id": 1966,
                 "gachaId": 495,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -484153,7 +484153,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1966,
+                "id": 1967,
                 "gachaId": 496,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -484166,7 +484166,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1967,
+                "id": 1968,
                 "gachaId": 496,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -484179,7 +484179,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1968,
+                "id": 1969,
                 "gachaId": 496,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -484192,7 +484192,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1969,
+                "id": 1970,
                 "gachaId": 496,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -484204,7 +484204,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1970,
+                "id": 1971,
                 "gachaId": 496,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -484217,7 +484217,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1971,
+                "id": 1972,
                 "gachaId": 496,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -488637,7 +488637,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1978,
+                "id": 1979,
                 "gachaId": 498,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -488648,7 +488648,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 1979,
+                "id": 1980,
                 "gachaId": 498,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -488661,7 +488661,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1980,
+                "id": 1981,
                 "gachaId": 498,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -488674,7 +488674,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1981,
+                "id": 1982,
                 "gachaId": 498,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -488687,7 +488687,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1982,
+                "id": 1983,
                 "gachaId": 498,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -488699,7 +488699,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1983,
+                "id": 1984,
                 "gachaId": 498,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -488712,7 +488712,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1984,
+                "id": 1985,
                 "gachaId": 498,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -488870,7 +488870,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1986,
+                "id": 1987,
                 "gachaId": 500,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -488883,7 +488883,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1987,
+                "id": 1988,
                 "gachaId": 500,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -488895,7 +488895,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1988,
+                "id": 1989,
                 "gachaId": 500,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -488908,7 +488908,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1989,
+                "id": 1990,
                 "gachaId": 500,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -489058,7 +489058,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1990,
+                "id": 1991,
                 "gachaId": 501,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -489071,7 +489071,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1991,
+                "id": 1992,
                 "gachaId": 501,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -489083,7 +489083,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1992,
+                "id": 1993,
                 "gachaId": 501,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -489096,7 +489096,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1993,
+                "id": 1994,
                 "gachaId": 501,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -489246,7 +489246,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 1994,
+                "id": 1995,
                 "gachaId": 502,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -489259,7 +489259,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1995,
+                "id": 1996,
                 "gachaId": 502,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -489271,7 +489271,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1996,
+                "id": 1997,
                 "gachaId": 502,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -489284,7 +489284,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 1997,
+                "id": 1998,
                 "gachaId": 502,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -493541,7 +493541,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 2355,
+                "id": 2356,
                 "gachaId": 579,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -493554,7 +493554,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 2356,
+                "id": 2357,
                 "gachaId": 579,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -497392,7 +497392,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 2518,
+                "id": 2519,
                 "gachaId": 3001,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -497403,7 +497403,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 2519,
+                "id": 2520,
                 "gachaId": 3001,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -497416,7 +497416,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 2520,
+                "id": 2521,
                 "gachaId": 3001,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -497429,7 +497429,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 2521,
+                "id": 2522,
                 "gachaId": 3001,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -497442,7 +497442,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 2522,
+                "id": 2523,
                 "gachaId": 3001,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -497454,7 +497454,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 2523,
+                "id": 2524,
                 "gachaId": 3001,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -497467,7 +497467,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 2524,
+                "id": 2525,
                 "gachaId": 3001,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -501208,7 +501208,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 2525,
+                "id": 2526,
                 "gachaId": 3002,
                 "gachaBehaviorType": "once_a_day",
                 "spinCount": 1,
@@ -501219,7 +501219,7 @@
                 "gachaSpinnableType": "colorful_pass"
             },
             {
-                "id": 2526,
+                "id": 2527,
                 "gachaId": 3002,
                 "gachaBehaviorType": "once_a_day",
                 "costResourceType": "paid_jewel",
@@ -501232,7 +501232,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 2527,
+                "id": 2528,
                 "gachaId": 3002,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "paid_jewel",
@@ -501245,7 +501245,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 2528,
+                "id": 2529,
                 "gachaId": 3002,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "gacha_ticket",
@@ -501258,7 +501258,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 2529,
+                "id": 2530,
                 "gachaId": 3002,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
@@ -501270,7 +501270,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 2530,
+                "id": 2531,
                 "gachaId": 3002,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "gacha_ticket",
@@ -501283,7 +501283,7 @@
                 "gachaSpinnableType": "any"
             },
             {
-                "id": 2531,
+                "id": 2532,
                 "gachaId": 3002,
                 "gachaBehaviorType": "over_rarity_3_once",
                 "costResourceType": "jewel",
@@ -501345,7 +501345,7 @@
         ],
         "gachaBehaviors": [
             {
-                "id": 2532,
+                "id": 2533,
                 "gachaId": 3003,
                 "gachaBehaviorType": "normal",
                 "costResourceType": "jewel",
