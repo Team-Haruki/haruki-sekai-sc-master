@@ -1351,7 +1351,7 @@
     },
     {
         "id": 300,
-        "seq": 4,
+        "seq": 2,
         "appealTargetType": "billing_shop",
         "appealType": "once",
         "startAt": 1740880800000,
@@ -1365,23 +1365,23 @@
         "appealTargetType": "billing_shop",
         "appealType": "once",
         "startAt": 1740794400000,
-        "endAt": 1745978400000,
+        "endAt": 1744300799000,
         "appealReadConditionType": "transition",
         "text": "新服装"
     },
     {
         "id": 302,
-        "seq": 6,
+        "seq": 50,
         "appealTargetType": "billing_shop",
         "appealType": "once",
-        "startAt": 1740794400000,
+        "startAt": 1743472800000,
         "endAt": 1745978400000,
         "appealReadConditionType": "transition",
         "text": "月卡 · 通行证"
     },
     {
         "id": 303,
-        "seq": 8,
+        "seq": 100,
         "appealTargetType": "billing_shop",
         "appealType": "daily_once",
         "startAt": 1740880800000,
@@ -1448,5 +1448,35 @@
         "endAt": 1746547199000,
         "appealReadConditionType": "transition",
         "text": "生日成员登场"
+    },
+    {
+        "id": 310,
+        "seq": 5,
+        "appealTargetType": "billing_shop",
+        "appealType": "daily_once",
+        "startAt": 1744300800000,
+        "endAt": 1745164740000,
+        "appealReadConditionType": "transition",
+        "text": "实乃理 生日特卖"
+    },
+    {
+        "id": 311,
+        "seq": 75,
+        "appealTargetType": "billing_shop",
+        "appealType": "daily_once",
+        "startAt": 1740816000000,
+        "endAt": 4083789600000,
+        "appealReadConditionType": "transition",
+        "text": "特惠礼包"
+    },
+    {
+        "id": 312,
+        "seq": 50,
+        "appealTargetType": "billing_shop",
+        "appealType": "once",
+        "startAt": 1746064800000,
+        "endAt": 1748656800000,
+        "appealReadConditionType": "transition",
+        "text": "月卡 · 通行证"
     }
 ]

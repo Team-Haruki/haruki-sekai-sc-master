@@ -10,5 +10,11 @@
         "type": "mini_program",
         "funcId": 9999,
         "channels": "taptap"
+    },
+    {
+        "id": 7,
+        "type": "home_banner",
+        "funcId": 20017,
+        "channels": "taptap,bsdk,App Store"
     }
 ]

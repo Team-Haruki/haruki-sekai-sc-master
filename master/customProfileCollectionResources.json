@@ -4942,5 +4942,23 @@
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/collection\/cn",
         "fileName": "obt_cdholder_vp"
+    },
+    {
+        "customProfileResourceType": "collection",
+        "id": 10018,
+        "seq": 10090,
+        "name": "三文鱼（装饰品）",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/collection\/cn",
+        "fileName": "birthday2025_05"
+    },
+    {
+        "customProfileResourceType": "collection",
+        "id": 10019,
+        "seq": 10110,
+        "name": "松饼（装饰品）",
+        "resourceLoadType": "assetbundle",
+        "resourceLoadVal": "custom_profile\/collection\/cn",
+        "fileName": "birthday2025_19"
     }
 ]

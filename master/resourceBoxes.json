@@ -5230,6 +5230,20 @@
     },
     {
         "assetbundleName": null,
+        "resourceBoxPurpose": "billing_shop_item",
+        "name": null,
+        "id": 91023,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "billing_shop_item",
+        "name": null,
+        "id": 91024,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
         "resourceBoxPurpose": "billing_shop_item_bonus",
         "name": null,
         "id": 1,
@@ -51215,6 +51229,13 @@
         "assetbundleName": null,
         "resourceBoxPurpose": "event_exchange",
         "name": null,
+        "id": 1000,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "event_exchange",
+        "name": null,
         "id": 9000,
         "resourceBoxType": "expand"
     },
@@ -88107,6 +88128,13 @@
         "name": "「世界」踏青日！登录活动",
         "id": 2035,
         "resourceBoxType": "list"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "login_bonus",
+        "name": "「生日快乐，实乃理！」登录活动",
+        "id": 2036,
+        "resourceBoxType": "expand"
     },
     {
         "assetbundleName": "gacha_cos0016_01",

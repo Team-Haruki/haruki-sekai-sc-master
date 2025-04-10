@@ -127424,6 +127424,54 @@
         "resourceType": "costume_3d"
     },
     {
+        "resourceBoxId": 91023,
+        "resourceQuantity": 540,
+        "resourceId": null,
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceLevel": null,
+        "resourceType": "jewel"
+    },
+    {
+        "resourceBoxId": 91023,
+        "resourceQuantity": 1,
+        "resourceId": 22,
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceLevel": null,
+        "resourceType": "material"
+    },
+    {
+        "resourceBoxId": 91023,
+        "resourceQuantity": 1,
+        "resourceId": 3005,
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceLevel": null,
+        "resourceType": "boost_item"
+    },
+    {
+        "resourceBoxId": 91023,
+        "resourceQuantity": 1,
+        "resourceId": 10018,
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceLevel": null,
+        "resourceType": "custom_profile_collection_resource"
+    },
+    {
+        "resourceBoxId": 91024,
+        "resourceQuantity": 1,
+        "resourceId": 29,
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceLevel": null,
+        "resourceType": "avatar_coordinate"
+    },
+    {
+        "resourceBoxId": 91024,
+        "resourceQuantity": 1,
+        "resourceId": 63,
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceLevel": null,
+        "resourceType": "penlight"
+    },
+    {
         "resourceBoxId": 1,
         "resourceQuantity": 50,
         "resourceId": 15,
@@ -222646,6 +222694,14 @@
         "resourceBoxPurpose": "event_exchange",
         "resourceLevel": 1,
         "resourceType": "card"
+    },
+    {
+        "resourceBoxId": 1000,
+        "resourceQuantity": 1,
+        "resourceId": 1000,
+        "resourceBoxPurpose": "event_exchange",
+        "resourceLevel": null,
+        "resourceType": "gacha_ticket"
     },
     {
         "resourceBoxId": 9000,
@@ -347582,6 +347638,14 @@
         "resourceBoxPurpose": "login_bonus",
         "resourceLevel": null,
         "resourceType": "costume_3d"
+    },
+    {
+        "resourceBoxId": 2036,
+        "resourceQuantity": 1,
+        "resourceId": 3000,
+        "resourceBoxPurpose": "login_bonus",
+        "resourceLevel": null,
+        "resourceType": "boost_item"
     },
     {
         "resourceBoxId": 1,

@@ -1854,6 +1854,38 @@
         "endAt": 1744300799000
     },
     {
+        "id": 60053,
+        "seq": 7060,
+        "billingShopItemType": "value_set",
+        "billingProductGroupId": 6212,
+        "name": "「实乃理喜欢的食物」礼包",
+        "description": "免费水晶×540\n实乃里的歌手卡×1\n三文鱼（演出能量）×1\n三文鱼（用于自定义个人资料）×1",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "assetbundleName": "shop_birthdayfood_0414",
+        "resourceBoxId": 91023,
+        "label": "仅限购买1次",
+        "startAt": 1744300800000,
+        "endAt": 1745164799000
+    },
+    {
+        "id": 60054,
+        "seq": 7050,
+        "billingShopItemType": "value_set",
+        "name": "实乃理虚拟演唱会应援礼包",
+        "description": "[全套套装]变身为实乃理的服装\n[应援棒]应援扇 实乃理",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "assetbundleName": "shop_birthdayvirtual_0414",
+        "resourceBoxId": 91024,
+        "label": "仅限购买1次",
+        "startAt": 1744300800000,
+        "endAt": 1745164799000,
+        "purchaseOption": "exchange"
+    },
+    {
         "id": 300000,
         "seq": 300000,
         "billingShopItemType": "costume_3d",
