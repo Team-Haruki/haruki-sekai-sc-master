@@ -127425,7 +127425,7 @@
     },
     {
         "resourceBoxId": 91023,
-        "resourceQuantity": 540,
+        "resourceQuantity": 630,
         "resourceId": null,
         "resourceBoxPurpose": "billing_shop_item",
         "resourceLevel": null,
@@ -347646,6 +347646,134 @@
         "resourceBoxPurpose": "login_bonus",
         "resourceLevel": null,
         "resourceType": "boost_item"
+    },
+    {
+        "resourceBoxId": 2037,
+        "resourceQuantity": 1,
+        "resourceId": 2,
+        "resourceBoxPurpose": "login_bonus",
+        "resourceLevel": null,
+        "resourceType": "boost_item"
+    },
+    {
+        "resourceBoxId": 2038,
+        "resourceQuantity": 10,
+        "resourceId": 13,
+        "resourceBoxPurpose": "login_bonus",
+        "resourceLevel": null,
+        "resourceType": "material"
+    },
+    {
+        "resourceBoxId": 2039,
+        "resourceQuantity": 1,
+        "resourceId": 1000,
+        "resourceBoxPurpose": "login_bonus",
+        "resourceLevel": null,
+        "resourceType": "gacha_ticket"
+    },
+    {
+        "resourceBoxId": 2040,
+        "resourceQuantity": 3,
+        "resourceId": 2,
+        "resourceBoxPurpose": "login_bonus",
+        "resourceLevel": null,
+        "resourceType": "boost_item"
+    },
+    {
+        "resourceBoxId": 2040,
+        "resourceQuantity": 30,
+        "resourceId": 13,
+        "resourceBoxPurpose": "login_bonus",
+        "resourceLevel": null,
+        "resourceType": "material"
+    },
+    {
+        "resourceBoxId": 2041,
+        "resourceQuantity": 1,
+        "resourceId": 2,
+        "resourceBoxPurpose": "login_bonus",
+        "resourceLevel": null,
+        "resourceType": "boost_item"
+    },
+    {
+        "resourceBoxId": 2042,
+        "resourceQuantity": 1,
+        "resourceId": 10178,
+        "resourceBoxPurpose": "login_bonus",
+        "resourceLevel": 1,
+        "resourceType": "honor"
+    },
+    {
+        "resourceBoxId": 2049,
+        "resourceQuantity": 300,
+        "resourceId": null,
+        "resourceBoxPurpose": "login_bonus",
+        "resourceLevel": null,
+        "resourceType": "jewel"
+    },
+    {
+        "resourceBoxId": 2049,
+        "resourceQuantity": 50,
+        "resourceId": 14,
+        "resourceBoxPurpose": "login_bonus",
+        "resourceLevel": null,
+        "resourceType": "material"
+    },
+    {
+        "resourceBoxId": 2049,
+        "resourceQuantity": 300,
+        "resourceId": 11,
+        "resourceBoxPurpose": "login_bonus",
+        "resourceLevel": null,
+        "resourceType": "material"
+    },
+    {
+        "resourceBoxId": 2049,
+        "resourceQuantity": 30,
+        "resourceId": 12,
+        "resourceBoxPurpose": "login_bonus",
+        "resourceLevel": null,
+        "resourceType": "material"
+    },
+    {
+        "resourceBoxId": 2049,
+        "resourceQuantity": 20,
+        "resourceId": 17,
+        "resourceBoxPurpose": "login_bonus",
+        "resourceLevel": null,
+        "resourceType": "material"
+    },
+    {
+        "resourceBoxId": 2049,
+        "resourceQuantity": 39000,
+        "resourceId": null,
+        "resourceBoxPurpose": "login_bonus",
+        "resourceLevel": null,
+        "resourceType": "coin"
+    },
+    {
+        "resourceBoxId": 2050,
+        "resourceQuantity": 1,
+        "resourceId": 2,
+        "resourceBoxPurpose": "login_bonus",
+        "resourceLevel": null,
+        "resourceType": "boost_item"
+    },
+    {
+        "resourceBoxId": 2051,
+        "resourceQuantity": 10,
+        "resourceId": 13,
+        "resourceBoxPurpose": "login_bonus",
+        "resourceLevel": null,
+        "resourceType": "material"
+    },
+    {
+        "resourceBoxId": 2052,
+        "resourceQuantity": 1,
+        "resourceId": 17,
+        "resourceBoxPurpose": "login_bonus",
+        "resourceLevel": null,
+        "resourceType": "gacha_ticket"
     },
     {
         "resourceBoxId": 1,
