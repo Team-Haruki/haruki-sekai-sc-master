@@ -341808,6 +341808,22 @@
         "resourceType": "gacha_ticket"
     },
     {
+        "resourceBoxId": 20031,
+        "resourceQuantity": 100,
+        "resourceId": null,
+        "resourceBoxPurpose": "gift_detail",
+        "resourceLevel": null,
+        "resourceType": "jewel"
+    },
+    {
+        "resourceBoxId": 20031,
+        "resourceQuantity": 1,
+        "resourceId": 2,
+        "resourceBoxPurpose": "gift_detail",
+        "resourceLevel": null,
+        "resourceType": "boost_item"
+    },
+    {
         "resourceBoxId": 9999999,
         "resourceQuantity": 1,
         "resourceId": 1,
