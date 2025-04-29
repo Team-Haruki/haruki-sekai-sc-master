@@ -574,5 +574,37 @@
         "productId": "mk.zh.birthdayfood.0001",
         "price": 18,
         "unitPrice": 1.0579999685287476
+    },
+    {
+        "id": 6137,
+        "groupId": 6213,
+        "platform": "iOS",
+        "productId": "mk.zh.birthdayfood.0002",
+        "price": 18,
+        "unitPrice": 1.0579999685287476
+    },
+    {
+        "id": 6138,
+        "groupId": 6213,
+        "platform": "Android",
+        "productId": "mk.zh.birthdayfood.0002",
+        "price": 18,
+        "unitPrice": 1.0579999685287476
+    },
+    {
+        "id": 6139,
+        "groupId": 6214,
+        "platform": "iOS",
+        "productId": "mk.zh.monthly.0001",
+        "price": 68,
+        "unitPrice": 1.0889999866485596
+    },
+    {
+        "id": 6140,
+        "groupId": 6214,
+        "platform": "Android",
+        "productId": "mk.zh.monthly.0001",
+        "price": 68,
+        "unitPrice": 1.0889999866485596
     }
 ]

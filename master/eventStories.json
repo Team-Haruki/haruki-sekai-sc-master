@@ -15706,5 +15706,404 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 129,
+        "eventId": 129,
+        "outline": "杏为了完成课题，铆足了劲头，但她的歌声中仍然夹杂着些许迷茫。当杏发现她的这份动摇源于心羽时，她下定决心，把心羽叫到了Vivid Street——",
+        "bannerGameCharacterUnitId": 10,
+        "assetbundleName": "event_whip_2024",
+        "eventStoryEpisodes": [
+            {
+                "id": 1001039,
+                "eventStoryId": 129,
+                "episodeNo": 1,
+                "title": "战斗",
+                "assetbundleName": "event_whip_2024_01",
+                "scenarioId": "event_129_01",
+                "releaseConditionId": 1,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001040,
+                "eventStoryId": 129,
+                "episodeNo": 2,
+                "title": "些许的迷茫",
+                "assetbundleName": "event_whip_2024_02",
+                "scenarioId": "event_129_02",
+                "releaseConditionId": 112801,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001041,
+                "eventStoryId": 129,
+                "episodeNo": 3,
+                "title": "对这份心情做个了结",
+                "assetbundleName": "event_whip_2024_03",
+                "scenarioId": "event_129_03",
+                "releaseConditionId": 112802,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001042,
+                "eventStoryId": 129,
+                "episodeNo": 4,
+                "title": "无法言喻的情感",
+                "assetbundleName": "event_whip_2024_04",
+                "scenarioId": "event_129_04",
+                "releaseConditionId": 112803,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001043,
+                "eventStoryId": 129,
+                "episodeNo": 5,
+                "title": "相似的心情",
+                "assetbundleName": "event_whip_2024_05",
+                "scenarioId": "event_129_05",
+                "releaseConditionId": 112804,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001044,
+                "eventStoryId": 129,
+                "episodeNo": 6,
+                "title": "我们的对决",
+                "assetbundleName": "event_whip_2024_06",
+                "scenarioId": "event_129_06",
+                "releaseConditionId": 112805,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001045,
+                "eventStoryId": 129,
+                "episodeNo": 7,
+                "title": "所谓搭档",
+                "assetbundleName": "event_whip_2024_07",
+                "scenarioId": "event_129_07",
+                "releaseConditionId": 112806,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001046,
+                "eventStoryId": 129,
+                "episodeNo": 8,
+                "title": "毫不动摇，立于此地",
+                "assetbundleName": "event_whip_2024_08",
+                "scenarioId": "event_129_08",
+                "releaseConditionId": 112807,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 82
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "eventId": 130,
+        "outline": "MORE MORE JUMP！迎来了难得的休息时间，享受着充实的校园生活。同时前段时间出演电视节目一事引起了热议，在接下来全力以赴的准备过程中，「世界」里出现了一个陌生的地方——？！",
+        "bannerGameCharacterUnitId": 5,
+        "assetbundleName": "event_blooming_2024",
+        "eventStoryEpisodes": [
+            {
+                "id": 1001047,
+                "eventStoryId": 130,
+                "episodeNo": 1,
+                "title": "难得的休息！",
+                "assetbundleName": "event_blooming_2024_01",
+                "scenarioId": "wl_idol_01_01",
+                "releaseConditionId": 1,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001048,
+                "eventStoryId": 130,
+                "gameCharacterId": 7,
+                "episodeNo": 2,
+                "title": "放学后的一幕",
+                "assetbundleName": "event_blooming_2024_02",
+                "scenarioId": "wl_idol_01_02",
+                "releaseConditionId": 1,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001049,
+                "eventStoryId": 130,
+                "gameCharacterId": 7,
+                "episodeNo": 3,
+                "title": "在「世界」诞生的地方",
+                "assetbundleName": "event_blooming_2024_03",
+                "scenarioId": "wl_idol_01_03",
+                "releaseConditionId": 1,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001050,
+                "eventStoryId": 130,
+                "gameCharacterId": 6,
+                "episodeNo": 4,
+                "title": "为直播做准备",
+                "assetbundleName": "event_blooming_2024_04",
+                "scenarioId": "wl_idol_01_04",
+                "releaseConditionId": 112901,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001051,
+                "eventStoryId": 130,
+                "gameCharacterId": 6,
+                "episodeNo": 5,
+                "title": "起舞的是",
+                "assetbundleName": "event_blooming_2024_05",
+                "scenarioId": "wl_idol_01_05",
+                "releaseConditionId": 112901,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001052,
+                "eventStoryId": 130,
+                "gameCharacterId": 8,
+                "episodeNo": 6,
+                "title": "拆行李的过程中",
+                "assetbundleName": "event_blooming_2024_06",
+                "scenarioId": "wl_idol_01_06",
+                "releaseConditionId": 112902,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001053,
+                "eventStoryId": 130,
+                "gameCharacterId": 8,
+                "episodeNo": 7,
+                "title": "潜藏在水中的是",
+                "assetbundleName": "event_blooming_2024_07",
+                "scenarioId": "wl_idol_01_07",
+                "releaseConditionId": 112902,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001054,
+                "eventStoryId": 130,
+                "gameCharacterId": 5,
+                "episodeNo": 8,
+                "title": "一起拼命特训！",
+                "assetbundleName": "event_blooming_2024_08",
+                "scenarioId": "wl_idol_01_08",
+                "releaseConditionId": 112903,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001055,
+                "eventStoryId": 130,
+                "gameCharacterId": 5,
+                "episodeNo": 9,
+                "title": "继承的心愿",
+                "assetbundleName": "event_blooming_2024_09",
+                "scenarioId": "wl_idol_01_09",
+                "releaseConditionId": 112903,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001056,
+                "eventStoryId": 130,
+                "episodeNo": 10,
+                "title": "连接希望",
+                "assetbundleName": "event_blooming_2024_10",
+                "scenarioId": "wl_idol_01_10",
+                "releaseConditionId": 112904,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 83
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "eventId": 131,
+        "outline": "Wonderlands×Showtime终于结束了春名座的修行。接下来笑梦他们将要前往的，是擅长武打戏的“剧团三日月组”。在全新的舞台上，全体成员将在摸爬滚打中接收严酷的挑战——？！",
+        "bannerGameCharacterUnitId": 14,
+        "assetbundleName": "event_smile_2024",
+        "eventStoryEpisodes": [
+            {
+                "id": 1001057,
+                "eventStoryId": 131,
+                "episodeNo": 1,
+                "title": "团长登场！",
+                "assetbundleName": "event_smile_2024_01",
+                "scenarioId": "event_131_01",
+                "releaseConditionId": 1,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001058,
+                "eventStoryId": 131,
+                "episodeNo": 2,
+                "title": "被托付的角色",
+                "assetbundleName": "event_smile_2024_02",
+                "scenarioId": "event_131_02",
+                "releaseConditionId": 113001,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001059,
+                "eventStoryId": 131,
+                "episodeNo": 3,
+                "title": "欠缺的东西",
+                "assetbundleName": "event_smile_2024_03",
+                "scenarioId": "event_131_03",
+                "releaseConditionId": 113002,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001060,
+                "eventStoryId": 131,
+                "episodeNo": 4,
+                "title": "该如何去演绎",
+                "assetbundleName": "event_smile_2024_04",
+                "scenarioId": "event_131_04",
+                "releaseConditionId": 113003,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001061,
+                "eventStoryId": 131,
+                "episodeNo": 5,
+                "title": "特训！特训！特训！",
+                "assetbundleName": "event_smile_2024_05",
+                "scenarioId": "event_131_05",
+                "releaseConditionId": 113004,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001062,
+                "eventStoryId": 131,
+                "episodeNo": 6,
+                "title": "弱点",
+                "assetbundleName": "event_smile_2024_06",
+                "scenarioId": "event_131_06",
+                "releaseConditionId": 113005,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001063,
+                "eventStoryId": 131,
+                "episodeNo": 7,
+                "title": "大家的“视角”",
+                "assetbundleName": "event_smile_2024_07",
+                "scenarioId": "event_131_07",
+                "releaseConditionId": 113006,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001064,
+                "eventStoryId": 131,
+                "episodeNo": 8,
+                "title": "为了传达那种心情",
+                "assetbundleName": "event_smile_2024_08",
+                "scenarioId": "event_131_08",
+                "releaseConditionId": 113007,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 84
+                    }
+                ]
+            }
+        ]
     }
 ]

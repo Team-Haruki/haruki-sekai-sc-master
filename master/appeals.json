@@ -1478,5 +1478,35 @@
         "endAt": 1748656800000,
         "appealReadConditionType": "transition",
         "text": "月卡 · 通行证"
+    },
+    {
+        "id": 318,
+        "seq": 60,
+        "appealTargetType": "billing_shop",
+        "appealType": "once",
+        "startAt": 1745553600000,
+        "endAt": 1746028799000,
+        "appealReadConditionType": "transition",
+        "text": "月度招募礼包"
+    },
+    {
+        "id": 319,
+        "seq": 60,
+        "appealTargetType": "billing_shop",
+        "appealType": "once",
+        "startAt": 1746028800000,
+        "endAt": 1748707199000,
+        "appealReadConditionType": "transition",
+        "text": "月度招募礼包"
+    },
+    {
+        "id": 320,
+        "seq": 5,
+        "appealTargetType": "billing_shop",
+        "appealType": "once",
+        "startAt": 1745683200000,
+        "endAt": 1746547199000,
+        "appealReadConditionType": "transition",
+        "text": "绘名 生日特卖"
     }
 ]

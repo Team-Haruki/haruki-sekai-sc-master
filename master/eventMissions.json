@@ -676,5 +676,344 @@
                 8001
             ]
         ]
+    },
+    {
+        "id": 385,
+        "eventId": 129,
+        "seq": 1,
+        "eventMissionType": "live_clear_daily",
+        "eventMissionCategory": "normal",
+        "requirement1": 6,
+        "sentence": "1天完成1次演出累计达到6天。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 386,
+        "eventId": 129,
+        "seq": 2,
+        "eventMissionType": "any_live_clear",
+        "eventMissionCategory": "normal",
+        "requirement1": 50,
+        "sentence": "完成50次演出。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 387,
+        "eventId": 129,
+        "seq": 3,
+        "eventMissionType": "live_clear_full_combo",
+        "eventMissionCategory": "normal",
+        "requirement1": 10,
+        "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 388,
+        "eventId": 129,
+        "seq": 4,
+        "eventMissionType": "live_clear_different_music",
+        "eventMissionCategory": "normal",
+        "requirement1": 10,
+        "requirement2": 1,
+        "sentence": "在演出中完成10首歌曲。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 389,
+        "eventId": 129,
+        "seq": 5,
+        "eventMissionType": "read_last_event_story_episode",
+        "eventMissionCategory": "normal",
+        "requirement1": 1,
+        "sentence": "观看活动“Whip the wimp girl!!”的活动剧情第8话。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 390,
+        "eventId": 129,
+        "seq": 6,
+        "eventMissionType": "consume_event_item",
+        "eventMissionCategory": "normal",
+        "requirement1": 20000,
+        "sentence": "观看活动“Whip the wimp girl!!”的兑换所消耗20000个徽章。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 391,
+        "eventId": 129,
+        "seq": 7,
+        "eventMissionType": "join_virtual_live",
+        "eventMissionCategory": "normal",
+        "requirement1": 1,
+        "sentence": "参加“Whip the wimp girl!! 后日谈·演唱会”。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 392,
+        "eventId": 129,
+        "seq": 8,
+        "eventMissionType": "achieve_event_mission",
+        "eventMissionCategory": "complete",
+        "requirement1": 7,
+        "sentence": "完成所有7个任务。",
+        "rewards": [
+            [
+                8001
+            ]
+        ]
+    },
+    {
+        "id": 393,
+        "eventId": 130,
+        "seq": 1,
+        "eventMissionType": "live_clear_daily",
+        "eventMissionCategory": "normal",
+        "requirement1": 8,
+        "sentence": "1天完成1次演出累计达到8天。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 394,
+        "eventId": 130,
+        "seq": 2,
+        "eventMissionType": "any_live_clear",
+        "eventMissionCategory": "normal",
+        "requirement1": 50,
+        "sentence": "完成50次演出。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 395,
+        "eventId": 130,
+        "seq": 3,
+        "eventMissionType": "live_clear_full_combo",
+        "eventMissionCategory": "normal",
+        "requirement1": 10,
+        "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 396,
+        "eventId": 130,
+        "seq": 4,
+        "eventMissionType": "live_clear_different_music",
+        "eventMissionCategory": "normal",
+        "requirement1": 10,
+        "requirement2": 1,
+        "sentence": "在演出中完成10首歌曲。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 397,
+        "eventId": 130,
+        "seq": 5,
+        "eventMissionType": "read_last_event_story_episode",
+        "eventMissionCategory": "normal",
+        "requirement1": 1,
+        "sentence": "观看活动“总有一日，登上鲜花盛放的舞台”的结局。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 398,
+        "eventId": 130,
+        "seq": 6,
+        "eventMissionType": "consume_event_item",
+        "eventMissionCategory": "normal",
+        "requirement1": 20000,
+        "sentence": "观看活动“总有一日，登上鲜花盛放的舞台”的兑换所消耗20000个徽章。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 399,
+        "eventId": 130,
+        "seq": 7,
+        "eventMissionType": "join_virtual_live",
+        "eventMissionCategory": "normal",
+        "requirement1": 1,
+        "sentence": "参加“总有一日，登上鲜花盛放的舞台 后日谈·演唱会”。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 400,
+        "eventId": 130,
+        "seq": 8,
+        "eventMissionType": "achieve_event_mission",
+        "eventMissionCategory": "complete",
+        "requirement1": 7,
+        "sentence": "完成所有7个任务。",
+        "rewards": [
+            [
+                8001
+            ]
+        ]
+    },
+    {
+        "id": 401,
+        "eventId": 131,
+        "seq": 1,
+        "eventMissionType": "live_clear_daily",
+        "eventMissionCategory": "normal",
+        "requirement1": 6,
+        "sentence": "1天完成1次演出累计达到6天。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 402,
+        "eventId": 131,
+        "seq": 2,
+        "eventMissionType": "any_live_clear",
+        "eventMissionCategory": "normal",
+        "requirement1": 50,
+        "sentence": "完成50次演出。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 403,
+        "eventId": 131,
+        "seq": 3,
+        "eventMissionType": "live_clear_full_combo",
+        "eventMissionCategory": "normal",
+        "requirement1": 10,
+        "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 404,
+        "eventId": 131,
+        "seq": 4,
+        "eventMissionType": "live_clear_different_music",
+        "eventMissionCategory": "normal",
+        "requirement1": 10,
+        "requirement2": 1,
+        "sentence": "在演出中完成10首歌曲。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 405,
+        "eventId": 131,
+        "seq": 5,
+        "eventMissionType": "read_last_event_story_episode",
+        "eventMissionCategory": "normal",
+        "requirement1": 1,
+        "sentence": "观看活动“perspective for smile”的活动剧情第8话。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 406,
+        "eventId": 131,
+        "seq": 6,
+        "eventMissionType": "consume_event_item",
+        "eventMissionCategory": "normal",
+        "requirement1": 20000,
+        "sentence": "观看活动“perspective for smile”的兑换所消耗20000个徽章。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 407,
+        "eventId": 131,
+        "seq": 7,
+        "eventMissionType": "join_virtual_live",
+        "eventMissionCategory": "normal",
+        "requirement1": 1,
+        "sentence": "参加“perspective for smile 后日谈·演唱会”。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 408,
+        "eventId": 131,
+        "seq": 8,
+        "eventMissionType": "achieve_event_mission",
+        "eventMissionCategory": "complete",
+        "requirement1": 7,
+        "sentence": "完成所有7个任务。",
+        "rewards": [
+            [
+                8001
+            ]
+        ]
     }
 ]

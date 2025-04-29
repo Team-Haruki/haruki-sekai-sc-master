@@ -817,5 +817,51 @@
         "eventId": 128,
         "name": "活动徽章",
         "assetbundleName": "badge_happy"
+    },
+    {
+        "id": 141,
+        "eventId": 129,
+        "name": "活动徽章",
+        "assetbundleName": "badge_cool"
+    },
+    {
+        "id": 151,
+        "eventId": 130,
+        "name": "世界徽章",
+        "assetbundleName": "badge_idol"
+    },
+    {
+        "id": 152,
+        "eventId": 130,
+        "gameCharacterId": 7,
+        "name": "章节1徽章",
+        "assetbundleName": "badge_airi"
+    },
+    {
+        "id": 153,
+        "eventId": 130,
+        "gameCharacterId": 6,
+        "name": "章节2徽章",
+        "assetbundleName": "badge_haruka"
+    },
+    {
+        "id": 154,
+        "eventId": 130,
+        "gameCharacterId": 8,
+        "name": "章节3徽章",
+        "assetbundleName": "badge_shizuku"
+    },
+    {
+        "id": 155,
+        "eventId": 130,
+        "gameCharacterId": 5,
+        "name": "章节4徽章",
+        "assetbundleName": "badge_minori"
+    },
+    {
+        "id": 156,
+        "eventId": 131,
+        "name": "活动徽章",
+        "assetbundleName": "badge_cute"
     }
 ]

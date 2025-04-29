@@ -69,6 +69,7 @@
         "displayTimelineType": "all",
         "additionalAreaType": "none",
         "name": "舞台「世界」",
+        "subName": "舞台",
         "releaseConditionId": 1
     },
     {
@@ -173,6 +174,20 @@
         "startAt": 1711900800000,
         "endAt": 1711987200000,
         "releaseConditionId": 1
+    },
+    {
+        "id": 18,
+        "assetbundleName": "area18",
+        "groupId": 60,
+        "isBaseArea": false,
+        "areaType": "spirit_world",
+        "viewType": "side_view",
+        "displayTimelineType": "next_grade",
+        "additionalAreaType": "none",
+        "name": "舞台「世界」",
+        "subName": "花田",
+        "startAt": 1748347200000,
+        "releaseConditionId": 112905
     },
     {
         "id": 19,

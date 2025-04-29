@@ -2,7 +2,7 @@
     {
         "id": 1058,
         "startAt": 1740794400000,
-        "endAt": 1746820799000,
+        "endAt": 1749931199000,
         "assetbundleName": "world_3900_anniversary",
         "limitedLoginBonusDetails": [
             {
@@ -666,6 +666,20 @@
                 "limitedLoginBonusId": 1080,
                 "day": 3,
                 "resourceBoxId": 2052
+            }
+        ]
+    },
+    {
+        "id": 1081,
+        "startAt": 1745942400000,
+        "endAt": 1746028799000,
+        "assetbundleName": "birthday2025_19",
+        "limitedLoginBonusDetails": [
+            {
+                "id": 1241,
+                "limitedLoginBonusId": 1081,
+                "day": 1,
+                "resourceBoxId": 2036
             }
         ]
     }

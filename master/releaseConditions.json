@@ -6409,6 +6409,90 @@
         "releaseConditionTypeLevel": 60
     },
     {
+        "id": 30915,
+        "sentence": "等级60·看完上篇即可解锁",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 915,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30916,
+        "sentence": "等级60·看完上篇即可解锁",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 916,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30917,
+        "sentence": "等级60·看完上篇即可解锁",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 917,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30918,
+        "sentence": "等级50·看完上篇即可解锁",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 918,
+        "releaseConditionTypeLevel": 50
+    },
+    {
+        "id": 30919,
+        "sentence": "等级30·看完上篇即可解锁",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 919,
+        "releaseConditionTypeLevel": 30
+    },
+    {
+        "id": 30920,
+        "sentence": "等级60·看完上篇即可解锁",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 920,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30921,
+        "sentence": "等级60·看完上篇即可解锁",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 921,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30922,
+        "sentence": "等级60·看完上篇即可解锁",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 922,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30923,
+        "sentence": "等级60·看完上篇即可解锁",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 923,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30924,
+        "sentence": "等级60·看完上篇即可解锁",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 924,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 30925,
+        "sentence": "等级30·看完上篇即可解锁",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 925,
+        "releaseConditionTypeLevel": 30
+    },
+    {
+        "id": 30926,
+        "sentence": "等级60·看完上篇即可解锁",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 926,
+        "releaseConditionTypeLevel": 60
+    },
+    {
         "id": 30927,
         "sentence": "等级60·看完上篇即可解锁",
         "releaseConditionType": "card_level",
@@ -10025,6 +10109,69 @@
         "sentence": "通关EXPERT且GOOD及以下评价不超过7个",
         "releaseConditionType": "music_difficulty_better_play",
         "releaseConditionTypeId": 2499,
+        "releaseConditionTypeQuantity": 7
+    },
+    {
+        "id": 40564,
+        "sentence": "通关EXPERT且GOOD及以下评价不超过7个",
+        "releaseConditionType": "music_difficulty_better_play",
+        "releaseConditionTypeId": 2819,
+        "releaseConditionTypeQuantity": 7
+    },
+    {
+        "id": 40573,
+        "sentence": "通关EXPERT且GOOD及以下评价不超过7个",
+        "releaseConditionType": "music_difficulty_better_play",
+        "releaseConditionTypeId": 2864,
+        "releaseConditionTypeQuantity": 7
+    },
+    {
+        "id": 40574,
+        "sentence": "通关EXPERT且GOOD及以下评价不超过7个",
+        "releaseConditionType": "music_difficulty_better_play",
+        "releaseConditionTypeId": 2869,
+        "releaseConditionTypeQuantity": 7
+    },
+    {
+        "id": 40575,
+        "sentence": "通关EXPERT且GOOD及以下评价不超过7个",
+        "releaseConditionType": "music_difficulty_better_play",
+        "releaseConditionTypeId": 2874,
+        "releaseConditionTypeQuantity": 7
+    },
+    {
+        "id": 40576,
+        "sentence": "通关EXPERT且GOOD及以下评价不超过7个",
+        "releaseConditionType": "music_difficulty_better_play",
+        "releaseConditionTypeId": 2879,
+        "releaseConditionTypeQuantity": 7
+    },
+    {
+        "id": 40577,
+        "sentence": "通关EXPERT且GOOD及以下评价不超过7个",
+        "releaseConditionType": "music_difficulty_better_play",
+        "releaseConditionTypeId": 2884,
+        "releaseConditionTypeQuantity": 7
+    },
+    {
+        "id": 40578,
+        "sentence": "通关EXPERT且GOOD及以下评价不超过7个",
+        "releaseConditionType": "music_difficulty_better_play",
+        "releaseConditionTypeId": 2889,
+        "releaseConditionTypeQuantity": 7
+    },
+    {
+        "id": 40579,
+        "sentence": "通关EXPERT且GOOD及以下评价不超过7个",
+        "releaseConditionType": "music_difficulty_better_play",
+        "releaseConditionTypeId": 2894,
+        "releaseConditionTypeQuantity": 7
+    },
+    {
+        "id": 40593,
+        "sentence": "通关EXPERT且GOOD及以下评价不超过7个",
+        "releaseConditionType": "music_difficulty_better_play",
+        "releaseConditionTypeId": 2964,
         "releaseConditionTypeQuantity": 7
     },
     {
@@ -14781,28 +14928,28 @@
     },
     {
         "id": 61540,
-        "sentence": "获得“[大家都能成为美味的松饼！] KAITO”",
+        "sentence": "获得“[大家都能变成美味的松饼！] KAITO”",
         "releaseConditionType": "master_rank",
         "releaseConditionTypeId": 436,
         "releaseConditionTypeLevel": 0
     },
     {
         "id": 61541,
-        "sentence": "“[大家都能成为美味的松饼！] KAITO”专家等级达到1级时解锁",
+        "sentence": "“[大家都能变成美味的松饼！] KAITO”专家等级达到1级时解锁",
         "releaseConditionType": "master_rank",
         "releaseConditionTypeId": 436,
         "releaseConditionTypeLevel": 1
     },
     {
         "id": 61542,
-        "sentence": "“[大家都能成为美味的松饼！] KAITO”专家等级达到3级时解锁",
+        "sentence": "“[大家都能变成美味的松饼！] KAITO”专家等级达到3级时解锁",
         "releaseConditionType": "master_rank",
         "releaseConditionTypeId": 436,
         "releaseConditionTypeLevel": 3
     },
     {
         "id": 61543,
-        "sentence": "“[大家都能成为美味的松饼！] KAITO”专家等级达到5级时解锁",
+        "sentence": "“[大家都能变成美味的松饼！] KAITO”专家等级达到5级时解锁",
         "releaseConditionType": "master_rank",
         "releaseConditionTypeId": 436,
         "releaseConditionTypeLevel": 5
@@ -20381,35 +20528,35 @@
     },
     {
         "id": 63360,
-        "sentence": "获得“[憧憬的主角] 镜音连”",
+        "sentence": "获得“[崇拜的主角] 镜音连”",
         "releaseConditionType": "master_rank",
         "releaseConditionTypeId": 798,
         "releaseConditionTypeLevel": 0
     },
     {
         "id": 63361,
-        "sentence": "“[憧憬的主角] 镜音连”专家等级达到1级时解锁",
+        "sentence": "“[崇拜的主角] 镜音连”专家等级达到1级时解锁",
         "releaseConditionType": "master_rank",
         "releaseConditionTypeId": 798,
         "releaseConditionTypeLevel": 1
     },
     {
         "id": 63362,
-        "sentence": "“[憧憬的主角] 镜音连”专家等级达到2级时解锁",
+        "sentence": "“[崇拜的主角] 镜音连”专家等级达到2级时解锁",
         "releaseConditionType": "master_rank",
         "releaseConditionTypeId": 798,
         "releaseConditionTypeLevel": 2
     },
     {
         "id": 63363,
-        "sentence": "“[憧憬的主角] 镜音连”专家等级达到3级时解锁",
+        "sentence": "“[崇拜的主角] 镜音连”专家等级达到3级时解锁",
         "releaseConditionType": "master_rank",
         "releaseConditionTypeId": 798,
         "releaseConditionTypeLevel": 3
     },
     {
         "id": 63364,
-        "sentence": "“[憧憬的主角] 镜音连”专家等级达到5级时解锁",
+        "sentence": "“[崇拜的主角] 镜音连”专家等级达到5级时解锁",
         "releaseConditionType": "master_rank",
         "releaseConditionTypeId": 798,
         "releaseConditionTypeLevel": 5
@@ -21991,56 +22138,56 @@
     },
     {
         "id": 63890,
-        "sentence": "获得“[独自一人的房间] 天马咲希”",
+        "sentence": "获得“[只剩一人的房间] 天马咲希”",
         "releaseConditionType": "master_rank",
         "releaseConditionTypeId": 909,
         "releaseConditionTypeLevel": 0
     },
     {
         "id": 63891,
-        "sentence": "“[独自一人的房间] 天马咲希”专家等级达到1级时解锁",
+        "sentence": "“[只剩一人的房间] 天马咲希”专家等级达到1级时解锁",
         "releaseConditionType": "master_rank",
         "releaseConditionTypeId": 909,
         "releaseConditionTypeLevel": 1
     },
     {
         "id": 63892,
-        "sentence": "“[独自一人的房间] 天马咲希”专家等级达到3级时解锁",
+        "sentence": "“[只剩一人的房间] 天马咲希”专家等级达到3级时解锁",
         "releaseConditionType": "master_rank",
         "releaseConditionTypeId": 909,
         "releaseConditionTypeLevel": 3
     },
     {
         "id": 63893,
-        "sentence": "“[独自一人的房间] 天马咲希”专家等级达到5级时解锁",
+        "sentence": "“[只剩一人的房间] 天马咲希”专家等级达到5级时解锁",
         "releaseConditionType": "master_rank",
         "releaseConditionTypeId": 909,
         "releaseConditionTypeLevel": 5
     },
     {
         "id": 63900,
-        "sentence": "获得“[送上慰问品] 日野森志步”",
+        "sentence": "获得“[带上慰问品] 日野森志步”",
         "releaseConditionType": "master_rank",
         "releaseConditionTypeId": 910,
         "releaseConditionTypeLevel": 0
     },
     {
         "id": 63901,
-        "sentence": "“[送上慰问品] 日野森志步”专家等级达到1级时解锁",
+        "sentence": "“[带上慰问品] 日野森志步”专家等级达到1级时解锁",
         "releaseConditionType": "master_rank",
         "releaseConditionTypeId": 910,
         "releaseConditionTypeLevel": 1
     },
     {
         "id": 63902,
-        "sentence": "“[送上慰问品] 日野森志步”专家等级达到3级时解锁",
+        "sentence": "“[带上慰问品] 日野森志步”专家等级达到3级时解锁",
         "releaseConditionType": "master_rank",
         "releaseConditionTypeId": 910,
         "releaseConditionTypeLevel": 3
     },
     {
         "id": 63903,
-        "sentence": "“[送上慰问品] 日野森志步”专家等级达到5级时解锁",
+        "sentence": "“[带上慰问品] 日野森志步”专家等级达到5级时解锁",
         "releaseConditionType": "master_rank",
         "releaseConditionTypeId": 910,
         "releaseConditionTypeLevel": 5
@@ -22071,6 +22218,307 @@
         "sentence": "“[我们存在的意义] MEIKO”专家等级达到5级时解锁",
         "releaseConditionType": "master_rank",
         "releaseConditionTypeId": 911,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 63920,
+        "sentence": "获得“[决战之时] 白石杏”",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 915,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 63921,
+        "sentence": "“[决战之时] 白石杏”专家等级达到1级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 915,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 63922,
+        "sentence": "“[决战之时] 白石杏”专家等级达到2级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 915,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 63923,
+        "sentence": "“[决战之时] 白石杏”专家等级达到3级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 915,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 63924,
+        "sentence": "“[决战之时] 白石杏”专家等级达到5级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 915,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 63930,
+        "sentence": "获得“[接受你的一切] 小豆泽心羽”",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 916,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 63931,
+        "sentence": "“[接受你的一切] 小豆泽心羽”专家等级达到1级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 916,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 63932,
+        "sentence": "“[接受你的一切] 小豆泽心羽”专家等级达到2级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 916,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 63933,
+        "sentence": "“[接受你的一切] 小豆泽心羽”专家等级达到3级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 916,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 63934,
+        "sentence": "“[接受你的一切] 小豆泽心羽”专家等级达到5级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 916,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 63940,
+        "sentence": "获得“[害怕之情] 青柳冬弥”",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 917,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 63941,
+        "sentence": "“[害怕之情] 青柳冬弥”专家等级达到1级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 917,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 63942,
+        "sentence": "“[害怕之情] 青柳冬弥”专家等级达到2级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 917,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 63943,
+        "sentence": "“[害怕之情] 青柳冬弥”专家等级达到3级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 917,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 63944,
+        "sentence": "“[害怕之情] 青柳冬弥”专家等级达到5级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 917,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 63970,
+        "sentence": "获得“[日积月累的心愿] 花里实乃理”",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 921,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 63971,
+        "sentence": "“[日积月累的心愿] 花里实乃理”专家等级达到1级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 921,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 63972,
+        "sentence": "“[日积月累的心愿] 花里实乃理”专家等级达到3级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 921,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 63973,
+        "sentence": "“[日积月累的心愿] 花里实乃理”专家等级达到5级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 921,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 63980,
+        "sentence": "获得“[接受的希望] 桐谷遥”",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 922,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 63981,
+        "sentence": "“[接受的希望] 桐谷遥”专家等级达到1级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 922,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 63982,
+        "sentence": "“[接受的希望] 桐谷遥”专家等级达到3级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 922,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 63983,
+        "sentence": "“[接受的希望] 桐谷遥”专家等级达到5级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 922,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 63990,
+        "sentence": "获得“[日常的一页] 桃井爱莉”",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 923,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 63991,
+        "sentence": "“[日常的一页] 桃井爱莉”专家等级达到1级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 923,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 63992,
+        "sentence": "“[日常的一页] 桃井爱莉”专家等级达到3级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 923,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 63993,
+        "sentence": "“[日常的一页] 桃井爱莉”专家等级达到5级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 923,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 64000,
+        "sentence": "获得“[指尖所触碰的事物] 日野森雫”",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 924,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 64001,
+        "sentence": "“[指尖所触碰的事物] 日野森雫”专家等级达到1级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 924,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 64002,
+        "sentence": "“[指尖所触碰的事物] 日野森雫”专家等级达到3级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 924,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 64003,
+        "sentence": "“[指尖所触碰的事物] 日野森雫”专家等级达到5级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 924,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 64010,
+        "sentence": "获得“[笑傲天下之人] 凤笑梦”",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 927,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 64011,
+        "sentence": "“[笑傲天下之人] 凤笑梦”专家等级达到1级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 927,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 64012,
+        "sentence": "“[笑傲天下之人] 凤笑梦”专家等级达到3级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 927,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 64013,
+        "sentence": "“[笑傲天下之人] 凤笑梦”专家等级达到5级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 927,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 64020,
+        "sentence": "获得“[以明星为目标全力冲刺！] 天马司”",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 928,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 64021,
+        "sentence": "“[以明星为目标全力冲刺！] 天马司”专家等级达到1级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 928,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 64022,
+        "sentence": "“[以明星为目标全力冲刺！] 天马司”专家等级达到3级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 928,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 64023,
+        "sentence": "“[以明星为目标全力冲刺！] 天马司”专家等级达到5级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 928,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 64030,
+        "sentence": "获得“[一起特训！] 镜音连”",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 929,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 64031,
+        "sentence": "“[一起特训！] 镜音连”专家等级达到1级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 929,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 64032,
+        "sentence": "“[一起特训！] 镜音连”专家等级达到3级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 929,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 64033,
+        "sentence": "“[一起特训！] 镜音连”专家等级达到5级时解锁",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 929,
         "releaseConditionTypeLevel": 5
     },
     {
@@ -29858,10 +30306,154 @@
         "releaseConditionTypeId": 1001038
     },
     {
+        "id": 112801,
+        "sentence": "活动积分达到12000",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 129,
+        "releaseConditionTypeQuantity": 12000
+    },
+    {
+        "id": 112802,
+        "sentence": "活动积分达到32000",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 129,
+        "releaseConditionTypeQuantity": 32000
+    },
+    {
+        "id": 112803,
+        "sentence": "活动积分达到52000",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 129,
+        "releaseConditionTypeQuantity": 52000
+    },
+    {
+        "id": 112804,
+        "sentence": "活动积分达到76000",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 129,
+        "releaseConditionTypeQuantity": 76000
+    },
+    {
+        "id": 112805,
+        "sentence": "活动积分达到100000",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 129,
+        "releaseConditionTypeQuantity": 100000
+    },
+    {
+        "id": 112806,
+        "sentence": "活动积分达到125000",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 129,
+        "releaseConditionTypeQuantity": 125000
+    },
+    {
+        "id": 112807,
+        "sentence": "活动积分达到150000",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 129,
+        "releaseConditionTypeQuantity": 150000
+    },
+    {
+        "id": 112808,
+        "sentence": "观看“Whip the wimp girl!!”第8话",
+        "releaseConditionType": "event_story",
+        "releaseConditionTypeId": 1001046
+    },
+    {
+        "id": 112900,
+        "sentence": "2025\/05\/19 20:00解锁",
+        "releaseConditionType": "world_bloom_chapter_start",
+        "releaseConditionTypeId": 130,
+        "releaseConditionTypeId2": 7
+    },
+    {
+        "id": 112901,
+        "sentence": "2025\/05\/21 20:00解锁",
+        "releaseConditionType": "world_bloom_chapter_start",
+        "releaseConditionTypeId": 130,
+        "releaseConditionTypeId2": 6
+    },
+    {
+        "id": 112902,
+        "sentence": "2025\/05\/23 20:00解锁",
+        "releaseConditionType": "world_bloom_chapter_start",
+        "releaseConditionTypeId": 130,
+        "releaseConditionTypeId2": 8
+    },
+    {
+        "id": 112903,
+        "sentence": "2025\/05\/25 20:00解锁",
+        "releaseConditionType": "world_bloom_chapter_start",
+        "releaseConditionTypeId": 130,
+        "releaseConditionTypeId2": 5
+    },
+    {
+        "id": 112904,
+        "sentence": "2025\/05\/27 20:00解锁",
+        "releaseConditionType": "world_bloom_chapter_aggregate",
+        "releaseConditionTypeId": 130
+    },
+    {
         "id": 112905,
         "sentence": "观看“总有一日，登上鲜花盛放的舞台",
         "releaseConditionType": "event_story",
         "releaseConditionTypeId": 1001056
+    },
+    {
+        "id": 113001,
+        "sentence": "活动积分达到12000",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 131,
+        "releaseConditionTypeQuantity": 12000
+    },
+    {
+        "id": 113002,
+        "sentence": "活动积分达到32000",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 131,
+        "releaseConditionTypeQuantity": 32000
+    },
+    {
+        "id": 113003,
+        "sentence": "活动积分达到52000",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 131,
+        "releaseConditionTypeQuantity": 52000
+    },
+    {
+        "id": 113004,
+        "sentence": "活动积分达到76000",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 131,
+        "releaseConditionTypeQuantity": 76000
+    },
+    {
+        "id": 113005,
+        "sentence": "活动积分达到100000",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 131,
+        "releaseConditionTypeQuantity": 100000
+    },
+    {
+        "id": 113006,
+        "sentence": "活动积分达到125000",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 131,
+        "releaseConditionTypeQuantity": 125000
+    },
+    {
+        "id": 113007,
+        "sentence": "活动积分达到150000",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 131,
+        "releaseConditionTypeQuantity": 150000
+    },
+    {
+        "id": 113008,
+        "sentence": "观看“perspective for smile”第8话",
+        "releaseConditionType": "event_story",
+        "releaseConditionTypeId": 1001064
     },
     {
         "id": 113605,
@@ -31372,6 +31964,27 @@
         "releaseConditionTypeLevel": 56
     },
     {
+        "id": 1022301,
+        "sentence": "将天马咲希和镜音连的牵绊等级提升至16级。",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10223,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1022302,
+        "sentence": "将天马咲希和镜音连的牵绊等级提升至36级。",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10223,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1022303,
+        "sentence": "将天马咲希和镜音连的牵绊等级提升至56级。",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10223,
+        "releaseConditionTypeLevel": 56
+    },
+    {
         "id": 1022401,
         "sentence": "将天马咲希和巡音流歌的牵绊等级提升至16级。",
         "releaseConditionType": "bonds_rank",
@@ -32062,6 +32675,27 @@
         "sentence": "将花里实乃理和镜音铃的牵绊等级提升至56级。",
         "releaseConditionType": "bonds_rank",
         "releaseConditionTypeId": 10522,
+        "releaseConditionTypeLevel": 56
+    },
+    {
+        "id": 1052301,
+        "sentence": "将花里实乃理和镜音连的牵绊等级提升至16级。",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10523,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1052302,
+        "sentence": "将花里实乃理和镜音连的牵绊等级提升至36级。",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10523,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1052303,
+        "sentence": "将花里实乃理和镜音连的牵绊等级提升至56级。",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10523,
         "releaseConditionTypeLevel": 56
     },
     {
@@ -34141,6 +34775,27 @@
         "sentence": "将神代类和巡音流歌的牵绊等级提升至56级。",
         "releaseConditionType": "bonds_rank",
         "releaseConditionTypeId": 11624,
+        "releaseConditionTypeLevel": 56
+    },
+    {
+        "id": 1162501,
+        "sentence": "将神代类和MEIKO的牵绊等级提升至16级。",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 11625,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1162502,
+        "sentence": "将神代类和MEIKO的牵绊等级提升至36级。",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 11625,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1162503,
+        "sentence": "将神代类和MEIKO的牵绊等级提升至56级。",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 11625,
         "releaseConditionTypeLevel": 56
     },
     {

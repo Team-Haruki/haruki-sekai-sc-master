@@ -278,5 +278,35 @@
             501,
             502
         ]
+    },
+    {
+        "id": 52,
+        "seq": 570,
+        "assetbundleName": "ab_gacha_tab_18",
+        "childGachaIds": [
+            506,
+            507,
+            508
+        ]
+    },
+    {
+        "id": 54,
+        "seq": 570,
+        "assetbundleName": "ab_gacha_tab_19",
+        "childGachaIds": [
+            513,
+            514,
+            515
+        ]
+    },
+    {
+        "id": 55,
+        "seq": 570,
+        "assetbundleName": "ab_gacha_tab_20",
+        "childGachaIds": [
+            517,
+            518,
+            519
+        ]
     }
 ]

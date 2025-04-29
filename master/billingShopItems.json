@@ -117,7 +117,7 @@
         "assetbundleName": "shop_62",
         "resourceBoxId": 16,
         "startAt": 1746028800000,
-        "endAt": 4097145599000
+        "endAt": 1748707199000
     },
     {
         "id": 24,
@@ -131,9 +131,9 @@
         "billableLimitResetIntervalType": "monthly",
         "assetbundleName": "shop_62",
         "resourceBoxId": 90001,
-        "bonusResourceBoxId": 90001,
+        "bonusResourceBoxId": 90013,
         "startAt": 1746028800000,
-        "endAt": 4097145599000
+        "endAt": 1748707199000
     },
     {
         "id": 33,
@@ -219,7 +219,7 @@
         "billableLimitType": "count",
         "billableLimitValue": 1,
         "billableLimitResetIntervalType": "day",
-        "billableLimitResetIntervalValue": 30,
+        "billableLimitResetIntervalValue": 27,
         "assetbundleName": "shop_68",
         "resourceBoxId": 40001
     },
@@ -233,7 +233,7 @@
         "billableLimitType": "count",
         "billableLimitValue": 1,
         "billableLimitResetIntervalType": "day",
-        "billableLimitResetIntervalValue": 30,
+        "billableLimitResetIntervalValue": 27,
         "assetbundleName": "shop_69",
         "resourceBoxId": 40003
     },
@@ -247,7 +247,7 @@
         "billableLimitType": "count",
         "billableLimitValue": 1,
         "billableLimitResetIntervalType": "day",
-        "billableLimitResetIntervalValue": 30,
+        "billableLimitResetIntervalValue": 27,
         "assetbundleName": "shop_70",
         "resourceBoxId": 40002
     },
@@ -745,6 +745,19 @@
         "startAt": 1188503999000
     },
     {
+        "id": 7000,
+        "seq": 30000,
+        "billingShopItemType": "value_set",
+        "billingProductGroupId": 6214,
+        "name": "月度招募礼包",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "monthly",
+        "assetbundleName": "shop_7000",
+        "resourceBoxId": 7000,
+        "startAt": 1745553600000
+    },
+    {
         "id": 10001,
         "seq": 4010,
         "billingShopItemType": "value_set",
@@ -1238,6 +1251,36 @@
         "purchaseOption": "exchange"
     },
     {
+        "id": 50019,
+        "seq": 300611,
+        "billingShopItemType": "value_set",
+        "billingProductGroupId": 6213,
+        "name": "「绘名喜欢的食物」礼包",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "assetbundleName": "shop_birthdayfood_0430",
+        "resourceBoxId": 50019,
+        "label": "仅限购买1次",
+        "startAt": 1745683200000,
+        "endAt": 1746547199000
+    },
+    {
+        "id": 50119,
+        "seq": 300611,
+        "billingShopItemType": "value_set",
+        "name": "绘名虚拟演唱会应援礼包",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "assetbundleName": "shop_birthdayvirtual_0430",
+        "resourceBoxId": 50119,
+        "label": "仅限购买1次",
+        "startAt": 1745683200000,
+        "endAt": 1746547199000,
+        "purchaseOption": "exchange"
+    },
+    {
         "id": 60000,
         "seq": 1,
         "billingShopItemType": "live_mission_pass_lite",
@@ -1280,9 +1323,9 @@
         "billableLimitResetIntervalType": "monthly",
         "assetbundleName": "shop_62",
         "resourceBoxId": 90004,
-        "bonusResourceBoxId": 90001,
+        "bonusResourceBoxId": 90013,
         "startAt": 1746028800000,
-        "endAt": 4097145599000
+        "endAt": 1748707199000
     },
     {
         "id": 60004,

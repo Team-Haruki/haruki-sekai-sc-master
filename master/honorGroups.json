@@ -1629,6 +1629,11 @@
         "backgroundAssetbundleName": "season_2023_autumn"
     },
     {
+        "id": 320,
+        "name": "HAPPY BIRTHDAY 咲希 2025",
+        "honorType": "event"
+    },
+    {
         "id": 321,
         "name": "HAPPY BIRTHDAY 穗波 Dessert",
         "honorType": "event"
@@ -1666,6 +1671,16 @@
     {
         "id": 329,
         "name": "HAPPY BIRTHDAY 彰人 Dessert",
+        "honorType": "event"
+    },
+    {
+        "id": 330,
+        "name": "HAPPY BIRTHDAY 冬弥 2025",
+        "honorType": "event"
+    },
+    {
+        "id": 331,
+        "name": "HAPPY BIRTHDAY 司 2025",
         "honorType": "event"
     },
     {
@@ -1973,6 +1988,52 @@
         "name": "Parallel Harmonies",
         "honorType": "event",
         "backgroundAssetbundleName": "honor_bg_event_parallel"
+    },
+    {
+        "id": 389,
+        "name": "Whip the wimp girl!!",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_whip"
+    },
+    {
+        "id": 390,
+        "name": "总有一日，登上鲜花盛放的舞台 综合",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_blooming"
+    },
+    {
+        "id": 391,
+        "name": "总有一日，登上鲜花盛放的舞台 章节1",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_blooming_cp1",
+        "frameName": "event_blooming_cp1"
+    },
+    {
+        "id": 392,
+        "name": "总有一日，登上鲜花盛放的舞台 章节2",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_blooming_cp2",
+        "frameName": "event_blooming_cp2"
+    },
+    {
+        "id": 393,
+        "name": "总有一日，登上鲜花盛放的舞台 章节3",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_blooming_cp3",
+        "frameName": "event_blooming_cp3"
+    },
+    {
+        "id": 394,
+        "name": "总有一日，登上鲜花盛放的舞台 章节4",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_blooming_cp4",
+        "frameName": "event_blooming_cp4"
+    },
+    {
+        "id": 395,
+        "name": "perspective for smile",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_smile"
     },
     {
         "id": 10001,
