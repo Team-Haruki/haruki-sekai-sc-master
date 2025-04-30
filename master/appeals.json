@@ -1508,5 +1508,35 @@
         "endAt": 1746547199000,
         "appealReadConditionType": "transition",
         "text": "绘名 生日特卖"
+    },
+    {
+        "id": 321,
+        "seq": 20,
+        "appealTargetType": "billing_shop",
+        "appealType": "once",
+        "startAt": 1746460800000,
+        "endAt": 1747324799000,
+        "appealReadConditionType": "transition",
+        "text": "咲希 生日特卖"
+    },
+    {
+        "id": 322,
+        "seq": 10,
+        "appealTargetType": "billing_shop",
+        "appealType": "once",
+        "startAt": 1746028800000,
+        "endAt": 1746979199000,
+        "appealReadConditionType": "transition",
+        "text": "五一节庆特卖"
+    },
+    {
+        "id": 323,
+        "seq": 30,
+        "appealTargetType": "billing_shop",
+        "appealType": "once",
+        "startAt": 1746028800000,
+        "endAt": 1746979199000,
+        "appealReadConditionType": "transition",
+        "text": "新服装"
     }
 ]
