@@ -750,5 +750,73 @@
                 "resourceBoxId": 2055
             }
         ]
+    },
+    {
+        "id": 1086,
+        "startAt": 1747670400000,
+        "endAt": 1747756740000,
+        "assetbundleName": "festival2025_0520",
+        "limitedLoginBonusDetails": [
+            {
+                "id": 1248,
+                "limitedLoginBonusId": 1086,
+                "day": 1,
+                "resourceBoxId": 2056
+            }
+        ]
+    },
+    {
+        "id": 1087,
+        "startAt": 1747756800000,
+        "endAt": 1747843140000,
+        "assetbundleName": "festival2025_0520",
+        "limitedLoginBonusDetails": [
+            {
+                "id": 1249,
+                "limitedLoginBonusId": 1087,
+                "day": 1,
+                "resourceBoxId": 2057
+            }
+        ]
+    },
+    {
+        "id": 1088,
+        "startAt": 1748491200000,
+        "endAt": 1748980799000,
+        "assetbundleName": "festival2025_0531",
+        "limitedLoginBonusDetails": [
+            {
+                "id": 1250,
+                "limitedLoginBonusId": 1088,
+                "day": 1,
+                "resourceBoxId": 2058
+            },
+            {
+                "id": 1251,
+                "limitedLoginBonusId": 1088,
+                "day": 2,
+                "resourceBoxId": 2059
+            },
+            {
+                "id": 1252,
+                "limitedLoginBonusId": 1088,
+                "day": 3,
+                "resourceBoxId": 2060
+            }
+        ]
+    },
+    {
+        "id": 1089,
+        "startAt": 1748707200000,
+        "endAt": 1748793599000,
+        "assetbundleName": "festival2025_0601",
+        "limitedLoginBonusDetails": [
+            {
+                "id": 1253,
+                "limitedLoginBonusId": 1089,
+                "day": 1,
+                "resourceBoxId": 2061
+            }
+        ]
     }
 ]

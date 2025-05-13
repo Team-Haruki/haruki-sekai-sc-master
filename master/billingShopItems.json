@@ -1461,6 +1461,21 @@
         "endAt": 1746979199000
     },
     {
+        "id": 51033,
+        "seq": 30010,
+        "billingShopItemType": "value_set",
+        "billingProductGroupId": 6229,
+        "name": "特惠招募礼包",
+        "description": "招募票券×1，任务招募票券×1",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "weekly",
+        "assetbundleName": "shop_7006",
+        "resourceBoxId": 7001,
+        "startAt": 1747497600000,
+        "endAt": 4102415999000
+    },
+    {
         "id": 60000,
         "seq": 1,
         "billingShopItemType": "live_mission_pass_lite",

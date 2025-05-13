@@ -123696,6 +123696,22 @@
         "resourceType": "gacha_ticket"
     },
     {
+        "resourceBoxId": 7001,
+        "resourceQuantity": 1,
+        "resourceId": 1,
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceLevel": null,
+        "resourceType": "gacha_ticket"
+    },
+    {
+        "resourceBoxId": 7001,
+        "resourceQuantity": 1,
+        "resourceId": 17,
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceLevel": null,
+        "resourceType": "gacha_ticket"
+    },
+    {
         "resourceBoxId": 10018,
         "resourceQuantity": 3,
         "resourceId": 1,
@@ -352014,6 +352030,54 @@
         "resourceBoxPurpose": "login_bonus",
         "resourceLevel": null,
         "resourceType": "gacha_ticket"
+    },
+    {
+        "resourceBoxId": 2056,
+        "resourceQuantity": 3,
+        "resourceId": 5000,
+        "resourceBoxPurpose": "login_bonus",
+        "resourceLevel": null,
+        "resourceType": "boost_item"
+    },
+    {
+        "resourceBoxId": 2057,
+        "resourceQuantity": 520,
+        "resourceId": null,
+        "resourceBoxPurpose": "login_bonus",
+        "resourceLevel": null,
+        "resourceType": "jewel"
+    },
+    {
+        "resourceBoxId": 2058,
+        "resourceQuantity": 1,
+        "resourceId": 1009,
+        "resourceBoxPurpose": "login_bonus",
+        "resourceLevel": null,
+        "resourceType": "boost_item"
+    },
+    {
+        "resourceBoxId": 2059,
+        "resourceQuantity": 2,
+        "resourceId": 1009,
+        "resourceBoxPurpose": "login_bonus",
+        "resourceLevel": null,
+        "resourceType": "boost_item"
+    },
+    {
+        "resourceBoxId": 2060,
+        "resourceQuantity": 300,
+        "resourceId": null,
+        "resourceBoxPurpose": "login_bonus",
+        "resourceLevel": null,
+        "resourceType": "jewel"
+    },
+    {
+        "resourceBoxId": 2061,
+        "resourceQuantity": 1,
+        "resourceId": 1010,
+        "resourceBoxPurpose": "login_bonus",
+        "resourceLevel": null,
+        "resourceType": "boost_item"
     },
     {
         "resourceBoxId": 1,

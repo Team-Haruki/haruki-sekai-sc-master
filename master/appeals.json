@@ -1538,5 +1538,25 @@
         "endAt": 1746979199000,
         "appealReadConditionType": "transition",
         "text": "新服装"
+    },
+    {
+        "id": 324,
+        "seq": 30,
+        "appealTargetType": "billing_shop",
+        "appealType": "once",
+        "startAt": 1747497600000,
+        "endAt": 1748102399000,
+        "appealReadConditionType": "transition",
+        "text": "特惠招募礼包"
+    },
+    {
+        "id": 325,
+        "seq": 30,
+        "appealTargetType": "billing_shop",
+        "appealType": "once",
+        "startAt": 1748102400000,
+        "endAt": 1748707199000,
+        "appealReadConditionType": "transition",
+        "text": "特惠招募礼包"
     }
 ]
