@@ -3296,7 +3296,7 @@
                 "id": 1000219,
                 "eventStoryId": 27,
                 "episodeNo": 8,
-                "title": "想要传达的心愿",
+                "title": "想传达的心愿",
                 "assetbundleName": "event_unnamed_2021_08",
                 "scenarioId": "event_27_08",
                 "releaseConditionId": 102607,
@@ -4194,7 +4194,7 @@
                 "id": 1000278,
                 "eventStoryId": 35,
                 "episodeNo": 3,
-                "title": "曾几何时的回忆",
+                "title": "曾经的回忆",
                 "assetbundleName": "event_mirage_2021_03",
                 "scenarioId": "event_35_03",
                 "releaseConditionId": 103402,
@@ -16101,6 +16101,127 @@
                 "episodeRewards": [
                     {
                         "resourceBoxId": 84
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "eventId": 132,
+        "outline": "作为MORE MORE JUMP！活动的一部分，实乃理开始独自进行散步直播。某一天，因为观众的推荐，她决定前往“菲尼克斯·婚庆展”一探究竟，然而——？！",
+        "bannerGameCharacterUnitId": 5,
+        "assetbundleName": "event_wedding_2024",
+        "eventStoryEpisodes": [
+            {
+                "id": 1001065,
+                "eventStoryId": 132,
+                "episodeNo": 1,
+                "title": "新的一届婚庆展！",
+                "assetbundleName": "event_wedding_2024_01",
+                "scenarioId": "event_132_01",
+                "releaseConditionId": 1,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001066,
+                "eventStoryId": 132,
+                "episodeNo": 2,
+                "title": "要一起直播？！",
+                "assetbundleName": "event_wedding_2024_02",
+                "scenarioId": "event_132_02",
+                "releaseConditionId": 113101,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001067,
+                "eventStoryId": 132,
+                "episodeNo": 3,
+                "title": "充满幻想的婚礼",
+                "assetbundleName": "event_wedding_2024_03",
+                "scenarioId": "event_132_03",
+                "releaseConditionId": 113102,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001068,
+                "eventStoryId": 132,
+                "episodeNo": 4,
+                "title": "大家来聊实乃理！",
+                "assetbundleName": "event_wedding_2024_04",
+                "scenarioId": "event_132_04",
+                "releaseConditionId": 113103,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001069,
+                "eventStoryId": 132,
+                "episodeNo": 5,
+                "title": "婚礼表演的后台",
+                "assetbundleName": "event_wedding_2024_05",
+                "scenarioId": "event_132_05",
+                "releaseConditionId": 113104,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001070,
+                "eventStoryId": 132,
+                "episodeNo": 6,
+                "title": "救场的是偶像",
+                "assetbundleName": "event_wedding_2024_06",
+                "scenarioId": "event_132_06",
+                "releaseConditionId": 113105,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001071,
+                "eventStoryId": 132,
+                "episodeNo": 7,
+                "title": "一起举办婚礼演唱会♡",
+                "assetbundleName": "event_wedding_2024_07",
+                "scenarioId": "event_132_07",
+                "releaseConditionId": 113106,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001072,
+                "eventStoryId": 132,
+                "episodeNo": 8,
+                "title": "就和婚礼一样",
+                "assetbundleName": "event_wedding_2024_08",
+                "scenarioId": "event_132_08",
+                "releaseConditionId": 113107,
+                "episodeRewards": [
+                    {
+                        "resourceBoxId": 85
                     }
                 ]
             }

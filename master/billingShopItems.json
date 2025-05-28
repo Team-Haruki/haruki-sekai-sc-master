@@ -113,11 +113,11 @@
         "description": "付费水晶×1390\n解锁当月任务任务高级的奖励。",
         "billableLimitType": "count",
         "billableLimitValue": 1,
-        "billableLimitResetIntervalType": "none",
+        "billableLimitResetIntervalType": "monthly",
         "assetbundleName": "shop_62",
         "resourceBoxId": 16,
         "startAt": 1746028800000,
-        "endAt": 1748707199000
+        "endAt": 4083926399000
     },
     {
         "id": 24,
@@ -128,12 +128,12 @@
         "description": "付费水晶×2010\n心愿碎片×500\n免费水晶×800\n限定服装（其他3种颜色）\n解锁当月任务任务高级的奖励。",
         "billableLimitType": "count",
         "billableLimitValue": 1,
-        "billableLimitResetIntervalType": "none",
+        "billableLimitResetIntervalType": "monthly",
         "assetbundleName": "shop_62",
         "resourceBoxId": 90001,
         "bonusResourceBoxId": 90013,
         "startAt": 1746028800000,
-        "endAt": 1748707199000
+        "endAt": 4083926399000
     },
     {
         "id": 33,
@@ -1476,6 +1476,81 @@
         "endAt": 4102415999000
     },
     {
+        "id": 51034,
+        "seq": 300780,
+        "billingShopItemType": "value_set",
+        "name": "Happy！心愿礼包",
+        "description": "招募票券×10、心愿结晶×1、音乐卡×50",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "assetbundleName": "shop_7007",
+        "resourceBoxId": 91050,
+        "startAt": 1748620800000,
+        "endAt": 1749571199000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 51035,
+        "seq": 300770,
+        "billingShopItemType": "value_set",
+        "billingProductGroupId": 6233,
+        "name": "Funny！综合力礼包",
+        "description": "招募票券×10、练习乐谱（中级）×100、奇迹晶石×100、金币×500,000",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "assetbundleName": "shop_7008",
+        "resourceBoxId": 91051,
+        "startAt": 1748620800000,
+        "endAt": 1749571199000
+    },
+    {
+        "id": 51036,
+        "seq": 300760,
+        "billingShopItemType": "value_set",
+        "billingProductGroupId": 6234,
+        "name": "Lucky！招募礼包",
+        "description": "任务招募票券×10",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "assetbundleName": "shop_7001",
+        "resourceBoxId": 91052,
+        "startAt": 1748620800000,
+        "endAt": 1749571199000
+    },
+    {
+        "id": 51037,
+        "seq": 300750,
+        "billingShopItemType": "value_set",
+        "name": "“花园的蔷薇大小姐”服装礼包",
+        "description": "“花园的蔷薇大小姐”全色服装",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "assetbundleName": "shop_7009",
+        "resourceBoxId": 91053,
+        "startAt": 1748620800000,
+        "endAt": 1749571199000,
+        "purchaseOption": "exchange"
+    },
+    {
+        "id": 51038,
+        "seq": 300740,
+        "billingShopItemType": "value_set",
+        "name": "“mode parfum”服装礼包",
+        "description": "“mode parfum”全色服装",
+        "billableLimitType": "count",
+        "billableLimitValue": 1,
+        "billableLimitResetIntervalType": "none",
+        "assetbundleName": "shop_7010",
+        "resourceBoxId": 91054,
+        "startAt": 1748620800000,
+        "endAt": 1749571199000,
+        "purchaseOption": "exchange"
+    },
+    {
         "id": 60000,
         "seq": 1,
         "billingShopItemType": "live_mission_pass_lite",
@@ -1515,12 +1590,12 @@
         "description": "付费水晶×620\n心愿碎片×500\n免费水晶×800\n限定服装（其他3种颜色）\n演出积分×3900",
         "billableLimitType": "count",
         "billableLimitValue": 1,
-        "billableLimitResetIntervalType": "none",
+        "billableLimitResetIntervalType": "monthly",
         "assetbundleName": "shop_62",
         "resourceBoxId": 90004,
         "bonusResourceBoxId": 90013,
         "startAt": 1746028800000,
-        "endAt": 1748707199000
+        "endAt": 4083926399000
     },
     {
         "id": 60004,

@@ -1013,7 +1013,7 @@
     },
     {
         "wordingKey": "MSG_CONSECUTIVE_SCENARIO_PLAY",
-        "value": "连续观看后继剧情。"
+        "value": "连续观看后续剧情。"
     },
     {
         "wordingKey": "MSG_CONSECUTIVE_SCENARIO_RETURN_STORY_LIST",
@@ -1198,6 +1198,18 @@
     {
         "wordingKey": "MSG_DOWNLOAD_CONFIRM_SIZE",
         "value": "是否确定下载新增数据{0}？"
+    },
+    {
+        "wordingKey": "MSG_DOWNLOAD_CONFIRM_SIZE_PROGRESS",
+        "value": "下载资源{0}\/{1}，当前下载速度：{2}。"
+    },
+    {
+        "wordingKey": "MSG_DOWNLOAD_CONFIRM_SIZE_TOGGLE_MOBILE",
+        "value": "检测到您当前已切换至流量环境，还剩余{0}数据未下载，是否继续下载？"
+    },
+    {
+        "wordingKey": "MSG_DOWNLOAD_CONFIRM_SIZE_TOGGLE_WIFI",
+        "value": "检测到您当前已切换至WIFI环境，还剩余{0}数据未下载，是否继续下载？"
     },
     {
         "wordingKey": "MSG_DOWNLOAD_ERROR",
@@ -2753,7 +2765,7 @@
     },
     {
         "wordingKey": "MSG_RECOMMEND_SUPPORT_DECK",
-        "value": "是否将未编入主要组合的成员\n按支援奖励由高到低进行编组？"
+        "value": "是否将未编入主要组合的成员\n按支援加成由高到低进行编组？"
     },
     {
         "wordingKey": "MSG_RECONNCT",
@@ -3526,6 +3538,14 @@
     {
         "wordingKey": "ONGOING_MISSION_RECEIVE_EXPIRED_REWARD",
         "value": "活跃任务未领取的奖励。"
+    },
+    {
+        "wordingKey": "PANEL_MISSION_AUTO_OBTAIN_REWARD",
+        "value": "此为“%s”%s的奖励。"
+    },
+    {
+        "wordingKey": "PANEL_MISSION_COMPLETE_AUTO_OBTAIN_REWARD",
+        "value": "此为“%s”%s的完成奖励。"
     },
     {
         "wordingKey": "PB",
@@ -4337,7 +4357,7 @@
     },
     {
         "wordingKey": "WORD_BIRTHDAY_ARCHIVE_TAB",
-        "value": "生日·纪念日\n演唱会"
+        "value": "生日·纪念日演唱会"
     },
     {
         "wordingKey": "WORD_BIRTHDAY_ARCHIVE_TITLE",
@@ -5268,6 +5288,10 @@
         "value": "持续判定期间还剩{0}天"
     },
     {
+        "wordingKey": "WORD_COLORFUL_PASS_BALLOON_LEFT_DAY",
+        "value": "有效期还有{0}天"
+    },
+    {
         "wordingKey": "WORD_COLORFUL_PASS_EXCHANGE",
         "value": "兑换"
     },
@@ -5582,6 +5606,10 @@
     {
         "wordingKey": "WORD_CURRENT_HIGH_SCORE",
         "value": "当前最高得分"
+    },
+    {
+        "wordingKey": "WORD_CURRENT_PERIOD_SHOP",
+        "value": "推荐礼包"
     },
     {
         "wordingKey": "Word_Custom_1",
@@ -11461,7 +11489,7 @@
     },
     {
         "wordingKey": "WORD_EVENT_SUPPORT_BONUS",
-        "value": "支援奖励"
+        "value": "支援加成"
     },
     {
         "wordingKey": "WORD_EVENT_TOP_CHEERFUL_CARNIVAL_LIVE",
@@ -12848,6 +12876,10 @@
         "value": "到{0}为止"
     },
     {
+        "wordingKey": "WORD_LIMIT_MISSION_TIP",
+        "value": "限时任务"
+    },
+    {
         "wordingKey": "WORD_LINE_SPACE",
         "value": "行距"
     },
@@ -13681,11 +13713,11 @@
     },
     {
         "wordingKey": "Word_MusicName_126",
-        "value": "电影"
+        "value": "Cinema"
     },
     {
         "wordingKey": "Word_MusicName_127",
-        "value": "TONDEMO-WONDERZ"
+        "value": "Tondemo-Wonderz"
     },
     {
         "wordingKey": "Word_MusicName_128",
@@ -14652,6 +14684,10 @@
         "value": "付费"
     },
     {
+        "wordingKey": "WORD_PAID_CHARGE_TIP",
+        "value": "包含付费"
+    },
+    {
         "wordingKey": "WORD_PAID_JEWEL",
         "value": "付费水晶"
     },
@@ -15036,6 +15072,14 @@
         "value": "提前下载"
     },
     {
+        "wordingKey": "WORD_PRE_DOWNLOAD_COMPLETE_CN",
+        "value": "下载已完成。"
+    },
+    {
+        "wordingKey": "WORD_PRE_DOWNLOAD_EMPTY_CN",
+        "value": "暂无可下载资源。"
+    },
+    {
         "wordingKey": "WORD_PRE_LIVE_SETTING_CONFIRM",
         "value": "演唱会前确认设置"
     },
@@ -15341,7 +15385,7 @@
     },
     {
         "wordingKey": "WORD_REGISTER",
-        "value": "成为好友"
+        "value": "添加"
     },
     {
         "wordingKey": "WORD_REJECT",
@@ -15932,6 +15976,14 @@
         "value": "分享到"
     },
     {
+        "wordingKey": "WORD_SHARE_STR1",
+        "value": "来自「世界」的问候"
+    },
+    {
+        "wordingKey": "WORD_SHARE_STR2",
+        "value": "#初音未来缤纷舞台#和我一起入住「世界」,与喜爱的角色相遇,一同奏响歌曲吧https:\/\/pjsk.nvsgames.cn\/"
+    },
+    {
         "wordingKey": "WORD_SHARE_SUCCESS",
         "value": "分享成功！"
     },
@@ -16501,7 +16553,7 @@
     },
     {
         "wordingKey": "WORD_SUPPORT_DECK_BONUS",
-        "value": "支援奖励"
+        "value": "支援加成"
     },
     {
         "wordingKey": "WORD_SUPPORT_DECK_EDIT",
@@ -16721,7 +16773,7 @@
     },
     {
         "wordingKey": "WORD_TOTAL_POWER_CHARACTER_RANK_BONUS",
-        "value": "综合力加成"
+        "value": "表演加成"
     },
     {
         "wordingKey": "WORD_TOTAL_POWER_DETAIL",
@@ -17466,5 +17518,2705 @@
     {
         "wordingKey": "WORLD_BLOOM_OVERALL_RANKING_REWARD",
         "value": "“%s”综合排行榜第%d名的奖励。"
+    },
+    {
+        "wordingKey": "W_C_1",
+        "value": "还剩4次aaaaaaaa"
+    },
+    {
+        "wordingKey": "W_C_10",
+        "value": "来自学长的帮助"
+    },
+    {
+        "wordingKey": "W_C_100",
+        "value": "是否消耗<color=#FF55AA>100个<\/color>水晶\\n参加一次“求签名hogehoge”？"
+    },
+    {
+        "wordingKey": "W_C_101",
+        "value": "OK"
+    },
+    {
+        "wordingKey": "W_C_102",
+        "value": "“幻想”服装"
+    },
+    {
+        "wordingKey": "W_C_103",
+        "value": "正在搜索房间"
+    },
+    {
+        "wordingKey": "W_C_104",
+        "value": "组合综合力"
+    },
+    {
+        "wordingKey": "W_C_105",
+        "value": "消耗完所有演出能量后结束"
+    },
+    {
+        "wordingKey": "W_C_106",
+        "value": "消耗道具"
+    },
+    {
+        "wordingKey": "W_C_107",
+        "value": "自动演出次数"
+    },
+    {
+        "wordingKey": "W_C_108",
+        "value": "房间ID"
+    },
+    {
+        "wordingKey": "W_C_109",
+        "value": "是否取下饰品并更换发型？"
+    },
+    {
+        "wordingKey": "W_C_11",
+        "value": "APD"
+    },
+    {
+        "wordingKey": "W_C_110",
+        "value": "选中的发型无法和已设置的饰品\\r\\n同时展现。"
+    },
+    {
+        "wordingKey": "W_C_111",
+        "value": "选择文字颜色"
+    },
+    {
+        "wordingKey": "W_C_112",
+        "value": "\\xD7999"
+    },
+    {
+        "wordingKey": "W_C_113",
+        "value": "活动积分"
+    },
+    {
+        "wordingKey": "W_C_114",
+        "value": "合计加成"
+    },
+    {
+        "wordingKey": "W_C_115",
+        "value": "章节徽章"
+    },
+    {
+        "wordingKey": "W_C_116",
+        "value": "组合加成"
+    },
+    {
+        "wordingKey": "W_C_117",
+        "value": "支援加成"
+    },
+    {
+        "wordingKey": "W_C_118",
+        "value": "选择成员"
+    },
+    {
+        "wordingKey": "W_C_119",
+        "value": "服装名称36p#446居中"
+    },
+    {
+        "wordingKey": "W_C_12",
+        "value": "MASTER"
+    },
+    {
+        "wordingKey": "W_C_120",
+        "value": "朝比奈"
+    },
+    {
+        "wordingKey": "W_C_121",
+        "value": "卡片冠名"
+    },
+    {
+        "wordingKey": "W_C_122",
+        "value": "MENS"
+    },
+    {
+        "wordingKey": "W_C_123",
+        "value": "ALL"
+    },
+    {
+        "wordingKey": "W_C_124",
+        "value": "'章节2 '"
+    },
+    {
+        "wordingKey": "W_C_125",
+        "value": "增加150次吧。"
+    },
+    {
+        "wordingKey": "W_C_126",
+        "value": "EX第0次"
+    },
+    {
+        "wordingKey": "W_C_127",
+        "value": "还有1次"
+    },
+    {
+        "wordingKey": "W_C_128",
+        "value": "名字最多10个字符"
+    },
+    {
+        "wordingKey": "W_C_129",
+        "value": "{受邀请的用户名}看完\\r\\n{组合名①}、{组合名➁}、\\r\\n{组合名③}的主线剧情，\\r\\n达成邀请任务后获得的奖励。"
+    },
+    {
+        "wordingKey": "W_C_13",
+        "value": "NORMAL"
+    },
+    {
+        "wordingKey": "W_C_130",
+        "value": "请选择要获得的{0}。"
+    },
+    {
+        "wordingKey": "W_C_131",
+        "value": "文本\\n-----\\n-----"
+    },
+    {
+        "wordingKey": "W_C_132",
+        "value": "·“[卡片\\n服装商店\\n\\n・服装商店"
+    },
+    {
+        "wordingKey": "W_C_133",
+        "value": "在Wonderlands\\xD7Showtime成员登场的虚拟演唱会中累计获得20000应援积分"
+    },
+    {
+        "wordingKey": "W_C_134",
+        "value": "称号名\\n左对齐 32px #557 居中"
+    },
+    {
+        "wordingKey": "W_C_135",
+        "value": "无"
+    },
+    {
+        "wordingKey": "W_C_136",
+        "value": "*设置密码后，将生成继承ID。"
+    },
+    {
+        "wordingKey": "W_C_137",
+        "value": "“RED WEEKEND”的传单"
+    },
+    {
+        "wordingKey": "W_C_138",
+        "value": "“连线演唱会 MORE MORE JUMP"
+    },
+    {
+        "wordingKey": "W_C_139",
+        "value": "可在音乐商店兑换歌曲。通过任务或观看剧情等方式获得。"
+    },
+    {
+        "wordingKey": "W_C_14",
+        "value": "HARD"
+    },
+    {
+        "wordingKey": "W_C_140",
+        "value": "制作服装所需的道具。通过演出等方式获得。"
+    },
+    {
+        "wordingKey": "W_C_141",
+        "value": "缤纷通行证已完成购买。"
+    },
+    {
+        "wordingKey": "W_C_142",
+        "value": "已购买碟片。"
+    },
+    {
+        "wordingKey": "W_C_143",
+        "value": "是否恢复5演出能量？"
+    },
+    {
+        "wordingKey": "W_C_144",
+        "value": "Wonderlands"
+    },
+    {
+        "wordingKey": "W_C_145",
+        "value": "离功能限制解除还有"
+    },
+    {
+        "wordingKey": "W_C_146",
+        "value": "心愿碎片\\n道具"
+    },
+    {
+        "wordingKey": "W_C_147",
+        "value": "「世界」 \\n难度<color=#CC33FF>MASTER<\/color>已解锁。"
+    },
+    {
+        "wordingKey": "W_C_148",
+        "value": "Tatsuya Kitani"
+    },
+    {
+        "wordingKey": "W_C_149",
+        "value": "文本"
+    },
+    {
+        "wordingKey": "W_C_15",
+        "value": "APPEND"
+    },
+    {
+        "wordingKey": "W_C_150",
+        "value": "水晶"
+    },
+    {
+        "wordingKey": "W_C_151",
+        "value": "是否消耗10个音色水晶购买歌曲？"
+    },
+    {
+        "wordingKey": "W_C_152",
+        "value": "3DMV"
+    },
+    {
+        "wordingKey": "W_C_153",
+        "value": "所有"
+    },
+    {
+        "wordingKey": "W_C_154",
+        "value": "虚拟歌手ver."
+    },
+    {
+        "wordingKey": "W_C_155",
+        "value": "「世界」ver."
+    },
+    {
+        "wordingKey": "W_C_156",
+        "value": "Vocal"
+    },
+    {
+        "wordingKey": "W_C_157",
+        "value": "2DMV"
+    },
+    {
+        "wordingKey": "W_C_158",
+        "value": "选项卡"
+    },
+    {
+        "wordingKey": "W_C_159",
+        "value": "不保存"
+    },
+    {
+        "wordingKey": "W_C_16",
+        "value": "EXPERT"
+    },
+    {
+        "wordingKey": "W_C_160",
+        "value": "30首"
+    },
+    {
+        "wordingKey": "W_C_161",
+        "value": "全部保存"
+    },
+    {
+        "wordingKey": "W_C_162",
+        "value": "大吉"
+    },
+    {
+        "wordingKey": "W_C_163",
+        "value": "“连线演唱会 2nd ANNIVERSARY SPECIALSTAG"
+    },
+    {
+        "wordingKey": "W_C_164",
+        "value": "公历"
+    },
+    {
+        "wordingKey": "W_C_165",
+        "value": "*请点击以下按键\\\\r\\n确认礼包内容与“依据特定商业交易法第12条第6项显示”。"
+    },
+    {
+        "wordingKey": "W_C_166",
+        "value": "价格￥2000"
+    },
+    {
+        "wordingKey": "W_C_167",
+        "value": "是否购买[30天有效]缤纷通行证～尊贵～？"
+    },
+    {
+        "wordingKey": "W_C_168",
+        "value": "确认礼包内容，并同意购买。"
+    },
+    {
+        "wordingKey": "W_C_169",
+        "value": "无限制"
+    },
+    {
+        "wordingKey": "W_C_17",
+        "value": "EASY"
+    },
+    {
+        "wordingKey": "W_C_170",
+        "value": "钻石"
+    },
+    {
+        "wordingKey": "W_C_171",
+        "value": "大师"
+    },
+    {
+        "wordingKey": "W_C_172",
+        "value": "等级4"
+    },
+    {
+        "wordingKey": "W_C_173",
+        "value": "[冠名啊啊啊啊啊]\\n名字 名字"
+    },
+    {
+        "wordingKey": "W_C_174",
+        "value": "<color=#91A2AFFF>000<\/color><color=#F0C7FFFF>0<\/color>"
+    },
+    {
+        "wordingKey": "W_C_175",
+        "value": "<color=#91A2AFFF>000<\/color><color=#FFFFFFFF>0<\/color>"
+    },
+    {
+        "wordingKey": "W_C_176",
+        "value": "NO PLAYER"
+    },
+    {
+        "wordingKey": "W_C_177",
+        "value": "<color=#91A2AFFF>0000000<\/color><color=#444466FF>0<\/color>"
+    },
+    {
+        "wordingKey": "W_C_178",
+        "value": "是否消耗3000个水晶进行10次\\n“[]回响啊啊啊啊啊啊啊啊啊啊招募”？"
+    },
+    {
+        "wordingKey": "W_C_179",
+        "value": "冠名 角色名\\n冠"
+    },
+    {
+        "wordingKey": "W_C_18",
+        "value": "FULL"
+    },
+    {
+        "wordingKey": "W_C_180",
+        "value": "请选择所显示收藏的详情。"
+    },
+    {
+        "wordingKey": "W_C_181",
+        "value": "[卡片名称]"
+    },
+    {
+        "wordingKey": "W_C_182",
+        "value": "未观看"
+    },
+    {
+        "wordingKey": "W_C_183",
+        "value": "已观看情况"
+    },
+    {
+        "wordingKey": "W_C_184",
+        "value": "全部"
+    },
+    {
+        "wordingKey": "W_C_185",
+        "value": "登场角色"
+    },
+    {
+        "wordingKey": "W_C_186",
+        "value": "下篇未看"
+    },
+    {
+        "wordingKey": "W_C_187",
+        "value": "已读"
+    },
+    {
+        "wordingKey": "W_C_188",
+        "value": "Enter text..."
+    },
+    {
+        "wordingKey": "W_C_189",
+        "value": "技能说明\\n是FOT\\n557"
+    },
+    {
+        "wordingKey": "W_C_19",
+        "value": "取消"
+    },
+    {
+        "wordingKey": "W_C_190",
+        "value": "你好，我太喜欢这个剧情了，每天睡觉前必看5次。看了以后可以促进新陈代谢，消除疲劳，缓解肩周酸痛。第二天醒来人会变得很清醒，1"
+    },
+    {
+        "wordingKey": "W_C_191",
+        "value": "笑梦在哥哥们的邀请下，参加了乐园的企划会议。但她提出的每一个点子都碍于现实问题难以实现，这也使笑梦下定决心要更加努力地学习。就在这时，她意外获得了前往莱利先生的乐园观摩学习的机会……？"
+    },
+    {
+        "wordingKey": "W_C_192",
+        "value": "剧情已解锁"
+    },
+    {
+        "wordingKey": "W_C_193",
+        "value": "150MB"
+    },
+    {
+        "wordingKey": "W_C_194",
+        "value": "需要"
+    },
+    {
+        "wordingKey": "W_C_195",
+        "value": "持有"
+    },
+    {
+        "wordingKey": "W_C_196",
+        "value": "<color=#91A2AFFF>0000000<\/color><color=#FF77AAFF>0<\/color>"
+    },
+    {
+        "wordingKey": "W_C_197",
+        "value": "组合"
+    },
+    {
+        "wordingKey": "W_C_198",
+        "value": "\\xA510000"
+    },
+    {
+        "wordingKey": "W_C_199",
+        "value": "价格"
+    },
+    {
+        "wordingKey": "W_C_2",
+        "value": "活动徽章礼物"
+    },
+    {
+        "wordingKey": "W_C_20",
+        "value": "LOADING"
+    },
+    {
+        "wordingKey": "W_C_200",
+        "value": "已获得中途离开的“活动名活动"
+    },
+    {
+        "wordingKey": "W_C_201",
+        "value": "1234567890P"
+    },
+    {
+        "wordingKey": "W_C_202",
+        "value": "暂时限制使用"
+    },
+    {
+        "wordingKey": "W_C_203",
+        "value": "无法使用"
+    },
+    {
+        "wordingKey": "W_C_204",
+        "value": "无法向舞台以外的方向投掷道具。"
+    },
+    {
+        "wordingKey": "W_C_205",
+        "value": "此处设置为“开启”，\\n就会只显示登场角色的物品！"
+    },
+    {
+        "wordingKey": "W_C_206",
+        "value": "选择的成员"
+    },
+    {
+        "wordingKey": "W_C_207",
+        "value": "心愿的"
+    },
+    {
+        "wordingKey": "W_C_208",
+        "value": "缤纷通行证奖励"
+    },
+    {
+        "wordingKey": "W_C_209",
+        "value": "2倍挑战积分"
+    },
+    {
+        "wordingKey": "W_C_21",
+        "value": "随机"
+    },
+    {
+        "wordingKey": "W_C_210",
+        "value": "成员确定！"
+    },
+    {
+        "wordingKey": "W_C_211",
+        "value": "叠字昵称小队"
+    },
+    {
+        "wordingKey": "W_C_212",
+        "value": "和对手队伍匹配！"
+    },
+    {
+        "wordingKey": "W_C_213",
+        "value": "还以为我们都是叠字昵称小队"
+    },
+    {
+        "wordingKey": "W_C_214",
+        "value": "<color=#91A2AFFF>00000000<\/color><color=#3EBAFAFF>0<\/color>"
+    },
+    {
+        "wordingKey": "W_C_215",
+        "value": "<color=#91A2AFFF>00000000<\/color><color=#FD9B60FF>0<\/color>"
+    },
+    {
+        "wordingKey": "W_C_216",
+        "value": "热乎乎的松饼"
+    },
+    {
+        "wordingKey": "W_C_217",
+        "value": "倍"
+    },
+    {
+        "wordingKey": "W_C_218",
+        "value": "阵营积分"
+    },
+    {
+        "wordingKey": "W_C_219",
+        "value": "12\/30（三）～12\/30（三）"
+    },
+    {
+        "wordingKey": "W_C_22",
+        "value": "最高得分"
+    },
+    {
+        "wordingKey": "W_C_220",
+        "value": "<color=#AAAAAAFF>00000000000<\/color><color=#FF55AAFF>9256<\/color>"
+    },
+    {
+        "wordingKey": "W_C_221",
+        "value": "队伍确定！"
+    },
+    {
+        "wordingKey": "W_C_222",
+        "value": "LEVEL UP!"
+    },
+    {
+        "wordingKey": "W_C_223",
+        "value": "用户名是10个字符"
+    },
+    {
+        "wordingKey": "W_C_224",
+        "value": "你好。我很喜欢这次的剧情，每天睡觉前5…"
+    },
+    {
+        "wordingKey": "W_C_225",
+        "value": "举报"
+    },
+    {
+        "wordingKey": "W_C_226",
+        "value": "毛茸茸"
+    },
+    {
+        "wordingKey": "W_C_227",
+        "value": "CHAPTER2 白石杏 的排名奖励"
+    },
+    {
+        "wordingKey": "W_C_228",
+        "value": "P"
+    },
+    {
+        "wordingKey": "W_C_229",
+        "value": "用户名"
+    },
+    {
+        "wordingKey": "W_C_23",
+        "value": "STAGE"
+    },
+    {
+        "wordingKey": "W_C_230",
+        "value": "×"
+    },
+    {
+        "wordingKey": "W_C_231",
+        "value": "真冬的歌手卡"
+    },
+    {
+        "wordingKey": "W_C_232",
+        "value": "还有4次"
+    },
+    {
+        "wordingKey": "W_C_233",
+        "value": "yyyy\/mm\/dd hh"
+    },
+    {
+        "wordingKey": "W_C_234",
+        "value": "新手限定★4成员兑换券"
+    },
+    {
+        "wordingKey": "W_C_235",
+        "value": "招募贴纸"
+    },
+    {
+        "wordingKey": "W_C_236",
+        "value": "评论最多可输入30个字符。\\n26pt啊啊啊啊啊啊啊啊啊啊啊啊。"
+    },
+    {
+        "wordingKey": "W_C_237",
+        "value": "用户名 10w 36px #557"
+    },
+    {
+        "wordingKey": "W_C_238",
+        "value": "邀请“多人演出”"
+    },
+    {
+        "wordingKey": "W_C_239",
+        "value": "测试"
+    },
+    {
+        "wordingKey": "W_C_24",
+        "value": "EX"
+    },
+    {
+        "wordingKey": "W_C_240",
+        "value": "卡片冠名"
+    },
+    {
+        "wordingKey": "W_C_241",
+        "value": "仅限1次"
+    },
+    {
+        "wordingKey": "W_C_242",
+        "value": "免费"
+    },
+    {
+        "wordingKey": "W_C_243",
+        "value": "设置中"
+    },
+    {
+        "wordingKey": "W_C_244",
+        "value": "已设为副称号1"
+    },
+    {
+        "wordingKey": "W_C_245",
+        "value": "发出虚拟演唱会的邀请"
+    },
+    {
+        "wordingKey": "W_C_246",
+        "value": "<color=#ff5599>热乎乎的松饼<\/color>发来了好友申请。\\n"
+    },
+    {
+        "wordingKey": "W_C_247",
+        "value": "不使用跳过或快进功能，观看200话“主线剧情”、“活动剧情”或“角色剧情”"
+    },
+    {
+        "wordingKey": "W_C_248",
+        "value": "热乎乎的松饼发来了\\n演出邀请。"
+    },
+    {
+        "wordingKey": "W_C_249",
+        "value": "其他99件"
+    },
+    {
+        "wordingKey": "W_C_25",
+        "value": "本周挑战印章"
+    },
+    {
+        "wordingKey": "W_C_250",
+        "value": "连胜"
+    },
+    {
+        "wordingKey": "W_C_251",
+        "value": "队伍名称"
+    },
+    {
+        "wordingKey": "W_C_252",
+        "value": "右对齐 文字间隔较大的名字"
+    },
+    {
+        "wordingKey": "W_C_253",
+        "value": "左对齐 40px EB！"
+    },
+    {
+        "wordingKey": "W_C_254",
+        "value": "生日\\n纪念日"
+    },
+    {
+        "wordingKey": "W_C_255",
+        "value": "巡音流歌周年纪念演唱会2023碟片巡"
+    },
+    {
+        "wordingKey": "W_C_256",
+        "value": "道具名称"
+    },
+    {
+        "wordingKey": "W_C_257",
+        "value": "=+400P"
+    },
+    {
+        "wordingKey": "W_C_258",
+        "value": "<color=#91A2AFFF>0000000<\/color><color=#FFFFFFFF>0<\/color>"
+    },
+    {
+        "wordingKey": "W_C_259",
+        "value": "COMBO"
+    },
+    {
+        "wordingKey": "W_C_26",
+        "value": "NEXT"
+    },
+    {
+        "wordingKey": "W_C_260",
+        "value": "<color=#91A2AFFF><\/color><color=#FFFFFFFF>9999<\/color>"
+    },
+    {
+        "wordingKey": "W_C_261",
+        "value": "章节1"
+    },
+    {
+        "wordingKey": "W_C_262",
+        "value": "99999999999P"
+    },
+    {
+        "wordingKey": "W_C_263",
+        "value": "已完成本月所有任务。"
+    },
+    {
+        "wordingKey": "W_C_264",
+        "value": "还有"
+    },
+    {
+        "wordingKey": "W_C_265",
+        "value": "全体得分"
+    },
+    {
+        "wordingKey": "W_C_266",
+        "value": "歌曲标题32px(EB)#446靠左"
+    },
+    {
+        "wordingKey": "W_C_267",
+        "value": "C"
+    },
+    {
+        "wordingKey": "W_C_268",
+        "value": "MIRROR"
+    },
+    {
+        "wordingKey": "W_C_269",
+        "value": "B"
+    },
+    {
+        "wordingKey": "W_C_27",
+        "value": "第999次"
+    },
+    {
+        "wordingKey": "W_C_270",
+        "value": "S"
+    },
+    {
+        "wordingKey": "W_C_271",
+        "value": "A"
+    },
+    {
+        "wordingKey": "W_C_272",
+        "value": "剩余123"
+    },
+    {
+        "wordingKey": "W_C_273",
+        "value": "离确定起始等级 \\r\\n还有<size=80"
+    },
+    {
+        "wordingKey": "W_C_274",
+        "value": "等级2 32px EB #A7A7BC"
+    },
+    {
+        "wordingKey": "W_C_275",
+        "value": "x  9999999"
+    },
+    {
+        "wordingKey": "W_C_276",
+        "value": "\\xD7<color=#bb99ff>123456<\/color>"
+    },
+    {
+        "wordingKey": "W_C_277",
+        "value": "<color=#AAAAAAFF>00<\/color><color=#FFFFFFFF>20<\/color>"
+    },
+    {
+        "wordingKey": "W_C_278",
+        "value": "<color=#AAAAAAFF>000<\/color><color=#FFFFFFFF>0<\/color>"
+    },
+    {
+        "wordingKey": "W_C_279",
+        "value": "热乎乎的松饼"
+    },
+    {
+        "wordingKey": "W_C_28",
+        "value": "啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊４０"
+    },
+    {
+        "wordingKey": "W_C_280",
+        "value": "<color=#91A2AFFF><\/color><color=#F0C7FFFF>9999<\/color>"
+    },
+    {
+        "wordingKey": "W_C_281",
+        "value": "<color=#AAAAAAFF>0<\/color><color=#33BBFFFF>999<\/color>"
+    },
+    {
+        "wordingKey": "W_C_282",
+        "value": "<color=#AAAAAAFF>0<\/color><color=#FF9955FF>999<\/color>"
+    },
+    {
+        "wordingKey": "W_C_283",
+        "value": "得分"
+    },
+    {
+        "wordingKey": "W_C_284",
+        "value": "DAY 1"
+    },
+    {
+        "wordingKey": "W_C_285",
+        "value": "文本居中对齐32px#557包含服装名"
+    },
+    {
+        "wordingKey": "W_C_286",
+        "value": "Lv.99"
+    },
+    {
+        "wordingKey": "W_C_287",
+        "value": "啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊"
+    },
+    {
+        "wordingKey": "W_C_288",
+        "value": "10元"
+    },
+    {
+        "wordingKey": "W_C_289",
+        "value": "任务啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊"
+    },
+    {
+        "wordingKey": "W_C_29",
+        "value": "队长演奏"
+    },
+    {
+        "wordingKey": "W_C_290",
+        "value": "32px(DB)"
+    },
+    {
+        "wordingKey": "W_C_291",
+        "value": "WAITING"
+    },
+    {
+        "wordingKey": "W_C_292",
+        "value": "准备完成"
+    },
+    {
+        "wordingKey": "W_C_293",
+        "value": "自由房间"
+    },
+    {
+        "wordingKey": "W_C_294",
+        "value": "创建“高手房间”\\n的私人房间。"
+    },
+    {
+        "wordingKey": "W_C_295",
+        "value": "进入房间"
+    },
+    {
+        "wordingKey": "W_C_296",
+        "value": "用ID进入"
+    },
+    {
+        "wordingKey": "W_C_297",
+        "value": "歌曲名40px#557(DB)啊啊啊啊啊"
+    },
+    {
+        "wordingKey": "W_C_298",
+        "value": "啾噜哩啦"
+    },
+    {
+        "wordingKey": "W_C_299",
+        "value": "2D"
+    },
+    {
+        "wordingKey": "W_C_3",
+        "value": "教室"
+    },
+    {
+        "wordingKey": "W_C_30",
+        "value": "50000次"
+    },
+    {
+        "wordingKey": "W_C_300",
+        "value": "3D"
+    },
+    {
+        "wordingKey": "W_C_301",
+        "value": "封面"
+    },
+    {
+        "wordingKey": "W_C_302",
+        "value": "歌单"
+    },
+    {
+        "wordingKey": "W_C_303",
+        "value": "演唱：初音未来"
+    },
+    {
+        "wordingKey": "W_C_304",
+        "value": "艺术家"
+    },
+    {
+        "wordingKey": "W_C_305",
+        "value": "到20w为止照常显示"
+    },
+    {
+        "wordingKey": "W_C_306",
+        "value": "歌曲名40px"
+    },
+    {
+        "wordingKey": "W_C_307",
+        "value": "9999首"
+    },
+    {
+        "wordingKey": "W_C_308",
+        "value": "我的歌单啊啊啊啊啊"
+    },
+    {
+        "wordingKey": "W_C_309",
+        "value": "演唱：初音"
+    },
+    {
+        "wordingKey": "W_C_31",
+        "value": "增加1500次吧。"
+    },
+    {
+        "wordingKey": "W_C_310",
+        "value": "虚拟"
+    },
+    {
+        "wordingKey": "W_C_311",
+        "value": "问题点"
+    },
+    {
+        "wordingKey": "W_C_312",
+        "value": "说明文本"
+    },
+    {
+        "wordingKey": "W_C_313",
+        "value": "还剩{0}次"
+    },
+    {
+        "wordingKey": "W_C_314",
+        "value": "道具"
+    },
+    {
+        "wordingKey": "W_C_315",
+        "value": "2024 WINTER"
+    },
+    {
+        "wordingKey": "W_C_316",
+        "value": "离确定起始等级￼\\n还有<color=#FF5599>3<\/color>次匹配"
+    },
+    {
+        "wordingKey": "W_C_317",
+        "value": "找到对手了！"
+    },
+    {
+        "wordingKey": "W_C_318",
+        "value": "限时解锁中"
+    },
+    {
+        "wordingKey": "W_C_319",
+        "value": "演出能量"
+    },
+    {
+        "wordingKey": "W_C_32",
+        "value": "完成550次EX任务"
+    },
+    {
+        "wordingKey": "W_C_320",
+        "value": "SKIP"
+    },
+    {
+        "wordingKey": "W_C_321",
+        "value": "AUTO"
+    },
+    {
+        "wordingKey": "W_C_322",
+        "value": "评论最多输入60字。26px啊啊啊啊啊啊啊啊啊啊啊啊啊■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□"
+    },
+    {
+        "wordingKey": "W_C_323",
+        "value": "用户名 10w 36px #557 上端对齐"
+    },
+    {
+        "wordingKey": "W_C_324",
+        "value": "提升小豆泽心羽的角色等级\\n可提升牵绊等级的上限。"
+    },
+    {
+        "wordingKey": "W_C_325",
+        "value": "凤 笑梦"
+    },
+    {
+        "wordingKey": "W_C_326",
+        "value": "Lv.99\/<size=24>99<\/size>"
+    },
+    {
+        "wordingKey": "W_C_327",
+        "value": "角色等级达到22级时解锁"
+    },
+    {
+        "wordingKey": "W_C_328",
+        "value": "剩余999P"
+    },
+    {
+        "wordingKey": "W_C_329",
+        "value": "星乃 一歌"
+    },
+    {
+        "wordingKey": "W_C_33",
+        "value": "原版"
+    },
+    {
+        "wordingKey": "W_C_330",
+        "value": "161cm"
+    },
+    {
+        "wordingKey": "W_C_331",
+        "value": "宫益坂"
+    },
+    {
+        "wordingKey": "W_C_332",
+        "value": "8月11日"
+    },
+    {
+        "wordingKey": "W_C_333",
+        "value": "尖叫"
+    },
+    {
+        "wordingKey": "W_C_334",
+        "value": "一年级三班"
+    },
+    {
+        "wordingKey": "W_C_335",
+        "value": "看上去很酷，但其实是很为朋友着想的温柔少女。和咲希、穗波、志步是儿时的好友。因为某些原因，与穗波和志步逐渐疏远。\\n喜欢听未来的歌。在Leo\/need中担任吉他手和主唱。"
+    },
+    {
+        "wordingKey": "W_C_336",
+        "value": "苹果"
+    },
+    {
+        "wordingKey": "W_C_337",
+        "value": "野口"
+    },
+    {
+        "wordingKey": "W_C_338",
+        "value": "未来\\n种植"
+    },
+    {
+        "wordingKey": "W_C_339",
+        "value": "Wonderlands\\×D7Showtime"
+    },
+    {
+        "wordingKey": "W_C_34",
+        "value": "服装名称"
+    },
+    {
+        "wordingKey": "W_C_340",
+        "value": "队伍名"
+    },
+    {
+        "wordingKey": "W_C_341",
+        "value": "100连胜！"
+    },
+    {
+        "wordingKey": "W_C_342",
+        "value": "羊驼小队"
+    },
+    {
+        "wordingKey": "W_C_343",
+        "value": "毛驴小队"
+    },
+    {
+        "wordingKey": "W_C_344",
+        "value": "<size=80>“金枪鱼和三文鱼”<\/size>\\n<color=white><size=52>提起日式烤串会想到？<\/size><\/color>"
+    },
+    {
+        "wordingKey": "W_C_345",
+        "value": "请从下方选择10名喜欢的成员"
+    },
+    {
+        "wordingKey": "W_C_346",
+        "value": "Rella"
+    },
+    {
+        "wordingKey": "W_C_347",
+        "value": "选择颜色"
+    },
+    {
+        "wordingKey": "W_C_348",
+        "value": "举办时间 12\/12 0"
+    },
+    {
+        "wordingKey": "W_C_349",
+        "value": "离解锁第2话sssssssssssss\\n"
+    },
+    {
+        "wordingKey": "W_C_35",
+        "value": "啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊\\n"
+    },
+    {
+        "wordingKey": "W_C_350",
+        "value": "离解锁第2话"
+    },
+    {
+        "wordingKey": "W_C_351",
+        "value": "1pt"
+    },
+    {
+        "wordingKey": "W_C_352",
+        "value": "第999999名"
+    },
+    {
+        "wordingKey": "W_C_353",
+        "value": "名字"
+    },
+    {
+        "wordingKey": "W_C_354",
+        "value": "YYYY\/MM\/DD h"
+    },
+    {
+        "wordingKey": "W_C_355",
+        "value": "[招募名称]附带招募贴纸"
+    },
+    {
+        "wordingKey": "W_C_356",
+        "value": "购物中心"
+    },
+    {
+        "wordingKey": "W_C_357",
+        "value": "1st演唱会"
+    },
+    {
+        "wordingKey": "W_C_358",
+        "value": "生日·纪念日演唱会"
+    },
+    {
+        "wordingKey": "W_C_359",
+        "value": "937MB"
+    },
+    {
+        "wordingKey": "W_C_36",
+        "value": "选择所有人"
+    },
+    {
+        "wordingKey": "W_C_360",
+        "value": "HAPPY BIRTHDAY"
+    },
+    {
+        "wordingKey": "W_C_361",
+        "value": "初音未来"
+    },
+    {
+        "wordingKey": "W_C_362",
+        "value": "输入图片名称"
+    },
+    {
+        "wordingKey": "W_C_363",
+        "value": "SOLO LIVE"
+    },
+    {
+        "wordingKey": "W_C_364",
+        "value": "VIRTUAL LIVE"
+    },
+    {
+        "wordingKey": "W_C_365",
+        "value": "RHYTHM GAME"
+    },
+    {
+        "wordingKey": "W_C_366",
+        "value": "RANK MATCH"
+    },
+    {
+        "wordingKey": "W_C_367",
+        "value": "Cheerful LIVE"
+    },
+    {
+        "wordingKey": "W_C_368",
+        "value": "EVENT"
+    },
+    {
+        "wordingKey": "W_C_369",
+        "value": "CHALLENGE LIVE"
+    },
+    {
+        "wordingKey": "W_C_37",
+        "value": "成员"
+    },
+    {
+        "wordingKey": "W_C_370",
+        "value": "MULTI LIVE"
+    },
+    {
+        "wordingKey": "W_C_371",
+        "value": "MV"
+    },
+    {
+        "wordingKey": "W_C_372",
+        "value": "排位赛"
+    },
+    {
+        "wordingKey": "W_C_373",
+        "value": "CHEERFUL LIVE"
+    },
+    {
+        "wordingKey": "W_C_374",
+        "value": "下载资源{0}\/{1}，当前下载速度：{3}aaaaaa"
+    },
+    {
+        "wordingKey": "W_C_375",
+        "value": "啊啊啊标题"
+    },
+    {
+        "wordingKey": "W_C_376",
+        "value": "正在等待其他玩家……(3\/5)"
+    },
+    {
+        "wordingKey": "W_C_377",
+        "value": "距离下一奖励还有"
+    },
+    {
+        "wordingKey": "W_C_378",
+        "value": "本月演出任务"
+    },
+    {
+        "wordingKey": "W_C_379",
+        "value": "MUSIC SHUFFLE"
+    },
+    {
+        "wordingKey": "W_C_38",
+        "value": "\\xD799"
+    },
+    {
+        "wordingKey": "W_C_380",
+        "value": "MATCHING"
+    },
+    {
+        "wordingKey": "W_C_381",
+        "value": "LOGIN BONUS"
+    },
+    {
+        "wordingKey": "W_C_382",
+        "value": "登录奖励"
+    },
+    {
+        "wordingKey": "W_C_383",
+        "value": "9999件"
+    },
+    {
+        "wordingKey": "W_C_384",
+        "value": "书签"
+    },
+    {
+        "wordingKey": "W_C_385",
+        "value": "WEEKEND GARAGE 40px"
+    },
+    {
+        "wordingKey": "W_C_386",
+        "value": "已达成所有任务。\\r\\n请等待下次举办。"
+    },
+    {
+        "wordingKey": "W_C_387",
+        "value": "技能说明啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊\\n啊NTLG"
+    },
+    {
+        "wordingKey": "W_C_388",
+        "value": "继续观看"
+    },
+    {
+        "wordingKey": "W_C_389",
+        "value": "RECOMMEND"
+    },
+    {
+        "wordingKey": "W_C_39",
+        "value": "种类"
+    },
+    {
+        "wordingKey": "W_C_390",
+        "value": "小豆泽"
+    },
+    {
+        "wordingKey": "W_C_391",
+        "value": "连线演唱会"
+    },
+    {
+        "wordingKey": "W_C_392",
+        "value": "Forward"
+    },
+    {
+        "wordingKey": "W_C_393",
+        "value": "活动"
+    },
+    {
+        "wordingKey": "W_C_394",
+        "value": "按键"
+    },
+    {
+        "wordingKey": "W_C_395",
+        "value": "小豆小豆小豆小豆小豆小豆小豆"
+    },
+    {
+        "wordingKey": "W_C_396",
+        "value": "由于各种原因，星乃一歌和儿时的朋友们渐行渐远。然而一直在疗养中的朋友——天马咲希回到学校后，让疏远的四个人之间的距离发生了变化。"
+    },
+    {
+        "wordingKey": "W_C_397",
+        "value": "肤色"
+    },
+    {
+        "wordingKey": "W_C_398",
+        "value": "前往「世界」"
+    },
+    {
+        "wordingKey": "W_C_399",
+        "value": "前往现实世界"
+    },
+    {
+        "wordingKey": "W_C_4",
+        "value": "10w以上要缩小"
+    },
+    {
+        "wordingKey": "W_C_40",
+        "value": "x50"
+    },
+    {
+        "wordingKey": "W_C_400",
+        "value": "x5"
+    },
+    {
+        "wordingKey": "W_C_401",
+        "value": "aaa"
+    },
+    {
+        "wordingKey": "W_C_402",
+        "value": "关键剧情"
+    },
+    {
+        "wordingKey": "W_C_403",
+        "value": "「世界」甚至还未开始"
+    },
+    {
+        "wordingKey": "W_C_404",
+        "value": "\\xD750"
+    },
+    {
+        "wordingKey": "W_C_405",
+        "value": "章节"
+    },
+    {
+        "wordingKey": "W_C_406",
+        "value": "啊啊啊啊啊"
+    },
+    {
+        "wordingKey": "W_C_407",
+        "value": "第19话"
+    },
+    {
+        "wordingKey": "W_C_408",
+        "value": "后日谈活动入场"
+    },
+    {
+        "wordingKey": "W_C_409",
+        "value": "{0}次<size=24>招募<\/size>"
+    },
+    {
+        "wordingKey": "W_C_41",
+        "value": "已选择"
+    },
+    {
+        "wordingKey": "W_C_410",
+        "value": "名字是28px"
+    },
+    {
+        "wordingKey": "W_C_411",
+        "value": "公演已结束。"
+    },
+    {
+        "wordingKey": "W_C_412",
+        "value": "离开演"
+    },
+    {
+        "wordingKey": "W_C_413",
+        "value": "距离自动退场"
+    },
+    {
+        "wordingKey": "W_C_414",
+        "value": "“游戏操作与运行”相关"
+    },
+    {
+        "wordingKey": "W_C_415",
+        "value": "“数据继承与复原”相关"
+    },
+    {
+        "wordingKey": "W_C_416",
+        "value": "aaaa"
+    },
+    {
+        "wordingKey": "W_C_417",
+        "value": "问题与意见"
+    },
+    {
+        "wordingKey": "W_C_418",
+        "value": "写给开发团队"
+    },
+    {
+        "wordingKey": "W_C_419",
+        "value": "“问题与意见”相关"
+    },
+    {
+        "wordingKey": "W_C_42",
+        "value": "还未触发\\n牵绊等级"
+    },
+    {
+        "wordingKey": "W_C_420",
+        "value": "“付费道具的购买与使用”相关"
+    },
+    {
+        "wordingKey": "W_C_421",
+        "value": "Ver1.0.0"
+    },
+    {
+        "wordingKey": "W_C_422",
+        "value": "购买<color=#FF5599>白金任务通行证<\/color>后，可解锁当月演出任务白金奖励。根据购买的<color=#FF5599>白金任务通行证<\/color>类型，可获得相应的水晶、心愿碎片等道具奖励。完成任务最多可获得免费水晶\\xD75000、心愿碎片\\xD7700、当月限定服装（原版颜色+其他颜色）。"
+    },
+    {
+        "wordingKey": "W_C_423",
+        "value": "星界酱"
+    },
+    {
+        "wordingKey": "W_C_424",
+        "value": "作者名（暂定）"
+    },
+    {
+        "wordingKey": "W_C_425",
+        "value": "根据歌曲名·作者名查找"
+    },
+    {
+        "wordingKey": "W_C_426",
+        "value": "看完第N话解锁"
+    },
+    {
+        "wordingKey": "W_C_427",
+        "value": "GET!"
+    },
+    {
+        "wordingKey": "W_C_428",
+        "value": "的"
+    },
+    {
+        "wordingKey": "W_C_429",
+        "value": "离线"
+    },
+    {
+        "wordingKey": "W_C_43",
+        "value": "SELECT"
+    },
+    {
+        "wordingKey": "W_C_430",
+        "value": "离线"
+    },
+    {
+        "wordingKey": "W_C_431",
+        "value": "显示"
+    },
+    {
+        "wordingKey": "W_C_432",
+        "value": "个人资料"
+    },
+    {
+        "wordingKey": "W_C_433",
+        "value": "专家等级1"
+    },
+    {
+        "wordingKey": "W_C_434",
+        "value": "道具\\n文字\\n现有"
+    },
+    {
+        "wordingKey": "W_C_435",
+        "value": "在“购物中心”区域的服装"
+    },
+    {
+        "wordingKey": "W_C_436",
+        "value": "不同类型"
+    },
+    {
+        "wordingKey": "W_C_437",
+        "value": "心愿结晶"
+    },
+    {
+        "wordingKey": "W_C_438",
+        "value": "\n GekiChuMai！联动"
+    },
+    {
+        "wordingKey": "W_C_439",
+        "value": "N"
+    },
+    {
+        "wordingKey": "W_C_44",
+        "value": "\\xD73"
+    },
+    {
+        "wordingKey": "W_C_440",
+        "value": "E"
+    },
+    {
+        "wordingKey": "W_C_441",
+        "value": "W"
+    },
+    {
+        "wordingKey": "W_C_442",
+        "value": "持续购买时长不满6个月，\\n不满足该活动的报名条件。"
+    },
+    {
+        "wordingKey": "W_C_443",
+        "value": "持续购买时长不满6个月，\\n不满足该活动的报名条件。"
+    },
+    {
+        "wordingKey": "W_C_444",
+        "value": "目标判定期间"
+    },
+    {
+        "wordingKey": "W_C_445",
+        "value": "2024\/01\/31 ～ 2024\/03\/31\\n*在这段时间需要满足\\n持续购买时长。"
+    },
+    {
+        "wordingKey": "W_C_446",
+        "value": "第3名"
+    },
+    {
+        "wordingKey": "W_C_447",
+        "value": "Wonderlands"
+    },
+    {
+        "wordingKey": "W_C_448",
+        "value": "1o"
+    },
+    {
+        "wordingKey": "W_C_449",
+        "value": "招募贴纸\\n招募贴纸"
+    },
+    {
+        "wordingKey": "W_C_45",
+        "value": "领取次数上限"
+    },
+    {
+        "wordingKey": "W_C_450",
+        "value": "用道具解锁"
+    },
+    {
+        "wordingKey": "W_C_451",
+        "value": "道具名\\n2行时"
+    },
+    {
+        "wordingKey": "W_C_452",
+        "value": "12\/30 x"
+    },
+    {
+        "wordingKey": "W_C_453",
+        "value": "第9999999名"
+    },
+    {
+        "wordingKey": "W_C_454",
+        "value": "支援组合"
+    },
+    {
+        "wordingKey": "W_C_455",
+        "value": "举办中"
+    },
+    {
+        "wordingKey": "W_C_456",
+        "value": "综合排行榜"
+    },
+    {
+        "wordingKey": "W_C_457",
+        "value": "道具名1行 \\xD71"
+    },
+    {
+        "wordingKey": "W_C_458",
+        "value": "[2025新春] 虚拟歌手的绘马"
+    },
+    {
+        "wordingKey": "W_C_459",
+        "value": "无醇甜米酒套装"
+    },
+    {
+        "wordingKey": "W_C_46",
+        "value": "套装"
+    },
+    {
+        "wordingKey": "W_C_460",
+        "value": "12\/30(六)"
+    },
+    {
+        "wordingKey": "W_C_461",
+        "value": "11部"
+    },
+    {
+        "wordingKey": "W_C_462",
+        "value": "*开演时间为预计开始时间，有可能提前或推迟。"
+    },
+    {
+        "wordingKey": "W_C_463",
+        "value": "出演者"
+    },
+    {
+        "wordingKey": "W_C_464",
+        "value": "离公演还有3天"
+    },
+    {
+        "wordingKey": "W_C_465",
+        "value": "柴柴"
+    },
+    {
+        "wordingKey": "W_C_466",
+        "value": "今天能来参加真是太好了！"
+    },
+    {
+        "wordingKey": "W_C_467",
+        "value": "「世界」的居民"
+    },
+    {
+        "wordingKey": "W_C_468",
+        "value": "付费0000"
+    },
+    {
+        "wordingKey": "W_C_469",
+        "value": "舞台「世界」"
+    },
+    {
+        "wordingKey": "W_C_47",
+        "value": "标准颜色"
+    },
+    {
+        "wordingKey": "W_C_470",
+        "value": "已达成所有任务。\\n请等待下次举办。"
+    },
+    {
+        "wordingKey": "W_C_471",
+        "value": "*请点击以下按键\\r\\n确认礼包内容与“依据特定商业交易法第12条第6项显示”。"
+    },
+    {
+        "wordingKey": "W_C_472",
+        "value": "剩余2次"
+    },
+    {
+        "wordingKey": "W_C_473",
+        "value": "KAITO的"
+    },
+    {
+        "wordingKey": "W_C_474",
+        "value": "移除"
+    },
+    {
+        "wordingKey": "W_C_475",
+        "value": "是否使用希望游玩的账号\\n登录了游戏。"
+    },
+    {
+        "wordingKey": "W_C_476",
+        "value": "3D\\n"
+    },
+    {
+        "wordingKey": "W_C_477",
+        "value": "2D\\n"
+    },
+    {
+        "wordingKey": "W_C_478",
+        "value": "任务内容居中对齐 32px #557 上端对齐"
+    },
+    {
+        "wordingKey": "W_C_479",
+        "value": "前往○○"
+    },
+    {
+        "wordingKey": "W_C_48",
+        "value": "使用中"
+    },
+    {
+        "wordingKey": "W_C_480",
+        "value": "粘贴"
+    },
+    {
+        "wordingKey": "W_C_481",
+        "value": "前往发行代币页面"
+    },
+    {
+        "wordingKey": "W_C_482",
+        "value": "0000\/00\/00 00:00 为止"
+    },
+    {
+        "wordingKey": "W_C_483",
+        "value": "冠名 角色名\\n冠名 角色名"
+    },
+    {
+        "wordingKey": "W_C_484",
+        "value": "前往我的「世界」"
+    },
+    {
+        "wordingKey": "W_C_485",
+        "value": "没有收藏的表情。"
+    },
+    {
+        "wordingKey": "W_C_486",
+        "value": "收藏1"
+    },
+    {
+        "wordingKey": "W_C_487",
+        "value": "收藏2"
+    },
+    {
+        "wordingKey": "W_C_488",
+        "value": "收藏3"
+    },
+    {
+        "wordingKey": "W_C_489",
+        "value": "销售日期 2023\/12\/21 11:59结束"
+    },
+    {
+        "wordingKey": "W_C_49",
+        "value": "包含服装名"
+    },
+    {
+        "wordingKey": "W_C_490",
+        "value": "道具名1行 x1"
+    },
+    {
+        "wordingKey": "W_C_491",
+        "value": "选择颜色"
+    },
+    {
+        "wordingKey": "W_C_492",
+        "value": "在“购物中心”区域的服装"
+    },
+    {
+        "wordingKey": "W_C_493",
+        "value": "前往服装商店"
+    },
+    {
+        "wordingKey": "W_C_494",
+        "value": "12\/30 xx:xx ～ 12\/31 xx:xx为止"
+    },
+    {
+        "wordingKey": "W_C_495",
+        "value": "你好，我太喜欢这个剧情了，每天睡觉前必看5次。看了以后可以促进新陈代谢，消除疲劳，缓解肩周酸痛。第二天醒来人会变得很清醒，接下来一整天都感觉很有精神。"
+    },
+    {
+        "wordingKey": "W_C_496",
+        "value": "---的人物剧情"
+    },
+    {
+        "wordingKey": "W_C_497",
+        "value": "没有符合条件的人物剧情。"
+    },
+    {
+        "wordingKey": "W_C_498",
+        "value": "虚拟歌手"
+    },
+    {
+        "wordingKey": "W_C_499",
+        "value": "已获得中途离开的“活动名活动名 后日谈·演唱会”的奖励。"
+    },
+    {
+        "wordingKey": "W_C_5",
+        "value": "Lv.00"
+    },
+    {
+        "wordingKey": "W_C_50",
+        "value": "text"
+    },
+    {
+        "wordingKey": "W_C_500",
+        "value": "GekiChuMai！联动"
+    },
+    {
+        "wordingKey": "W_C_501",
+        "value": "2024\/09\/30 20:59截止"
+    },
+    {
+        "wordingKey": "W_C_502",
+        "value": "前往服装商店"
+    },
+    {
+        "wordingKey": "W_C_503",
+        "value": "2024\/01\/10 14:59为止"
+    },
+    {
+        "wordingKey": "W_C_504",
+        "value": "在WonderlandsxShowtime成员登场的虚拟演唱会中累计获得20000应援积分"
+    },
+    {
+        "wordingKey": "W_C_505",
+        "value": "购买<color=#FF5599>白金任务通行证<\/color>后，可解锁当月演出任务白金奖励。根据购买的<color=#FF5599>白金任务通行证<\/color>类型，可获得相应的水晶、心愿碎片等道具奖励。完成任务最多可获得免费水晶×5000、心愿碎片×700、当月限定服装（原版颜色+其他颜色）。"
+    },
+    {
+        "wordingKey": "W_C_506",
+        "value": "12\/31 23:59为止"
+    },
+    {
+        "wordingKey": "W_C_507",
+        "value": "玩家等级达到30级\\n解锁预选对象歌曲的MASTER难度"
+    },
+    {
+        "wordingKey": "W_C_508",
+        "value": "一键领取"
+    },
+    {
+        "wordingKey": "W_C_509",
+        "value": "举办时间 至12\/12 03:59为止"
+    },
+    {
+        "wordingKey": "W_C_51",
+        "value": "99个月"
+    },
+    {
+        "wordingKey": "W_C_510",
+        "value": "卡片冠名卡片最多15字符"
+    },
+    {
+        "wordingKey": "W_C_511",
+        "value": "招募"
+    },
+    {
+        "wordingKey": "W_C_512",
+        "value": "卡牌"
+    },
+    {
+        "wordingKey": "W_C_513",
+        "value": "在Another Vocal商店兑换"
+    },
+    {
+        "wordingKey": "W_C_514",
+        "value": "「世界」？"
+    },
+    {
+        "wordingKey": "W_C_515",
+        "value": "心愿？"
+    },
+    {
+        "wordingKey": "W_C_516",
+        "value": "在1\/1 00:00重置"
+    },
+    {
+        "wordingKey": "W_C_517",
+        "value": "选中的发型无法和已设置的饰品\\n同时展现。"
+    },
+    {
+        "wordingKey": "W_C_518",
+        "value": "YYYY\/MM\/DD hh:mm为止"
+    },
+    {
+        "wordingKey": "W_C_519",
+        "value": "是否购买“连线演唱会 2nd ANNIVERSARY SPECIALSTAGE 第1公演碟片”？"
+    },
+    {
+        "wordingKey": "W_C_52",
+        "value": "一次性购买所有颜色"
+    },
+    {
+        "wordingKey": "W_C_520",
+        "value": "{受邀请的用户名}看完\\n{组合名①}、{组合名➁}、\\n{组合名③}的主线剧情，\\n达成邀请任务后获得的奖励。"
+    },
+    {
+        "wordingKey": "W_C_521",
+        "value": "01\/31 23:59 为止"
+    },
+    {
+        "wordingKey": "W_C_522",
+        "value": "Wonderlands×Showtime"
+    },
+    {
+        "wordingKey": "W_C_523",
+        "value": "Lv.0"
+    },
+    {
+        "wordingKey": "W_C_524",
+        "value": "礼物"
+    },
+    {
+        "wordingKey": "W_C_525",
+        "value": "未领取奖励。\\n请选择领取1件奖励。"
+    },
+    {
+        "wordingKey": "W_C_526",
+        "value": "有APPEND难度"
+    },
+    {
+        "wordingKey": "W_C_527",
+        "value": "添加卡片"
+    },
+    {
+        "wordingKey": "W_C_528",
+        "value": "其他颜色1"
+    },
+    {
+        "wordingKey": "W_C_529",
+        "value": "前往活动主界面"
+    },
+    {
+        "wordingKey": "W_C_53",
+        "value": "SOLD OUT"
+    },
+    {
+        "wordingKey": "W_C_530",
+        "value": "继续"
+    },
+    {
+        "wordingKey": "W_C_531",
+        "value": "1\/1 00:00为止"
+    },
+    {
+        "wordingKey": "W_C_532",
+        "value": "热乎乎的松"
+    },
+    {
+        "wordingKey": "W_C_533",
+        "value": "“亚文化男性风”所有服装颜色"
+    },
+    {
+        "wordingKey": "W_C_534",
+        "value": "前往「世界」区域"
+    },
+    {
+        "wordingKey": "W_C_535",
+        "value": "yyyy\/mm\/dd hh:mm"
+    },
+    {
+        "wordingKey": "W_C_536",
+        "value": "第2场公演"
+    },
+    {
+        "wordingKey": "W_C_537",
+        "value": "删除"
+    },
+    {
+        "wordingKey": "W_C_538",
+        "value": "“［冠名15个字符啊啊啊啊啊啊啊] 小豆泽心羽”专家等级达到1级时解锁"
+    },
+    {
+        "wordingKey": "W_C_539",
+        "value": "选择所有成员"
+    },
+    {
+        "wordingKey": "W_C_54",
+        "value": "重置"
+    },
+    {
+        "wordingKey": "W_C_540",
+        "value": "其他"
+    },
+    {
+        "wordingKey": "W_C_541",
+        "value": "招募"
+    },
+    {
+        "wordingKey": "W_C_542",
+        "value": "观看第N章后解锁"
+    },
+    {
+        "wordingKey": "W_C_543",
+        "value": "“连线演唱会 MORE MORE JUMP！ 1st JUMPIN！”\\n公演门票"
+    },
+    {
+        "wordingKey": "W_C_544",
+        "value": "萤火"
+    },
+    {
+        "wordingKey": "W_C_545",
+        "value": "2024\/12\/31 14:59截止"
+    },
+    {
+        "wordingKey": "W_C_546",
+        "value": "99个月"
+    },
+    {
+        "wordingKey": "W_C_547",
+        "value": "奖励50"
+    },
+    {
+        "wordingKey": "W_C_548",
+        "value": "奖励100"
+    },
+    {
+        "wordingKey": "W_C_549",
+        "value": "奖励150"
+    },
+    {
+        "wordingKey": "W_C_55",
+        "value": "啊啊啊啊啊啊啊啊啊啊啊啊啊"
+    },
+    {
+        "wordingKey": "W_C_550",
+        "value": "奖励200"
+    },
+    {
+        "wordingKey": "W_C_551",
+        "value": "包含剧透"
+    },
+    {
+        "wordingKey": "W_C_552",
+        "value": "不含剧透"
+    },
+    {
+        "wordingKey": "W_C_553",
+        "value": "无限制"
+    },
+    {
+        "wordingKey": "W_C_554",
+        "value": "没有心愿碎片。"
+    },
+    {
+        "wordingKey": "W_C_555",
+        "value": "工作人员名称6个字符​"
+    },
+    {
+        "wordingKey": "W_C_556",
+        "value": "×<color=#bb99ff>123456<\/color>"
+    },
+    {
+        "wordingKey": "W_C_557",
+        "value": "牵绊等级"
+    },
+    {
+        "wordingKey": "W_C_558",
+        "value": "离确定起始等级\\n还有<size=80> {0} <\/size>次匹配"
+    },
+    {
+        "wordingKey": "W_C_559",
+        "value": "人物剧情\\n用票券解锁"
+    },
+    {
+        "wordingKey": "W_C_56",
+        "value": "啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊"
+    },
+    {
+        "wordingKey": "W_C_560",
+        "value": "剧情已解锁。\\n是否下载语音数据并观看剧情？"
+    },
+    {
+        "wordingKey": "W_C_561",
+        "value": "9999\/99\/99 99:99截止"
+    },
+    {
+        "wordingKey": "W_C_562",
+        "value": "sasa"
+    },
+    {
+        "wordingKey": "W_C_563",
+        "value": "章节2"
+    },
+    {
+        "wordingKey": "W_C_564",
+        "value": "匹配开始！"
+    },
+    {
+        "wordingKey": "W_C_565",
+        "value": "魔法之布"
+    },
+    {
+        "wordingKey": "W_C_566",
+        "value": "人数已经达到上限，\\n 目前无法参加。"
+    },
+    {
+        "wordingKey": "W_C_567",
+        "value": "急招！"
+    },
+    {
+        "wordingKey": "W_C_568",
+        "value": "玩家名称"
+    },
+    {
+        "wordingKey": "W_C_569",
+        "value": "全选"
+    },
+    {
+        "wordingKey": "W_C_57",
+        "value": "热乎乎的松饼"
+    },
+    {
+        "wordingKey": "W_C_570",
+        "value": "卡片名称"
+    },
+    {
+        "wordingKey": "W_C_571",
+        "value": "VirtualLiveMatching"
+    },
+    {
+        "wordingKey": "W_C_572",
+        "value": "〇〇小队12连胜！"
+    },
+    {
+        "wordingKey": "W_C_573",
+        "value": "dwdw"
+    },
+    {
+        "wordingKey": "W_C_574",
+        "value": "消息．最多24个字符１２３４６７８９０１２"
+    },
+    {
+        "wordingKey": "W_C_575",
+        "value": "名字．最多10个字符"
+    },
+    {
+        "wordingKey": "W_C_576",
+        "value": "消息．最多16个字符"
+    },
+    {
+        "wordingKey": "W_C_577",
+        "value": "消息最多8个字符"
+    },
+    {
+        "wordingKey": "W_C_578",
+        "value": "名字最多可输入10个字符"
+    },
+    {
+        "wordingKey": "W_C_579",
+        "value": "消息．最多32个字符１２３４５６７８９０１２３４２５６７１２３"
+    },
+    {
+        "wordingKey": "W_C_58",
+        "value": "9次"
+    },
+    {
+        "wordingKey": "W_C_580",
+        "value": "<color=#3fd5c8>「世界」的居民<\/color>: 小未来真可爱！"
+    },
+    {
+        "wordingKey": "W_C_581",
+        "value": "表情包（暂定）\\r"
+    },
+    {
+        "wordingKey": "W_C_582",
+        "value": "标准颜色\\r"
+    },
+    {
+        "wordingKey": "W_C_583",
+        "value": "初音未来DIVA等级达到10级后解锁\\r"
+    },
+    {
+        "wordingKey": "W_C_584",
+        "value": "中央街"
+    },
+    {
+        "wordingKey": "W_C_585",
+        "value": "观看Leo\/need的主线剧情\\n第1话后解锁"
+    },
+    {
+        "wordingKey": "W_C_586",
+        "value": "[金牌制作人]"
+    },
+    {
+        "wordingKey": "W_C_587",
+        "value": "水晶\\xD7100"
+    },
+    {
+        "wordingKey": "W_C_588",
+        "value": "购买白金任务通行证可解锁"
+    },
+    {
+        "wordingKey": "W_C_589",
+        "value": "Option A"
+    },
+    {
+        "wordingKey": "W_C_59",
+        "value": "9999999999次"
+    },
+    {
+        "wordingKey": "W_C_590",
+        "value": "持有\\r"
+    },
+    {
+        "wordingKey": "W_C_591",
+        "value": "需要\\r"
+    },
+    {
+        "wordingKey": "W_C_592",
+        "value": "是否确定兑换50张限定招募贴纸兑换券和\\\\n50张[此处为招募活动名]招募贴纸？\\r"
+    },
+    {
+        "wordingKey": "W_C_593",
+        "value": "剩余3次\\r"
+    },
+    {
+        "wordingKey": "W_C_594",
+        "value": "活动期间的消耗数量最多可设置为10。\\r"
+    },
+    {
+        "wordingKey": "W_C_595",
+        "value": "持有水晶"
+    },
+    {
+        "wordingKey": "W_C_596",
+        "value": "得分获得日期"
+    },
+    {
+        "wordingKey": "W_C_597",
+        "value": "创建“---------------”的私人房间。"
+    },
+    {
+        "wordingKey": "W_C_598",
+        "value": "2. 复制已经发行的<color=#FF5599>代币<\/color>，通过以下「<color=#FF5599>Paste<\/color>」按键进行输入。"
+    },
+    {
+        "wordingKey": "W_C_599",
+        "value": "1. 按下下方按键后，会通过所显示的页面发行<color=#FF5599>代币<\/color>。"
+    },
+    {
+        "wordingKey": "W_C_6",
+        "value": "用水晶恢复"
+    },
+    {
+        "wordingKey": "W_C_60",
+        "value": "啊啊啊啊啊啊啊"
+    },
+    {
+        "wordingKey": "W_C_600",
+        "value": "是否消耗<color=#FF55AA>1500个<\/color>水晶抽取\\n“礼盒名”？"
+    },
+    {
+        "wordingKey": "W_C_601",
+        "value": "是否确定兑换100个水晶和\\\\n100个虚拟硬币？\\r"
+    },
+    {
+        "wordingKey": "W_C_602",
+        "value": "BIRTHDAY"
+    },
+    {
+        "wordingKey": "W_C_603",
+        "value": "AFTERLIVE"
+    },
+    {
+        "wordingKey": "W_C_604",
+        "value": "歌曲"
+    },
+    {
+        "wordingKey": "W_C_605",
+        "value": "筛选歌曲"
+    },
+    {
+        "wordingKey": "W_C_606",
+        "value": "搜索"
+    },
+    {
+        "wordingKey": "W_C_607",
+        "value": "筛选剧目"
+    },
+    {
+        "wordingKey": "W_C_608",
+        "value": "创建“------------------------------------”\\n的私人房间。"
+    },
+    {
+        "wordingKey": "W_C_609",
+        "value": "用户名最多10个字符"
+    },
+    {
+        "wordingKey": "W_C_61",
+        "value": "无模版（空白）"
+    },
+    {
+        "wordingKey": "W_C_610",
+        "value": "还有X次"
+    },
+    {
+        "wordingKey": "W_C_611",
+        "value": "EXPERT\\r"
+    },
+    {
+        "wordingKey": "W_C_612",
+        "value": "演出\\_能量饮料（小）\\r"
+    },
+    {
+        "wordingKey": "W_C_613",
+        "value": "收到了热乎乎的松饼\\n赠送的演出能量\\xD710。"
+    },
+    {
+        "wordingKey": "W_C_614",
+        "value": "LATE"
+    },
+    {
+        "wordingKey": "W_C_615",
+        "value": "FAST"
+    },
+    {
+        "wordingKey": "W_C_616",
+        "value": "FLICK"
+    },
+    {
+        "wordingKey": "W_C_617",
+        "value": "NEW RECORD!"
+    },
+    {
+        "wordingKey": "W_C_618",
+        "value": "EXP"
+    },
+    {
+        "wordingKey": "W_C_619",
+        "value": "等级名称"
+    },
+    {
+        "wordingKey": "W_C_62",
+        "value": "Lv.60"
+    },
+    {
+        "wordingKey": "W_C_620",
+        "value": "等级名称"
+    },
+    {
+        "wordingKey": "W_C_621",
+        "value": "啊啊啊啊aaaaaaaaaaaaa\\n啊啊啊啊\\n啊啊啊啊"
+    },
+    {
+        "wordingKey": "W_C_622",
+        "value": "EXPART"
+    },
+    {
+        "wordingKey": "W_C_623",
+        "value": "总算拿到门票了！\\r"
+    },
+    {
+        "wordingKey": "W_C_624",
+        "value": "心之碎片\\\\n\\r"
+    },
+    {
+        "wordingKey": "W_C_625",
+        "value": "兑换所\\r"
+    },
+    {
+        "wordingKey": "W_C_626",
+        "value": "水晶\\\\n商店\\r"
+    },
+    {
+        "wordingKey": "W_C_627",
+        "value": "持有物品\\r"
+    },
+    {
+        "wordingKey": "W_C_628",
+        "value": "SELECT ROOM"
+    },
+    {
+        "wordingKey": "W_C_629",
+        "value": "没有符合条件的歌曲。"
+    },
+    {
+        "wordingKey": "W_C_63",
+        "value": "首选"
+    },
+    {
+        "wordingKey": "W_C_630",
+        "value": "活动效率"
+    },
+    {
+        "wordingKey": "W_C_631",
+        "value": "新手冲刺任务"
+    },
+    {
+        "wordingKey": "W_C_632",
+        "value": "12\/12\\n23时左右"
+    },
+    {
+        "wordingKey": "W_C_633",
+        "value": "还有3天"
+    },
+    {
+        "wordingKey": "W_C_634",
+        "value": "新手冲刺"
+    },
+    {
+        "wordingKey": "W_C_635",
+        "value": "前"
+    },
+    {
+        "wordingKey": "W_C_636",
+        "value": "后"
+    },
+    {
+        "wordingKey": "W_C_637",
+        "value": "私人房间ID"
+    },
+    {
+        "wordingKey": "W_C_638",
+        "value": "0\\x03"
+    },
+    {
+        "wordingKey": "W_C_639",
+        "value": "由于各种原因，星乃一歌和儿时的朋友们渐行渐远。然而一直在疗养中的朋友——天马咲希回到学校后，让疏远的四个人之间的距离发生了变化。"
+    },
+    {
+        "wordingKey": "W_C_64",
+        "value": "啊啊啊啊啊啊啊啊啊啊"
+    },
+    {
+        "wordingKey": "W_C_640",
+        "value": "主线\\n剧情"
+    },
+    {
+        "wordingKey": "W_C_641",
+        "value": "活动\\n剧情"
+    },
+    {
+        "wordingKey": "W_C_642",
+        "value": "ScheduleId"
+    },
+    {
+        "wordingKey": "W_C_643",
+        "value": "包含付费用户"
+    },
+    {
+        "wordingKey": "W_C_644",
+        "value": "VirtualLiveType"
+    },
+    {
+        "wordingKey": "W_C_645",
+        "value": "'[Settings]'"
+    },
+    {
+        "wordingKey": "W_C_646",
+        "value": "连接"
+    },
+    {
+        "wordingKey": "W_C_647",
+        "value": "Group数量"
+    },
+    {
+        "wordingKey": "W_C_648",
+        "value": "SUPPORT_EVENT_REWARD_LEGEND\\t"
+    },
+    {
+        "wordingKey": "W_C_649",
+        "value": "下一步"
+    },
+    {
+        "wordingKey": "W_C_65",
+        "value": "排序"
+    },
+    {
+        "wordingKey": "W_C_650",
+        "value": "的为为"
+    },
+    {
+        "wordingKey": "W_C_651",
+        "value": "12312312312312w"
+    },
+    {
+        "wordingKey": "W_C_652",
+        "value": "<size=38>15<\/size>\/20"
+    },
+    {
+        "wordingKey": "W_C_653",
+        "value": "'Player 16"
+    },
+    {
+        "wordingKey": "W_C_654",
+        "value": "显示奖励广告"
+    },
+    {
+        "wordingKey": "W_C_655",
+        "value": "点击三次可以删除该用户"
+    },
+    {
+        "wordingKey": "W_C_656",
+        "value": "完成教学关用户"
+    },
+    {
+        "wordingKey": "W_C_657",
+        "value": "AppLovin调试功能"
+    },
+    {
+        "wordingKey": "W_C_658",
+        "value": "所有\\r"
+    },
+    {
+        "wordingKey": "W_C_659",
+        "value": "筛选\\r"
+    },
+    {
+        "wordingKey": "W_C_66",
+        "value": "是否确定下载追加数据<color=#FF5599>200MB<\/color>？"
+    },
+    {
+        "wordingKey": "W_C_660",
+        "value": "字符字符字符\\n字符字符"
+    },
+    {
+        "wordingKey": "W_C_661",
+        "value": "2023年"
+    },
+    {
+        "wordingKey": "W_C_662",
+        "value": "啊\\n羽小"
+    },
+    {
+        "wordingKey": "W_C_663",
+        "value": "此道具可附带应援消息。"
+    },
+    {
+        "wordingKey": "W_C_664",
+        "value": "陀螺仪教程（暂定）"
+    },
+    {
+        "wordingKey": "W_C_665",
+        "value": "演出能量饮料（小）"
+    },
+    {
+        "wordingKey": "W_C_666",
+        "value": "剧目"
+    },
+    {
+        "wordingKey": "W_C_667",
+        "value": "播放"
+    },
+    {
+        "wordingKey": "W_C_668",
+        "value": "点击三次可以删除该用户"
+    },
+    {
+        "wordingKey": "W_C_669",
+        "value": "动作"
+    },
+    {
+        "wordingKey": "W_C_67",
+        "value": "是否开始观看广告？"
+    },
+    {
+        "wordingKey": "W_C_670",
+        "value": "水晶×100"
+    },
+    {
+        "wordingKey": "W_C_671",
+        "value": "SUPPORT_EVENT_REWARD_LEGEND"
+    },
+    {
+        "wordingKey": "W_C_672",
+        "value": "〇〇小队12连胜！"
+    },
+    {
+        "wordingKey": "W_C_673",
+        "value": "Player 16\\nSend 10\\nRSend 10\\n\\nSendTotal"
+    },
+    {
+        "wordingKey": "W_C_674",
+        "value": "[Settings]"
+    },
+    {
+        "wordingKey": "W_C_675",
+        "value": "收到了热乎乎的松饼\\n赠送的演出能量×10。"
+    },
+    {
+        "wordingKey": "W_C_68",
+        "value": "是否确定下载追加数据298.8MB？"
+    },
+    {
+        "wordingKey": "W_C_69",
+        "value": "关闭"
+    },
+    {
+        "wordingKey": "W_C_7",
+        "value": "等级"
+    },
+    {
+        "wordingKey": "W_C_70",
+        "value": "星界酱和可不酱的采购合奏曲"
+    },
+    {
+        "wordingKey": "W_C_71",
+        "value": "Vo."
+    },
+    {
+        "wordingKey": "W_C_72",
+        "value": "Brand"
+    },
+    {
+        "wordingKey": "W_C_73",
+        "value": "Vo"
+    },
+    {
+        "wordingKey": "W_C_74",
+        "value": "Another Vocal"
+    },
+    {
+        "wordingKey": "W_C_75",
+        "value": "名为\\n司\\n物\\n啊啊啊"
+    },
+    {
+        "wordingKey": "W_C_76",
+        "value": "Lv.1"
+    },
+    {
+        "wordingKey": "W_C_77",
+        "value": "获得了XXXXX。\\n"
+    },
+    {
+        "wordingKey": "W_C_78",
+        "value": "任务内容居中对齐 32p"
+    },
+    {
+        "wordingKey": "W_C_79",
+        "value": "道具名 左对齐 32px #557 居中"
+    },
+    {
+        "wordingKey": "W_C_8",
+        "value": "初音"
+    },
+    {
+        "wordingKey": "W_C_80",
+        "value": "还有００００００"
+    },
+    {
+        "wordingKey": "W_C_81",
+        "value": "RANK UP!"
+    },
+    {
+        "wordingKey": "W_C_82",
+        "value": "x100"
+    },
+    {
+        "wordingKey": "W_C_83",
+        "value": "未领取奖励。\\r\\n请选择领取1件奖励。"
+    },
+    {
+        "wordingKey": "W_C_84",
+        "value": "第8话"
+    },
+    {
+        "wordingKey": "W_C_85",
+        "value": "啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊"
+    },
+    {
+        "wordingKey": "W_C_86",
+        "value": "活动期间的消耗数量<color=#ff5599>最多可设置为{0}<\/color>。"
+    },
+    {
+        "wordingKey": "W_C_87",
+        "value": "是否消耗990水晶\\n来恢复99演出能量？"
+    },
+    {
+        "wordingKey": "W_C_88",
+        "value": "MAX"
+    },
+    {
+        "wordingKey": "W_C_89",
+        "value": "10倍"
+    },
+    {
+        "wordingKey": "W_C_9",
+        "value": "卡片"
+    },
+    {
+        "wordingKey": "W_C_90",
+        "value": "小豆泽心羽"
+    },
+    {
+        "wordingKey": "W_C_91",
+        "value": "可以用小豆泽心羽\\n进行挑战演出了。"
+    },
+    {
+        "wordingKey": "W_C_92",
+        "value": "虚拟歌手ver."
+    },
+    {
+        "wordingKey": "W_C_93",
+        "value": "演唱：初音未来、镜音铃、镜音连、巡音流歌、\\n MEIKO、KAITO"
+    },
+    {
+        "wordingKey": "W_C_94",
+        "value": "啊啊啊啊啊啊啊啊啊啊喔喔喔喔喔喔喔喔喔喔哦哦哦哦哦哦哦哦哦哦咦咦咦咦咦咦咦咦咦咦呜呜呜呜呜呜呜呜呜呜吁吁吁吁吁吁吁吁吁吁​​"
+    },
+    {
+        "wordingKey": "W_C_95",
+        "value": "EX任务第3次"
+    },
+    {
+        "wordingKey": "W_C_96",
+        "value": "收集999套“星乃一歌”的演出服装。"
+    },
+    {
+        "wordingKey": "W_C_97",
+        "value": "文本文本啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊\\n啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊\\n招募说明啊啊啊啊啊啊\\n啊啊啊啊啊啊\\n 啊啊啊啊啊啊啊啊啊\\n\\n啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊\\n注意事项啊啊啊啊啊啊啊啊\\n\\n啊啊啊啊啊\\n啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊\\n哦哦哦哦哦哦哦哦哦哦哦哦哦哦哦哦哦哦"
+    },
+    {
+        "wordingKey": "W_C_98",
+        "value": "“新年收藏礼盒”登场！\\n文本文本啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊\\n收藏说明啊啊啊啊啊啊\\n啊啊啊啊啊啊\\n啊啊啊啊啊啊啊啊啊\\n"
+    },
+    {
+        "wordingKey": "W_C_99",
+        "value": "水晶不足。"
     }
 ]

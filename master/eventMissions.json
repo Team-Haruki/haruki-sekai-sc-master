@@ -642,7 +642,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "观看活动“Parallel Harmonies”的兑换所消耗20000个徽章。",
+        "sentence": "在活动“Parallel Harmonies”的兑换所消耗20000个徽章。",
         "rewards": [
             [
                 8000
@@ -755,7 +755,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "观看活动“Whip the wimp girl!!”的兑换所消耗20000个徽章。",
+        "sentence": "在活动“Whip the wimp girl!!”的兑换所消耗20000个徽章。",
         "rewards": [
             [
                 8000
@@ -868,7 +868,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "观看活动“总有一日，登上鲜花盛放的舞台”的兑换所消耗20000个徽章。",
+        "sentence": "在活动“总有一日，登上鲜花盛放的舞台”的兑换所消耗20000个徽章。",
         "rewards": [
             [
                 8000
@@ -981,7 +981,7 @@
         "eventMissionType": "consume_event_item",
         "eventMissionCategory": "normal",
         "requirement1": 20000,
-        "sentence": "观看活动“perspective for smile”的兑换所消耗20000个徽章。",
+        "sentence": "在活动“perspective for smile”的兑换所消耗20000个徽章。",
         "rewards": [
             [
                 8000
@@ -1005,6 +1005,119 @@
     {
         "id": 408,
         "eventId": 131,
+        "seq": 8,
+        "eventMissionType": "achieve_event_mission",
+        "eventMissionCategory": "complete",
+        "requirement1": 7,
+        "sentence": "完成所有7个任务。",
+        "rewards": [
+            [
+                8001
+            ]
+        ]
+    },
+    {
+        "id": 409,
+        "eventId": 132,
+        "seq": 1,
+        "eventMissionType": "live_clear_daily",
+        "eventMissionCategory": "normal",
+        "requirement1": 6,
+        "sentence": "1天完成1次演出累计达到6天。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 410,
+        "eventId": 132,
+        "seq": 2,
+        "eventMissionType": "any_live_clear",
+        "eventMissionCategory": "normal",
+        "requirement1": 50,
+        "sentence": "完成50次演出。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 411,
+        "eventId": 132,
+        "seq": 3,
+        "eventMissionType": "live_clear_full_combo",
+        "eventMissionCategory": "normal",
+        "requirement1": 10,
+        "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 412,
+        "eventId": 132,
+        "seq": 4,
+        "eventMissionType": "live_clear_different_music",
+        "eventMissionCategory": "normal",
+        "requirement1": 10,
+        "requirement2": 1,
+        "sentence": "在演出中完成10首歌曲。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 413,
+        "eventId": 132,
+        "seq": 5,
+        "eventMissionType": "read_last_event_story_episode",
+        "eventMissionCategory": "normal",
+        "requirement1": 1,
+        "sentence": "观看活动“大家来直播♡WEDDING LIVE！”的活动剧情第8话。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 414,
+        "eventId": 132,
+        "seq": 6,
+        "eventMissionType": "consume_event_item",
+        "eventMissionCategory": "normal",
+        "requirement1": 20000,
+        "sentence": "在活动“大家来直播♡WEDDING LIVE！”的兑换所消耗20000个徽章。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 415,
+        "eventId": 132,
+        "seq": 7,
+        "eventMissionType": "join_virtual_live",
+        "eventMissionCategory": "normal",
+        "requirement1": 1,
+        "sentence": "参加“大家来直播♡WEDDING LIVE！ 后日谈·演唱会”。",
+        "rewards": [
+            [
+                8000
+            ]
+        ]
+    },
+    {
+        "id": 416,
+        "eventId": 132,
         "seq": 8,
         "eventMissionType": "achieve_event_mission",
         "eventMissionCategory": "complete",

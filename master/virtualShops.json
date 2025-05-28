@@ -3440,7 +3440,7 @@
                 "seq": 99888,
                 "resourceBoxId": 107,
                 "costPaidJewel": 1000,
-                "startAt": 4086486000000
+                "startAt": 1751353200000
             },
             {
                 "id": 284,
@@ -4409,7 +4409,7 @@
                 "seq": 199880,
                 "resourceBoxId": 260,
                 "costPaidJewel": 1000,
-                "startAt": 4085794800000
+                "startAt": 1751353200000
             }
         ],
         "virtualShopType": "birthday"
@@ -5511,6 +5511,23 @@
             }
         ],
         "virtualShopType": "birthday"
+    },
+    {
+        "id": 271,
+        "name": "第132次活动周边贩卖区",
+        "virtualShopItems": [
+            {
+                "id": 448,
+                "virtualShopId": 271,
+                "virtualShopItemType": "accessory",
+                "seq": 99879,
+                "resourceBoxId": 344,
+                "costVirtualCoin": 3000,
+                "costJewel": 1000,
+                "startAt": 1749106800000
+            }
+        ],
+        "virtualShopType": "event"
     },
     {
         "id": 1001,

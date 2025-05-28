@@ -636,7 +636,7 @@
         "gachaId": 234,
         "name": "Before the storm招募贴纸",
         "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1791518400000,
+        "convertStartAt": 1754193600000,
         "convertResourceBoxId": 2
     },
     {
@@ -1082,9 +1082,9 @@
     {
         "id": 185,
         "gachaId": 338,
-        "name": "在永恒的钟声之下招募贴纸",
+        "name": "[回响]在永恒的钟声之下招募贴纸",
         "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1783656000000,
+        "convertStartAt": 1753243200000,
         "convertResourceBoxId": 2
     },
     {
@@ -1296,11 +1296,19 @@
         "convertResourceBoxId": 2
     },
     {
+        "id": 257,
+        "gachaId": 437,
+        "name": "连接世界活动支援招募贴纸",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1753156800000,
+        "convertResourceBoxId": 2
+    },
+    {
         "id": 258,
         "gachaId": 438,
-        "name": "2025新春招募贴纸",
+        "name": "[回响]新春·盛放的魅力之花招募贴纸",
         "assetbundleName": "ceil_item_limited",
-        "convertStartAt": 1739073600000,
+        "convertStartAt": 1752292800000,
         "convertResourceBoxId": 2
     },
     {
@@ -1453,6 +1461,14 @@
         "name": "[青柳冬弥]HAPPY BIRTHDAY招募贴纸",
         "assetbundleName": "ceil_item_birthday",
         "convertStartAt": 1751266800000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 327,
+        "gachaId": 521,
+        "name": "in my fairy tale招募贴纸",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1752292800000,
         "convertResourceBoxId": 2
     },
     {

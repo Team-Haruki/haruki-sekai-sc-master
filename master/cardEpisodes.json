@@ -38464,6 +38464,226 @@
         "cardEpisodePartType": "second_part"
     },
     {
+        "id": 1823,
+        "cardId": 933,
+        "title": "角色剧情（上篇）",
+        "scenarioId": "005037_minori01",
+        "releaseConditionId": 1,
+        "power1BonusFixed": 250,
+        "power2BonusFixed": 250,
+        "power3BonusFixed": 250,
+        "costs": [
+            {
+                "resourceId": 5,
+                "resourceType": "material",
+                "quantity": 1000
+            }
+        ],
+        "cardEpisodePartType": "first_part"
+    },
+    {
+        "id": 1824,
+        "cardId": 933,
+        "title": "角色剧情（下篇）",
+        "scenarioId": "005037_minori02",
+        "releaseConditionId": 30933,
+        "power1BonusFixed": 600,
+        "power2BonusFixed": 600,
+        "power3BonusFixed": 600,
+        "costs": [
+            {
+                "resourceId": 5,
+                "resourceType": "material",
+                "quantity": 4000
+            },
+            {
+                "resourceId": 10,
+                "resourceType": "material",
+                "quantity": 1200
+            },
+            {
+                "resourceId": 14,
+                "resourceType": "material",
+                "quantity": 120
+            }
+        ],
+        "cardEpisodePartType": "second_part"
+    },
+    {
+        "id": 1825,
+        "cardId": 934,
+        "title": "角色剧情（上篇）",
+        "scenarioId": "015035_nene01",
+        "releaseConditionId": 1,
+        "power1BonusFixed": 250,
+        "power2BonusFixed": 250,
+        "power3BonusFixed": 250,
+        "costs": [
+            {
+                "resourceId": 5,
+                "resourceType": "material",
+                "quantity": 1000
+            }
+        ],
+        "cardEpisodePartType": "first_part"
+    },
+    {
+        "id": 1826,
+        "cardId": 934,
+        "title": "角色剧情（下篇）",
+        "scenarioId": "015035_nene02",
+        "releaseConditionId": 30934,
+        "power1BonusFixed": 600,
+        "power2BonusFixed": 600,
+        "power3BonusFixed": 600,
+        "costs": [
+            {
+                "resourceId": 5,
+                "resourceType": "material",
+                "quantity": 4000
+            },
+            {
+                "resourceId": 10,
+                "resourceType": "material",
+                "quantity": 1200
+            },
+            {
+                "resourceId": 14,
+                "resourceType": "material",
+                "quantity": 120
+            }
+        ],
+        "cardEpisodePartType": "second_part"
+    },
+    {
+        "id": 1827,
+        "cardId": 935,
+        "title": "角色剧情（上篇）",
+        "scenarioId": "024037_luka01",
+        "releaseConditionId": 1,
+        "power1BonusFixed": 250,
+        "power2BonusFixed": 250,
+        "power3BonusFixed": 250,
+        "costs": [
+            {
+                "resourceId": 5,
+                "resourceType": "material",
+                "quantity": 1000
+            }
+        ],
+        "cardEpisodePartType": "first_part"
+    },
+    {
+        "id": 1828,
+        "cardId": 935,
+        "title": "角色剧情（下篇）",
+        "scenarioId": "024037_luka02",
+        "releaseConditionId": 30935,
+        "power1BonusFixed": 600,
+        "power2BonusFixed": 600,
+        "power3BonusFixed": 600,
+        "costs": [
+            {
+                "resourceId": 5,
+                "resourceType": "material",
+                "quantity": 4000
+            },
+            {
+                "resourceId": 10,
+                "resourceType": "material",
+                "quantity": 1200
+            },
+            {
+                "resourceId": 14,
+                "resourceType": "material",
+                "quantity": 120
+            }
+        ],
+        "cardEpisodePartType": "second_part"
+    },
+    {
+        "id": 1829,
+        "cardId": 936,
+        "title": "角色剧情（上篇）",
+        "scenarioId": "004037_shiho01",
+        "releaseConditionId": 1,
+        "power1BonusFixed": 200,
+        "power2BonusFixed": 200,
+        "power3BonusFixed": 200,
+        "costs": [
+            {
+                "resourceId": 3,
+                "resourceType": "material",
+                "quantity": 500
+            }
+        ],
+        "cardEpisodePartType": "first_part"
+    },
+    {
+        "id": 1830,
+        "cardId": 936,
+        "title": "角色剧情（下篇）",
+        "scenarioId": "004037_shiho02",
+        "releaseConditionId": 30936,
+        "power1BonusFixed": 500,
+        "power2BonusFixed": 500,
+        "power3BonusFixed": 500,
+        "costs": [
+            {
+                "resourceId": 3,
+                "resourceType": "material",
+                "quantity": 2000
+            },
+            {
+                "resourceId": 8,
+                "resourceType": "material",
+                "quantity": 600
+            },
+            {
+                "resourceId": 14,
+                "resourceType": "material",
+                "quantity": 80
+            }
+        ],
+        "cardEpisodePartType": "second_part"
+    },
+    {
+        "id": 1831,
+        "cardId": 937,
+        "title": "角色剧情（上篇）",
+        "scenarioId": "019036_ena01",
+        "releaseConditionId": 1,
+        "power1BonusFixed": 150,
+        "power2BonusFixed": 150,
+        "power3BonusFixed": 150,
+        "costs": [
+            {
+                "resourceId": 5,
+                "resourceType": "material",
+                "quantity": 200
+            }
+        ],
+        "cardEpisodePartType": "first_part"
+    },
+    {
+        "id": 1832,
+        "cardId": 937,
+        "title": "角色剧情（下篇）",
+        "scenarioId": "019036_ena02",
+        "releaseConditionId": 30937,
+        "power1BonusFixed": 300,
+        "power2BonusFixed": 300,
+        "power3BonusFixed": 300,
+        "costs": [
+            {
+                "resourceId": 5,
+                "resourceType": "material",
+                "quantity": 1000
+            }
+        ],
+        "cardEpisodePartType": "second_part"
+    },
+    {
         "id": 1833,
         "cardId": 938,
         "title": "角色剧情（上篇）",
