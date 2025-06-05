@@ -1023,7 +1023,7 @@
         "sentence": "1天完成1次演出累计达到6天。",
         "rewards": [
             [
-                8002
+                8000
             ]
         ]
     },
@@ -1037,7 +1037,7 @@
         "sentence": "完成50次演出。",
         "rewards": [
             [
-                8002
+                8000
             ]
         ]
     },
@@ -1051,7 +1051,7 @@
         "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
         "rewards": [
             [
-                8002
+                8000
             ]
         ]
     },
@@ -1066,7 +1066,7 @@
         "sentence": "在演出中完成10首歌曲。",
         "rewards": [
             [
-                8002
+                8000
             ]
         ]
     },
@@ -1080,7 +1080,7 @@
         "sentence": "观看活动“perspective for smile”的活动剧情第8话。",
         "rewards": [
             [
-                8002
+                8000
             ]
         ]
     },
@@ -1094,7 +1094,7 @@
         "sentence": "在活动“perspective for smile”的兑换所消耗20000个徽章。",
         "rewards": [
             [
-                8002
+                8000
             ]
         ]
     },
@@ -1108,7 +1108,7 @@
         "sentence": "参加“perspective for smile 后日谈·演唱会”。",
         "rewards": [
             [
-                8002
+                8000
             ]
         ]
     },
@@ -1117,10 +1117,14 @@
         "eventId": 131,
         "seq": 8,
         "eventMissionType": "achieve_event_mission",
-        "eventMissionCategory": "complete_selectable_reward",
+        "eventMissionCategory": "complete",
         "requirement1": 7,
         "sentence": "完成所有7个任务。",
-        "rewards": []
+        "rewards": [
+            [
+                8001
+            ]
+        ]
     },
     {
         "id": 409,
