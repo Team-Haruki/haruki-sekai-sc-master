@@ -25941,7 +25941,7 @@
         ],
         "assetbundleName": "vs_0409_01",
         "archiveDisplayType": "normal",
-        "archivePublishedAt": 1753848000000
+        "archivePublishedAt": 1735704000000
     },
     {
         "id": 948,
@@ -26386,7 +26386,7 @@
         ],
         "assetbundleName": "vs_0429_01",
         "archiveDisplayType": "normal",
-        "archivePublishedAt": 1751169600000
+        "archivePublishedAt": 1735704000000
     },
     {
         "id": 968,
@@ -26768,7 +26768,7 @@
         ],
         "assetbundleName": "vs_0450_01",
         "archiveDisplayType": "normal",
-        "archivePublishedAt": 1753844400000
+        "archivePublishedAt": 1748959500000
     },
     {
         "id": 989,
@@ -26810,7 +26810,7 @@
         ],
         "assetbundleName": "vs_0452_01",
         "archiveDisplayType": "normal",
-        "archivePublishedAt": 1758513600000
+        "archivePublishedAt": 1735704000000
     },
     {
         "id": 995,
@@ -27341,7 +27341,7 @@
         ],
         "assetbundleName": "vs_0492_01",
         "archiveDisplayType": "normal",
-        "archivePublishedAt": 1754967600000
+        "archivePublishedAt": 1745823600000
     },
     {
         "id": 1031,
@@ -30410,27 +30410,6 @@
         "archivePublishedAt": 1735704000000
     },
     {
-        "id": 1418,
-        "musicId": 429,
-        "musicVocalType": "another_vocal",
-        "seq": 308,
-        "releaseConditionId": 9,
-        "caption": "Another Vocal ver.",
-        "characters": [
-            {
-                "id": 2382,
-                "musicId": 429,
-                "musicVocalId": 1418,
-                "characterType": "game_character",
-                "characterId": 8,
-                "seq": 4296
-            }
-        ],
-        "assetbundleName": "an_0429_01",
-        "archiveDisplayType": "normal",
-        "archivePublishedAt": 1756224000000
-    },
-    {
         "id": 1419,
         "musicId": 392,
         "musicVocalType": "sekai",
@@ -32957,27 +32936,6 @@
         "archivePublishedAt": 4078882800000
     },
     {
-        "id": 1489,
-        "musicId": 492,
-        "musicVocalType": "another_vocal",
-        "seq": 322,
-        "releaseConditionId": 9,
-        "caption": "Another Vocal ver.",
-        "characters": [
-            {
-                "id": 2680,
-                "musicId": 492,
-                "musicVocalId": 1489,
-                "characterType": "game_character",
-                "characterId": 22,
-                "seq": 4927
-            }
-        ],
-        "assetbundleName": "an_0492_01",
-        "archiveDisplayType": "normal",
-        "archivePublishedAt": 1751785200000
-    },
-    {
         "id": 1490,
         "musicId": 494,
         "musicVocalType": "sekai",
@@ -33282,48 +33240,6 @@
         "assetbundleName": "se_0506_01",
         "archiveDisplayType": "normal",
         "archivePublishedAt": 4104964800000
-    },
-    {
-        "id": 1500,
-        "musicId": 429,
-        "musicVocalType": "another_vocal",
-        "seq": 321,
-        "releaseConditionId": 9,
-        "caption": "Another Vocal ver.",
-        "characters": [
-            {
-                "id": 2725,
-                "musicId": 429,
-                "musicVocalId": 1500,
-                "characterType": "game_character",
-                "characterId": 21,
-                "seq": 4298
-            }
-        ],
-        "assetbundleName": "an_0429_02",
-        "archiveDisplayType": "normal",
-        "archivePublishedAt": 1756224000000
-    },
-    {
-        "id": 1501,
-        "musicId": 429,
-        "musicVocalType": "another_vocal",
-        "seq": 323,
-        "releaseConditionId": 9,
-        "caption": "Another Vocal ver.",
-        "characters": [
-            {
-                "id": 2726,
-                "musicId": 429,
-                "musicVocalId": 1501,
-                "characterType": "game_character",
-                "characterId": 23,
-                "seq": 4299
-            }
-        ],
-        "assetbundleName": "an_0429_03",
-        "archiveDisplayType": "normal",
-        "archivePublishedAt": 1756483200000
     },
     {
         "id": 1502,
