@@ -16,5 +16,551 @@
         "name": "练习乐谱（高级）",
         "exp": 50000,
         "flavorText": "成员获得50000经验值。可通过活动等方式获得。"
+    },
+    {
+        "id": 10101,
+        "characterId": 1,
+        "name": "一歌的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "一歌的成员获得200经验值。"
+    },
+    {
+        "id": 10102,
+        "characterId": 1,
+        "name": "一歌的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "一歌的成员获得200经验值。"
+    },
+    {
+        "id": 10103,
+        "characterId": 1,
+        "name": "一歌的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "一歌的成员获得200经验值。"
+    },
+    {
+        "id": 10201,
+        "characterId": 2,
+        "name": "咲希的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "咲希的成员获得200经验值。"
+    },
+    {
+        "id": 10202,
+        "characterId": 2,
+        "name": "咲希的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "咲希的成员获得200经验值。"
+    },
+    {
+        "id": 10203,
+        "characterId": 2,
+        "name": "咲希的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "咲希的成员获得200经验值。"
+    },
+    {
+        "id": 10301,
+        "characterId": 3,
+        "name": "穂波的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "穂波的成员获得200经验值。"
+    },
+    {
+        "id": 10302,
+        "characterId": 3,
+        "name": "穂波的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "穂波的成员获得200经验值。"
+    },
+    {
+        "id": 10303,
+        "characterId": 3,
+        "name": "穂波的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "穂波的成员获得200经验值。"
+    },
+    {
+        "id": 10401,
+        "characterId": 4,
+        "name": "志歩的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "志歩的成员获得200经验值。"
+    },
+    {
+        "id": 10402,
+        "characterId": 4,
+        "name": "志歩的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "志歩的成员获得200经验值。"
+    },
+    {
+        "id": 10403,
+        "characterId": 4,
+        "name": "志歩的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "志歩的成员获得200经验值。"
+    },
+    {
+        "id": 10501,
+        "characterId": 5,
+        "name": "实乃理的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "实乃理的成员获得200经验值。"
+    },
+    {
+        "id": 10502,
+        "characterId": 5,
+        "name": "实乃理的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "实乃理的成员获得200经验值。"
+    },
+    {
+        "id": 10503,
+        "characterId": 5,
+        "name": "实乃理的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "实乃理的成员获得200经验值。"
+    },
+    {
+        "id": 10601,
+        "characterId": 6,
+        "name": "遥的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "遥的成员获得200经验值。"
+    },
+    {
+        "id": 10602,
+        "characterId": 6,
+        "name": "遥的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "遥的成员获得200经验值。"
+    },
+    {
+        "id": 10603,
+        "characterId": 6,
+        "name": "遥的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "遥的成员获得200经验值。"
+    },
+    {
+        "id": 10701,
+        "characterId": 7,
+        "name": "愛莉的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "愛莉的成员获得200经验值。"
+    },
+    {
+        "id": 10702,
+        "characterId": 7,
+        "name": "愛莉的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "愛莉的成员获得200经验值。"
+    },
+    {
+        "id": 10703,
+        "characterId": 7,
+        "name": "愛莉的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "愛莉的成员获得200经验值。"
+    },
+    {
+        "id": 10801,
+        "characterId": 8,
+        "name": "雫的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "雫的成员获得200经验值。"
+    },
+    {
+        "id": 10802,
+        "characterId": 8,
+        "name": "雫的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "雫的成员获得200经验值。"
+    },
+    {
+        "id": 10803,
+        "characterId": 8,
+        "name": "雫的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "雫的成员获得200经验值。"
+    },
+    {
+        "id": 10901,
+        "characterId": 9,
+        "name": "心羽的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "心羽的成员获得200经验值。"
+    },
+    {
+        "id": 10902,
+        "characterId": 9,
+        "name": "心羽的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "心羽的成员获得200经验值。"
+    },
+    {
+        "id": 10903,
+        "characterId": 9,
+        "name": "心羽的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "心羽的成员获得200经验值。"
+    },
+    {
+        "id": 11001,
+        "characterId": 10,
+        "name": "杏的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "杏的成员获得200经验值。"
+    },
+    {
+        "id": 11002,
+        "characterId": 10,
+        "name": "杏的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "杏的成员获得200经验值。"
+    },
+    {
+        "id": 11003,
+        "characterId": 10,
+        "name": "杏的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "杏的成员获得200经验值。"
+    },
+    {
+        "id": 11101,
+        "characterId": 11,
+        "name": "彰人的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "彰人的成员获得200经验值。"
+    },
+    {
+        "id": 11102,
+        "characterId": 11,
+        "name": "彰人的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "彰人的成员获得200经验值。"
+    },
+    {
+        "id": 11103,
+        "characterId": 11,
+        "name": "彰人的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "彰人的成员获得200经验值。"
+    },
+    {
+        "id": 11201,
+        "characterId": 12,
+        "name": "冬弥的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "冬弥的成员获得200经验值。"
+    },
+    {
+        "id": 11202,
+        "characterId": 12,
+        "name": "冬弥的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "冬弥的成员获得200经验值。"
+    },
+    {
+        "id": 11203,
+        "characterId": 12,
+        "name": "冬弥的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "冬弥的成员获得200经验值。"
+    },
+    {
+        "id": 11301,
+        "characterId": 13,
+        "name": "司的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "司的成员获得200经验值。"
+    },
+    {
+        "id": 11302,
+        "characterId": 13,
+        "name": "司的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "司的成员获得200经验值。"
+    },
+    {
+        "id": 11303,
+        "characterId": 13,
+        "name": "司的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "司的成员获得200经验值。"
+    },
+    {
+        "id": 11401,
+        "characterId": 14,
+        "name": "笑梦的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "笑梦的成员获得200经验值。"
+    },
+    {
+        "id": 11402,
+        "characterId": 14,
+        "name": "笑梦的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "笑梦的成员获得200经验值。"
+    },
+    {
+        "id": 11403,
+        "characterId": 14,
+        "name": "笑梦的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "笑梦的成员获得200经验值。"
+    },
+    {
+        "id": 11501,
+        "characterId": 15,
+        "name": "宁宁的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "宁宁的成员获得200经验值。"
+    },
+    {
+        "id": 11502,
+        "characterId": 15,
+        "name": "宁宁的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "宁宁的成员获得200经验值。"
+    },
+    {
+        "id": 11503,
+        "characterId": 15,
+        "name": "宁宁的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "宁宁的成员获得200经验值。"
+    },
+    {
+        "id": 11601,
+        "characterId": 16,
+        "name": "類的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "類的成员获得200经验值。"
+    },
+    {
+        "id": 11602,
+        "characterId": 16,
+        "name": "類的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "類的成员获得200经验值。"
+    },
+    {
+        "id": 11603,
+        "characterId": 16,
+        "name": "類的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "類的成员获得200经验值。"
+    },
+    {
+        "id": 11701,
+        "characterId": 17,
+        "name": "奏的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "奏的成员获得200经验值。"
+    },
+    {
+        "id": 11702,
+        "characterId": 17,
+        "name": "奏的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "奏的成员获得200经验值。"
+    },
+    {
+        "id": 11703,
+        "characterId": 17,
+        "name": "奏的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "奏的成员获得200经验值。"
+    },
+    {
+        "id": 11801,
+        "characterId": 18,
+        "name": "真冬的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "真冬的成员获得200经验值。"
+    },
+    {
+        "id": 11802,
+        "characterId": 18,
+        "name": "真冬的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "真冬的成员获得200经验值。"
+    },
+    {
+        "id": 11803,
+        "characterId": 18,
+        "name": "真冬的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "真冬的成员获得200经验值。"
+    },
+    {
+        "id": 11901,
+        "characterId": 19,
+        "name": "絵名的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "絵名的成员获得200经验值。"
+    },
+    {
+        "id": 11902,
+        "characterId": 19,
+        "name": "絵名的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "絵名的成员获得200经验值。"
+    },
+    {
+        "id": 11903,
+        "characterId": 19,
+        "name": "絵名的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "絵名的成员获得200经验值。"
+    },
+    {
+        "id": 12001,
+        "characterId": 20,
+        "name": "瑞希的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "瑞希的成员获得200经验值。"
+    },
+    {
+        "id": 12002,
+        "characterId": 20,
+        "name": "瑞希的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "瑞希的成员获得200经验值。"
+    },
+    {
+        "id": 12003,
+        "characterId": 20,
+        "name": "瑞希的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "瑞希的成员获得200经验值。"
+    },
+    {
+        "id": 12101,
+        "characterId": 21,
+        "name": "未来的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "未来的成员获得200经验值。"
+    },
+    {
+        "id": 12102,
+        "characterId": 21,
+        "name": "未来的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "未来的成员获得200经验值。"
+    },
+    {
+        "id": 12103,
+        "characterId": 21,
+        "name": "未来的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "未来的成员获得200经验值。"
+    },
+    {
+        "id": 12201,
+        "characterId": 22,
+        "name": "铃的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "铃的成员获得200经验值。"
+    },
+    {
+        "id": 12202,
+        "characterId": 22,
+        "name": "铃的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "铃的成员获得200经验值。"
+    },
+    {
+        "id": 12203,
+        "characterId": 22,
+        "name": "铃的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "铃的成员获得200经验值。"
+    },
+    {
+        "id": 12301,
+        "characterId": 23,
+        "name": "连的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "连的成员获得200经验值。"
+    },
+    {
+        "id": 12302,
+        "characterId": 23,
+        "name": "连的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "连的成员获得200经验值。"
+    },
+    {
+        "id": 12303,
+        "characterId": 23,
+        "name": "连的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "连的成员获得200经验值。"
+    },
+    {
+        "id": 12401,
+        "characterId": 24,
+        "name": "流歌的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "流歌的成员获得200经验值。"
+    },
+    {
+        "id": 12402,
+        "characterId": 24,
+        "name": "流歌的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "流歌的成员获得200经验值。"
+    },
+    {
+        "id": 12403,
+        "characterId": 24,
+        "name": "流歌的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "流歌的成员获得200经验值。"
+    },
+    {
+        "id": 12501,
+        "characterId": 25,
+        "name": "MEIKO的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "MEIKO的成员获得200经验值。"
+    },
+    {
+        "id": 12502,
+        "characterId": 25,
+        "name": "MEIKO的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "MEIKO的成员获得200经验值。"
+    },
+    {
+        "id": 12503,
+        "characterId": 25,
+        "name": "MEIKO的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "MEIKO的成员获得200经验值。"
+    },
+    {
+        "id": 12601,
+        "characterId": 26,
+        "name": "KAITO的练习乐谱（初级）",
+        "exp": 200,
+        "flavorText": "KAITO的成员获得200经验值。"
+    },
+    {
+        "id": 12602,
+        "characterId": 26,
+        "name": "KAITO的练习乐谱（中级）",
+        "exp": 10000,
+        "flavorText": "KAITO的成员获得200经验值。"
+    },
+    {
+        "id": 12603,
+        "characterId": 26,
+        "name": "KAITO的练习乐谱（高级）",
+        "exp": 50000,
+        "flavorText": "KAITO的成员获得200经验值。"
     }
 ]

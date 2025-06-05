@@ -378,6 +378,9 @@
         "categories": [
             {
                 "musicCategoryName": "original"
+            },
+            {
+                "musicCategoryName": "mv_2d"
             }
         ],
         "title": "脱法ロック",
@@ -1425,6 +1428,9 @@
         "categories": [
             {
                 "musicCategoryName": "mv"
+            },
+            {
+                "musicCategoryName": "mv_2d"
             }
         ],
         "title": "ツギハギスタッカート",
@@ -4865,7 +4871,7 @@
         "releaseConditionId": 5,
         "categories": [
             {
-                "musicCategoryName": "mv_2d"
+                "musicCategoryName": "original"
             }
         ],
         "title": "マシンガンポエムドール",
@@ -4932,6 +4938,9 @@
         "categories": [
             {
                 "musicCategoryName": "mv"
+            },
+            {
+                "musicCategoryName": "mv_2d"
             }
         ],
         "title": "にっこり^^調査隊のテーマ",
@@ -6777,6 +6786,9 @@
         "categories": [
             {
                 "musicCategoryName": "mv"
+            },
+            {
+                "musicCategoryName": "mv_2d"
             }
         ],
         "title": "Voices",
@@ -7770,6 +7782,9 @@
         "categories": [
             {
                 "musicCategoryName": "mv"
+            },
+            {
+                "musicCategoryName": "mv_2d"
             }
         ],
         "title": "仮死化",
@@ -7868,7 +7883,7 @@
         "releaseConditionId": 5,
         "categories": [
             {
-                "musicCategoryName": "image"
+                "musicCategoryName": "mv_2d"
             }
         ],
         "title": "泥中に咲く",
@@ -8366,7 +8381,7 @@
         "releaseConditionId": 5,
         "categories": [
             {
-                "musicCategoryName": "mv_2d"
+                "musicCategoryName": "original"
             }
         ],
         "title": "ÅMARA(大未来電脳)",
@@ -8526,45 +8541,15 @@
         "isFullLength": false
     },
     {
-        "id": 290,
-        "seq": 2599902,
-        "releaseConditionId": 10,
-        "categories": [
-            {
-                "musicCategoryName": "mv_2d"
-            }
-        ],
-        "title": "どんな結末がお望みだい？",
-        "pronunciation": "どんなけつまつがおのぞみだい",
-        "creatorArtistId": 153,
-        "lyricist": "ぷす(fromツユ)",
-        "composer": "ぷす(fromツユ)",
-        "arranger": "ぷす(fromツユ)",
-        "dancerCount": 1,
-        "selfDancerPosition": 0,
-        "assetbundleName": "jacket_s_290",
-        "publishedAt": 4104964800000,
-        "releasedAt": 4104964800000,
-        "fillerSec": 9.0,
-        "infos": [
-            {
-                "title": "どんな結末がお望みだい？",
-                "creator": "ツユ",
-                "lyricist": "ぷす(fromツユ)",
-                "composer": "ぷす(fromツユ)",
-                "arranger": "ぷす(fromツユ)"
-            }
-        ],
-        "isNewlyWrittenMusic": true,
-        "isFullLength": false
-    },
-    {
         "id": 291,
         "seq": 1425305,
         "releaseConditionId": 5,
         "categories": [
             {
                 "musicCategoryName": "original"
+            },
+            {
+                "musicCategoryName": "mv_2d"
             }
         ],
         "title": "フェレス",
@@ -8663,7 +8648,7 @@
         "releaseConditionId": 5,
         "categories": [
             {
-                "musicCategoryName": "image"
+                "musicCategoryName": "mv_2d"
             }
         ],
         "title": "それがあなたの幸せとしても",
@@ -9621,6 +9606,9 @@
         "categories": [
             {
                 "musicCategoryName": "mv"
+            },
+            {
+                "musicCategoryName": "mv_2d"
             }
         ],
         "title": "快晴",
@@ -9814,7 +9802,7 @@
     },
     {
         "id": 329,
-        "seq": 1115401,
+        "seq": 1125501,
         "releaseConditionId": 5,
         "categories": [
             {
@@ -9824,9 +9812,9 @@
         "title": "ヤミナベ!!!!",
         "pronunciation": "やみなべ",
         "creatorArtistId": 23,
-        "lyricist": "cosMo＠暴走P",
-        "composer": "cosMo＠暴走P",
-        "arranger": "cosMo＠暴走P",
+        "lyricist": "cosMo@暴走P",
+        "composer": "cosMo@暴走P",
+        "arranger": "cosMo@暴走P",
         "dancerCount": 1,
         "selfDancerPosition": 0,
         "assetbundleName": "jacket_s_329",
@@ -9837,9 +9825,9 @@
             {
                 "title": "黑暗火锅!!!!",
                 "creator": "cosMo@暴走P",
-                "lyricist": "cosMo＠暴走P",
-                "composer": "cosMo＠暴走P",
-                "arranger": "cosMo＠暴走P"
+                "lyricist": "cosMo@暴走P",
+                "composer": "cosMo@暴走P",
+                "arranger": "cosMo@暴走P"
             }
         ],
         "isNewlyWrittenMusic": false,
@@ -10380,6 +10368,9 @@
         "categories": [
             {
                 "musicCategoryName": "original"
+            },
+            {
+                "musicCategoryName": "mv_2d"
             }
         ],
         "title": "嗚呼、素晴らしきニャン生",
@@ -10743,6 +10734,9 @@
         "categories": [
             {
                 "musicCategoryName": "original"
+            },
+            {
+                "musicCategoryName": "mv_2d"
             }
         ],
         "title": "きゅうくらりん",
@@ -11802,6 +11796,39 @@
         "isFullLength": false
     },
     {
+        "id": 396,
+        "seq": 1299907,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "mv"
+            }
+        ],
+        "title": "東京テディベア",
+        "pronunciation": "とうきょうてでぃべあ",
+        "creatorArtistId": 12,
+        "lyricist": "Neru",
+        "composer": "Neru",
+        "arranger": "Neru",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_396",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "東京テディベア",
+                "creator": "Neru",
+                "lyricist": "Neru",
+                "composer": "Neru",
+                "arranger": "Neru"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
         "id": 397,
         "seq": 2520501,
         "releaseConditionId": 10,
@@ -12045,6 +12072,9 @@
         "categories": [
             {
                 "musicCategoryName": "mv"
+            },
+            {
+                "musicCategoryName": "mv_2d"
             }
         ],
         "title": "blender",
@@ -12078,6 +12108,9 @@
         "categories": [
             {
                 "musicCategoryName": "mv"
+            },
+            {
+                "musicCategoryName": "mv_2d"
             }
         ],
         "title": "MOTTO!!!",
@@ -12210,6 +12243,9 @@
         "categories": [
             {
                 "musicCategoryName": "mv"
+            },
+            {
+                "musicCategoryName": "mv_2d"
             }
         ],
         "title": "25時の情熱",
@@ -12276,6 +12312,9 @@
         "categories": [
             {
                 "musicCategoryName": "mv"
+            },
+            {
+                "musicCategoryName": "mv_2d"
             }
         ],
         "title": "世界を照らすテトラッド",
@@ -12568,15 +12607,18 @@
     },
     {
         "id": 422,
-        "seq": 2315201,
+        "seq": 2337901,
         "releaseConditionId": 10,
         "categories": [
             {
                 "musicCategoryName": "mv"
+            },
+            {
+                "musicCategoryName": "mv_2d"
             }
         ],
         "title": "JUMPIN’ OVER !",
-        "pronunciation": "じゃんぴんぐおーばー",
+        "pronunciation": "じゃんぴんおーばー",
         "creatorArtistId": 205,
         "lyricist": "r-906",
         "composer": "r-906",
@@ -12606,6 +12648,9 @@
         "categories": [
             {
                 "musicCategoryName": "mv"
+            },
+            {
+                "musicCategoryName": "mv_2d"
             }
         ],
         "title": "レグルス",
@@ -12639,6 +12684,9 @@
         "categories": [
             {
                 "musicCategoryName": "mv"
+            },
+            {
+                "musicCategoryName": "mv_2d"
             }
         ],
         "title": "インテグラル",
@@ -12729,6 +12777,39 @@
             }
         ],
         "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 428,
+        "seq": 2199903,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "image"
+            }
+        ],
+        "title": "ときめきジェットコースター",
+        "pronunciation": "ときめきじぇっとこーすたー",
+        "creatorArtistId": 243,
+        "lyricist": "picco",
+        "composer": "picco",
+        "arranger": "picco",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_428",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 8.04170036315918,
+        "infos": [
+            {
+                "title": "ときめきジェットコースター",
+                "creator": "picco",
+                "lyricist": "picco",
+                "composer": "picco",
+                "arranger": "picco"
+            }
+        ],
+        "isNewlyWrittenMusic": true,
         "isFullLength": false
     },
     {
@@ -13068,6 +13149,9 @@
         "categories": [
             {
                 "musicCategoryName": "mv"
+            },
+            {
+                "musicCategoryName": "mv_2d"
             }
         ],
         "title": "すれすれ",
@@ -13092,6 +13176,39 @@
             }
         ],
         "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
+        "id": 443,
+        "seq": 1299908,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "original"
+            }
+        ],
+        "title": "林檎売りの泡沫少女",
+        "pronunciation": "りんごうりのうたかたしょうじょ",
+        "creatorArtistId": 250,
+        "lyricist": "ゆっけ",
+        "composer": "ゆっけ",
+        "arranger": "ゆっけ",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_443",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 8.46720027923584,
+        "infos": [
+            {
+                "title": "卖苹果的泡沫少女",
+                "creator": "yukkedoluce",
+                "lyricist": "ゆっけ",
+                "composer": "ゆっけ",
+                "arranger": "ゆっけ"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
         "isFullLength": false
     },
     {
@@ -13266,6 +13383,9 @@
         "categories": [
             {
                 "musicCategoryName": "mv"
+            },
+            {
+                "musicCategoryName": "mv_2d"
             }
         ],
         "title": "オペラ！スペースオペラ！",
@@ -13280,8 +13400,49 @@
         "publishedAt": 1748959500000,
         "releasedAt": 1748959500000,
         "fillerSec": 8.090900421142578,
-        "infos": [],
+        "infos": [
+            {
+                "title": "Opera! Space Opera!",
+                "creator": "ナユタン星人",
+                "lyricist": "ナユタン星人",
+                "composer": "ナユタン星人",
+                "arranger": "ナユタン星人"
+            }
+        ],
         "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
+        "id": 451,
+        "seq": 1699903,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "mv"
+            }
+        ],
+        "title": "熱異常",
+        "pronunciation": "ねついじょう",
+        "creatorArtistId": 167,
+        "lyricist": "いよわ",
+        "composer": "いよわ",
+        "arranger": "いよわ",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_451",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "熱異常",
+                "creator": "いよわ",
+                "lyricist": "いよわ",
+                "composer": "いよわ",
+                "arranger": "いよわ"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
         "isFullLength": false
     },
     {
@@ -13312,6 +13473,108 @@
                 "lyricist": "マイキP",
                 "composer": "マイキP",
                 "arranger": "マイキP"
+            }
+        ],
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
+        "id": 457,
+        "seq": 2326701,
+        "releaseConditionId": 10,
+        "categories": [
+            {
+                "musicCategoryName": "mv"
+            },
+            {
+                "musicCategoryName": "mv_2d"
+            }
+        ],
+        "title": "Supernova",
+        "pronunciation": "すーぱーのゔぁ",
+        "creatorArtistId": 247,
+        "lyricist": "春野",
+        "composer": "雄之助、春野",
+        "arranger": "雄之助、春野",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_457",
+        "publishedAt": 1751033100000,
+        "releasedAt": 1751033100000,
+        "fillerSec": 7.853799819946289,
+        "infos": [
+            {
+                "title": "Supernova",
+                "creator": "雄之助×春野",
+                "lyricist": "春野",
+                "composer": "雄之助、春野",
+                "arranger": "雄之助、春野"
+            }
+        ],
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
+        "id": 458,
+        "seq": 1299910,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "mv"
+            }
+        ],
+        "title": "抜錨",
+        "pronunciation": "ばつびょう",
+        "creatorArtistId": 137,
+        "lyricist": "ナナホシ管弦楽団",
+        "composer": "岩見 陸",
+        "arranger": "-",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_458",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 7.714300155639648,
+        "infos": [
+            {
+                "title": "抜錨",
+                "creator": "ナナホシ管弦楽団",
+                "lyricist": "ナナホシ管弦楽団",
+                "composer": "岩見 陸",
+                "arranger": "-"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 460,
+        "seq": 2199904,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "image"
+            }
+        ],
+        "title": "LEADER",
+        "pronunciation": "りーだー",
+        "creatorArtistId": 237,
+        "lyricist": "香椎モイミ",
+        "composer": "香椎モイミ",
+        "arranger": "香椎モイミ",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_460",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "LEADER",
+                "creator": "香椎モイミ",
+                "lyricist": "香椎モイミ",
+                "composer": "香椎モイミ",
+                "arranger": "香椎モイミ"
             }
         ],
         "isNewlyWrittenMusic": true,
@@ -13483,6 +13746,309 @@
         "isFullLength": false
     },
     {
+        "id": 471,
+        "seq": 2427001,
+        "releaseConditionId": 10,
+        "categories": [
+            {
+                "musicCategoryName": "mv"
+            },
+            {
+                "musicCategoryName": "mv_2d"
+            }
+        ],
+        "title": "ULTRA C",
+        "pronunciation": "うるとらしー",
+        "creatorArtistId": 249,
+        "lyricist": "Reol",
+        "composer": "Giga＆TeddyLoid",
+        "arranger": "Giga＆TeddyLoid",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_471",
+        "publishedAt": 1752242700000,
+        "releasedAt": 1752242700000,
+        "fillerSec": 9.010000228881836,
+        "infos": [
+            {
+                "title": "ULTRA C",
+                "creator": "Giga & TeddyLoid",
+                "lyricist": "Reol",
+                "composer": "Giga＆TeddyLoid",
+                "arranger": "Giga＆TeddyLoid"
+            }
+        ],
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
+        "id": 472,
+        "seq": 2527101,
+        "releaseConditionId": 10,
+        "categories": [
+            {
+                "musicCategoryName": "mv"
+            },
+            {
+                "musicCategoryName": "mv_2d"
+            }
+        ],
+        "title": "成敗いたAAAAAす！",
+        "pronunciation": "せいばいいたあああああす",
+        "creatorArtistId": 42,
+        "lyricist": "じーざす",
+        "composer": "じーざす",
+        "arranger": "ワンダフル☆オポチュニティ！",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_472",
+        "publishedAt": 1752847500000,
+        "releasedAt": 1752847500000,
+        "fillerSec": 8.0,
+        "infos": [
+            {
+                "title": "降下诛罚AAAAA！",
+                "creator": "ワンダフル☆オポチュニティ！",
+                "lyricist": "じーざす",
+                "composer": "じーざす",
+                "arranger": "ワンダフル☆オポチュニティ！"
+            }
+        ],
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
+        "id": 473,
+        "seq": 1699905,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "mv"
+            }
+        ],
+        "title": "マインドブランド",
+        "pronunciation": "まいんどぶらんど",
+        "creatorArtistId": 183,
+        "lyricist": "MARETU",
+        "composer": "MARETU",
+        "arranger": "MARETU",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_473",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "Mind Brand",
+                "creator": "MARETU",
+                "lyricist": "MARETU",
+                "composer": "MARETU",
+                "arranger": "MARETU"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 474,
+        "seq": 2327301,
+        "releaseConditionId": 10,
+        "categories": [
+            {
+                "musicCategoryName": "mv"
+            }
+        ],
+        "title": "キラー",
+        "pronunciation": "きらー",
+        "creatorArtistId": 37,
+        "lyricist": "夏代孝明",
+        "composer": "夏代孝明",
+        "arranger": "Heavenz",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_474",
+        "publishedAt": 1754316300000,
+        "releasedAt": 1754316300000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "キラー",
+                "creator": "夏代孝明",
+                "lyricist": "夏代孝明",
+                "composer": "夏代孝明",
+                "arranger": "Heavenz"
+            }
+        ],
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
+        "id": 475,
+        "seq": 1599906,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "mv"
+            }
+        ],
+        "title": "ちがう!!!",
+        "pronunciation": "ちがう",
+        "creatorArtistId": 114,
+        "lyricist": "カルロス袴田(サイゼP)",
+        "composer": "カルロス袴田(サイゼP)",
+        "arranger": "カルロス袴田(サイゼP)",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_475",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "ちがう!!!",
+                "creator": "カルロス袴田(サイゼP)",
+                "lyricist": "カルロス袴田(サイゼP)",
+                "composer": "カルロス袴田(サイゼP)",
+                "arranger": "カルロス袴田(サイゼP)"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 476,
+        "seq": 1699906,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "mv"
+            }
+        ],
+        "title": "Shadow Shadow",
+        "pronunciation": "しゃどうしゃどう",
+        "creatorArtistId": 259,
+        "lyricist": "Azari",
+        "composer": "Azari",
+        "arranger": "Azari",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_476",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 8.5556001663208,
+        "infos": [
+            {
+                "title": "Shadow Shadow",
+                "creator": "Azari",
+                "lyricist": "Azari",
+                "composer": "Azari",
+                "arranger": "Azari"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 477,
+        "seq": 1299911,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "mv"
+            }
+        ],
+        "title": "モザイクロール (Reloaded)",
+        "pronunciation": "もざいくろーるりろーでっど",
+        "creatorArtistId": 4,
+        "lyricist": "DECO*27",
+        "composer": "DECO*27",
+        "arranger": "Rockwell",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_477",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 8.996199607849121,
+        "infos": [
+            {
+                "title": "モザイクロール (Reloaded)",
+                "creator": "DECO*27",
+                "lyricist": "DECO*27",
+                "composer": "DECO*27",
+                "arranger": "Rockwell"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 478,
+        "seq": 2431001,
+        "releaseConditionId": 10,
+        "categories": [
+            {
+                "musicCategoryName": "mv"
+            }
+        ],
+        "title": "フューエル",
+        "pronunciation": "ふゅーえる",
+        "creatorArtistId": 262,
+        "lyricist": "鬱P",
+        "composer": "鬱P",
+        "arranger": "鬱P",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_478",
+        "publishedAt": 1761746700000,
+        "releasedAt": 1761746700000,
+        "fillerSec": 8.230799674987793,
+        "infos": [
+            {
+                "title": "フューエル",
+                "creator": "鬱P",
+                "lyricist": "鬱P",
+                "composer": "鬱P",
+                "arranger": "鬱P"
+            }
+        ],
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
+        "id": 480,
+        "seq": 1599907,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "image"
+            }
+        ],
+        "title": "おちゃめ機能",
+        "pronunciation": "おちゃめきのう",
+        "creatorArtistId": 242,
+        "lyricist": "ゴジマジＰ",
+        "composer": "ゴジマジＰ",
+        "arranger": "ゴジマジＰ",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_480",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "天真烂漫功能",
+                "creator": "ゴジマジＰ",
+                "lyricist": "ゴジマジＰ",
+                "composer": "ゴジマジＰ",
+                "arranger": "ゴジマジＰ"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
         "id": 481,
         "seq": 1132001,
         "releaseConditionId": 5,
@@ -13510,6 +14076,39 @@
                 "lyricist": "旅路",
                 "composer": "旅路",
                 "arranger": "旅路"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 482,
+        "seq": 1399910,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "original"
+            }
+        ],
+        "title": "だめにんげんだ!",
+        "pronunciation": "だめにんげんだ!",
+        "creatorArtistId": 245,
+        "lyricist": "薄塩指数",
+        "composer": "薄塩指数",
+        "arranger": "薄塩指数",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_482",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 7.992000102996826,
+        "infos": [
+            {
+                "title": "だめにんげんだ!",
+                "creator": "薄塩指数",
+                "lyricist": "薄塩指数",
+                "composer": "薄塩指数",
+                "arranger": "薄塩指数"
             }
         ],
         "isNewlyWrittenMusic": false,
@@ -13582,6 +14181,105 @@
         "isFullLength": false
     },
     {
+        "id": 487,
+        "seq": 1199925,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "image"
+            }
+        ],
+        "title": "ダイジョブですか？",
+        "pronunciation": "だいじょぶですか？",
+        "creatorArtistId": 23,
+        "lyricist": "cosMo@暴走P",
+        "composer": "cosMo@暴走P",
+        "arranger": "cosMo@暴走P",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_487",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "ダイジョブですか？",
+                "creator": "cosMo@暴走P",
+                "lyricist": "cosMo@暴走P",
+                "composer": "cosMo@暴走P",
+                "arranger": "cosMo@暴走P"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 488,
+        "seq": 1199926,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "image"
+            }
+        ],
+        "title": "メモリア",
+        "pronunciation": "めもりあ",
+        "creatorArtistId": 260,
+        "lyricist": "Aira",
+        "composer": "Aira",
+        "arranger": "Aira",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_488",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.170999526977539,
+        "infos": [
+            {
+                "title": "メモリア",
+                "creator": "Aira",
+                "lyricist": "Aira",
+                "composer": "Aira",
+                "arranger": "Aira"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 489,
+        "seq": 2728301,
+        "releaseConditionId": 10,
+        "categories": [
+            {
+                "musicCategoryName": "mv"
+            }
+        ],
+        "title": "熱風",
+        "pronunciation": "ねっぷう",
+        "creatorArtistId": 75,
+        "lyricist": "kemu",
+        "composer": "kemu",
+        "arranger": "kemu",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_489",
+        "publishedAt": 1758902400000,
+        "releasedAt": 1758902400000,
+        "fillerSec": 6.5,
+        "infos": [
+            {
+                "title": "热风",
+                "creator": "kemu",
+                "lyricist": "kemu",
+                "composer": "kemu",
+                "arranger": "kemu"
+            }
+        ],
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
         "id": 492,
         "seq": 2624601,
         "releaseConditionId": 10,
@@ -13615,6 +14313,105 @@
         "isFullLength": false
     },
     {
+        "id": 493,
+        "seq": 1599909,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "original"
+            }
+        ],
+        "title": "きょうもハレバレ",
+        "pronunciation": "きょうもはればれ",
+        "creatorArtistId": 246,
+        "lyricist": "ふわりP",
+        "composer": "ふわりP",
+        "arranger": "-",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_493",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "今天也是晴空万里",
+                "creator": "ふわりP",
+                "lyricist": "ふわりP",
+                "composer": "ふわりP",
+                "arranger": "-"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 494,
+        "seq": 1399911,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "original"
+            }
+        ],
+        "title": "ポッピンキャンディ☆フィーバー！",
+        "pronunciation": "ぽっぴんきゃんでぃ☆ふぃーばー！",
+        "creatorArtistId": 68,
+        "lyricist": "キノシタ",
+        "composer": "キノシタ",
+        "arranger": "キノシタ",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_494",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 8.368499755859375,
+        "infos": [
+            {
+                "title": "Poppin' Candy☆Fever!",
+                "creator": "キノシタ",
+                "lyricist": "キノシタ",
+                "composer": "キノシタ",
+                "arranger": "キノシタ"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 495,
+        "seq": 1399912,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "original"
+            }
+        ],
+        "title": "スーパーヒーロー",
+        "pronunciation": "すーぱーひーろー",
+        "creatorArtistId": 152,
+        "lyricist": "Guiano",
+        "composer": "Guiano",
+        "arranger": "Guiano",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_495",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 8.100899696350098,
+        "infos": [
+            {
+                "title": "Superhero",
+                "creator": "Guiano",
+                "lyricist": "Guiano",
+                "composer": "Guiano",
+                "arranger": "Guiano"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
         "id": 497,
         "seq": 2425501,
         "releaseConditionId": 10,
@@ -13635,7 +14432,15 @@
         "publishedAt": 1747033200000,
         "releasedAt": 1747033200000,
         "fillerSec": 8.543999671936035,
-        "infos": [],
+        "infos": [
+            {
+                "title": "烈火",
+                "creator": "niki",
+                "lyricist": "niki",
+                "composer": "niki",
+                "arranger": "niki"
+            }
+        ],
         "isNewlyWrittenMusic": true,
         "isFullLength": false
     },
@@ -13660,7 +14465,15 @@
         "publishedAt": 1748761200000,
         "releasedAt": 1748761200000,
         "fillerSec": 9.0,
-        "infos": [],
+        "infos": [
+            {
+                "title": "Bad Apple!! feat.SEKAI",
+                "creator": "ビートまりお×まろん×まらしぃ",
+                "lyricist": "Haruka",
+                "composer": "ZUN（上海アリス幻樂団）",
+                "arranger": "ビートまりお×まろん、まらしぃ、Masayoshi Minoshima"
+            }
+        ],
         "isNewlyWrittenMusic": false,
         "isFullLength": false
     },
@@ -13670,7 +14483,7 @@
         "releaseConditionId": 5,
         "categories": [
             {
-                "musicCategoryName": "image"
+                "musicCategoryName": "mv_2d"
             }
         ],
         "title": "Help me, ERINNNNNN!!",
@@ -13685,7 +14498,15 @@
         "publishedAt": 1748847600000,
         "releasedAt": 1748847600000,
         "fillerSec": 9.140999794006348,
-        "infos": [],
+        "infos": [
+            {
+                "title": "Help me, ERINNNNNN!!",
+                "creator": "ビートまりお×まろん",
+                "lyricist": "ビートまりお",
+                "composer": "ZUN（上海アリス幻樂団）",
+                "arranger": "ビートまりお×まろん"
+            }
+        ],
         "isNewlyWrittenMusic": false,
         "isFullLength": false
     },
@@ -13695,7 +14516,7 @@
         "releaseConditionId": 5,
         "categories": [
             {
-                "musicCategoryName": "image"
+                "musicCategoryName": "original"
             }
         ],
         "title": "超最終鬼畜妹フランドール・Ｓ",
@@ -13710,8 +14531,940 @@
         "publishedAt": 1748674800000,
         "releasedAt": 1748674800000,
         "fillerSec": 9.071000099182129,
-        "infos": [],
+        "infos": [
+            {
+                "title": "超最終鬼畜妹フランドール・Ｓ",
+                "creator": "ビートまりお×まろん",
+                "lyricist": "-",
+                "composer": "ZUN（上海アリス幻樂団）",
+                "arranger": "ビートまりお×まろん"
+            }
+        ],
         "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 504,
+        "seq": 1199928,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "image"
+            }
+        ],
+        "title": "I know 愛脳.",
+        "pronunciation": "あいのーあいのう",
+        "creatorArtistId": 244,
+        "lyricist": "吉田夜世",
+        "composer": "吉田夜世",
+        "arranger": "吉田夜世",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_504",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.036700248718262,
+        "infos": [
+            {
+                "title": "I know 愛脳.",
+                "creator": "吉田夜世",
+                "lyricist": "吉田夜世",
+                "composer": "吉田夜世",
+                "arranger": "吉田夜世"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 505,
+        "seq": 1499909,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "image"
+            }
+        ],
+        "title": "コールボーイ",
+        "pronunciation": "こーるぼーい",
+        "creatorArtistId": 28,
+        "lyricist": "syudou",
+        "composer": "syudou",
+        "arranger": "syudou",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_505",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "Call Boy",
+                "creator": "syudou",
+                "lyricist": "syudou",
+                "composer": "syudou",
+                "arranger": "syudou"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 506,
+        "seq": 1599911,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "original"
+            }
+        ],
+        "title": "QUEEN",
+        "pronunciation": "くいーん",
+        "creatorArtistId": 77,
+        "lyricist": "Kanaria",
+        "composer": "Kanaria",
+        "arranger": "Kanaria",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_506",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "QUEEN",
+                "creator": "Kanaria",
+                "lyricist": "Kanaria",
+                "composer": "Kanaria",
+                "arranger": "Kanaria"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 507,
+        "seq": 2626801,
+        "releaseConditionId": 10,
+        "categories": [
+            {
+                "musicCategoryName": "mv_2d"
+            }
+        ],
+        "title": "エンパープル",
+        "pronunciation": "えんぱーぷる",
+        "creatorArtistId": 34,
+        "lyricist": "はるまきごはん",
+        "composer": "はるまきごはん",
+        "arranger": "はるまきごはん",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_507",
+        "publishedAt": 1751180400000,
+        "releasedAt": 1751180400000,
+        "fillerSec": 8.111100196838379,
+        "infos": [
+            {
+                "title": "エンパープル",
+                "creator": "はるまきごはん",
+                "lyricist": "はるまきごはん",
+                "composer": "はるまきごはん",
+                "arranger": "はるまきごはん"
+            }
+        ],
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
+        "id": 511,
+        "seq": 1399913,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "image"
+            }
+        ],
+        "title": "如月アテンション",
+        "pronunciation": "きさらぎあてんしょん",
+        "creatorArtistId": 29,
+        "lyricist": "じん",
+        "composer": "じん",
+        "arranger": "じん",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_511",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 8.994199752807617,
+        "infos": [
+            {
+                "title": "如月アテンション",
+                "creator": "じん",
+                "lyricist": "じん",
+                "composer": "じん",
+                "arranger": "じん"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 512,
+        "seq": 1199929,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "image"
+            }
+        ],
+        "title": "合成するミライ",
+        "pronunciation": "ごうせいするみらい",
+        "creatorArtistId": 248,
+        "lyricist": "阿修",
+        "composer": "阿修",
+        "arranger": "阿修",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_512",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "合成するミライ",
+                "creator": "阿修",
+                "lyricist": "阿修",
+                "composer": "阿修",
+                "arranger": "阿修"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 515,
+        "seq": 1199931,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "image"
+            }
+        ],
+        "title": "イガク",
+        "pronunciation": "いがく",
+        "creatorArtistId": 230,
+        "lyricist": "原口沙輔",
+        "composer": "原口沙輔",
+        "arranger": "原口沙輔",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_515",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.352899551391602,
+        "infos": [
+            {
+                "title": "イガク",
+                "creator": "原口沙輔",
+                "lyricist": "原口沙輔",
+                "composer": "原口沙輔",
+                "arranger": "原口沙輔"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 516,
+        "seq": 1199932,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "image"
+            }
+        ],
+        "title": "あちこちデートさん",
+        "pronunciation": "あちこちでーとさん",
+        "creatorArtistId": 251,
+        "lyricist": "駄菓子O型",
+        "composer": "駄菓子O型",
+        "arranger": "駄菓子O型",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_516",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "到处约会的人",
+                "creator": "駄菓子O型",
+                "lyricist": "駄菓子O型",
+                "composer": "駄菓子O型",
+                "arranger": "駄菓子O型"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 517,
+        "seq": 1199933,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "image"
+            }
+        ],
+        "title": "メリーゴーラウンド",
+        "pronunciation": "めりーごーらうんど",
+        "creatorArtistId": 84,
+        "lyricist": "加賀（ネギシャワーＰ）",
+        "composer": "加賀（ネギシャワーＰ）",
+        "arranger": "加賀（ネギシャワーＰ）",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_517",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.517200469970703,
+        "infos": [
+            {
+                "title": "メリーゴーラウンド",
+                "creator": "加賀（ネギシャワーＰ）",
+                "lyricist": "加賀（ネギシャワーＰ）",
+                "composer": "加賀（ネギシャワーＰ）",
+                "arranger": "加賀（ネギシャワーＰ）"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 519,
+        "seq": 2199906,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "image"
+            }
+        ],
+        "title": "夏夜ノ唄",
+        "pronunciation": "なつよのうた",
+        "creatorArtistId": 253,
+        "lyricist": "平田義久",
+        "composer": "平田義久",
+        "arranger": "平田義久",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_519",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "夏夜ノ唄",
+                "creator": "平田義久",
+                "lyricist": "平田義久",
+                "composer": "平田義久",
+                "arranger": "平田義久"
+            }
+        ],
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
+        "id": 522,
+        "seq": 1442901,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "image"
+            }
+        ],
+        "title": "WAVE",
+        "pronunciation": "うぇーぶ",
+        "creatorArtistId": 239,
+        "lyricist": "niki",
+        "composer": "niki",
+        "arranger": "niki",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_522",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "WAVE",
+                "creator": "niki",
+                "lyricist": "niki",
+                "composer": "niki",
+                "arranger": "niki"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 523,
+        "seq": 1199934,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "original"
+            }
+        ],
+        "title": "きみとぼくのレゾナンス",
+        "pronunciation": "きみとぼくのれぞなんす",
+        "creatorArtistId": 257,
+        "lyricist": "斜め上P",
+        "composer": "斜め上P",
+        "arranger": "斜め上P",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_523",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "你我之间的共鸣",
+                "creator": "斜め上P",
+                "lyricist": "斜め上P",
+                "composer": "斜め上P",
+                "arranger": "斜め上P"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 524,
+        "seq": 2228201,
+        "releaseConditionId": 10,
+        "categories": [
+            {
+                "musicCategoryName": "mv_2d"
+            }
+        ],
+        "title": "それでも僕らは歌うことをやめない",
+        "pronunciation": "それでもぼくらはうたうことをやめない",
+        "creatorArtistId": 255,
+        "lyricist": "葵木ゴウ",
+        "composer": "葵木ゴウ",
+        "arranger": "葵木ゴウ",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_524",
+        "publishedAt": 1758524400000,
+        "releasedAt": 1758524400000,
+        "fillerSec": 8.01099967956543,
+        "infos": [
+            {
+                "title": "それでも僕らは歌うことをやめない",
+                "creator": "葵木ゴウ",
+                "lyricist": "葵木ゴウ",
+                "composer": "葵木ゴウ",
+                "arranger": "葵木ゴウ"
+            }
+        ],
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
+        "id": 525,
+        "seq": 1199935,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "original"
+            }
+        ],
+        "title": "アンテナ39",
+        "pronunciation": "あんてなさんきゅー",
+        "creatorArtistId": 188,
+        "lyricist": "柊マグネタイト",
+        "composer": "柊マグネタイト",
+        "arranger": "柊マグネタイト",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_525",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.004199981689453,
+        "infos": [
+            {
+                "title": "Antenna 39",
+                "creator": "柊マグネタイト",
+                "lyricist": "柊マグネタイト",
+                "composer": "柊マグネタイト",
+                "arranger": "柊マグネタイト"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 526,
+        "seq": 1199936,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "image"
+            }
+        ],
+        "title": "彗星ノ銀河",
+        "pronunciation": "すいせいのくに",
+        "creatorArtistId": 252,
+        "lyricist": "マツシタレオ",
+        "composer": "マツシタレオ",
+        "arranger": "マツシタレオ",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_526",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.71090030670166,
+        "infos": [
+            {
+                "title": "彗星ノ銀河",
+                "creator": "マツシタレオ",
+                "lyricist": "マツシタレオ",
+                "composer": "マツシタレオ",
+                "arranger": "マツシタレオ"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 527,
+        "seq": 2199907,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "image"
+            }
+        ],
+        "title": "Unpoison",
+        "pronunciation": "あんぽいずん",
+        "creatorArtistId": 256,
+        "lyricist": "袖野あらわ",
+        "composer": "袖野あらわ",
+        "arranger": "袖野あらわ",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_527",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.007499694824219,
+        "infos": [
+            {
+                "title": "Unpoison",
+                "creator": "袖野あらわ",
+                "lyricist": "袖野あらわ",
+                "composer": "袖野あらわ",
+                "arranger": "袖野あらわ"
+            }
+        ],
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
+        "id": 529,
+        "seq": 1199938,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "original"
+            }
+        ],
+        "title": "カルチャ",
+        "pronunciation": "かるちゃ",
+        "creatorArtistId": 145,
+        "lyricist": "ツミキ",
+        "composer": "ツミキ",
+        "arranger": "ツミキ",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_529",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "culture",
+                "creator": "ツミキ",
+                "lyricist": "ツミキ",
+                "composer": "ツミキ",
+                "arranger": "ツミキ"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 530,
+        "seq": 1399914,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "original"
+            }
+        ],
+        "title": "キャットフード",
+        "pronunciation": "きゃっとふーど",
+        "creatorArtistId": 67,
+        "lyricist": "doriko",
+        "composer": "doriko",
+        "arranger": "doriko",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_530",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "Cat Food",
+                "creator": "doriko",
+                "lyricist": "doriko",
+                "composer": "doriko",
+                "arranger": "doriko"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 531,
+        "seq": 1199939,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "original"
+            }
+        ],
+        "title": "メズマライザー",
+        "pronunciation": "めずまらいざー",
+        "creatorArtistId": 207,
+        "lyricist": "サツキ",
+        "composer": "サツキ",
+        "arranger": "サツキ",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_531",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "Mesmerizer",
+                "creator": "サツキ",
+                "lyricist": "サツキ",
+                "composer": "サツキ",
+                "arranger": "サツキ"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 532,
+        "seq": 1199940,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "image"
+            }
+        ],
+        "title": "レイヤーノート",
+        "pronunciation": "れいやーのーと",
+        "creatorArtistId": 254,
+        "lyricist": "吉田ヨシユキ",
+        "composer": "吉田ヨシユキ",
+        "arranger": "吉田ヨシユキ",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_532",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "レイヤーノート",
+                "creator": "吉田ヨシユキ",
+                "lyricist": "吉田ヨシユキ",
+                "composer": "吉田ヨシユキ",
+                "arranger": "吉田ヨシユキ"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 533,
+        "seq": 1599912,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "original"
+            }
+        ],
+        "title": "転生林檎",
+        "pronunciation": "てんせいりんご",
+        "creatorArtistId": 25,
+        "lyricist": "ピノキオピー",
+        "composer": "ピノキオピー",
+        "arranger": "ピノキオピー",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_533",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "转生苹果",
+                "creator": "ピノキオピー",
+                "lyricist": "ピノキオピー",
+                "composer": "ピノキオピー",
+                "arranger": "ピノキオピー"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 541,
+        "seq": 1199942,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "original"
+            }
+        ],
+        "title": "メインキャラクター",
+        "pronunciation": "めいんきゃらくたー",
+        "creatorArtistId": 99,
+        "lyricist": "*Luna",
+        "composer": "*Luna",
+        "arranger": "*Luna",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_541",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.156299591064453,
+        "infos": [
+            {
+                "title": "Main Character",
+                "creator": "*Luna",
+                "lyricist": "*Luna",
+                "composer": "*Luna",
+                "arranger": "*Luna"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 542,
+        "seq": 1199943,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "image"
+            }
+        ],
+        "title": "Blackjack",
+        "pronunciation": "ぶらっくじゃっく",
+        "creatorArtistId": 258,
+        "lyricist": "ゆちゃP",
+        "composer": "ゆちゃP",
+        "arranger": "ゆちゃP",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_542",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "Blackjack",
+                "creator": "ゆちゃP",
+                "lyricist": "ゆちゃP",
+                "composer": "ゆちゃP",
+                "arranger": "ゆちゃP"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 543,
+        "seq": 2199908,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "original"
+            }
+        ],
+        "title": "生命性シンドロウム",
+        "pronunciation": "せいめいせいしんどろうむ",
+        "creatorArtistId": 220,
+        "lyricist": "かめりあ",
+        "composer": "かめりあ",
+        "arranger": "かめりあ",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_543",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 8.466699600219727,
+        "infos": [
+            {
+                "title": "生命性シンドロウム",
+                "creator": "かめりあ",
+                "lyricist": "かめりあ",
+                "composer": "かめりあ",
+                "arranger": "かめりあ"
+            }
+        ],
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
+        "id": 544,
+        "seq": 1399915,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "original"
+            }
+        ],
+        "title": "妄想アスパルテーム",
+        "pronunciation": "もうそうあすぱるてーむ",
+        "creatorArtistId": 243,
+        "lyricist": "picco",
+        "composer": "picco",
+        "arranger": "picco",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_544",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "妄想アスパルテーム",
+                "creator": "picco",
+                "lyricist": "picco",
+                "composer": "picco",
+                "arranger": "picco"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 545,
+        "seq": 1199944,
+        "releaseConditionId": 5,
+        "categories": [
+            {
+                "musicCategoryName": "image"
+            }
+        ],
+        "title": "脳天",
+        "pronunciation": "のうてん",
+        "creatorArtistId": 261,
+        "lyricist": "ムラタシユウ",
+        "composer": "ムラタシユウ",
+        "arranger": "ムラタシユウ",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_545",
+        "publishedAt": 4104964800000,
+        "releasedAt": 4104964800000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "脳天",
+                "creator": "ムラタシユウ",
+                "lyricist": "ムラタシユウ",
+                "composer": "ムラタシユウ",
+                "arranger": "ムラタシユウ"
+            }
+        ],
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 546,
+        "seq": 2231201,
+        "releaseConditionId": 10,
+        "categories": [
+            {
+                "musicCategoryName": "mv_2d"
+            }
+        ],
+        "title": "その音が鳴るなら",
+        "pronunciation": "そのおとがなるなら",
+        "creatorArtistId": 263,
+        "lyricist": "石風呂",
+        "composer": "石風呂",
+        "arranger": "石風呂",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_546",
+        "publishedAt": 1761894000000,
+        "releasedAt": 1761894000000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "その音が鳴るなら",
+                "creator": "石風呂",
+                "lyricist": "石風呂",
+                "composer": "石風呂",
+                "arranger": "石風呂"
+            }
+        ],
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
+        "id": 549,
+        "seq": 2629301,
+        "releaseConditionId": 10,
+        "categories": [
+            {
+                "musicCategoryName": "mv_2d"
+            }
+        ],
+        "title": "化けの花",
+        "pronunciation": "ばけのはな",
+        "creatorArtistId": 228,
+        "lyricist": "なきそ",
+        "composer": "なきそ",
+        "arranger": "なきそ",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_549",
+        "publishedAt": 1760252400000,
+        "releasedAt": 1760252400000,
+        "fillerSec": 9.0,
+        "infos": [
+            {
+                "title": "化けの花",
+                "creator": "なきそ",
+                "lyricist": "なきそ",
+                "composer": "なきそ",
+                "arranger": "なきそ"
+            }
+        ],
+        "isNewlyWrittenMusic": true,
         "isFullLength": false
     },
     {

@@ -1019,7 +1019,7 @@
         "gameCharacterId": 12,
         "characterEventSeq": 4,
         "stampId": 734,
-        "startAt": 1775890799000,
+        "startAt": 1744354799000,
         "unit": "street",
         "assetBundleName": "2-B"
     },
@@ -1032,7 +1032,7 @@
         "gameCharacterId": 19,
         "characterEventSeq": 4,
         "stampId": 736,
-        "startAt": 1777964399000,
+        "startAt": 1746428399000,
         "unit": "school_refusal",
         "assetBundleName": "3-D"
     },
@@ -1045,7 +1045,7 @@
         "gameCharacterId": 2,
         "characterEventSeq": 5,
         "stampId": 737,
-        "startAt": 1778569199000,
+        "startAt": 1747033199000,
         "unit": "light_sound",
         "assetBundleName": "2-B"
     },
@@ -1058,7 +1058,7 @@
         "gameCharacterId": 10,
         "characterEventSeq": 4,
         "stampId": 738,
-        "startAt": 1779173999000,
+        "startAt": 1747637999000,
         "unit": "street",
         "assetBundleName": "2-A"
     },
@@ -1071,8 +1071,21 @@
         "gameCharacterId": 14,
         "characterEventSeq": 5,
         "stampId": 740,
-        "startAt": 1780642799000,
+        "startAt": 1749106799000,
         "unit": "theme_park",
         "assetBundleName": "2-B"
+    },
+    {
+        "id": 84,
+        "groupId": 2,
+        "storyType": "normal",
+        "eventId": 133,
+        "honorGroupId": 398,
+        "gameCharacterId": 6,
+        "characterEventSeq": 4,
+        "stampId": 799,
+        "startAt": 1751180399000,
+        "unit": "idol",
+        "assetBundleName": "2-D"
     }
 ]

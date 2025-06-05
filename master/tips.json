@@ -679,6 +679,20 @@
         "toUserRank": 999
     },
     {
+        "id": 140,
+        "title": "FULL COMBO·ALL PERFECT专用演出成绩台词",
+        "description": "达成FULL COMBO·ALL PERFECT时，\n会播放专用演出成绩台词。",
+        "fromUserRank": 1,
+        "toUserRank": 999
+    },
+    {
+        "id": 141,
+        "title": "剧情全部观看",
+        "description": "不使用跳过或快进功能观看剧情，\n根据看完的主线\/活动剧情数量可以获得相应的奖励。",
+        "fromUserRank": 1,
+        "toUserRank": 999
+    },
+    {
         "id": 1041,
         "title": "成为职业乐队意味着",
         "assetbundleName": "comic_0041",

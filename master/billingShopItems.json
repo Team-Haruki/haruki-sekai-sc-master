@@ -131,7 +131,6 @@
         "billableLimitResetIntervalType": "monthly",
         "assetbundleName": "shop_62",
         "resourceBoxId": 90001,
-        "bonusResourceBoxId": 90016,
         "startAt": 1746028800000,
         "endAt": 4083926399000
     },
@@ -219,7 +218,7 @@
         "billableLimitType": "count",
         "billableLimitValue": 1,
         "billableLimitResetIntervalType": "day",
-        "billableLimitResetIntervalValue": 27,
+        "billableLimitResetIntervalValue": 180,
         "assetbundleName": "shop_68",
         "resourceBoxId": 40001
     },
@@ -233,7 +232,7 @@
         "billableLimitType": "count",
         "billableLimitValue": 1,
         "billableLimitResetIntervalType": "day",
-        "billableLimitResetIntervalValue": 27,
+        "billableLimitResetIntervalValue": 180,
         "assetbundleName": "shop_69",
         "resourceBoxId": 40003
     },
@@ -247,7 +246,7 @@
         "billableLimitType": "count",
         "billableLimitValue": 1,
         "billableLimitResetIntervalType": "day",
-        "billableLimitResetIntervalValue": 27,
+        "billableLimitResetIntervalValue": 180,
         "assetbundleName": "shop_70",
         "resourceBoxId": 40002
     },
@@ -1477,7 +1476,7 @@
     },
     {
         "id": 51034,
-        "seq": 300780,
+        "seq": 300080,
         "billingShopItemType": "value_set",
         "name": "Happy！心愿礼包",
         "description": "招募票券×10、心愿结晶×1、音乐卡×50",
@@ -1492,7 +1491,7 @@
     },
     {
         "id": 51035,
-        "seq": 300770,
+        "seq": 300070,
         "billingShopItemType": "value_set",
         "billingProductGroupId": 6233,
         "name": "Funny！综合力礼包",
@@ -1507,7 +1506,7 @@
     },
     {
         "id": 51036,
-        "seq": 300760,
+        "seq": 300060,
         "billingShopItemType": "value_set",
         "billingProductGroupId": 6234,
         "name": "Lucky！招募礼包",
@@ -1522,7 +1521,7 @@
     },
     {
         "id": 51037,
-        "seq": 300750,
+        "seq": 300050,
         "billingShopItemType": "value_set",
         "name": "“花园的蔷薇大小姐”服装礼包",
         "description": "“花园的蔷薇大小姐”全色服装",
@@ -1537,7 +1536,7 @@
     },
     {
         "id": 51038,
-        "seq": 300740,
+        "seq": 300040,
         "billingShopItemType": "value_set",
         "name": "“mode parfum”服装礼包",
         "description": "“mode parfum”全色服装",
@@ -1593,7 +1592,6 @@
         "billableLimitResetIntervalType": "monthly",
         "assetbundleName": "shop_62",
         "resourceBoxId": 90004,
-        "bonusResourceBoxId": 90016,
         "startAt": 1746028800000,
         "endAt": 4083926399000
     },

@@ -14,7 +14,7 @@
         "resourceBoxId": 2,
         "cost": 1,
         "refreshCycle": "weekly",
-        "exchangeLimit": 80
+        "exchangeLimit": 120
     },
     {
         "id": 3,
@@ -41,7 +41,7 @@
         "resourceBoxId": 5,
         "cost": 10,
         "refreshCycle": "weekly",
-        "exchangeLimit": 30
+        "exchangeLimit": 40
     },
     {
         "id": 6,
@@ -68,7 +68,7 @@
         "resourceBoxId": 8,
         "cost": 10,
         "refreshCycle": "weekly",
-        "exchangeLimit": 15
+        "exchangeLimit": 20
     },
     {
         "id": 9,
@@ -86,7 +86,7 @@
         "resourceBoxId": 10,
         "cost": 1,
         "refreshCycle": "weekly",
-        "exchangeLimit": 20
+        "exchangeLimit": 30
     },
     {
         "id": 11,
@@ -95,7 +95,7 @@
         "resourceBoxId": 11,
         "cost": 10,
         "refreshCycle": "weekly",
-        "exchangeLimit": 20
+        "exchangeLimit": 30
     },
     {
         "id": 12,
@@ -219,54 +219,54 @@
         "shiningExchangeType": "shining_exchange",
         "seq": 10,
         "resourceBoxId": 25,
-        "cost": 300,
+        "cost": 150,
         "refreshCycle": "weekly",
-        "exchangeLimit": 1
+        "exchangeLimit": 2
     },
     {
         "id": 26,
         "shiningExchangeType": "shining_exchange",
         "seq": 5,
         "resourceBoxId": 26,
-        "cost": 300,
+        "cost": 150,
         "refreshCycle": "weekly",
-        "exchangeLimit": 1
+        "exchangeLimit": 2
     },
     {
         "id": 27,
         "shiningExchangeType": "shining_exchange",
         "seq": 7,
         "resourceBoxId": 27,
-        "cost": 300,
+        "cost": 150,
         "refreshCycle": "weekly",
-        "exchangeLimit": 1
+        "exchangeLimit": 2
     },
     {
         "id": 28,
         "shiningExchangeType": "shining_exchange",
         "seq": 8,
         "resourceBoxId": 28,
-        "cost": 300,
+        "cost": 150,
         "refreshCycle": "weekly",
-        "exchangeLimit": 1
+        "exchangeLimit": 2
     },
     {
         "id": 29,
         "shiningExchangeType": "shining_exchange",
         "seq": 9,
         "resourceBoxId": 29,
-        "cost": 300,
+        "cost": 150,
         "refreshCycle": "weekly",
-        "exchangeLimit": 1
+        "exchangeLimit": 2
     },
     {
         "id": 30,
         "shiningExchangeType": "shining_exchange",
         "seq": 6,
         "resourceBoxId": 30,
-        "cost": 300,
+        "cost": 150,
         "refreshCycle": "weekly",
-        "exchangeLimit": 1
+        "exchangeLimit": 2
     },
     {
         "id": 31,

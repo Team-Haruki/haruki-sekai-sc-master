@@ -9,16 +9,8 @@
     },
     {
         "cardGroup": "clear",
-        "sekaiEchoCardMissionType": "memory_honor_get",
-        "seq": 4,
-        "sentence": "获得活动称号——“纪念”\n-通过完成称号升级任务获得。",
-        "keyMission": false,
-        "resourceBoxId": 0
-    },
-    {
-        "cardGroup": "clear",
         "sekaiEchoCardMissionType": "music_any_difficulty_full_combo",
-        "seq": 5,
+        "seq": 4,
         "sentence": "在活动创作歌曲的任意难度中达成1次FULL COMBO。",
         "keyMission": false,
         "resourceBoxId": 0
@@ -42,7 +34,7 @@
     {
         "cardGroup": "clear",
         "sekaiEchoCardMissionType": "stamp_get",
-        "seq": 6,
+        "seq": 5,
         "sentence": "获得活动表情\n-通过参加后日谈·演唱会获得。",
         "keyMission": false,
         "resourceBoxId": 0
@@ -75,7 +67,7 @@
         "cardGroup": "complete",
         "sekaiEchoCardMissionType": "shining_honor_get",
         "seq": 3,
-        "sentence": "获得活动称号——“闪耀”\n-通过完成称号升级任务获得。",
+        "sentence": "获得活动称号——“闪耀”\n-通过完成称号升级任务获得。（非回响活动需获取花朵边框称号）",
         "keyMission": false,
         "resourceBoxId": 0
     }

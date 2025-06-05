@@ -1,310 +1,354 @@
 [
     {
         "id": 1,
-        "seq": 1,
+        "seq": 10001,
         "name": "可爱碎片",
         "flavorText": "解锁角色剧情和兑换区域道具所需的道具。\n通过演出等方式获得。",
+        "canUse": false,
         "materialType": "common"
     },
     {
         "id": 2,
-        "seq": 2,
+        "seq": 10002,
         "name": "帅气碎片",
         "flavorText": "解锁角色剧情和兑换区域道具所需的道具。\n通过演出等方式获得。",
+        "canUse": false,
         "materialType": "common"
     },
     {
         "id": 3,
-        "seq": 3,
+        "seq": 10003,
         "name": "纯真碎片",
         "flavorText": "解锁角色剧情和兑换区域道具所需的道具。\n通过演出等方式获得。",
+        "canUse": false,
         "materialType": "common"
     },
     {
         "id": 4,
-        "seq": 4,
+        "seq": 10004,
         "name": "快乐碎片",
         "flavorText": "解锁角色剧情和兑换区域道具所需的道具。\n通过演出等方式获得。",
+        "canUse": false,
         "materialType": "common"
     },
     {
         "id": 5,
-        "seq": 5,
+        "seq": 10005,
         "name": "神秘碎片",
         "flavorText": "解锁角色剧情和兑换区域道具所需的道具。\n通过演出等方式获得。",
+        "canUse": false,
         "materialType": "common"
     },
     {
         "id": 6,
-        "seq": 6,
+        "seq": 10006,
         "name": "可爱晶石",
         "flavorText": "解锁角色剧情和兑换区域道具所需的道具。\n通过演出等方式获得。",
+        "canUse": false,
         "materialType": "common"
     },
     {
         "id": 7,
-        "seq": 7,
+        "seq": 10007,
         "name": "帅气晶石",
         "flavorText": "解锁角色剧情和兑换区域道具所需的道具。\n通过演出等方式获得。",
+        "canUse": false,
         "materialType": "common"
     },
     {
         "id": 8,
-        "seq": 8,
+        "seq": 10008,
         "name": "纯真晶石",
         "flavorText": "解锁角色剧情和兑换区域道具所需的道具。\n通过演出等方式获得。",
+        "canUse": false,
         "materialType": "common"
     },
     {
         "id": 9,
-        "seq": 9,
+        "seq": 10009,
         "name": "快乐晶石",
         "flavorText": "解锁角色剧情和兑换区域道具所需的道具。\n通过演出等方式获得。",
+        "canUse": false,
         "materialType": "common"
     },
     {
         "id": 10,
-        "seq": 10,
+        "seq": 10010,
         "name": "神秘晶石",
         "flavorText": "解锁角色剧情和兑换区域道具所需的道具。\n通过演出等方式获得。",
+        "canUse": false,
         "materialType": "common"
     },
     {
         "id": 11,
-        "seq": 11,
+        "seq": 10011,
         "name": "魔法之布",
         "flavorText": "制作服装所需的道具。\n通过演出等方式获得。",
+        "canUse": false,
         "materialType": "costume"
     },
     {
         "id": 12,
-        "seq": 12,
+        "seq": 10012,
         "name": "魔法之线",
         "flavorText": "制作服装所需的道具。\n通过演出等方式获得。",
+        "canUse": false,
         "materialType": "costume"
     },
     {
         "id": 13,
-        "seq": 13,
+        "seq": 10013,
         "name": "音乐卡",
         "flavorText": "可在音乐商店兑换歌曲。\n通过任务或观看剧情等方式获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 14,
-        "seq": 14,
+        "seq": 10014,
         "name": "奇迹晶石",
         "flavorText": "特训和解锁角色剧情所需的道具。\n通过演出等方式获得。",
+        "canUse": false,
         "materialType": "special_training"
     },
     {
         "id": 15,
-        "seq": 15,
+        "seq": 10101,
         "name": "心愿碎片",
         "flavorText": "技能升级所需的道具。\n可在休息室用★2、★3成员兑换获得。",
+        "canUse": false,
         "materialType": "master_lesson"
     },
     {
         "id": 16,
-        "seq": 16,
+        "seq": 10201,
         "name": "心愿结晶",
         "flavorText": "技能升级所需的道具。\n可在休息室用★4成员兑换获得。",
+        "canUse": false,
         "materialType": "master_lesson"
     },
     {
         "id": 17,
-        "seq": 17,
+        "seq": 10015,
         "name": "奇异种子",
         "flavorText": "可交给园艺社团兑换区域道具。\n通过演出等方式获得。",
+        "canUse": false,
         "materialType": "common"
     },
     {
         "id": 18,
-        "seq": 18,
+        "seq": 10302,
         "name": "一歌的歌手卡",
         "flavorText": "可用于兑换一歌的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 19,
-        "seq": 19,
+        "seq": 10303,
         "name": "咲希的歌手卡",
         "flavorText": "可用于兑换咲希的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 20,
-        "seq": 20,
+        "seq": 10304,
         "name": "穗波的歌手卡",
         "flavorText": "可用于兑换穗波的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 21,
-        "seq": 21,
+        "seq": 10305,
         "name": "志步的歌手卡",
         "flavorText": "可用于兑换志步的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 22,
-        "seq": 22,
+        "seq": 10306,
         "name": "实乃理的歌手卡",
         "flavorText": "可用于兑换实乃理的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 23,
-        "seq": 23,
+        "seq": 10307,
         "name": "遥的歌手卡",
         "flavorText": "可用于兑换遥的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 24,
-        "seq": 24,
+        "seq": 10308,
         "name": "爱莉的歌手卡",
         "flavorText": "可用于兑换爱莉的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 25,
-        "seq": 25,
+        "seq": 10309,
         "name": "雫的歌手卡",
         "flavorText": "可用于兑换雫的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 26,
-        "seq": 26,
+        "seq": 10310,
         "name": "心羽的歌手卡",
         "flavorText": "可用于兑换心羽的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 27,
-        "seq": 27,
+        "seq": 10311,
         "name": "杏的歌手卡",
         "flavorText": "可用于兑换杏的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 28,
-        "seq": 28,
+        "seq": 10312,
         "name": "彰人的歌手卡",
         "flavorText": "可用于兑换彰人的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 29,
-        "seq": 29,
+        "seq": 10313,
         "name": "冬弥的歌手卡",
         "flavorText": "可用于兑换冬弥的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 30,
-        "seq": 30,
+        "seq": 10314,
         "name": "司的歌手卡",
         "flavorText": "可用于兑换司的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 31,
-        "seq": 31,
+        "seq": 10315,
         "name": "笑梦的歌手卡",
         "flavorText": "可用于兑换笑梦的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 32,
-        "seq": 32,
+        "seq": 10316,
         "name": "宁宁的歌手卡",
         "flavorText": "可用于兑换宁宁的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 33,
-        "seq": 33,
+        "seq": 10317,
         "name": "类的歌手卡",
         "flavorText": "可用于兑换类的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 34,
-        "seq": 34,
+        "seq": 10318,
         "name": "奏的歌手卡",
         "flavorText": "可用于兑换奏的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 35,
-        "seq": 35,
+        "seq": 10319,
         "name": "真冬的歌手卡",
         "flavorText": "可用于兑换真冬的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 36,
-        "seq": 36,
+        "seq": 10320,
         "name": "绘名的歌手卡",
         "flavorText": "可用于兑换绘名的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 37,
-        "seq": 37,
+        "seq": 10321,
         "name": "瑞希的歌手卡",
         "flavorText": "可用于兑换瑞希的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 38,
-        "seq": 38,
+        "seq": 10322,
         "name": "初音未来的歌手卡",
         "flavorText": "可用于兑换初音未来的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 39,
-        "seq": 39,
+        "seq": 10323,
         "name": "镜音铃的歌手卡",
         "flavorText": "可用于兑换镜音铃的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 40,
-        "seq": 40,
+        "seq": 10324,
         "name": "镜音连的歌手卡",
         "flavorText": "可用于兑换镜音连的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 41,
-        "seq": 41,
+        "seq": 10325,
         "name": "巡音流歌的歌手卡",
         "flavorText": "可用于兑换巡音流歌的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 42,
-        "seq": 42,
+        "seq": 10326,
         "name": "MEIKO的歌手卡",
         "flavorText": "可用于兑换MEIKO的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 43,
-        "seq": 43,
+        "seq": 10327,
         "name": "KAITO的歌手卡",
         "flavorText": "可用于兑换KAITO的Another Vocal ver.歌曲。\n通过角色等级奖励获得。",
+        "canUse": false,
         "materialType": "music"
     },
     {
         "id": 44,
-        "seq": 44,
+        "seq": 10015,
         "name": "表情兑换券",
         "flavorText": "可在表情商店兑换表情。\n通过角色等级奖励等方式获得。",
+        "canUse": false,
         "materialType": "common"
     },
     {
@@ -312,6 +356,7 @@
         "seq": 45,
         "name": "★3成员自选券",
         "flavorText": "可在★3券兑换所里兑换喜欢的★3成员。",
+        "canUse": false,
         "materialType": "card_ticket"
     },
     {
@@ -319,62 +364,71 @@
         "seq": 46,
         "name": "★4成员自选券",
         "flavorText": "可在★4券兑换所里兑换喜欢的★4成员。",
+        "canUse": false,
         "materialType": "card_ticket"
     },
     {
         "id": 47,
-        "seq": 47,
+        "seq": 10501,
         "name": "招募贴纸兑换券",
-        "flavorText": "可兑换喜欢的招募贴纸。\n在招募贴纸兑换所中获得。",
+        "flavorText": "可和普通招募贴纸组合用于兑换常规成员。",
+        "canUse": false,
         "materialType": "gacha_ceil_ticket"
     },
     {
         "id": 48,
-        "seq": 48,
+        "seq": 10502,
         "name": "限定招募贴纸兑换券",
         "flavorText": "可和限定招募贴纸组合用于兑换限时、缤纷节日限定、常规成员。",
+        "canUse": false,
         "materialType": "gacha_ceil_ticket"
     },
     {
         "id": 49,
-        "seq": 49,
+        "seq": 10301,
         "name": "歌手卡兑换券",
         "flavorText": "可在歌手卡兑换所兑换所有角色的歌手卡。",
+        "canUse": false,
         "materialType": "vocal_card_ticket"
     },
     {
         "id": 50,
-        "seq": 50,
-        "name": "Leo\/need\n歌手卡兑换券",
+        "seq": 10328,
+        "name": "Leo\/need\n 歌手卡兑换券",
         "flavorText": "可在歌手卡兑换所兑换该组合角色的歌手卡。",
+        "canUse": false,
         "materialType": "vocal_card_ticket"
     },
     {
         "id": 51,
-        "seq": 51,
-        "name": "MORE MORE JUMP！\n歌手卡兑换券",
+        "seq": 10329,
+        "name": "MORE MORE JUMP！\n 歌手卡兑换券",
         "flavorText": "可在歌手卡兑换所兑换该组合角色的歌手卡。",
+        "canUse": false,
         "materialType": "vocal_card_ticket"
     },
     {
         "id": 52,
-        "seq": 52,
-        "name": "Vivid BAD SQUAD\n歌手卡兑换券",
+        "seq": 10330,
+        "name": "Vivid BAD SQUAD\n 歌手卡兑换券",
         "flavorText": "可在歌手卡兑换所兑换该组合角色的歌手卡。",
+        "canUse": false,
         "materialType": "vocal_card_ticket"
     },
     {
         "id": 53,
-        "seq": 53,
-        "name": "Wonderlands×Showtime\n歌手卡兑换券",
+        "seq": 10331,
+        "name": "Wonderlands×Showtime\n 歌手卡兑换券",
         "flavorText": "可在歌手卡兑换所兑换该组合角色的歌手卡。",
+        "canUse": false,
         "materialType": "vocal_card_ticket"
     },
     {
         "id": 54,
-        "seq": 54,
-        "name": "25点，Nightcord见。\n歌手卡兑换券",
+        "seq": 10332,
+        "name": "25点，Nightcord见。\n 歌手卡兑换券",
         "flavorText": "可在歌手卡兑换所兑换该组合角色的歌手卡。",
+        "canUse": false,
         "materialType": "vocal_card_ticket"
     },
     {
@@ -382,6 +436,7 @@
         "seq": 55,
         "name": "新手限定★4自选券",
         "flavorText": "[新手限定]可在★4成员兑换所里兑换喜欢的★4成员。",
+        "canUse": false,
         "materialType": "card_ticket"
     },
     {
@@ -389,13 +444,15 @@
         "seq": 56,
         "name": "[新春2023]★3成员自选券",
         "flavorText": "[新春2023]可在★3成员兑换所里兑换喜欢的★3成员。",
+        "canUse": false,
         "materialType": "card_ticket"
     },
     {
         "id": 57,
-        "seq": 17,
+        "seq": 10016,
         "name": "心愿之露",
         "flavorText": "将区域道具提升到特定等级所需的道具。",
+        "canUse": false,
         "materialType": "common"
     },
     {
@@ -403,6 +460,7 @@
         "seq": 57,
         "name": "★4成员自选券",
         "flavorText": "可在★4券兑换所里兑换喜欢的★4成员。",
+        "canUse": false,
         "materialType": "card_ticket"
     },
     {
@@ -410,160 +468,915 @@
         "seq": 58,
         "name": "★4成员自选券",
         "flavorText": "可在★4券兑换所里兑换喜欢的★4成员。",
+        "canUse": false,
         "materialType": "card_ticket"
     },
     {
         "id": 60,
-        "seq": 60,
+        "seq": 10401,
         "name": "一歌的心愿小瓶",
         "flavorText": "装满了一歌心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了一歌心愿的小瓶。\n可获得一歌的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
         "materialType": "character_rank_exp_ticket"
     },
     {
         "id": 61,
-        "seq": 61,
+        "seq": 10402,
         "name": "咲希的心愿小瓶",
         "flavorText": "装满了咲希心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了咲希心愿的小瓶。\n可获得咲希的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
         "materialType": "character_rank_exp_ticket"
     },
     {
         "id": 62,
-        "seq": 62,
+        "seq": 10403,
         "name": "穗波的心愿小瓶",
         "flavorText": "装满了穗波心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了穗波心愿的小瓶。\n可获得穗波的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
         "materialType": "character_rank_exp_ticket"
     },
     {
         "id": 63,
-        "seq": 63,
+        "seq": 10404,
         "name": "志步的心愿小瓶",
         "flavorText": "装满了志步心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了志步心愿的小瓶。\n可获得志步的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
         "materialType": "character_rank_exp_ticket"
     },
     {
         "id": 64,
-        "seq": 64,
+        "seq": 10405,
         "name": "实乃理的心愿小瓶",
         "flavorText": "装满了实乃理心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了实乃理心愿的小瓶。\n可获得实乃理的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
         "materialType": "character_rank_exp_ticket"
     },
     {
         "id": 65,
-        "seq": 65,
+        "seq": 10406,
         "name": "遥的心愿小瓶",
         "flavorText": "装满了遥心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了遥心愿的小瓶。\n可获得遥的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
         "materialType": "character_rank_exp_ticket"
     },
     {
         "id": 66,
-        "seq": 66,
+        "seq": 10407,
         "name": "爱莉的心愿小瓶",
         "flavorText": "装满了爱莉心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了爱莉心愿的小瓶。\n可获得爱莉的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
         "materialType": "character_rank_exp_ticket"
     },
     {
         "id": 67,
-        "seq": 67,
+        "seq": 10408,
         "name": "雫的心愿小瓶",
         "flavorText": "装满了雫心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了雫心愿的小瓶。\n可获得雫的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
         "materialType": "character_rank_exp_ticket"
     },
     {
         "id": 68,
-        "seq": 68,
+        "seq": 10409,
         "name": "心羽的心愿小瓶",
         "flavorText": "装满了心羽心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了心羽心愿的小瓶。\n可获得心羽的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
         "materialType": "character_rank_exp_ticket"
     },
     {
         "id": 69,
-        "seq": 69,
+        "seq": 10410,
         "name": "杏的心愿小瓶",
         "flavorText": "装满了杏心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了杏心愿的小瓶。\n可获得杏的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
         "materialType": "character_rank_exp_ticket"
     },
     {
         "id": 70,
-        "seq": 70,
+        "seq": 10411,
         "name": "彰人的心愿小瓶",
         "flavorText": "装满了彰人心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了彰人心愿的小瓶。\n可获得彰人的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
         "materialType": "character_rank_exp_ticket"
     },
     {
         "id": 71,
-        "seq": 71,
+        "seq": 10412,
         "name": "冬弥的心愿小瓶",
         "flavorText": "装满了冬弥心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了冬弥心愿的小瓶。\n可获得冬弥的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
         "materialType": "character_rank_exp_ticket"
     },
     {
         "id": 72,
-        "seq": 72,
+        "seq": 10413,
         "name": "司的心愿小瓶",
         "flavorText": "装满了司心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了司心愿的小瓶。\n可获得司的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
         "materialType": "character_rank_exp_ticket"
     },
     {
         "id": 73,
-        "seq": 73,
+        "seq": 10414,
         "name": "笑梦的心愿小瓶",
         "flavorText": "装满了笑梦心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了笑梦心愿的小瓶。\n可获得笑梦的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
         "materialType": "character_rank_exp_ticket"
     },
     {
         "id": 74,
-        "seq": 74,
+        "seq": 10415,
         "name": "宁宁的心愿小瓶",
         "flavorText": "装满了宁宁心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了宁宁心愿的小瓶。\n可获得宁宁的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
         "materialType": "character_rank_exp_ticket"
     },
     {
         "id": 75,
-        "seq": 75,
+        "seq": 10416,
         "name": "类的心愿小瓶",
         "flavorText": "装满了类心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了类心愿的小瓶。\n可获得类的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
         "materialType": "character_rank_exp_ticket"
     },
     {
         "id": 76,
-        "seq": 76,
+        "seq": 10417,
         "name": "奏的心愿小瓶",
         "flavorText": "装满了奏心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了奏心愿的小瓶。\n可获得奏的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
         "materialType": "character_rank_exp_ticket"
     },
     {
         "id": 77,
-        "seq": 77,
+        "seq": 10418,
         "name": "真冬的心愿小瓶",
         "flavorText": "装满了真冬心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了真冬心愿的小瓶。\n可获得真冬的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
         "materialType": "character_rank_exp_ticket"
     },
     {
         "id": 78,
-        "seq": 78,
+        "seq": 10419,
         "name": "绘名的心愿小瓶",
         "flavorText": "装满了绘名心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了绘名心愿的小瓶。\n可获得绘名的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
         "materialType": "character_rank_exp_ticket"
     },
     {
         "id": 79,
-        "seq": 79,
+        "seq": 10420,
         "name": "瑞希的心愿小瓶",
         "flavorText": "装满了瑞希心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了瑞希心愿的小瓶。\n可获得瑞希的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 80,
+        "seq": 10421,
+        "name": "初音未来的心愿小瓶",
+        "flavorText": "装满了初音未来心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了未来心愿的小瓶。\n可获得未来的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 81,
+        "seq": 10422,
+        "name": "镜音铃的心愿小瓶",
+        "flavorText": "装满了镜音铃心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了铃心愿的小瓶。\n可获得铃的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 82,
+        "seq": 10423,
+        "name": "镜音连的心愿小瓶",
+        "flavorText": "装满了镜音连心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了连心愿的小瓶。\n可获得连的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 83,
+        "seq": 10424,
+        "name": "巡音流歌的心愿小瓶",
+        "flavorText": "装满了巡音流歌心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了流歌心愿的小瓶。\n可获得流歌的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 84,
+        "seq": 10425,
+        "name": "MEIKO的心愿小瓶",
+        "flavorText": "装满了MEIKO心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了MEIKO心愿的小瓶。\n可获得MEIKO的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 85,
+        "seq": 10426,
+        "name": "KAITO的心愿小瓶",
+        "flavorText": "装满了KAITO心愿的小瓶。\n说不定到了某一天可以在「世界」中使用。",
+        "flavorText2": "装满了KAITO心愿的小瓶。\n可获得KAITO的1角色等级经验值。",
+        "changeFlavorTextAt": 1756468800000,
+        "canUse": true,
         "materialType": "character_rank_exp_ticket"
     },
     {
         "id": 86,
-        "seq": 86,
+        "seq": 10017,
         "name": "角色剧情券",
         "flavorText": "当角色剧情解锁时，可代替碎片或晶石使用的票券。可在水晶商店获得。",
+        "canUse": false,
         "materialType": "card_episode_release_ticket"
     },
     {
         "id": 87,
-        "seq": 87,
+        "seq": 10601,
         "name": "3900's券",
         "flavorText": "可在3900's兑换所里兑换奖励。\n使用期限：2025\/05\/14 23:59",
+        "canUse": false,
+        "materialType": "common"
+    },
+    {
+        "id": 88,
+        "seq": 20001,
+        "name": "“连线演唱会 RESONANCE BEATS!!”连线演唱会ver. Vocal兑换卡",
+        "flavorText": "可兑换“连线演唱会 Leo\/need × Vivid BAD SQUAD RESONANCE BEATS!!”公演内所展示歌曲的连线演唱会ver. Vocal。",
+        "canUse": false,
+        "materialType": "auto_exchange_music_vocal_ticket"
+    },
+    {
+        "id": 89,
+        "seq": 10602,
+        "name": "白色花瓣",
+        "flavorText": "由所有虚拟歌手的心愿绽放出的花朵形成的花瓣。可在幸运之花巡游兑换所使用。\n使用期限：2025\/11\/14 23:59",
+        "canUse": false,
+        "materialType": "common"
+    },
+    {
+        "id": 90,
+        "seq": 10603,
+        "name": "蓝色花瓣",
+        "flavorText": "由Leo\/need所有成员的心愿绽放出的花朵形成的花瓣。可在幸运之花巡游兑换所使用。\n使用期限：2025\/11\/14 23:59",
+        "canUse": false,
+        "materialType": "common"
+    },
+    {
+        "id": 91,
+        "seq": 10604,
+        "name": "绿色花瓣",
+        "flavorText": "由MORE MORE JUMP！所有成员的心愿绽放出的花朵形成的花瓣。可在幸运之花巡游兑换所使用。\n使用期限：2025\/11\/14 23:59",
+        "canUse": false,
+        "materialType": "common"
+    },
+    {
+        "id": 92,
+        "seq": 10605,
+        "name": "红色花瓣",
+        "flavorText": "由Vivid BAD SQUAD所有成员的心愿绽放出的花朵形成的花瓣。可在幸运之花巡游兑换所使用。\n使用期限：2025\/11\/14 23:59",
+        "canUse": false,
+        "materialType": "common"
+    },
+    {
+        "id": 93,
+        "seq": 10606,
+        "name": "橙色花瓣",
+        "flavorText": "由Wonderlands×Showtime所有成员的心愿绽放出的花朵形成的花瓣。可在幸运之花巡游兑换所使用。\n使用期限：2025\/11\/14 23:59",
+        "canUse": false,
+        "materialType": "common"
+    },
+    {
+        "id": 94,
+        "seq": 10607,
+        "name": "紫色花瓣",
+        "flavorText": "由25点，Nightcord见。所有成员的心愿绽放出的花朵形成的花瓣。可在幸运之花巡游兑换所使用。\n使用期限：2025\/11\/14 23:59",
+        "canUse": false,
+        "materialType": "common"
+    },
+    {
+        "id": 95,
+        "seq": 10608,
+        "name": "白色幸运之花",
+        "flavorText": "由所有虚拟歌手的心愿绽放出的花朵。可在幸运之花巡游兑换所使用。\n使用期限：2025\/11\/14 23:59",
+        "canUse": false,
+        "materialType": "common"
+    },
+    {
+        "id": 96,
+        "seq": 10609,
+        "name": "蓝色幸运之花",
+        "flavorText": "由Leo\/need所有成员的心愿绽放出的花朵。可在幸运之花巡游兑换所使用。\n使用期限：2025\/11\/14 23:59",
+        "canUse": false,
+        "materialType": "common"
+    },
+    {
+        "id": 97,
+        "seq": 10610,
+        "name": "绿色幸运之花",
+        "flavorText": "由MORE MORE JUMP！所有成员的心愿绽放出的花朵。可在幸运之花巡游兑换所使用。\n使用期限：2025\/11\/14 23:59",
+        "canUse": false,
+        "materialType": "common"
+    },
+    {
+        "id": 98,
+        "seq": 10611,
+        "name": "红色幸运之花",
+        "flavorText": "由Vivid BAD SQUAD所有成员的心愿绽放出的花朵。可在幸运之花巡游兑换所使用。\n使用期限：2025\/11\/14 23:59",
+        "canUse": false,
+        "materialType": "common"
+    },
+    {
+        "id": 99,
+        "seq": 10612,
+        "name": "橙色幸运之花",
+        "flavorText": "由Wonderlands×Showtime所有成员的心愿绽放出的花朵。可在幸运之花巡游兑换所使用。\n使用期限：2025\/11\/14 23:59",
+        "canUse": false,
+        "materialType": "common"
+    },
+    {
+        "id": 100,
+        "seq": 10613,
+        "name": "紫色幸运之花",
+        "flavorText": "由25点，Nightcord见。所有成员的心愿绽放出的花朵。可在幸运之花巡游兑换所使用。\n使用期限：2025\/11\/14 23:59",
+        "canUse": false,
+        "materialType": "common"
+    },
+    {
+        "id": 101,
+        "seq": 10102,
+        "name": "一歌的心愿碎片",
+        "flavorText": "是提升一歌卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 102,
+        "seq": 10103,
+        "name": "咲希的心愿碎片",
+        "flavorText": "是提升一歌卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 103,
+        "seq": 10104,
+        "name": "穗波的心愿碎片",
+        "flavorText": "是提升咲希卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 104,
+        "seq": 10105,
+        "name": "志步的心愿碎片",
+        "flavorText": "是提升穗波卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 105,
+        "seq": 10106,
+        "name": "实乃理的心愿碎片",
+        "flavorText": "是提升志步卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 106,
+        "seq": 10107,
+        "name": "遥的心愿碎片",
+        "flavorText": "是提升实乃理卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 107,
+        "seq": 10108,
+        "name": "爱莉的心愿碎片",
+        "flavorText": "是提升遥卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 108,
+        "seq": 10109,
+        "name": "雫的心愿碎片",
+        "flavorText": "是提升爱莉卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 109,
+        "seq": 10110,
+        "name": "心羽的心愿碎片",
+        "flavorText": "是提升雫卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 110,
+        "seq": 10111,
+        "name": "杏的心愿碎片",
+        "flavorText": "是提升心羽卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 111,
+        "seq": 10112,
+        "name": "彰人的心愿碎片",
+        "flavorText": "是提升杏卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 112,
+        "seq": 10113,
+        "name": "冬弥的心愿碎片",
+        "flavorText": "是提升彰人卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 113,
+        "seq": 10114,
+        "name": "司的心愿碎片",
+        "flavorText": "是提升冬弥卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 114,
+        "seq": 10115,
+        "name": "笑梦的心愿碎片",
+        "flavorText": "是提升司卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 115,
+        "seq": 10116,
+        "name": "宁宁的心愿碎片",
+        "flavorText": "是提升笑梦卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 116,
+        "seq": 10117,
+        "name": "类的心愿碎片",
+        "flavorText": "是提升宁宁卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 117,
+        "seq": 10118,
+        "name": "奏的心愿碎片",
+        "flavorText": "是提升类卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 118,
+        "seq": 10119,
+        "name": "真冬的心愿碎片",
+        "flavorText": "是提升奏卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 119,
+        "seq": 10120,
+        "name": "绘名的心愿碎片",
+        "flavorText": "是提升真冬卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 120,
+        "seq": 10121,
+        "name": "瑞希的心愿碎片",
+        "flavorText": "是提升绘名卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 121,
+        "seq": 10122,
+        "name": "初音未来的心愿碎片",
+        "flavorText": "是提升瑞希卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 122,
+        "seq": 10123,
+        "name": "镜音铃的心愿碎片",
+        "flavorText": "是提升未来卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 123,
+        "seq": 10124,
+        "name": "镜音连的心愿碎片",
+        "flavorText": "是提升铃卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 124,
+        "seq": 10125,
+        "name": "巡音流歌的心愿碎片",
+        "flavorText": "是提升连卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 125,
+        "seq": 10126,
+        "name": "MEIKO的心愿碎片",
+        "flavorText": "是提升流歌卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 126,
+        "seq": 10127,
+        "name": "KAITO的心愿碎片",
+        "flavorText": "是提升MEIKO卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 127,
+        "seq": 10128,
+        "name": "Leo\/need的心愿碎片",
+        "flavorText": "是提升KAITO卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 128,
+        "seq": 10129,
+        "name": "MORE MORE JUMP！的心愿碎片",
+        "flavorText": "是提升MORE MORE JUMP！成员相关卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 129,
+        "seq": 10130,
+        "name": "Vivid BAD SQUAD的心愿碎片",
+        "flavorText": "是提升Vivid BAD SQUAD成员相关卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 130,
+        "seq": 10131,
+        "name": "Wonderlands×Showtime的心愿碎片",
+        "flavorText": "是提升Wonderlands×Showtime成员相关卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 131,
+        "seq": 10132,
+        "name": "25点，Nightcord见。的心愿碎片",
+        "flavorText": "是提升25点，Nightcord见。成员相关卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 132,
+        "seq": 10133,
+        "name": "虚拟歌手的心愿碎片",
+        "flavorText": "是提升虚拟歌手成员相关卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 133,
+        "seq": 10202,
+        "name": "一歌的心愿结晶",
+        "flavorText": "是提升一歌卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 134,
+        "seq": 10203,
+        "name": "咲希的心愿结晶",
+        "flavorText": "是提升一歌卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 135,
+        "seq": 10204,
+        "name": "穗波的心愿结晶",
+        "flavorText": "是提升咲希卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 136,
+        "seq": 10205,
+        "name": "志步的心愿结晶",
+        "flavorText": "是提升穗波卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 137,
+        "seq": 10206,
+        "name": "实乃理的心愿结晶",
+        "flavorText": "是提升志步卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 138,
+        "seq": 10207,
+        "name": "遥的心愿结晶",
+        "flavorText": "是提升实乃理卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 139,
+        "seq": 10208,
+        "name": "爱莉的心愿结晶",
+        "flavorText": "是提升遥卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 140,
+        "seq": 10209,
+        "name": "雫的心愿结晶",
+        "flavorText": "是提升爱莉卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 141,
+        "seq": 10210,
+        "name": "心羽的心愿结晶",
+        "flavorText": "是提升雫卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 142,
+        "seq": 10211,
+        "name": "杏的心愿结晶",
+        "flavorText": "是提升心羽卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 143,
+        "seq": 10212,
+        "name": "彰人的心愿结晶",
+        "flavorText": "是提升杏卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 144,
+        "seq": 10213,
+        "name": "冬弥的心愿结晶",
+        "flavorText": "是提升彰人卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 145,
+        "seq": 10214,
+        "name": "司的心愿结晶",
+        "flavorText": "是提升冬弥卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 146,
+        "seq": 10215,
+        "name": "笑梦的心愿结晶",
+        "flavorText": "是提升司卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 147,
+        "seq": 10216,
+        "name": "宁宁的心愿结晶",
+        "flavorText": "是提升笑梦卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 148,
+        "seq": 10217,
+        "name": "类的心愿结晶",
+        "flavorText": "是提升宁宁卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 149,
+        "seq": 10218,
+        "name": "奏的心愿结晶",
+        "flavorText": "是提升类卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 150,
+        "seq": 10219,
+        "name": "真冬的心愿结晶",
+        "flavorText": "是提升奏卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 151,
+        "seq": 10220,
+        "name": "绘名的心愿结晶",
+        "flavorText": "是提升真冬卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 152,
+        "seq": 10221,
+        "name": "瑞希的心愿结晶",
+        "flavorText": "是提升绘名卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 153,
+        "seq": 10222,
+        "name": "初音未来的心愿结晶",
+        "flavorText": "是提升瑞希卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 154,
+        "seq": 10223,
+        "name": "镜音铃的心愿结晶",
+        "flavorText": "是提升未来卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 155,
+        "seq": 10224,
+        "name": "镜音连的心愿结晶",
+        "flavorText": "是提升铃卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 156,
+        "seq": 10225,
+        "name": "巡音流歌的心愿结晶",
+        "flavorText": "是提升连卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 157,
+        "seq": 10226,
+        "name": "MEIKO的心愿结晶",
+        "flavorText": "是提升流歌卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 158,
+        "seq": 10227,
+        "name": "KAITO的心愿结晶",
+        "flavorText": "是提升MEIKO卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 159,
+        "seq": 10228,
+        "name": "Leo\/need的心愿结晶",
+        "flavorText": "是提升KAITO卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 160,
+        "seq": 10229,
+        "name": "MORE MORE JUMP！的心愿结晶",
+        "flavorText": "是提升MORE MORE JUMP！成员相关卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 161,
+        "seq": 10230,
+        "name": "Vivid BAD SQUAD的心愿结晶",
+        "flavorText": "是提升Vivid BAD SQUAD成员相关卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 162,
+        "seq": 10231,
+        "name": "Wonderlands×Showtime的心愿结晶",
+        "flavorText": "是提升Wonderlands×Showtime成员相关卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 163,
+        "seq": 10232,
+        "name": "25点，Nightcord见。的心愿结晶",
+        "flavorText": "是提升25点，Nightcord见。成员相关卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 164,
+        "seq": 10233,
+        "name": "虚拟歌手的心愿结晶",
+        "flavorText": "是提升虚拟歌手成员相关卡牌的技能等级所需的道具。",
+        "canUse": false,
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 165,
+        "seq": 165,
+        "name": "纪念★4成员票券",
+        "flavorText": "可在纪念★4成员票券兑换所里兑换喜欢的★4成员。",
+        "canUse": false,
+        "materialType": "card_ticket"
+    },
+    {
+        "id": 166,
+        "seq": 10614,
+        "name": "百变幸运之花\n",
+        "flavorText": "由所有人的心愿绽放出的花朵。可在幸运之花巡游兑换所使用。\n使用期限：2025\/11\/14 23:59",
+        "canUse": false,
         "materialType": "common"
     },
     {
@@ -571,6 +1384,7 @@
         "seq": 88,
         "name": "闪耀徽章",
         "flavorText": "可在闪耀徽章兑换所里兑换道具。",
+        "canUse": false,
         "materialType": "common"
     },
     {
@@ -578,6 +1392,7 @@
         "seq": 1001,
         "name": "缤纷通行证～BASIC～兑换券",
         "flavorText": "缤纷通行证～BASIC～兑换券",
+        "canUse": false,
         "materialType": "web_ticket"
     },
     {
@@ -585,6 +1400,7 @@
         "seq": 1002,
         "name": "白金任务通行证・进阶版兑换券",
         "flavorText": "白金任务通行证・进阶版兑换券",
+        "canUse": false,
         "materialType": "web_ticket"
     },
     {
@@ -592,6 +1408,7 @@
         "seq": 1004,
         "name": "缤纷通行证～PRECIOUS～兑换券",
         "flavorText": "缤纷通行证～PRECIOUS～兑换券",
+        "canUse": false,
         "materialType": "web_ticket"
     },
     {
@@ -599,6 +1416,7 @@
         "seq": 1005,
         "name": "白金任务通行证兑换券",
         "flavorText": "白金任务通行证兑换券",
+        "canUse": false,
         "materialType": "web_ticket"
     },
     {
@@ -606,6 +1424,7 @@
         "seq": 1006,
         "name": "白金任务通行证・升级包兑换券",
         "flavorText": "白金任务通行证・升级包兑换券",
+        "canUse": false,
         "materialType": "web_ticket"
     },
     {
@@ -613,6 +1432,7 @@
         "seq": 1007,
         "name": "缤纷通行证～DELUXE～兑换券",
         "flavorText": "缤纷通行证～DELUXE～兑换券",
+        "canUse": false,
         "materialType": "web_ticket"
     },
     {
@@ -620,6 +1440,7 @@
         "seq": 89,
         "name": "★2成员自选券",
         "flavorText": "可在成员兑换所里兑换喜欢的★2成员。",
+        "canUse": false,
         "materialType": "card_ticket"
     },
     {
@@ -627,6 +1448,7 @@
         "seq": 90,
         "name": "回响点数",
         "flavorText": "可用于升级回响称号",
+        "canUse": false,
         "materialType": "common"
     }
 ]

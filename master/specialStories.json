@@ -655,5 +655,173 @@
                 "rewardResourceBoxIds": []
             }
         ]
+    },
+    {
+        "id": 41,
+        "assetbundleName": "connect-live-resonance-beats-story",
+        "startAt": 4085092800000,
+        "endAt": 4085206199000,
+        "episodes": [
+            {
+                "id": 46,
+                "specialStoryId": 41,
+                "episodeNo": 1,
+                "title": "连线演唱会 RESONANCE BEATS!! 演出前一天剧情",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_connect_live_resonance-beats",
+                "scenarioId": "story_connect_live_resonance-beats_01",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "assetbundleName": "special-story",
+        "startAt": 1758729600000,
+        "endAt": 1758815999000,
+        "episodes": [
+            {
+                "id": 47,
+                "specialStoryId": 42,
+                "episodeNo": 1,
+                "title": "4周年跨年倒计时动画01",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_4th_countdown",
+                "scenarioId": "4th_countdown_01",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "assetbundleName": "special-story",
+        "startAt": 1758816000000,
+        "endAt": 1758902399000,
+        "episodes": [
+            {
+                "id": 48,
+                "specialStoryId": 43,
+                "episodeNo": 1,
+                "title": "4周年跨年倒计时动画02",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_4th_countdown",
+                "scenarioId": "4th_countdown_02",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "assetbundleName": "special-story",
+        "startAt": 1758902400000,
+        "endAt": 1758988799000,
+        "episodes": [
+            {
+                "id": 49,
+                "specialStoryId": 44,
+                "episodeNo": 1,
+                "title": "4周年跨年倒计时动画03",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_4th_countdown",
+                "scenarioId": "4th_countdown_03",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "assetbundleName": "special-story",
+        "startAt": 1758988800000,
+        "endAt": 1759075199000,
+        "episodes": [
+            {
+                "id": 50,
+                "specialStoryId": 45,
+                "episodeNo": 1,
+                "title": "4周年跨年倒计时动画04",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_4th_countdown",
+                "scenarioId": "4th_countdown_04",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "assetbundleName": "special-story",
+        "startAt": 1759075200000,
+        "endAt": 1759161599000,
+        "episodes": [
+            {
+                "id": 51,
+                "specialStoryId": 46,
+                "episodeNo": 1,
+                "title": "4周年跨年倒计时动画05",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_4th_countdown",
+                "scenarioId": "4th_countdown_05",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "assetbundleName": "special-story",
+        "startAt": 1759161600000,
+        "endAt": 1759247999000,
+        "episodes": [
+            {
+                "id": 52,
+                "specialStoryId": 47,
+                "episodeNo": 1,
+                "title": "4周年跨年倒计时动画06",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_4th_countdown",
+                "scenarioId": "4th_countdown_06",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "assetbundleName": "connect-live-4th-anniversary-story",
+        "startAt": 1759647600000,
+        "endAt": 1759753799000,
+        "episodes": [
+            {
+                "id": 53,
+                "specialStoryId": 48,
+                "episodeNo": 1,
+                "title": "连线演唱会 4th ANNIVERSARY Brilliant Stage演出前一天剧情",
+                "specialStoryEpisodeType": "none",
+                "assetbundleName": "story_connect_live_4th_anniversary",
+                "scenarioId": "story_connect_live_4th_anniversary_01",
+                "releaseConditionId": 1,
+                "isAbleSkip": true,
+                "isActionSetRefresh": false,
+                "rewardResourceBoxIds": []
+            }
+        ]
     }
 ]
