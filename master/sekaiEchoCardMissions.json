@@ -1,74 +1,74 @@
 [
-    {
-        "cardGroup": "clear",
-        "sekaiEchoCardMissionType": "card_2_3_get",
-        "seq": 3,
-        "sentence": "获得对应活动的★2和★3成员 \n-可通过兑换所\/招募获得，在［剧情］>［角色剧情］可查看活动卡牌。",
-        "keyMission": false,
-        "resourceBoxId": 0
-    },
-    {
-        "cardGroup": "clear",
-        "sekaiEchoCardMissionType": "music_any_difficulty_full_combo",
-        "seq": 4,
-        "sentence": "在活动创作歌曲的任意难度中达成1次FULL COMBO。",
-        "keyMission": false,
-        "resourceBoxId": 0
-    },
-    {
-        "cardGroup": "clear",
-        "sekaiEchoCardMissionType": "pass_all_mission",
-        "seq": 1,
-        "sentence": "完成以下所有任务即可获得丰厚奖励！",
-        "keyMission": true,
-        "resourceBoxId": 22222221
-    },
-    {
-        "cardGroup": "clear",
-        "sekaiEchoCardMissionType": "read_event_story",
-        "seq": 2,
-        "sentence": "不使用跳过或快进功能，观看全部活动剧情。",
-        "keyMission": false,
-        "resourceBoxId": 0
-    },
-    {
-        "cardGroup": "clear",
-        "sekaiEchoCardMissionType": "stamp_get",
-        "seq": 5,
-        "sentence": "获得活动表情\n-通过参加后日谈·演唱会获得。",
-        "keyMission": false,
-        "resourceBoxId": 0
-    },
-    {
-        "cardGroup": "complete",
-        "sekaiEchoCardMissionType": "card_all_get",
-        "seq": 2,
-        "sentence": "获得对应活动的所有成员\n-可通过兑换所\/招募获得，在［剧情］>［角色剧情］可查看活动卡牌。",
-        "keyMission": false,
-        "resourceBoxId": 0
-    },
-    {
-        "cardGroup": "complete",
-        "sekaiEchoCardMissionType": "music_all_difficulty_pass",
-        "seq": 4,
-        "sentence": "完成活动歌曲的所有难度。（LIVE CLEAR）",
-        "keyMission": false,
-        "resourceBoxId": 0
-    },
-    {
-        "cardGroup": "complete",
-        "sekaiEchoCardMissionType": "pass_all_mission",
-        "seq": 1,
-        "sentence": "完成以下所有任务即可获得这一栏的丰厚奖励。",
-        "keyMission": true,
-        "resourceBoxId": 22222222
-    },
-    {
-        "cardGroup": "complete",
-        "sekaiEchoCardMissionType": "shining_honor_get",
-        "seq": 3,
-        "sentence": "获得活动称号——“闪耀”\n-通过完成称号升级任务获得。（非回响活动需获取花朵边框称号）",
-        "keyMission": false,
-        "resourceBoxId": 0
-    }
+  {
+    "cardGroup": "clear",
+    "sekaiEchoCardMissionType": "card_2_3_get",
+    "seq": 3,
+    "sentence": "获得对应活动的★2和★3成员 \n-可通过兑换所/招募获得，在［剧情］>［角色剧情］可查看活动卡牌。",
+    "keyMission": false,
+    "resourceBoxId": 0
+  },
+  {
+    "cardGroup": "clear",
+    "sekaiEchoCardMissionType": "music_any_difficulty_full_combo",
+    "seq": 4,
+    "sentence": "在活动创作歌曲的任意难度中达成1次FULL COMBO。",
+    "keyMission": false,
+    "resourceBoxId": 0
+  },
+  {
+    "cardGroup": "clear",
+    "sekaiEchoCardMissionType": "pass_all_mission",
+    "seq": 1,
+    "sentence": "完成以下所有任务即可获得丰厚奖励！",
+    "keyMission": true,
+    "resourceBoxId": 22222221
+  },
+  {
+    "cardGroup": "clear",
+    "sekaiEchoCardMissionType": "read_event_story",
+    "seq": 2,
+    "sentence": "不使用跳过或快进功能，观看全部活动剧情。",
+    "keyMission": false,
+    "resourceBoxId": 0
+  },
+  {
+    "cardGroup": "clear",
+    "sekaiEchoCardMissionType": "stamp_get",
+    "seq": 5,
+    "sentence": "获得活动表情\n-通过参加后日谈·演唱会获得。",
+    "keyMission": false,
+    "resourceBoxId": 0
+  },
+  {
+    "cardGroup": "complete",
+    "sekaiEchoCardMissionType": "card_all_get",
+    "seq": 2,
+    "sentence": "获得对应活动的所有成员\n-可通过兑换所/招募获得，在［剧情］>［角色剧情］可查看活动卡牌。",
+    "keyMission": false,
+    "resourceBoxId": 0
+  },
+  {
+    "cardGroup": "complete",
+    "sekaiEchoCardMissionType": "music_all_difficulty_pass",
+    "seq": 4,
+    "sentence": "完成活动歌曲的所有难度。（LIVE CLEAR）",
+    "keyMission": false,
+    "resourceBoxId": 0
+  },
+  {
+    "cardGroup": "complete",
+    "sekaiEchoCardMissionType": "pass_all_mission",
+    "seq": 1,
+    "sentence": "完成以下所有任务即可获得这一栏的丰厚奖励。",
+    "keyMission": true,
+    "resourceBoxId": 22222222
+  },
+  {
+    "cardGroup": "complete",
+    "sekaiEchoCardMissionType": "shining_honor_get",
+    "seq": 3,
+    "sentence": "获得活动称号——“闪耀”\n-通过完成称号升级任务获得。（非回响活动需获取花朵边框称号）",
+    "keyMission": false,
+    "resourceBoxId": 0
+  }
 ]

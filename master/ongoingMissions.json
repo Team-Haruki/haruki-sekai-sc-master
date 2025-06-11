@@ -1,710 +1,710 @@
 [
-    {
-        "id": 1,
-        "seq": "login",
-        "ongoingMissionType": 1,
-        "requirement": "累计登录1天。",
-        "sentence": 1,
-        "rewards": [
-            {
-                "resourceBoxId": 500000
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "seq": "login",
-        "ongoingMissionType": 2,
-        "requirement": "累计登录2天。",
-        "sentence": 2,
-        "rewards": [
-            {
-                "resourceBoxId": 500000
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "seq": "login",
-        "ongoingMissionType": 3,
-        "requirement": "累计登录3天。",
-        "sentence": 3,
-        "rewards": [
-            {
-                "resourceBoxId": 500000
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "seq": "login",
-        "ongoingMissionType": 4,
-        "requirement": "累计登录4天。",
-        "sentence": 4,
-        "rewards": [
-            {
-                "resourceBoxId": 500000
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "seq": "login",
-        "ongoingMissionType": 5,
-        "requirement": "累计登录5天。",
-        "sentence": 5,
-        "rewards": [
-            {
-                "resourceBoxId": 500000
-            }
-        ]
-    },
-    {
-        "id": 6,
-        "seq": "login",
-        "ongoingMissionType": 6,
-        "requirement": "累计登录6天。",
-        "sentence": 6,
-        "rewards": [
-            {
-                "resourceBoxId": 500000
-            }
-        ]
-    },
-    {
-        "id": 7,
-        "seq": "login",
-        "ongoingMissionType": 7,
-        "requirement": "累计登录7天。",
-        "sentence": 7,
-        "rewards": [
-            {
-                "resourceBoxId": 500000
-            }
-        ]
-    },
-    {
-        "id": 8,
-        "seq": "clear_solo_challenge_live",
-        "ongoingMissionType": 1,
-        "requirement": "累计通过1次挑战LIVE。",
-        "sentence": 1,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 9,
-        "seq": "clear_solo_challenge_live",
-        "ongoingMissionType": 2,
-        "requirement": "累计通过2次挑战LIVE。",
-        "sentence": 2,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 10,
-        "seq": "clear_solo_challenge_live",
-        "ongoingMissionType": 3,
-        "requirement": "累计通过3次挑战LIVE。",
-        "sentence": 3,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 11,
-        "seq": "clear_solo_challenge_live",
-        "ongoingMissionType": 4,
-        "requirement": "累计通过4次挑战LIVE。",
-        "sentence": 4,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 12,
-        "seq": "clear_solo_challenge_live",
-        "ongoingMissionType": 5,
-        "requirement": "累计通过5次挑战LIVE。",
-        "sentence": 5,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 13,
-        "seq": "clear_solo_challenge_live",
-        "ongoingMissionType": 6,
-        "requirement": "累计通过6次挑战LIVE。",
-        "sentence": 6,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 14,
-        "seq": "clear_solo_challenge_live",
-        "ongoingMissionType": 7,
-        "requirement": "累计通过7次挑战LIVE。",
-        "sentence": 7,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 15,
-        "seq": "clear_multi_live",
-        "ongoingMissionType": 1,
-        "requirement": "累计通过2次多人LIVE。",
-        "sentence": 2,
-        "rewards": [
-            {
-                "resourceBoxId": 500001
-            }
-        ]
-    },
-    {
-        "id": 16,
-        "seq": "clear_multi_live",
-        "ongoingMissionType": 2,
-        "requirement": "累计通过4次多人LIVE。",
-        "sentence": 4,
-        "rewards": [
-            {
-                "resourceBoxId": 500001
-            }
-        ]
-    },
-    {
-        "id": 17,
-        "seq": "clear_multi_live",
-        "ongoingMissionType": 3,
-        "requirement": "累计通过6次多人LIVE。",
-        "sentence": 6,
-        "rewards": [
-            {
-                "resourceBoxId": 500001
-            }
-        ]
-    },
-    {
-        "id": 18,
-        "seq": "clear_multi_live",
-        "ongoingMissionType": 4,
-        "requirement": "累计通过8次多人LIVE。",
-        "sentence": 8,
-        "rewards": [
-            {
-                "resourceBoxId": 500001
-            }
-        ]
-    },
-    {
-        "id": 19,
-        "seq": "clear_multi_live",
-        "ongoingMissionType": 5,
-        "requirement": "累计通过10次多人LIVE。",
-        "sentence": 10,
-        "rewards": [
-            {
-                "resourceBoxId": 500001
-            }
-        ]
-    },
-    {
-        "id": 20,
-        "seq": "clear_multi_live",
-        "ongoingMissionType": 6,
-        "requirement": "累计通过12次多人LIVE。",
-        "sentence": 12,
-        "rewards": [
-            {
-                "resourceBoxId": 500001
-            }
-        ]
-    },
-    {
-        "id": 21,
-        "seq": "clear_multi_live",
-        "ongoingMissionType": 7,
-        "requirement": "累计通过14次多人LIVE。",
-        "sentence": 14,
-        "rewards": [
-            {
-                "resourceBoxId": 500001
-            }
-        ]
-    },
-    {
-        "id": 22,
-        "seq": "clear_multi_live",
-        "ongoingMissionType": 8,
-        "requirement": "累计通过16次多人LIVE。",
-        "sentence": 16,
-        "rewards": [
-            {
-                "resourceBoxId": 500001
-            }
-        ]
-    },
-    {
-        "id": 23,
-        "seq": "clear_multi_live",
-        "ongoingMissionType": 9,
-        "requirement": "累计通过18次多人LIVE。",
-        "sentence": 18,
-        "rewards": [
-            {
-                "resourceBoxId": 500001
-            }
-        ]
-    },
-    {
-        "id": 24,
-        "seq": "clear_multi_live",
-        "ongoingMissionType": 10,
-        "requirement": "累计通过20次多人LIVE。",
-        "sentence": 20,
-        "rewards": [
-            {
-                "resourceBoxId": 500001
-            }
-        ]
-    },
-    {
-        "id": 25,
-        "seq": "clear_multi_live",
-        "ongoingMissionType": 11,
-        "requirement": "累计通过22次多人LIVE。",
-        "sentence": 22,
-        "rewards": [
-            {
-                "resourceBoxId": 500001
-            }
-        ]
-    },
-    {
-        "id": 26,
-        "seq": "clear_multi_live",
-        "ongoingMissionType": 12,
-        "requirement": "累计通过24次多人LIVE。",
-        "sentence": 24,
-        "rewards": [
-            {
-                "resourceBoxId": 500001
-            }
-        ]
-    },
-    {
-        "id": 27,
-        "seq": "clear_multi_live",
-        "ongoingMissionType": 13,
-        "requirement": "累计通过26次多人LIVE。",
-        "sentence": 26,
-        "rewards": [
-            {
-                "resourceBoxId": 500001
-            }
-        ]
-    },
-    {
-        "id": 28,
-        "seq": "clear_multi_live",
-        "ongoingMissionType": 14,
-        "requirement": "累计通过28次多人LIVE。",
-        "sentence": 28,
-        "rewards": [
-            {
-                "resourceBoxId": 500001
-            }
-        ]
-    },
-    {
-        "id": 29,
-        "seq": "clear_multi_live",
-        "ongoingMissionType": 15,
-        "requirement": "累计通过30次多人LIVE。",
-        "sentence": 30,
-        "rewards": [
-            {
-                "resourceBoxId": 500001
-            }
-        ]
-    },
-    {
-        "id": 30,
-        "seq": "clear_live_boost",
-        "ongoingMissionType": 1,
-        "requirement": "累计消耗20点体力。",
-        "sentence": 20,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 31,
-        "seq": "clear_live_boost",
-        "ongoingMissionType": 2,
-        "requirement": "累计消耗40点体力。",
-        "sentence": 40,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 32,
-        "seq": "clear_live_boost",
-        "ongoingMissionType": 3,
-        "requirement": "累计消耗60点体力。",
-        "sentence": 60,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 33,
-        "seq": "clear_live_boost",
-        "ongoingMissionType": 4,
-        "requirement": "累计消耗80点体力。",
-        "sentence": 80,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 34,
-        "seq": "clear_live_boost",
-        "ongoingMissionType": 5,
-        "requirement": "累计消耗100点体力。",
-        "sentence": 100,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 35,
-        "seq": "clear_live_boost",
-        "ongoingMissionType": 6,
-        "requirement": "累计消耗120点体力。",
-        "sentence": 120,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 36,
-        "seq": "clear_live_boost",
-        "ongoingMissionType": 7,
-        "requirement": "累计消耗140点体力。",
-        "sentence": 140,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 37,
-        "seq": "clear_live_boost",
-        "ongoingMissionType": 8,
-        "requirement": "累计消耗160点体力。",
-        "sentence": 160,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 38,
-        "seq": "clear_live_boost",
-        "ongoingMissionType": 9,
-        "requirement": "累计消耗180点体力。",
-        "sentence": 180,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 39,
-        "seq": "clear_live_boost",
-        "ongoingMissionType": 10,
-        "requirement": "累计消耗200点体力。",
-        "sentence": 200,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 40,
-        "seq": "clear_live_boost",
-        "ongoingMissionType": 11,
-        "requirement": "累计消耗220点体力。",
-        "sentence": 220,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 41,
-        "seq": "clear_live_boost",
-        "ongoingMissionType": 12,
-        "requirement": "累计消耗240点体力。",
-        "sentence": 240,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 42,
-        "seq": "clear_live_boost",
-        "ongoingMissionType": 13,
-        "requirement": "累计消耗260点体力。",
-        "sentence": 260,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 43,
-        "seq": "clear_live_boost",
-        "ongoingMissionType": 14,
-        "requirement": "累计消耗280点体力。",
-        "sentence": 280,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 44,
-        "seq": "clear_live_boost",
-        "ongoingMissionType": 15,
-        "requirement": "累计消耗300点体力。",
-        "sentence": 300,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 45,
-        "seq": "character_gacha",
-        "ongoingMissionType": 1,
-        "requirement": "累计招募2次。",
-        "sentence": 2,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 46,
-        "seq": "character_gacha",
-        "ongoingMissionType": 2,
-        "requirement": "累计招募4次。",
-        "sentence": 4,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 47,
-        "seq": "character_gacha",
-        "ongoingMissionType": 3,
-        "requirement": "累计招募6次。",
-        "sentence": 6,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 48,
-        "seq": "character_gacha",
-        "ongoingMissionType": 4,
-        "requirement": "累计招募8次。",
-        "sentence": 8,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 49,
-        "seq": "character_gacha",
-        "ongoingMissionType": 5,
-        "requirement": "累计招募10次。",
-        "sentence": 10,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 50,
-        "seq": "character_gacha",
-        "ongoingMissionType": 6,
-        "requirement": "累计招募12次。",
-        "sentence": 12,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 51,
-        "seq": "character_gacha",
-        "ongoingMissionType": 7,
-        "requirement": "累计招募14次。",
-        "sentence": 14,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 52,
-        "seq": "character_gacha",
-        "ongoingMissionType": 8,
-        "requirement": "累计招募16次。",
-        "sentence": 16,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 53,
-        "seq": "character_gacha",
-        "ongoingMissionType": 9,
-        "requirement": "累计招募18次。",
-        "sentence": 18,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 54,
-        "seq": "character_gacha",
-        "ongoingMissionType": 10,
-        "requirement": "累计招募20次。",
-        "sentence": 20,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 55,
-        "seq": "character_gacha",
-        "ongoingMissionType": 11,
-        "requirement": "累计招募22次。",
-        "sentence": 22,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 56,
-        "seq": "character_gacha",
-        "ongoingMissionType": 12,
-        "requirement": "累计招募24次。",
-        "sentence": 24,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 57,
-        "seq": "character_gacha",
-        "ongoingMissionType": 13,
-        "requirement": "累计招募26次。",
-        "sentence": 26,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 58,
-        "seq": "character_gacha",
-        "ongoingMissionType": 14,
-        "requirement": "累计招募28次。",
-        "sentence": 28,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    },
-    {
-        "id": 59,
-        "seq": "character_gacha",
-        "ongoingMissionType": 15,
-        "requirement": "累计招募30次。",
-        "sentence": 30,
-        "rewards": [
-            {
-                "resourceBoxId": 500002
-            }
-        ]
-    }
+  {
+    "id": 1,
+    "seq": "login",
+    "ongoingMissionType": 1,
+    "requirement": "累计登录1天。",
+    "sentence": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 500000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "seq": "login",
+    "ongoingMissionType": 2,
+    "requirement": "累计登录2天。",
+    "sentence": 2,
+    "rewards": [
+      {
+        "resourceBoxId": 500000
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "seq": "login",
+    "ongoingMissionType": 3,
+    "requirement": "累计登录3天。",
+    "sentence": 3,
+    "rewards": [
+      {
+        "resourceBoxId": 500000
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "seq": "login",
+    "ongoingMissionType": 4,
+    "requirement": "累计登录4天。",
+    "sentence": 4,
+    "rewards": [
+      {
+        "resourceBoxId": 500000
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "seq": "login",
+    "ongoingMissionType": 5,
+    "requirement": "累计登录5天。",
+    "sentence": 5,
+    "rewards": [
+      {
+        "resourceBoxId": 500000
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "seq": "login",
+    "ongoingMissionType": 6,
+    "requirement": "累计登录6天。",
+    "sentence": 6,
+    "rewards": [
+      {
+        "resourceBoxId": 500000
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "seq": "login",
+    "ongoingMissionType": 7,
+    "requirement": "累计登录7天。",
+    "sentence": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 500000
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "seq": "clear_solo_challenge_live",
+    "ongoingMissionType": 1,
+    "requirement": "累计通过1次挑战LIVE。",
+    "sentence": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "seq": "clear_solo_challenge_live",
+    "ongoingMissionType": 2,
+    "requirement": "累计通过2次挑战LIVE。",
+    "sentence": 2,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "seq": "clear_solo_challenge_live",
+    "ongoingMissionType": 3,
+    "requirement": "累计通过3次挑战LIVE。",
+    "sentence": 3,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "seq": "clear_solo_challenge_live",
+    "ongoingMissionType": 4,
+    "requirement": "累计通过4次挑战LIVE。",
+    "sentence": 4,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "seq": "clear_solo_challenge_live",
+    "ongoingMissionType": 5,
+    "requirement": "累计通过5次挑战LIVE。",
+    "sentence": 5,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "seq": "clear_solo_challenge_live",
+    "ongoingMissionType": 6,
+    "requirement": "累计通过6次挑战LIVE。",
+    "sentence": 6,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "seq": "clear_solo_challenge_live",
+    "ongoingMissionType": 7,
+    "requirement": "累计通过7次挑战LIVE。",
+    "sentence": 7,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "seq": "clear_multi_live",
+    "ongoingMissionType": 1,
+    "requirement": "累计通过2次多人LIVE。",
+    "sentence": 2,
+    "rewards": [
+      {
+        "resourceBoxId": 500001
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "seq": "clear_multi_live",
+    "ongoingMissionType": 2,
+    "requirement": "累计通过4次多人LIVE。",
+    "sentence": 4,
+    "rewards": [
+      {
+        "resourceBoxId": 500001
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "seq": "clear_multi_live",
+    "ongoingMissionType": 3,
+    "requirement": "累计通过6次多人LIVE。",
+    "sentence": 6,
+    "rewards": [
+      {
+        "resourceBoxId": 500001
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "seq": "clear_multi_live",
+    "ongoingMissionType": 4,
+    "requirement": "累计通过8次多人LIVE。",
+    "sentence": 8,
+    "rewards": [
+      {
+        "resourceBoxId": 500001
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "seq": "clear_multi_live",
+    "ongoingMissionType": 5,
+    "requirement": "累计通过10次多人LIVE。",
+    "sentence": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 500001
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "seq": "clear_multi_live",
+    "ongoingMissionType": 6,
+    "requirement": "累计通过12次多人LIVE。",
+    "sentence": 12,
+    "rewards": [
+      {
+        "resourceBoxId": 500001
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "seq": "clear_multi_live",
+    "ongoingMissionType": 7,
+    "requirement": "累计通过14次多人LIVE。",
+    "sentence": 14,
+    "rewards": [
+      {
+        "resourceBoxId": 500001
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "seq": "clear_multi_live",
+    "ongoingMissionType": 8,
+    "requirement": "累计通过16次多人LIVE。",
+    "sentence": 16,
+    "rewards": [
+      {
+        "resourceBoxId": 500001
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "seq": "clear_multi_live",
+    "ongoingMissionType": 9,
+    "requirement": "累计通过18次多人LIVE。",
+    "sentence": 18,
+    "rewards": [
+      {
+        "resourceBoxId": 500001
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "seq": "clear_multi_live",
+    "ongoingMissionType": 10,
+    "requirement": "累计通过20次多人LIVE。",
+    "sentence": 20,
+    "rewards": [
+      {
+        "resourceBoxId": 500001
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "seq": "clear_multi_live",
+    "ongoingMissionType": 11,
+    "requirement": "累计通过22次多人LIVE。",
+    "sentence": 22,
+    "rewards": [
+      {
+        "resourceBoxId": 500001
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "seq": "clear_multi_live",
+    "ongoingMissionType": 12,
+    "requirement": "累计通过24次多人LIVE。",
+    "sentence": 24,
+    "rewards": [
+      {
+        "resourceBoxId": 500001
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "seq": "clear_multi_live",
+    "ongoingMissionType": 13,
+    "requirement": "累计通过26次多人LIVE。",
+    "sentence": 26,
+    "rewards": [
+      {
+        "resourceBoxId": 500001
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "seq": "clear_multi_live",
+    "ongoingMissionType": 14,
+    "requirement": "累计通过28次多人LIVE。",
+    "sentence": 28,
+    "rewards": [
+      {
+        "resourceBoxId": 500001
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "seq": "clear_multi_live",
+    "ongoingMissionType": 15,
+    "requirement": "累计通过30次多人LIVE。",
+    "sentence": 30,
+    "rewards": [
+      {
+        "resourceBoxId": 500001
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "seq": "clear_live_boost",
+    "ongoingMissionType": 1,
+    "requirement": "累计消耗20点体力。",
+    "sentence": 20,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "seq": "clear_live_boost",
+    "ongoingMissionType": 2,
+    "requirement": "累计消耗40点体力。",
+    "sentence": 40,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "seq": "clear_live_boost",
+    "ongoingMissionType": 3,
+    "requirement": "累计消耗60点体力。",
+    "sentence": 60,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "seq": "clear_live_boost",
+    "ongoingMissionType": 4,
+    "requirement": "累计消耗80点体力。",
+    "sentence": 80,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "seq": "clear_live_boost",
+    "ongoingMissionType": 5,
+    "requirement": "累计消耗100点体力。",
+    "sentence": 100,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "seq": "clear_live_boost",
+    "ongoingMissionType": 6,
+    "requirement": "累计消耗120点体力。",
+    "sentence": 120,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "seq": "clear_live_boost",
+    "ongoingMissionType": 7,
+    "requirement": "累计消耗140点体力。",
+    "sentence": 140,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "seq": "clear_live_boost",
+    "ongoingMissionType": 8,
+    "requirement": "累计消耗160点体力。",
+    "sentence": 160,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "seq": "clear_live_boost",
+    "ongoingMissionType": 9,
+    "requirement": "累计消耗180点体力。",
+    "sentence": 180,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "seq": "clear_live_boost",
+    "ongoingMissionType": 10,
+    "requirement": "累计消耗200点体力。",
+    "sentence": 200,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "seq": "clear_live_boost",
+    "ongoingMissionType": 11,
+    "requirement": "累计消耗220点体力。",
+    "sentence": 220,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "seq": "clear_live_boost",
+    "ongoingMissionType": 12,
+    "requirement": "累计消耗240点体力。",
+    "sentence": 240,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "seq": "clear_live_boost",
+    "ongoingMissionType": 13,
+    "requirement": "累计消耗260点体力。",
+    "sentence": 260,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "seq": "clear_live_boost",
+    "ongoingMissionType": 14,
+    "requirement": "累计消耗280点体力。",
+    "sentence": 280,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "seq": "clear_live_boost",
+    "ongoingMissionType": 15,
+    "requirement": "累计消耗300点体力。",
+    "sentence": 300,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "seq": "character_gacha",
+    "ongoingMissionType": 1,
+    "requirement": "累计招募2次。",
+    "sentence": 2,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "seq": "character_gacha",
+    "ongoingMissionType": 2,
+    "requirement": "累计招募4次。",
+    "sentence": 4,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "seq": "character_gacha",
+    "ongoingMissionType": 3,
+    "requirement": "累计招募6次。",
+    "sentence": 6,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "seq": "character_gacha",
+    "ongoingMissionType": 4,
+    "requirement": "累计招募8次。",
+    "sentence": 8,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "seq": "character_gacha",
+    "ongoingMissionType": 5,
+    "requirement": "累计招募10次。",
+    "sentence": 10,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "seq": "character_gacha",
+    "ongoingMissionType": 6,
+    "requirement": "累计招募12次。",
+    "sentence": 12,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "seq": "character_gacha",
+    "ongoingMissionType": 7,
+    "requirement": "累计招募14次。",
+    "sentence": 14,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "seq": "character_gacha",
+    "ongoingMissionType": 8,
+    "requirement": "累计招募16次。",
+    "sentence": 16,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "seq": "character_gacha",
+    "ongoingMissionType": 9,
+    "requirement": "累计招募18次。",
+    "sentence": 18,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "seq": "character_gacha",
+    "ongoingMissionType": 10,
+    "requirement": "累计招募20次。",
+    "sentence": 20,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "seq": "character_gacha",
+    "ongoingMissionType": 11,
+    "requirement": "累计招募22次。",
+    "sentence": 22,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "seq": "character_gacha",
+    "ongoingMissionType": 12,
+    "requirement": "累计招募24次。",
+    "sentence": 24,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "seq": "character_gacha",
+    "ongoingMissionType": 13,
+    "requirement": "累计招募26次。",
+    "sentence": 26,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "seq": "character_gacha",
+    "ongoingMissionType": 14,
+    "requirement": "累计招募28次。",
+    "sentence": 28,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "seq": "character_gacha",
+    "ongoingMissionType": 15,
+    "requirement": "累计招募30次。",
+    "sentence": 30,
+    "rewards": [
+      {
+        "resourceBoxId": 500002
+      }
+    ]
+  }
 ]

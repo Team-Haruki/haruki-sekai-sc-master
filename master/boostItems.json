@@ -1,320 +1,320 @@
 [
-    {
-        "id": 1,
-        "name": "演出能量饮料（小）",
-        "recoveryValue": 1,
-        "flavorText": "恢复1演出能量。"
-    },
-    {
-        "id": 2,
-        "name": "演出能量饮料（大）",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3,
-        "name": "情人节巧克力",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 4,
-        "name": "白色情人节棉花糖",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 5,
-        "name": "[限定]炸鸡块君 中份",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 6,
-        "name": "万圣节曲奇饼干",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 7,
-        "name": "奶油蛋卷",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 8,
-        "name": "圣诞节蛋糕",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 9,
-        "name": "无醇甜米酒",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 10,
-        "name": "[限定]杯面",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 11,
-        "name": "[限定]宝矿力水特",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 12,
-        "name": "大葱",
-        "recoveryValue": 1,
-        "flavorText": "恢复1演出能量。"
-    },
-    {
-        "id": 13,
-        "name": "[初音未来16周年纪念]庆祝蛋糕",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 14,
-        "name": "凯蒂猫的苹果",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 15,
-        "name": "3900's能量饮料（大）",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 16,
-        "name": "[4周年記念]メモリアルライブボーナスボトル",
-        "recoveryValue": 99,
-        "flavorText": "恢复99演出能量。"
-    },
-    {
-        "id": 1001,
-        "name": "月餅",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 1002,
-        "name": "蔥 ",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 1004,
-        "name": "酒",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 1005,
-        "name": "果汁",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 1006,
-        "name": "紅白米糕",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 1007,
-        "name": "鮪魚",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 1008,
-        "name": "冰棒",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 1009,
-        "name": "粽子",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 1010,
-        "name": "棒棒糖",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3000,
-        "name": "生日蛋糕",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3001,
-        "name": "星乃一歌",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3002,
-        "name": "零食",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3003,
-        "name": "望月穂波",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3004,
-        "name": "日野森志歩",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3005,
-        "name": "三文鱼",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3006,
-        "name": "桐谷遥",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3007,
-        "name": "桃井愛莉",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3008,
-        "name": "日野森雫",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3009,
-        "name": "小豆沢こはね",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3010,
-        "name": "白石杏",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3011,
-        "name": "東雲彰人",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3012,
-        "name": "咖啡",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3013,
-        "name": "生姜烧肉",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3014,
-        "name": "鳳えむ",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3015,
-        "name": "草薙寧々",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3016,
-        "name": "神代類",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3017,
-        "name": "宵崎奏",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3018,
-        "name": "朝比奈まふゆ",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3019,
-        "name": "芝士蛋糕",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3020,
-        "name": "暁山瑞希",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3021,
-        "name": "初音ミク",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3022,
-        "name": "鏡音リン",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3023,
-        "name": "鏡音レン",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3024,
-        "name": "巡音ルカ",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3025,
-        "name": "MEIKO",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 3026,
-        "name": "KAITO",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    },
-    {
-        "id": 5000,
-        "name": "巧克力",
-        "recoveryValue": 10,
-        "flavorText": "恢复10演出能量。"
-    }
+  {
+    "id": 1,
+    "name": "演出能量饮料（小）",
+    "recoveryValue": 1,
+    "flavorText": "恢复1演出能量。"
+  },
+  {
+    "id": 2,
+    "name": "演出能量饮料（大）",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3,
+    "name": "情人节巧克力",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 4,
+    "name": "白色情人节棉花糖",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 5,
+    "name": "[限定]炸鸡块君 中份",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 6,
+    "name": "万圣节曲奇饼干",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 7,
+    "name": "奶油蛋卷",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 8,
+    "name": "圣诞节蛋糕",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 9,
+    "name": "无醇甜米酒",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 10,
+    "name": "[限定]杯面",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 11,
+    "name": "[限定]宝矿力水特",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 12,
+    "name": "大葱",
+    "recoveryValue": 1,
+    "flavorText": "恢复1演出能量。"
+  },
+  {
+    "id": 13,
+    "name": "[初音未来16周年纪念]庆祝蛋糕",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 14,
+    "name": "凯蒂猫的苹果",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 15,
+    "name": "3900's能量饮料（大）",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 16,
+    "name": "[4周年記念]メモリアルライブボーナスボトル",
+    "recoveryValue": 99,
+    "flavorText": "恢复99演出能量。"
+  },
+  {
+    "id": 1001,
+    "name": "月餅",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 1002,
+    "name": "蔥 ",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 1004,
+    "name": "酒",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 1005,
+    "name": "果汁",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 1006,
+    "name": "紅白米糕",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 1007,
+    "name": "鮪魚",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 1008,
+    "name": "冰棒",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 1009,
+    "name": "粽子",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 1010,
+    "name": "棒棒糖",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3000,
+    "name": "生日蛋糕",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3001,
+    "name": "星乃一歌",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3002,
+    "name": "零食",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3003,
+    "name": "望月穂波",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3004,
+    "name": "日野森志歩",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3005,
+    "name": "三文鱼",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3006,
+    "name": "桐谷遥",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3007,
+    "name": "桃井愛莉",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3008,
+    "name": "日野森雫",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3009,
+    "name": "小豆沢こはね",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3010,
+    "name": "白石杏",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3011,
+    "name": "東雲彰人",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3012,
+    "name": "咖啡",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3013,
+    "name": "生姜烧肉",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3014,
+    "name": "鳳えむ",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3015,
+    "name": "草薙寧々",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3016,
+    "name": "神代類",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3017,
+    "name": "宵崎奏",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3018,
+    "name": "朝比奈まふゆ",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3019,
+    "name": "芝士蛋糕",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3020,
+    "name": "暁山瑞希",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3021,
+    "name": "初音ミク",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3022,
+    "name": "鏡音リン",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3023,
+    "name": "鏡音レン",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3024,
+    "name": "巡音ルカ",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3025,
+    "name": "MEIKO",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 3026,
+    "name": "KAITO",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 5000,
+    "name": "巧克力",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  }
 ]

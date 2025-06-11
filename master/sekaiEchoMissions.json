@@ -1,86 +1,86 @@
 [
-    {
-        "id": 1,
-        "sekaiEchoMissionType": "read_main_story",
-        "seq": 1,
-        "sentence": "观看任意组合的全部主线剧情。",
-        "requirement": 1,
-        "rewards": [
-            {
-                "resourceBoxId": 22222223
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "sekaiEchoMissionType": "read_character_box_story",
-        "seq": 2,
-        "sentence": "不使用跳过或快进功能，观看任意角色第一学年的关键剧情。",
-        "requirement": 1,
-        "rewards": [
-            {
-                "resourceBoxId": 22222224
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "sekaiEchoMissionType": "read_unit_box_story",
-        "seq": 3,
-        "sentence": "不使用跳过或快进功能，观看任意组合第一学年的关键剧情。",
-        "requirement": 1,
-        "rewards": [
-            {
-                "resourceBoxId": 22222225
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "sekaiEchoMissionType": "get_box_story_honor_stamp",
-        "seq": 4,
-        "sentence": "获得1个关键剧情的称号和表情。（可通过参加虚拟演唱会获得。）",
-        "requirement": 1,
-        "rewards": [
-            {
-                "resourceBoxId": 22222226
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "sekaiEchoMissionType": "clear_event_music",
-        "seq": 5,
-        "sentence": "点击活动卡片上的活动创作歌曲进行一次演出吧。",
-        "requirement": 1,
-        "rewards": [
-            {
-                "resourceBoxId": 22222227
-            }
-        ]
-    },
-    {
-        "id": 6,
-        "sekaiEchoMissionType": "read_graph",
-        "seq": 6,
-        "sentence": "观看任意组合的角色关系图。",
-        "requirement": 1,
-        "rewards": [
-            {
-                "resourceBoxId": 22222228
-            }
-        ]
-    },
-    {
-        "id": 7,
-        "sekaiEchoMissionType": "read_all_pv",
-        "seq": 7,
-        "sentence": "观看所有组合的PV。",
-        "requirement": 1,
-        "rewards": [
-            {
-                "resourceBoxId": 22222229
-            }
-        ]
-    }
+  {
+    "id": 1,
+    "sekaiEchoMissionType": "read_main_story",
+    "seq": 1,
+    "sentence": "观看任意组合的全部主线剧情。",
+    "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 22222223
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "sekaiEchoMissionType": "read_character_box_story",
+    "seq": 2,
+    "sentence": "不使用跳过或快进功能，观看任意角色第一学年的关键剧情。",
+    "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 22222224
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "sekaiEchoMissionType": "read_unit_box_story",
+    "seq": 3,
+    "sentence": "不使用跳过或快进功能，观看任意组合第一学年的关键剧情。",
+    "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 22222225
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "sekaiEchoMissionType": "get_box_story_honor_stamp",
+    "seq": 4,
+    "sentence": "获得1个关键剧情的称号和表情。（可通过参加虚拟演唱会获得。）",
+    "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 22222226
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "sekaiEchoMissionType": "clear_event_music",
+    "seq": 5,
+    "sentence": "点击活动卡片上的活动创作歌曲进行一次演出吧。",
+    "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 22222227
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "sekaiEchoMissionType": "read_graph",
+    "seq": 6,
+    "sentence": "观看任意组合的角色关系图。",
+    "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 22222228
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "sekaiEchoMissionType": "read_all_pv",
+    "seq": 7,
+    "sentence": "观看所有组合的PV。",
+    "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 22222229
+      }
+    ]
+  }
 ]

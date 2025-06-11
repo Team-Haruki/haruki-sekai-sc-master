@@ -1,298 +1,298 @@
 [
-    {
-        "id": 1,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 3,
-        "resourceBoxId": 1,
-        "cost": 1,
-        "refreshCycle": "weekly"
-    },
-    {
-        "id": 2,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 29,
-        "resourceBoxId": 2,
-        "cost": 1,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 120
-    },
-    {
-        "id": 3,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 16,
-        "resourceBoxId": 3,
-        "cost": 5,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 40
-    },
-    {
-        "id": 4,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 15,
-        "resourceBoxId": 4,
-        "cost": 5,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 40
-    },
-    {
-        "id": 5,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 27,
-        "resourceBoxId": 5,
-        "cost": 10,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 40
-    },
-    {
-        "id": 6,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 14,
-        "resourceBoxId": 6,
-        "cost": 10,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 20
-    },
-    {
-        "id": 7,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 11,
-        "resourceBoxId": 7,
-        "cost": 10,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 15
-    },
-    {
-        "id": 8,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 4,
-        "resourceBoxId": 8,
-        "cost": 10,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 20
-    },
-    {
-        "id": 9,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 28,
-        "resourceBoxId": 9,
-        "cost": 3,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 20
-    },
-    {
-        "id": 10,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 31,
-        "resourceBoxId": 10,
-        "cost": 1,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 30
-    },
-    {
-        "id": 11,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 32,
-        "resourceBoxId": 11,
-        "cost": 10,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 30
-    },
-    {
-        "id": 12,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 26,
-        "resourceBoxId": 12,
-        "cost": 5,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 20
-    },
-    {
-        "id": 13,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 25,
-        "resourceBoxId": 13,
-        "cost": 5,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 20
-    },
-    {
-        "id": 14,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 24,
-        "resourceBoxId": 14,
-        "cost": 5,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 20
-    },
-    {
-        "id": 15,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 23,
-        "resourceBoxId": 15,
-        "cost": 5,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 20
-    },
-    {
-        "id": 16,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 22,
-        "resourceBoxId": 16,
-        "cost": 5,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 20
-    },
-    {
-        "id": 17,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 12,
-        "resourceBoxId": 17,
-        "cost": 50,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 10
-    },
-    {
-        "id": 18,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 33,
-        "resourceBoxId": 18,
-        "cost": 10,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 5
-    },
-    {
-        "id": 19,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 21,
-        "resourceBoxId": 19,
-        "cost": 5,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 10
-    },
-    {
-        "id": 20,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 20,
-        "resourceBoxId": 20,
-        "cost": 5,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 10
-    },
-    {
-        "id": 21,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 19,
-        "resourceBoxId": 21,
-        "cost": 5,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 10
-    },
-    {
-        "id": 22,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 18,
-        "resourceBoxId": 22,
-        "cost": 5,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 10
-    },
-    {
-        "id": 23,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 17,
-        "resourceBoxId": 23,
-        "cost": 5,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 10
-    },
-    {
-        "id": 24,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 30,
-        "resourceBoxId": 24,
-        "cost": 50,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 2
-    },
-    {
-        "id": 25,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 10,
-        "resourceBoxId": 25,
-        "cost": 150,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 2
-    },
-    {
-        "id": 26,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 5,
-        "resourceBoxId": 26,
-        "cost": 150,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 2
-    },
-    {
-        "id": 27,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 7,
-        "resourceBoxId": 27,
-        "cost": 150,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 2
-    },
-    {
-        "id": 28,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 8,
-        "resourceBoxId": 28,
-        "cost": 150,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 2
-    },
-    {
-        "id": 29,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 9,
-        "resourceBoxId": 29,
-        "cost": 150,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 2
-    },
-    {
-        "id": 30,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 6,
-        "resourceBoxId": 30,
-        "cost": 150,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 2
-    },
-    {
-        "id": 31,
-        "shiningExchangeType": "event_exchange",
-        "seq": 2,
-        "resourceBoxId": 31,
-        "cost": 3500,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 1
-    },
-    {
-        "id": 32,
-        "shiningExchangeType": "event_exchange",
-        "seq": 1,
-        "resourceBoxId": 32,
-        "cost": 10500,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 1
-    },
-    {
-        "id": 33,
-        "shiningExchangeType": "shining_exchange",
-        "seq": 13,
-        "resourceBoxId": 33,
-        "cost": 500,
-        "refreshCycle": "weekly",
-        "exchangeLimit": 2
-    }
+  {
+    "id": 1,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 3,
+    "resourceBoxId": 1,
+    "cost": 1,
+    "refreshCycle": "weekly"
+  },
+  {
+    "id": 2,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 29,
+    "resourceBoxId": 2,
+    "cost": 1,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 120
+  },
+  {
+    "id": 3,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 16,
+    "resourceBoxId": 3,
+    "cost": 5,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 40
+  },
+  {
+    "id": 4,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 15,
+    "resourceBoxId": 4,
+    "cost": 5,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 40
+  },
+  {
+    "id": 5,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 27,
+    "resourceBoxId": 5,
+    "cost": 10,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 40
+  },
+  {
+    "id": 6,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 14,
+    "resourceBoxId": 6,
+    "cost": 10,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 20
+  },
+  {
+    "id": 7,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 11,
+    "resourceBoxId": 7,
+    "cost": 10,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 15
+  },
+  {
+    "id": 8,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 4,
+    "resourceBoxId": 8,
+    "cost": 10,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 20
+  },
+  {
+    "id": 9,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 28,
+    "resourceBoxId": 9,
+    "cost": 3,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 20
+  },
+  {
+    "id": 10,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 31,
+    "resourceBoxId": 10,
+    "cost": 1,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 30
+  },
+  {
+    "id": 11,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 32,
+    "resourceBoxId": 11,
+    "cost": 10,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 30
+  },
+  {
+    "id": 12,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 26,
+    "resourceBoxId": 12,
+    "cost": 5,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 20
+  },
+  {
+    "id": 13,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 25,
+    "resourceBoxId": 13,
+    "cost": 5,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 20
+  },
+  {
+    "id": 14,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 24,
+    "resourceBoxId": 14,
+    "cost": 5,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 20
+  },
+  {
+    "id": 15,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 23,
+    "resourceBoxId": 15,
+    "cost": 5,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 20
+  },
+  {
+    "id": 16,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 22,
+    "resourceBoxId": 16,
+    "cost": 5,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 20
+  },
+  {
+    "id": 17,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 12,
+    "resourceBoxId": 17,
+    "cost": 50,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 10
+  },
+  {
+    "id": 18,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 33,
+    "resourceBoxId": 18,
+    "cost": 10,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 5
+  },
+  {
+    "id": 19,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 21,
+    "resourceBoxId": 19,
+    "cost": 5,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 10
+  },
+  {
+    "id": 20,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 20,
+    "resourceBoxId": 20,
+    "cost": 5,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 10
+  },
+  {
+    "id": 21,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 19,
+    "resourceBoxId": 21,
+    "cost": 5,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 10
+  },
+  {
+    "id": 22,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 18,
+    "resourceBoxId": 22,
+    "cost": 5,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 10
+  },
+  {
+    "id": 23,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 17,
+    "resourceBoxId": 23,
+    "cost": 5,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 10
+  },
+  {
+    "id": 24,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 30,
+    "resourceBoxId": 24,
+    "cost": 50,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 2
+  },
+  {
+    "id": 25,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 10,
+    "resourceBoxId": 25,
+    "cost": 150,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 2
+  },
+  {
+    "id": 26,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 5,
+    "resourceBoxId": 26,
+    "cost": 150,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 2
+  },
+  {
+    "id": 27,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 7,
+    "resourceBoxId": 27,
+    "cost": 150,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 2
+  },
+  {
+    "id": 28,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 8,
+    "resourceBoxId": 28,
+    "cost": 150,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 2
+  },
+  {
+    "id": 29,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 9,
+    "resourceBoxId": 29,
+    "cost": 150,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 2
+  },
+  {
+    "id": 30,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 6,
+    "resourceBoxId": 30,
+    "cost": 150,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 2
+  },
+  {
+    "id": 31,
+    "shiningExchangeType": "event_exchange",
+    "seq": 2,
+    "resourceBoxId": 31,
+    "cost": 3500,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 1
+  },
+  {
+    "id": 32,
+    "shiningExchangeType": "event_exchange",
+    "seq": 1,
+    "resourceBoxId": 32,
+    "cost": 10500,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 1
+  },
+  {
+    "id": 33,
+    "shiningExchangeType": "shining_exchange",
+    "seq": 13,
+    "resourceBoxId": 33,
+    "cost": 500,
+    "refreshCycle": "weekly",
+    "exchangeLimit": 2
+  }
 ]

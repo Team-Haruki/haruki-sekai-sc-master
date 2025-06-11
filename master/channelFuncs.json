@@ -1,20 +1,20 @@
 [
-    {
-        "id": 1,
-        "type": "home_banner",
-        "funcId": 20012,
-        "channels": "taptap,bsdk,App Store"
-    },
-    {
-        "id": 5,
-        "type": "mini_program",
-        "funcId": 9999,
-        "channels": "taptap"
-    },
-    {
-        "id": 7,
-        "type": "home_banner",
-        "funcId": 20017,
-        "channels": "taptap,bsdk,App Store"
-    }
+  {
+    "id": 1,
+    "type": "home_banner",
+    "funcId": 20012,
+    "channels": "taptap,bsdk,App Store"
+  },
+  {
+    "id": 5,
+    "type": "mini_program",
+    "funcId": 9999,
+    "channels": "taptap"
+  },
+  {
+    "id": 7,
+    "type": "home_banner",
+    "funcId": 20017,
+    "channels": "taptap,bsdk,App Store"
+  }
 ]

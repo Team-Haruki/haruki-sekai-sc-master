@@ -1,72 +1,72 @@
 [
-    {
-        "id": 1,
-        "unit": "piapro",
-        "unitEpisodeCategory": "light_sound",
-        "outline": "教室「世界」中的未来等人，今天也在练习乐器。\n未来在烦恼自己能否以“前辈”的身份，引导身为心愿主人的一歌等人。但她在巡音流歌的支持下逐渐有了自信。",
-        "assetbundleName": "main_lightsound_piapro"
-    },
-    {
-        "id": 2,
-        "unit": "piapro",
-        "unitEpisodeCategory": "idol",
-        "outline": "舞台「世界」是由灿烂夺目的舞台组成的。\n未来等人以偶像的身份守护着大家的心愿，并用她们拿手的歌曲与舞蹈，在背后激励着身为心愿主人的实乃理等人。",
-        "assetbundleName": "main_idol_piapro"
-    },
-    {
-        "id": 3,
-        "unit": "piapro",
-        "unitEpisodeCategory": "street",
-        "outline": "街头「世界」中的未来等人，\n在MEIKO经营的咖啡厅里度过了悠闲的时光。\n就在这时，连和他的搭档竟然吵了起来……？！",
-        "assetbundleName": "main_street_piapro"
-    },
-    {
-        "id": 4,
-        "unit": "piapro",
-        "unitEpisodeCategory": "theme_park",
-        "outline": "奇幻乐园「世界」中，未来等人的演出即将开演。\n他们还把不知道从哪里冒出来的兔子玩偶也一起拉上了舞台。现在是——演出时间！",
-        "assetbundleName": "main_themepark_piapro"
-    },
-    {
-        "id": 5,
-        "unit": "piapro",
-        "unitEpisodeCategory": "school_refusal",
-        "outline": "未来在无人「世界」中等待着。等待着能拯救心愿主人——能拯救“她”的人。\n现在能做的，只有静静地陪在她的身边。",
-        "assetbundleName": "main_schoolrefusal_piapro"
-    },
-    {
-        "id": 6,
-        "unit": "light_sound",
-        "unitEpisodeCategory": "none",
-        "outline": "由于各种原因，星乃一歌和儿时的朋友们渐行渐远。\n然而一直在疗养中的朋友——天马咲希回到学校后，\n让疏远的四个人之间的距离发生了变化。",
-        "assetbundleName": "main_lightsound"
-    },
-    {
-        "id": 7,
-        "unit": "idol",
-        "unitEpisodeCategory": "none",
-        "outline": "花里实乃理虽梦想成为偶像，\n却一直在试镜中落选。\n即便如此，她依然将崇拜的偶像“桐谷遥”深藏于心，并继续努力着。\n然而桐谷遥却突然辞去偶像的工作，退出了演艺圈。",
-        "assetbundleName": "main_idol"
-    },
-    {
-        "id": 8,
-        "unit": "street",
-        "unitEpisodeCategory": "none",
-        "outline": "小豆泽心羽十分害羞怕生，不管做什么都畏首畏尾。\n某天，她在一个小巷中听到的音乐与歌声给予了她心灵强烈的震撼。\n随后在歌曲演唱者白石杏的引导下踏入了街头音乐的世界。",
-        "assetbundleName": "main_street"
-    },
-    {
-        "id": 9,
-        "unit": "theme_park",
-        "unitEpisodeCategory": "none",
-        "outline": "天马司梦想着成为世界第一的舞台明星。\n他被备受欢迎的主题乐园雇用为兼职演员。\n然而，他被安排在没有客人光顾的舞台处工作。\n在那里，他遇到了努力想让舞台复活的凤笑梦。",
-        "assetbundleName": "main_themepark"
-    },
-    {
-        "id": 10,
-        "unit": "school_refusal",
-        "unitEpisodeCategory": "none",
-        "outline": "宵崎奏每天都通过语音聊天软件“Nightcord”，\n和音乐社团的伙伴们交流作曲。\n虽然她们不了解彼此的长相和姓名，但依然配合得很默契。\n然而某天，社团中的一名成员和大家失去了联系。",
-        "assetbundleName": "main_schoolrefusal"
-    }
+  {
+    "id": 1,
+    "unit": "piapro",
+    "unitEpisodeCategory": "light_sound",
+    "outline": "教室「世界」中的未来等人，今天也在练习乐器。\n未来在烦恼自己能否以“前辈”的身份，引导身为心愿主人的一歌等人。但她在巡音流歌的支持下逐渐有了自信。",
+    "assetbundleName": "main_lightsound_piapro"
+  },
+  {
+    "id": 2,
+    "unit": "piapro",
+    "unitEpisodeCategory": "idol",
+    "outline": "舞台「世界」是由灿烂夺目的舞台组成的。\n未来等人以偶像的身份守护着大家的心愿，并用她们拿手的歌曲与舞蹈，在背后激励着身为心愿主人的实乃理等人。",
+    "assetbundleName": "main_idol_piapro"
+  },
+  {
+    "id": 3,
+    "unit": "piapro",
+    "unitEpisodeCategory": "street",
+    "outline": "街头「世界」中的未来等人，\n在MEIKO经营的咖啡厅里度过了悠闲的时光。\n就在这时，连和他的搭档竟然吵了起来……？！",
+    "assetbundleName": "main_street_piapro"
+  },
+  {
+    "id": 4,
+    "unit": "piapro",
+    "unitEpisodeCategory": "theme_park",
+    "outline": "奇幻乐园「世界」中，未来等人的演出即将开演。\n他们还把不知道从哪里冒出来的兔子玩偶也一起拉上了舞台。现在是——演出时间！",
+    "assetbundleName": "main_themepark_piapro"
+  },
+  {
+    "id": 5,
+    "unit": "piapro",
+    "unitEpisodeCategory": "school_refusal",
+    "outline": "未来在无人「世界」中等待着。等待着能拯救心愿主人——能拯救“她”的人。\n现在能做的，只有静静地陪在她的身边。",
+    "assetbundleName": "main_schoolrefusal_piapro"
+  },
+  {
+    "id": 6,
+    "unit": "light_sound",
+    "unitEpisodeCategory": "none",
+    "outline": "由于各种原因，星乃一歌和儿时的朋友们渐行渐远。\n然而一直在疗养中的朋友——天马咲希回到学校后，\n让疏远的四个人之间的距离发生了变化。",
+    "assetbundleName": "main_lightsound"
+  },
+  {
+    "id": 7,
+    "unit": "idol",
+    "unitEpisodeCategory": "none",
+    "outline": "花里实乃理虽梦想成为偶像，\n却一直在试镜中落选。\n即便如此，她依然将崇拜的偶像“桐谷遥”深藏于心，并继续努力着。\n然而桐谷遥却突然辞去偶像的工作，退出了演艺圈。",
+    "assetbundleName": "main_idol"
+  },
+  {
+    "id": 8,
+    "unit": "street",
+    "unitEpisodeCategory": "none",
+    "outline": "小豆泽心羽十分害羞怕生，不管做什么都畏首畏尾。\n某天，她在一个小巷中听到的音乐与歌声给予了她心灵强烈的震撼。\n随后在歌曲演唱者白石杏的引导下踏入了街头音乐的世界。",
+    "assetbundleName": "main_street"
+  },
+  {
+    "id": 9,
+    "unit": "theme_park",
+    "unitEpisodeCategory": "none",
+    "outline": "天马司梦想着成为世界第一的舞台明星。\n他被备受欢迎的主题乐园雇用为兼职演员。\n然而，他被安排在没有客人光顾的舞台处工作。\n在那里，他遇到了努力想让舞台复活的凤笑梦。",
+    "assetbundleName": "main_themepark"
+  },
+  {
+    "id": 10,
+    "unit": "school_refusal",
+    "unitEpisodeCategory": "none",
+    "outline": "宵崎奏每天都通过语音聊天软件“Nightcord”，\n和音乐社团的伙伴们交流作曲。\n虽然她们不了解彼此的长相和姓名，但依然配合得很默契。\n然而某天，社团中的一名成员和大家失去了联系。",
+    "assetbundleName": "main_schoolrefusal"
+  }
 ]

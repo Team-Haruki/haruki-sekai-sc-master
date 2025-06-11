@@ -1,37 +1,37 @@
 [
-    {
-        "unit": "idol",
-        "seq": 1,
-        "assetBundleName": "mmj_bgm_1,mmj_bgm_2",
-        "pvAssetBundleName": "https:\/\/www.bilibili.com\/video\/BV12xS9YbEfz",
-        "picAssetBundleName": "UNIT_RELATION_MMJ"
-    },
-    {
-        "unit": "light_sound",
-        "seq": 1,
-        "assetBundleName": "ln_bgm_1,ln_bgm_2",
-        "pvAssetBundleName": "https:\/\/www.bilibili.com\/video\/BV1Em2AYhEnf",
-        "picAssetBundleName": "UNIT_RELATION_LN"
-    },
-    {
-        "unit": "school_refusal",
-        "seq": 1,
-        "assetBundleName": "25_bgm_1,25_bgm_2",
-        "pvAssetBundleName": "https:\/\/www.bilibili.com\/video\/BV1Erw8e5ESj",
-        "picAssetBundleName": "UNIT_RELATION_25"
-    },
-    {
-        "unit": "street",
-        "seq": 1,
-        "assetBundleName": "vbs_bgm_1,vbs_bgm_2",
-        "pvAssetBundleName": "https:\/\/www.bilibili.com\/video\/BV1st6NYhEWZ",
-        "picAssetBundleName": "UNIT_RELATION_VBS"
-    },
-    {
-        "unit": "theme_park",
-        "seq": 1,
-        "assetBundleName": "ws_bgm_1,ws_bgm_2",
-        "pvAssetBundleName": "https:\/\/www.bilibili.com\/video\/BV1LFCHYvEhh",
-        "picAssetBundleName": "UNIT_RELATION_WS"
-    }
+  {
+    "unit": "idol",
+    "seq": 1,
+    "assetBundleName": "mmj_bgm_1,mmj_bgm_2",
+    "pvAssetBundleName": "https://www.bilibili.com/video/BV12xS9YbEfz",
+    "picAssetBundleName": "UNIT_RELATION_MMJ"
+  },
+  {
+    "unit": "light_sound",
+    "seq": 1,
+    "assetBundleName": "ln_bgm_1,ln_bgm_2",
+    "pvAssetBundleName": "https://www.bilibili.com/video/BV1Em2AYhEnf",
+    "picAssetBundleName": "UNIT_RELATION_LN"
+  },
+  {
+    "unit": "school_refusal",
+    "seq": 1,
+    "assetBundleName": "25_bgm_1,25_bgm_2",
+    "pvAssetBundleName": "https://www.bilibili.com/video/BV1Erw8e5ESj",
+    "picAssetBundleName": "UNIT_RELATION_25"
+  },
+  {
+    "unit": "street",
+    "seq": 1,
+    "assetBundleName": "vbs_bgm_1,vbs_bgm_2",
+    "pvAssetBundleName": "https://www.bilibili.com/video/BV1st6NYhEWZ",
+    "picAssetBundleName": "UNIT_RELATION_VBS"
+  },
+  {
+    "unit": "theme_park",
+    "seq": 1,
+    "assetBundleName": "ws_bgm_1,ws_bgm_2",
+    "pvAssetBundleName": "https://www.bilibili.com/video/BV1LFCHYvEhh",
+    "picAssetBundleName": "UNIT_RELATION_WS"
+  }
 ]

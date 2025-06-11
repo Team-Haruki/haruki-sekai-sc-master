@@ -1,362 +1,362 @@
 [
-    {
-        "id": 301,
-        "seq": 7,
-        "appealTargetType": "billing_shop",
-        "appealType": "once",
-        "startAt": 1740794400000,
-        "endAt": 1744300799000,
-        "appealReadConditionType": "transition",
-        "text": "新服装"
-    },
-    {
-        "id": 302,
-        "seq": 50,
-        "appealTargetType": "billing_shop",
-        "appealType": "once",
-        "startAt": 1743472800000,
-        "endAt": 1745978400000,
-        "appealReadConditionType": "transition",
-        "text": "月卡 · 通行证"
-    },
-    {
-        "id": 304,
-        "seq": 1,
-        "appealTargetType": "gacha",
-        "appealType": "daily_once",
-        "startAt": 1740794400000,
-        "endAt": 1743393599000,
-        "appealReadConditionType": "transition",
-        "text": "缤纷节日限定成员登场"
-    },
-    {
-        "id": 305,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "daily_once",
-        "startAt": 1743393600000,
-        "endAt": 1743739199000,
-        "appealReadConditionType": "transition",
-        "text": "期间限定成员登场"
-    },
-    {
-        "id": 306,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "daily_once",
-        "startAt": 1744344000000,
-        "endAt": 1744948799000,
-        "appealReadConditionType": "transition",
-        "text": "期间限定成员登场"
-    },
-    {
-        "id": 307,
-        "seq": 2,
-        "appealTargetType": "gacha",
-        "appealType": "daily_once",
-        "startAt": 1744948800000,
-        "endAt": 1745812799000,
-        "appealReadConditionType": "transition",
-        "text": "组合活动限定成员登场"
-    },
-    {
-        "id": 308,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "daily_once",
-        "startAt": 1744560000000,
-        "endAt": 1745164799000,
-        "appealReadConditionType": "transition",
-        "text": "生日成员登场"
-    },
-    {
-        "id": 309,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "daily_once",
-        "startAt": 1745942400000,
-        "endAt": 1746547199000,
-        "appealReadConditionType": "transition",
-        "text": "生日成员登场"
-    },
-    {
-        "id": 310,
-        "seq": 5,
-        "appealTargetType": "billing_shop",
-        "appealType": "daily_once",
-        "startAt": 1744300800000,
-        "endAt": 1745164740000,
-        "appealReadConditionType": "transition",
-        "text": "实乃理 生日特卖"
-    },
-    {
-        "id": 312,
-        "seq": 50,
-        "appealTargetType": "billing_shop",
-        "appealType": "once",
-        "startAt": 1746064800000,
-        "endAt": 1748656800000,
-        "appealReadConditionType": "transition",
-        "text": "月卡 · 通行证"
-    },
-    {
-        "id": 318,
-        "seq": 60,
-        "appealTargetType": "billing_shop",
-        "appealType": "once",
-        "startAt": 1745553600000,
-        "endAt": 1746028799000,
-        "appealReadConditionType": "transition",
-        "text": "月度招募礼包"
-    },
-    {
-        "id": 319,
-        "seq": 60,
-        "appealTargetType": "billing_shop",
-        "appealType": "once",
-        "startAt": 1746028800000,
-        "endAt": 1748707199000,
-        "appealReadConditionType": "transition",
-        "text": "月度招募礼包"
-    },
-    {
-        "id": 320,
-        "seq": 5,
-        "appealTargetType": "billing_shop",
-        "appealType": "once",
-        "startAt": 1745683200000,
-        "endAt": 1746547199000,
-        "appealReadConditionType": "transition",
-        "text": "绘名 生日特卖"
-    },
-    {
-        "id": 321,
-        "seq": 20,
-        "appealTargetType": "billing_shop",
-        "appealType": "once",
-        "startAt": 1746460800000,
-        "endAt": 1747324799000,
-        "appealReadConditionType": "transition",
-        "text": "咲希 生日特卖"
-    },
-    {
-        "id": 322,
-        "seq": 10,
-        "appealTargetType": "billing_shop",
-        "appealType": "once",
-        "startAt": 1746028800000,
-        "endAt": 1746979199000,
-        "appealReadConditionType": "transition",
-        "text": "五一节庆特卖"
-    },
-    {
-        "id": 323,
-        "seq": 30,
-        "appealTargetType": "billing_shop",
-        "appealType": "once",
-        "startAt": 1746028800000,
-        "endAt": 1746979199000,
-        "appealReadConditionType": "transition",
-        "text": "新服装"
-    },
-    {
-        "id": 324,
-        "seq": 100,
-        "appealTargetType": "billing_shop",
-        "appealType": "ever",
-        "startAt": 1735660800000,
-        "endAt": 4102415940000,
-        "appealReadConditionType": "transition",
-        "text": "水晶商店"
-    },
-    {
-        "id": 325,
-        "seq": 2,
-        "appealTargetType": "billing_shop",
-        "appealType": "once",
-        "startAt": 1735660800000,
-        "endAt": 4102415940000,
-        "appealReadConditionType": "transition",
-        "text": "首充送★4"
-    },
-    {
-        "id": 326,
-        "seq": 50,
-        "appealTargetType": "billing_shop",
-        "appealType": "billing",
-        "startAt": 1735660800000,
-        "endAt": 4102415940000,
-        "appealReadConditionType": "purchase",
-        "text": "优惠月卡"
-    },
-    {
-        "id": 327,
-        "seq": 50,
-        "appealTargetType": "billing_shop",
-        "appealType": "billing",
-        "startAt": 1748707200000,
-        "endAt": 4102415940000,
-        "appealReadConditionType": "purchase",
-        "text": "优惠通行证"
-    },
-    {
-        "id": 328,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "daily_once",
-        "startAt": 1750694400000,
-        "endAt": 1751299199000,
-        "appealReadConditionType": "purchase",
-        "text": "生日成员登场"
-    },
-    {
-        "id": 329,
-        "seq": 30,
-        "appealTargetType": "billing_shop",
-        "appealType": "billing",
-        "startAt": 1735660800000,
-        "endAt": 4102415940000,
-        "appealReadConditionType": "purchase",
-        "text": "特惠招募礼包"
-    },
-    {
-        "id": 330,
-        "seq": 10,
-        "appealTargetType": "billing_shop",
-        "appealType": "billing",
-        "startAt": 1735660800000,
-        "endAt": 4102415940000,
-        "appealReadConditionType": "purchase",
-        "text": "免费礼包"
-    },
-    {
-        "id": 331,
-        "seq": 10,
-        "appealTargetType": "billing_shop",
-        "appealType": "billing",
-        "startAt": 1735660800000,
-        "endAt": 4102415940000,
-        "appealReadConditionType": "purchase",
-        "text": "免费礼包"
-    },
-    {
-        "id": 332,
-        "seq": 10,
-        "appealTargetType": "billing_shop",
-        "appealType": "billing",
-        "startAt": 1735660800000,
-        "endAt": 4102415940000,
-        "appealReadConditionType": "purchase",
-        "text": "免费礼包"
-    },
-    {
-        "id": 333,
-        "seq": 10,
-        "appealTargetType": "billing_shop",
-        "appealType": "billing",
-        "startAt": 1735660800000,
-        "endAt": 4102415940000,
-        "appealReadConditionType": "purchase",
-        "text": "免费礼包"
-    },
-    {
-        "id": 334,
-        "seq": 10,
-        "appealTargetType": "billing_shop",
-        "appealType": "billing",
-        "startAt": 1735660800000,
-        "endAt": 4102415940000,
-        "appealReadConditionType": "purchase",
-        "text": "免费礼包"
-    },
-    {
-        "id": 335,
-        "seq": 10,
-        "appealTargetType": "billing_shop",
-        "appealType": "billing",
-        "startAt": 1735660800000,
-        "endAt": 4102415940000,
-        "appealReadConditionType": "purchase",
-        "text": "免费礼包"
-    },
-    {
-        "id": 336,
-        "seq": 10,
-        "appealTargetType": "billing_shop",
-        "appealType": "billing",
-        "startAt": 1735660800000,
-        "endAt": 4102415940000,
-        "appealReadConditionType": "purchase",
-        "text": "免费礼包"
-    },
-    {
-        "id": 337,
-        "seq": 10,
-        "appealTargetType": "billing_shop",
-        "appealType": "billing",
-        "startAt": 1735660800000,
-        "endAt": 4102415940000,
-        "appealReadConditionType": "purchase",
-        "text": "免费礼包"
-    },
-    {
-        "id": 338,
-        "seq": 10,
-        "appealTargetType": "billing_shop",
-        "appealType": "billing",
-        "startAt": 1735660800000,
-        "endAt": 4102415940000,
-        "appealReadConditionType": "purchase",
-        "text": "免费礼包"
-    },
-    {
-        "id": 339,
-        "seq": 10,
-        "appealTargetType": "billing_shop",
-        "appealType": "billing",
-        "startAt": 1735660800000,
-        "endAt": 4102415940000,
-        "appealReadConditionType": "purchase",
-        "text": "免费礼包"
-    },
-    {
-        "id": 340,
-        "seq": 10,
-        "appealTargetType": "billing_shop",
-        "appealType": "once",
-        "startAt": 1748620800000,
-        "endAt": 1749571140000,
-        "appealReadConditionType": "transition",
-        "text": "新服装"
-    },
-    {
-        "id": 341,
-        "seq": 10,
-        "appealTargetType": "billing_shop",
-        "appealType": "once",
-        "startAt": 1748620800000,
-        "endAt": 1749571140000,
-        "appealReadConditionType": "transition",
-        "text": "限时优惠特卖"
-    },
-    {
-        "id": 342,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "daily_once",
-        "startAt": 1749096000000,
-        "endAt": 1749700799000,
-        "appealReadConditionType": "purchase",
-        "text": "期间限定成员登场"
-    },
-    {
-        "id": 343,
-        "seq": 3,
-        "appealTargetType": "gacha",
-        "appealType": "daily_once",
-        "startAt": 1749700800000,
-        "endAt": 1750564799000,
-        "appealReadConditionType": "purchase",
-        "text": "组合活动限定成员登场"
-    }
+  {
+    "id": 301,
+    "seq": 7,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1740794400000,
+    "endAt": 1744300799000,
+    "appealReadConditionType": "transition",
+    "text": "新服装"
+  },
+  {
+    "id": 302,
+    "seq": 50,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1743472800000,
+    "endAt": 1745978400000,
+    "appealReadConditionType": "transition",
+    "text": "月卡 · 通行证"
+  },
+  {
+    "id": 304,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1740794400000,
+    "endAt": 1743393599000,
+    "appealReadConditionType": "transition",
+    "text": "缤纷节日限定成员登场"
+  },
+  {
+    "id": 305,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1743393600000,
+    "endAt": 1743739199000,
+    "appealReadConditionType": "transition",
+    "text": "期间限定成员登场"
+  },
+  {
+    "id": 306,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1744344000000,
+    "endAt": 1744948799000,
+    "appealReadConditionType": "transition",
+    "text": "期间限定成员登场"
+  },
+  {
+    "id": 307,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1744948800000,
+    "endAt": 1745812799000,
+    "appealReadConditionType": "transition",
+    "text": "组合活动限定成员登场"
+  },
+  {
+    "id": 308,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1744560000000,
+    "endAt": 1745164799000,
+    "appealReadConditionType": "transition",
+    "text": "生日成员登场"
+  },
+  {
+    "id": 309,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1745942400000,
+    "endAt": 1746547199000,
+    "appealReadConditionType": "transition",
+    "text": "生日成员登场"
+  },
+  {
+    "id": 310,
+    "seq": 5,
+    "appealTargetType": "billing_shop",
+    "appealType": "daily_once",
+    "startAt": 1744300800000,
+    "endAt": 1745164740000,
+    "appealReadConditionType": "transition",
+    "text": "实乃理 生日特卖"
+  },
+  {
+    "id": 312,
+    "seq": 50,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1746064800000,
+    "endAt": 1748656800000,
+    "appealReadConditionType": "transition",
+    "text": "月卡 · 通行证"
+  },
+  {
+    "id": 318,
+    "seq": 60,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1745553600000,
+    "endAt": 1746028799000,
+    "appealReadConditionType": "transition",
+    "text": "月度招募礼包"
+  },
+  {
+    "id": 319,
+    "seq": 60,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1746028800000,
+    "endAt": 1748707199000,
+    "appealReadConditionType": "transition",
+    "text": "月度招募礼包"
+  },
+  {
+    "id": 320,
+    "seq": 5,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1745683200000,
+    "endAt": 1746547199000,
+    "appealReadConditionType": "transition",
+    "text": "绘名 生日特卖"
+  },
+  {
+    "id": 321,
+    "seq": 20,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1746460800000,
+    "endAt": 1747324799000,
+    "appealReadConditionType": "transition",
+    "text": "咲希 生日特卖"
+  },
+  {
+    "id": 322,
+    "seq": 10,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1746028800000,
+    "endAt": 1746979199000,
+    "appealReadConditionType": "transition",
+    "text": "五一节庆特卖"
+  },
+  {
+    "id": 323,
+    "seq": 30,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1746028800000,
+    "endAt": 1746979199000,
+    "appealReadConditionType": "transition",
+    "text": "新服装"
+  },
+  {
+    "id": 324,
+    "seq": 100,
+    "appealTargetType": "billing_shop",
+    "appealType": "ever",
+    "startAt": 1735660800000,
+    "endAt": 4102415940000,
+    "appealReadConditionType": "transition",
+    "text": "水晶商店"
+  },
+  {
+    "id": 325,
+    "seq": 2,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1735660800000,
+    "endAt": 4102415940000,
+    "appealReadConditionType": "transition",
+    "text": "首充送★4"
+  },
+  {
+    "id": 326,
+    "seq": 50,
+    "appealTargetType": "billing_shop",
+    "appealType": "billing",
+    "startAt": 1735660800000,
+    "endAt": 4102415940000,
+    "appealReadConditionType": "purchase",
+    "text": "优惠月卡"
+  },
+  {
+    "id": 327,
+    "seq": 50,
+    "appealTargetType": "billing_shop",
+    "appealType": "billing",
+    "startAt": 1748707200000,
+    "endAt": 4102415940000,
+    "appealReadConditionType": "purchase",
+    "text": "优惠通行证"
+  },
+  {
+    "id": 328,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1750694400000,
+    "endAt": 1751299199000,
+    "appealReadConditionType": "purchase",
+    "text": "生日成员登场"
+  },
+  {
+    "id": 329,
+    "seq": 30,
+    "appealTargetType": "billing_shop",
+    "appealType": "billing",
+    "startAt": 1735660800000,
+    "endAt": 4102415940000,
+    "appealReadConditionType": "purchase",
+    "text": "特惠招募礼包"
+  },
+  {
+    "id": 330,
+    "seq": 10,
+    "appealTargetType": "billing_shop",
+    "appealType": "billing",
+    "startAt": 1735660800000,
+    "endAt": 4102415940000,
+    "appealReadConditionType": "purchase",
+    "text": "免费礼包"
+  },
+  {
+    "id": 331,
+    "seq": 10,
+    "appealTargetType": "billing_shop",
+    "appealType": "billing",
+    "startAt": 1735660800000,
+    "endAt": 4102415940000,
+    "appealReadConditionType": "purchase",
+    "text": "免费礼包"
+  },
+  {
+    "id": 332,
+    "seq": 10,
+    "appealTargetType": "billing_shop",
+    "appealType": "billing",
+    "startAt": 1735660800000,
+    "endAt": 4102415940000,
+    "appealReadConditionType": "purchase",
+    "text": "免费礼包"
+  },
+  {
+    "id": 333,
+    "seq": 10,
+    "appealTargetType": "billing_shop",
+    "appealType": "billing",
+    "startAt": 1735660800000,
+    "endAt": 4102415940000,
+    "appealReadConditionType": "purchase",
+    "text": "免费礼包"
+  },
+  {
+    "id": 334,
+    "seq": 10,
+    "appealTargetType": "billing_shop",
+    "appealType": "billing",
+    "startAt": 1735660800000,
+    "endAt": 4102415940000,
+    "appealReadConditionType": "purchase",
+    "text": "免费礼包"
+  },
+  {
+    "id": 335,
+    "seq": 10,
+    "appealTargetType": "billing_shop",
+    "appealType": "billing",
+    "startAt": 1735660800000,
+    "endAt": 4102415940000,
+    "appealReadConditionType": "purchase",
+    "text": "免费礼包"
+  },
+  {
+    "id": 336,
+    "seq": 10,
+    "appealTargetType": "billing_shop",
+    "appealType": "billing",
+    "startAt": 1735660800000,
+    "endAt": 4102415940000,
+    "appealReadConditionType": "purchase",
+    "text": "免费礼包"
+  },
+  {
+    "id": 337,
+    "seq": 10,
+    "appealTargetType": "billing_shop",
+    "appealType": "billing",
+    "startAt": 1735660800000,
+    "endAt": 4102415940000,
+    "appealReadConditionType": "purchase",
+    "text": "免费礼包"
+  },
+  {
+    "id": 338,
+    "seq": 10,
+    "appealTargetType": "billing_shop",
+    "appealType": "billing",
+    "startAt": 1735660800000,
+    "endAt": 4102415940000,
+    "appealReadConditionType": "purchase",
+    "text": "免费礼包"
+  },
+  {
+    "id": 339,
+    "seq": 10,
+    "appealTargetType": "billing_shop",
+    "appealType": "billing",
+    "startAt": 1735660800000,
+    "endAt": 4102415940000,
+    "appealReadConditionType": "purchase",
+    "text": "免费礼包"
+  },
+  {
+    "id": 340,
+    "seq": 10,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1748620800000,
+    "endAt": 1749571140000,
+    "appealReadConditionType": "transition",
+    "text": "新服装"
+  },
+  {
+    "id": 341,
+    "seq": 10,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1748620800000,
+    "endAt": 1749571140000,
+    "appealReadConditionType": "transition",
+    "text": "限时优惠特卖"
+  },
+  {
+    "id": 342,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1749096000000,
+    "endAt": 1749700799000,
+    "appealReadConditionType": "purchase",
+    "text": "期间限定成员登场"
+  },
+  {
+    "id": 343,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1749700800000,
+    "endAt": 1750564799000,
+    "appealReadConditionType": "purchase",
+    "text": "组合活动限定成员登场"
+  }
 ]
