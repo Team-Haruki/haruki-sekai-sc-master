@@ -34311,5 +34311,26 @@
     "assetbundleName": "vs_11008_01",
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1735660800000
+  },
+  {
+    "id": 110009,
+    "musicId": 11009,
+    "musicVocalType": "virtual_singer",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "虚拟歌手ver.",
+    "characters": [
+      {
+        "id": 110009,
+        "musicId": 11009,
+        "musicVocalId": 110009,
+        "characterType": "outside_character",
+        "characterId": 10000,
+        "seq": 110009
+      }
+    ],
+    "assetbundleName": "vs_11009_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1752044400000
   }
 ]

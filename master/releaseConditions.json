@@ -35265,6 +35265,13 @@
     "releaseConditionTypeQuantity": 7
   },
   {
+    "id": 490009,
+    "sentence": "购买歌曲后，通关EXPERT并且GOOD及以下\n评价不超过7个",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 490044,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
     "id": 800001,
     "sentence": "参加虚拟演唱会",
     "releaseConditionType": "virtual_live_participation",

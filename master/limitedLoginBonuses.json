@@ -1138,5 +1138,43 @@
         "resourceBoxId": 2036
       }
     ]
+  },
+  {
+    "id": 1112,
+    "startAt": 1750651200000,
+    "endAt": 1751659199000,
+    "assetbundleName": "100day_anniversary",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1278,
+        "limitedLoginBonusId": 1112,
+        "day": 1,
+        "resourceBoxId": 2063
+      },
+      {
+        "id": 1279,
+        "limitedLoginBonusId": 1112,
+        "day": 2,
+        "resourceBoxId": 2063
+      },
+      {
+        "id": 1280,
+        "limitedLoginBonusId": 1112,
+        "day": 3,
+        "resourceBoxId": 2063
+      },
+      {
+        "id": 1281,
+        "limitedLoginBonusId": 1112,
+        "day": 4,
+        "resourceBoxId": 2063
+      },
+      {
+        "id": 1282,
+        "limitedLoginBonusId": 1112,
+        "day": 5,
+        "resourceBoxId": 2063
+      }
+    ]
   }
 ]

@@ -410408,6 +410408,14 @@
     "resourceType": "boost_item"
   },
   {
+    "resourceBoxId": 20038,
+    "resourceQuantity": 1,
+    "resourceId": 11009,
+    "resourceBoxPurpose": "gift_detail",
+    "resourceLevel": null,
+    "resourceType": "music"
+  },
+  {
     "resourceBoxId": 9999999,
     "resourceQuantity": 1,
     "resourceId": 1,
@@ -419419,6 +419427,14 @@
     "resourceBoxId": 2062,
     "resourceQuantity": 1,
     "resourceId": 1002,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 2063,
+    "resourceQuantity": 1,
+    "resourceId": 1007,
     "resourceBoxPurpose": "login_bonus",
     "resourceLevel": null,
     "resourceType": "gacha_ticket"
