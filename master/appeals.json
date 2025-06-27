@@ -211,7 +211,7 @@
   },
   {
     "id": 329,
-    "seq": 30,
+    "seq": 1,
     "appealTargetType": "billing_shop",
     "appealType": "billing",
     "startAt": 1735660800000,
@@ -358,5 +358,125 @@
     "endAt": 1750564799000,
     "appealReadConditionType": "purchase",
     "text": "组合活动限定成员登场"
+  },
+  {
+    "id": 344,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1751688000000,
+    "endAt": 1752033599000,
+    "appealReadConditionType": "purchase",
+    "text": "★4出现率2倍"
+  },
+  {
+    "id": 345,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1751688000000,
+    "endAt": 1752033599000,
+    "appealReadConditionType": "purchase",
+    "text": "奏、MEIKO登场"
+  },
+  {
+    "id": 346,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1752033600000,
+    "endAt": 1752379199000,
+    "appealReadConditionType": "purchase",
+    "text": "期间限定成员登场"
+  },
+  {
+    "id": 347,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1752033600000,
+    "endAt": 1752379199000,
+    "appealReadConditionType": "purchase",
+    "text": "心羽、彰人、未来登场"
+  },
+  {
+    "id": 348,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1752379200000,
+    "endAt": 1752983999000,
+    "appealReadConditionType": "purchase",
+    "text": "司、类、流歌登场"
+  },
+  {
+    "id": 349,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1752984000000,
+    "endAt": 1753847999000,
+    "appealReadConditionType": "purchase",
+    "text": "组合活动限定成员登场"
+  },
+  {
+    "id": 350,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1752984000000,
+    "endAt": 1753847999000,
+    "appealReadConditionType": "purchase",
+    "text": "Leo/need成员登场"
+  },
+  {
+    "id": 351,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1753848000000,
+    "endAt": 1754452799000,
+    "appealReadConditionType": "purchase",
+    "text": "期间限定成员登场"
+  },
+  {
+    "id": 352,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1753848000000,
+    "endAt": 1754452799000,
+    "appealReadConditionType": "purchase",
+    "text": "爱莉、遥、雫登场"
+  },
+  {
+    "id": 353,
+    "seq": 3,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1751688000000,
+    "endAt": 1753027199000,
+    "appealReadConditionType": "transition",
+    "text": "「百日庆典」特惠礼包"
+  },
+  {
+    "id": 354,
+    "seq": 3,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1751688000000,
+    "endAt": 1753027199000,
+    "appealReadConditionType": "transition",
+    "text": "「庆典支援」特惠水晶"
+  },
+  {
+    "id": 355,
+    "seq": 3,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1751688000000,
+    "endAt": 1753027199000,
+    "appealReadConditionType": "transition",
+    "text": "新服装"
   }
 ]
