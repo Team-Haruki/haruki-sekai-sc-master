@@ -2,7 +2,9 @@
   {
     "id": 1,
     "areaId": 4,
+    "actionSetType": null,
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_cdshop_mob",
     "characterIds": [
       1
@@ -14,6 +16,7 @@
   {
     "id": 2,
     "areaId": 5,
+    "actionSetType": null,
     "isNextGrade": false,
     "scenarioId": "op_02area",
     "scriptId": "tutorial",
@@ -27,7 +30,9 @@
   {
     "id": 3,
     "areaId": 4,
+    "actionSetType": null,
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_cdshop_mob",
     "characterIds": [
       58,
@@ -40,7 +45,9 @@
   {
     "id": 4,
     "areaId": 3,
+    "actionSetType": null,
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_shoppingmall_staff",
     "characterIds": [
       61
@@ -5278,7 +5285,9 @@
   {
     "id": 382,
     "areaId": 11,
+    "actionSetType": null,
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_kamiyamah_shopmob",
     "characterIds": [
       105
@@ -5290,7 +5299,9 @@
   {
     "id": 383,
     "areaId": 13,
+    "actionSetType": null,
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_miyazyo_shopmob",
     "characterIds": [
       106
@@ -5302,7 +5313,9 @@
   {
     "id": 384,
     "areaId": 3,
+    "actionSetType": null,
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_shoppingmall_stampshopstaff",
     "characterIds": [
       62
@@ -12366,6 +12379,7 @@
     "areaId": 4,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_vocalshop_mob",
     "characterIds": [
       57
@@ -13111,6 +13125,7 @@
     "areaId": 8,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_ev_shuffle_03_mob_01",
     "characterIds": [
       107,
@@ -13127,6 +13142,7 @@
     "areaId": 9,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_ev_shuffle_03_mob_02",
     "characterIds": [
       13,
@@ -13141,6 +13157,7 @@
     "areaId": 9,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_ev_shuffle_03_mob_03",
     "characterIds": [
       14,
@@ -13155,6 +13172,7 @@
     "areaId": 8,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_ev_shuffle_03_mob_04",
     "characterIds": [
       23,
@@ -13171,6 +13189,7 @@
     "areaId": 8,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_ev_shuffle_03_mob_05",
     "characterIds": [
       107,
@@ -18722,6 +18741,7 @@
       13,
       14
     ],
+    "archiveDisplayType": null,
     "archivePublishedAt": 1475218800000,
     "releaseConditionId": 104508
   },
@@ -19133,6 +19153,7 @@
     "areaId": 7,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_ev_oshogatsu_2022_001",
     "characterIds": [
       189,
@@ -19149,6 +19170,7 @@
     "areaId": 7,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_ev_oshogatsu_2022_002",
     "characterIds": [
       192,
@@ -19164,6 +19186,7 @@
     "areaId": 7,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_ev_oshogatsu_2022_003",
     "characterIds": [
       198,
@@ -19179,6 +19202,7 @@
     "areaId": 7,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_ev_oshogatsu_2022_004",
     "characterIds": [
       183,
@@ -19195,6 +19219,7 @@
     "areaId": 7,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_ev_oshogatsu_2022_005",
     "characterIds": [
       189,
@@ -19211,6 +19236,7 @@
     "areaId": 10,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_ev_oshogatsu_2022_006",
     "characterIds": [
       207,
@@ -19227,6 +19253,7 @@
     "areaId": 10,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_ev_oshogatsu_2022_007",
     "characterIds": [
       205,
@@ -19243,6 +19270,7 @@
     "areaId": 5,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_ev_oshogatsu_2022_008",
     "characterIds": [
       172,
@@ -19257,6 +19285,7 @@
     "areaId": 5,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_ev_oshogatsu_2022_009",
     "characterIds": [
       174,
@@ -19271,6 +19300,7 @@
     "areaId": 5,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_ev_oshogatsu_2022_010",
     "characterIds": [
       176,
@@ -19285,6 +19315,7 @@
     "areaId": 5,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_ev_oshogatsu_2022_011",
     "characterIds": [
       177,
@@ -19299,6 +19330,7 @@
     "areaId": 5,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_ev_oshogatsu_2022_012",
     "characterIds": [
       178,
@@ -23524,6 +23556,7 @@
     "areaId": 9,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_ev_oshogatsu_2023_001",
     "characterIds": [
       24,
@@ -23541,6 +23574,7 @@
     "areaId": 9,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_ev_oshogatsu_2023_002",
     "characterIds": [
       120,
@@ -23558,6 +23592,7 @@
     "areaId": 7,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_ev_oshogatsu_2023_003",
     "characterIds": [
       5,
@@ -23574,6 +23609,7 @@
     "areaId": 7,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_ev_oshogatsu_2023_004",
     "characterIds": [
       7,
@@ -23590,6 +23626,7 @@
     "areaId": 7,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_ev_oshogatsu_2023_005",
     "characterIds": [
       25,
@@ -23606,6 +23643,7 @@
     "areaId": 7,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_ev_oshogatsu_2023_006",
     "characterIds": [
       165,
@@ -23622,6 +23660,7 @@
     "areaId": 7,
     "actionSetType": "normal",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_ev_oshogatsu_2023_007",
     "characterIds": [
       165,
@@ -25211,6 +25250,7 @@
     "areaId": 16,
     "actionSetType": "limited",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_aprilfool2023_special_001",
     "characterIds": [
       1,
@@ -25228,6 +25268,7 @@
     "areaId": 15,
     "actionSetType": "limited",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_aprilfool2023_special_002",
     "characterIds": [
       5,
@@ -25245,6 +25286,7 @@
     "areaId": 16,
     "actionSetType": "limited",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_aprilfool2023_special_003",
     "characterIds": [
       9,
@@ -25262,6 +25304,7 @@
     "areaId": 16,
     "actionSetType": "limited",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_aprilfool2023_special_004",
     "characterIds": [
       13,
@@ -25279,6 +25322,7 @@
     "areaId": 15,
     "actionSetType": "limited",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_aprilfool2023_special_005",
     "characterIds": [
       17,
@@ -25296,6 +25340,7 @@
     "areaId": 16,
     "actionSetType": "limited",
     "isNextGrade": false,
+    "scenarioId": null,
     "scriptId": "as_aprilfool2023_special_006",
     "characterIds": [
       1,
@@ -29869,7 +29914,9 @@
   {
     "id": 2000,
     "areaId": 4,
+    "actionSetType": null,
     "isNextGrade": true,
+    "scenarioId": null,
     "scriptId": "as_3rdanv_cdshop_mob",
     "characterIds": [
       1
@@ -29881,7 +29928,9 @@
   {
     "id": 2001,
     "areaId": 4,
+    "actionSetType": null,
     "isNextGrade": true,
+    "scenarioId": null,
     "scriptId": "as_3rdanv_cdshop_mob",
     "characterIds": [
       335
@@ -29893,7 +29942,9 @@
   {
     "id": 2002,
     "areaId": 3,
+    "actionSetType": null,
     "isNextGrade": true,
+    "scenarioId": null,
     "scriptId": "as_3rdanv_shoppingmall_staff",
     "characterIds": [
       336
@@ -29905,7 +29956,9 @@
   {
     "id": 2003,
     "areaId": 11,
+    "actionSetType": null,
     "isNextGrade": true,
+    "scenarioId": null,
     "scriptId": "as_3rdanv_kamiyamah_shopmob",
     "characterIds": [
       338
@@ -29917,7 +29970,9 @@
   {
     "id": 2004,
     "areaId": 13,
+    "actionSetType": null,
     "isNextGrade": true,
+    "scenarioId": null,
     "scriptId": "as_3rdanv_miyazyo_shopmob",
     "characterIds": [
       339
@@ -29929,7 +29984,9 @@
   {
     "id": 2005,
     "areaId": 3,
+    "actionSetType": null,
     "isNextGrade": true,
+    "scenarioId": null,
     "scriptId": "as_3rdanv_shoppingmall_stampshopstaff",
     "characterIds": [
       337
@@ -29943,6 +30000,7 @@
     "areaId": 4,
     "actionSetType": "normal",
     "isNextGrade": true,
+    "scenarioId": null,
     "scriptId": "as_3rdanv_vocalshop_mob",
     "characterIds": [
       334
@@ -35270,6 +35328,7 @@
       297
     ],
     "archiveDisplayType": "none",
+    "archivePublishedAt": null,
     "releaseConditionId": 1
   },
   {
