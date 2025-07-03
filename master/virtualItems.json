@@ -9,10 +9,7 @@
     "costVirtualCoin": 30,
     "costJewel": 10,
     "effectAssetbundleName": "cracker_001",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 2,
@@ -24,10 +21,7 @@
     "costVirtualCoin": 90,
     "costJewel": 30,
     "effectAssetbundleName": "baloon_001",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 4,
@@ -39,10 +33,7 @@
     "costVirtualCoin": 150,
     "costJewel": 50,
     "effectAssetbundleName": "heart_001",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 5,
@@ -54,10 +45,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "leser_all_001",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 6,
@@ -69,10 +57,7 @@
     "costVirtualCoin": 3000,
     "costJewel": 1000,
     "effectAssetbundleName": "sekai_all_001",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 8,
@@ -84,10 +69,7 @@
     "costVirtualCoin": 900,
     "costJewel": 300,
     "effectAssetbundleName": "snow_all_001",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 9,
@@ -100,8 +82,6 @@
     "costJewel": 100,
     "effectAssetbundleName": "unit_clover_morejump",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
     "unit": "idol"
   },
   {
@@ -115,8 +95,6 @@
     "costJewel": 100,
     "effectAssetbundleName": "unit_heart_25night",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
     "unit": "school_refusal"
   },
   {
@@ -130,8 +108,6 @@
     "costJewel": 100,
     "effectAssetbundleName": "unit_king_wonder",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
     "unit": "theme_park"
   },
   {
@@ -145,8 +121,6 @@
     "costJewel": 100,
     "effectAssetbundleName": "unit_sing_piapro",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
     "unit": "piapro"
   },
   {
@@ -160,8 +134,6 @@
     "costJewel": 100,
     "effectAssetbundleName": "unit_star_leoneed",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
     "unit": "light_sound"
   },
   {
@@ -175,8 +147,6 @@
     "costJewel": 100,
     "effectAssetbundleName": "unit_record_vivibad",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
     "unit": "street"
   },
   {
@@ -189,10 +159,7 @@
     "costVirtualCoin": 90,
     "costJewel": 30,
     "effectAssetbundleName": "fireworks_rocket",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 18,
@@ -204,10 +171,7 @@
     "costVirtualCoin": 150,
     "costJewel": 50,
     "effectAssetbundleName": "uchiwa",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 19,
@@ -220,9 +184,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_ichika",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 1,
-    "unit": null
+    "gameCharacterUnitId": 1
   },
   {
     "id": 20,
@@ -235,9 +197,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_saki",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 2,
-    "unit": null
+    "gameCharacterUnitId": 2
   },
   {
     "id": 21,
@@ -250,9 +210,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_honami",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 3,
-    "unit": null
+    "gameCharacterUnitId": 3
   },
   {
     "id": 22,
@@ -265,9 +223,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_shiho",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 4,
-    "unit": null
+    "gameCharacterUnitId": 4
   },
   {
     "id": 23,
@@ -280,9 +236,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_minori",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 5,
-    "unit": null
+    "gameCharacterUnitId": 5
   },
   {
     "id": 24,
@@ -295,9 +249,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_haruka",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 6,
-    "unit": null
+    "gameCharacterUnitId": 6
   },
   {
     "id": 25,
@@ -310,9 +262,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_airi",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 7,
-    "unit": null
+    "gameCharacterUnitId": 7
   },
   {
     "id": 26,
@@ -325,9 +275,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_shizuku",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 8,
-    "unit": null
+    "gameCharacterUnitId": 8
   },
   {
     "id": 27,
@@ -340,9 +288,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_kohane",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 9,
-    "unit": null
+    "gameCharacterUnitId": 9
   },
   {
     "id": 28,
@@ -355,9 +301,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_an",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 10,
-    "unit": null
+    "gameCharacterUnitId": 10
   },
   {
     "id": 29,
@@ -370,9 +314,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_akito",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 11,
-    "unit": null
+    "gameCharacterUnitId": 11
   },
   {
     "id": 30,
@@ -385,9 +327,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_toya",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 12,
-    "unit": null
+    "gameCharacterUnitId": 12
   },
   {
     "id": 31,
@@ -400,9 +340,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_tukasa",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 13,
-    "unit": null
+    "gameCharacterUnitId": 13
   },
   {
     "id": 32,
@@ -415,9 +353,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_emu",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 14,
-    "unit": null
+    "gameCharacterUnitId": 14
   },
   {
     "id": 33,
@@ -430,9 +366,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_nene",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 15,
-    "unit": null
+    "gameCharacterUnitId": 15
   },
   {
     "id": 34,
@@ -445,9 +379,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_rui",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 16,
-    "unit": null
+    "gameCharacterUnitId": 16
   },
   {
     "id": 35,
@@ -460,9 +392,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_kanade",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 17,
-    "unit": null
+    "gameCharacterUnitId": 17
   },
   {
     "id": 36,
@@ -475,9 +405,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_mafuyu",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 18,
-    "unit": null
+    "gameCharacterUnitId": 18
   },
   {
     "id": 37,
@@ -490,9 +418,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_ena",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 19,
-    "unit": null
+    "gameCharacterUnitId": 19
   },
   {
     "id": 38,
@@ -505,9 +431,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_mizuki",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 20,
-    "unit": null
+    "gameCharacterUnitId": 20
   },
   {
     "id": 39,
@@ -520,9 +444,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_miku",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 21,
-    "unit": null
+    "gameCharacterUnitId": 21
   },
   {
     "id": 40,
@@ -535,9 +457,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_rin",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 22,
-    "unit": null
+    "gameCharacterUnitId": 22
   },
   {
     "id": 41,
@@ -550,9 +470,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_len",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 23,
-    "unit": null
+    "gameCharacterUnitId": 23
   },
   {
     "id": 42,
@@ -565,9 +483,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_luka",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 24,
-    "unit": null
+    "gameCharacterUnitId": 24
   },
   {
     "id": 43,
@@ -580,9 +496,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_meiko",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 25,
-    "unit": null
+    "gameCharacterUnitId": 25
   },
   {
     "id": 44,
@@ -595,9 +509,7 @@
     "costJewel": 100,
     "effectAssetbundleName": "chara_kaito",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 26,
-    "unit": null
+    "gameCharacterUnitId": 26
   },
   {
     "id": 45,
@@ -610,9 +522,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_haruka_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 6,
-    "unit": null
+    "gameCharacterUnitId": 6
   },
   {
     "id": 46,
@@ -624,10 +534,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_planetarium",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 47,
@@ -639,10 +546,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_marionette",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 48,
@@ -655,9 +559,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_honami_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 3,
-    "unit": null
+    "gameCharacterUnitId": 3
   },
   {
     "id": 49,
@@ -669,10 +571,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_halloween_2020",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 50,
@@ -684,10 +583,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_zombie",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 51,
@@ -700,9 +596,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_meiko_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 25,
-    "unit": null
+    "gameCharacterUnitId": 25
   },
   {
     "id": 52,
@@ -715,9 +609,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_akito_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 11,
-    "unit": null
+    "gameCharacterUnitId": 11
   },
   {
     "id": 53,
@@ -729,10 +621,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_restart",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 54,
@@ -744,10 +633,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_forward",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 55,
@@ -760,9 +646,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_shizuku_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 8,
-    "unit": null
+    "gameCharacterUnitId": 8
   },
   {
     "id": 56,
@@ -774,10 +658,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_nijiiro",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 57,
@@ -789,10 +670,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_xmas",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 58,
@@ -805,9 +683,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_rin_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 22,
-    "unit": null
+    "gameCharacterUnitId": 22
   },
   {
     "id": 59,
@@ -820,9 +696,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_len_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 23,
-    "unit": null
+    "gameCharacterUnitId": 23
   },
   {
     "id": 60,
@@ -834,10 +708,7 @@
     "costVirtualCoin": 30,
     "costJewel": 10,
     "effectAssetbundleName": "event_new_year_01",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 61,
@@ -849,10 +720,7 @@
     "costVirtualCoin": 30,
     "costJewel": 10,
     "effectAssetbundleName": "event_new_year_02",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 62,
@@ -864,10 +732,7 @@
     "costVirtualCoin": 30,
     "costJewel": 10,
     "effectAssetbundleName": "event_new_year_03",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 63,
@@ -879,10 +744,7 @@
     "costVirtualCoin": 30,
     "costJewel": 10,
     "effectAssetbundleName": "event_new_year_04",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 64,
@@ -894,10 +756,7 @@
     "costVirtualCoin": 30,
     "costJewel": 10,
     "effectAssetbundleName": "event_new_year_05",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 67,
@@ -910,9 +769,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_shiho_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 4,
-    "unit": null
+    "gameCharacterUnitId": 4
   },
   {
     "id": 68,
@@ -924,10 +781,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_hareomatsu",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 69,
@@ -939,10 +793,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_color",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 70,
@@ -955,9 +806,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_mafuyu_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 18,
-    "unit": null
+    "gameCharacterUnitId": 18
   },
   {
     "id": 71,
@@ -970,9 +819,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_luka_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 24,
-    "unit": null
+    "gameCharacterUnitId": 24
   },
   {
     "id": 72,
@@ -984,10 +831,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_nocturne",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 73,
@@ -1000,9 +844,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_kanade_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 17,
-    "unit": null
+    "gameCharacterUnitId": 17
   },
   {
     "id": 74,
@@ -1014,10 +856,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_valentine_2021",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 75,
@@ -1030,9 +869,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_kaito_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 26,
-    "unit": null
+    "gameCharacterUnitId": 26
   },
   {
     "id": 76,
@@ -1044,10 +881,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_infinitelygray",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 77,
@@ -1060,9 +894,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_kohane_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 9,
-    "unit": null
+    "gameCharacterUnitId": 9
   },
   {
     "id": 78,
@@ -1074,10 +906,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_dream",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 79,
@@ -1089,10 +918,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_hinamatsuri",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 80,
@@ -1104,10 +930,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_whiteday_2021",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 81,
@@ -1120,9 +943,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_airi_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 7,
-    "unit": null
+    "gameCharacterUnitId": 7
   },
   {
     "id": 82,
@@ -1134,10 +955,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_angelclover",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 83,
@@ -1149,10 +967,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_hanami",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 84,
@@ -1164,10 +979,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_secret",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 85,
@@ -1180,9 +992,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_minori_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 5,
-    "unit": null
+    "gameCharacterUnitId": 5
   },
   {
     "id": 86,
@@ -1194,10 +1004,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_resonate",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 87,
@@ -1210,9 +1017,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_ena_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 19,
-    "unit": null
+    "gameCharacterUnitId": 19
   },
   {
     "id": 88,
@@ -1224,10 +1029,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_stray",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 89,
@@ -1240,9 +1042,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_saki_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 2,
-    "unit": null
+    "gameCharacterUnitId": 2
   },
   {
     "id": 90,
@@ -1254,10 +1054,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_picnic",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 91,
@@ -1270,9 +1067,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_tukasa_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 13,
-    "unit": null
+    "gameCharacterUnitId": 13
   },
   {
     "id": 92,
@@ -1284,10 +1079,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_breaktime",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 93,
@@ -1300,9 +1092,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_toya_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 12,
-    "unit": null
+    "gameCharacterUnitId": 12
   },
   {
     "id": 94,
@@ -1314,10 +1104,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_bridal",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 95,
@@ -1329,10 +1116,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_wonders",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 96,
@@ -1344,10 +1128,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_carnation",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 97,
@@ -1360,9 +1141,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_rui_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 16,
-    "unit": null
+    "gameCharacterUnitId": 16
   },
   {
     "id": 98,
@@ -1374,10 +1153,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_unnamed",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 99,
@@ -1389,10 +1165,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_tanabata",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 100,
@@ -1404,10 +1177,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_awakening",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 101,
@@ -1420,9 +1190,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_nene_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 15,
-    "unit": null
+    "gameCharacterUnitId": 15
   },
   {
     "id": 102,
@@ -1435,9 +1203,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_an_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 10,
-    "unit": null
+    "gameCharacterUnitId": 10
   },
   {
     "id": 103,
@@ -1450,9 +1216,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_ichika_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 1,
-    "unit": null
+    "gameCharacterUnitId": 1
   },
   {
     "id": 104,
@@ -1465,9 +1229,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_mizuki_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 20,
-    "unit": null
+    "gameCharacterUnitId": 20
   },
   {
     "id": 105,
@@ -1480,9 +1242,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_miku_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 21,
-    "unit": null
+    "gameCharacterUnitId": 21
   },
   {
     "id": 106,
@@ -1495,9 +1255,7 @@
     "costJewel": 300,
     "effectAssetbundleName": "chara_emu_birthday",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": 14,
-    "unit": null
+    "gameCharacterUnitId": 14
   },
   {
     "id": 107,
@@ -1509,10 +1267,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_anniversary_01",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 108,
@@ -1525,8 +1280,6 @@
     "costJewel": 100,
     "effectAssetbundleName": "event_anniversary_02",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
     "unit": "piapro"
   },
   {
@@ -1540,8 +1293,6 @@
     "costJewel": 100,
     "effectAssetbundleName": "event_anniversary_03",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
     "unit": "light_sound"
   },
   {
@@ -1555,8 +1306,6 @@
     "costJewel": 100,
     "effectAssetbundleName": "event_anniversary_04",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
     "unit": "idol"
   },
   {
@@ -1570,8 +1319,6 @@
     "costJewel": 100,
     "effectAssetbundleName": "event_anniversary_05",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
     "unit": "street"
   },
   {
@@ -1585,8 +1332,6 @@
     "costJewel": 100,
     "effectAssetbundleName": "event_anniversary_06",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
     "unit": "theme_park"
   },
   {
@@ -1600,8 +1345,6 @@
     "costJewel": 100,
     "effectAssetbundleName": "event_anniversary_07",
     "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
     "unit": "school_refusal"
   },
   {
@@ -1614,10 +1357,7 @@
     "costVirtualCoin": 300,
     "costJewel": 100,
     "effectAssetbundleName": "event_new_year_2024_01",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 119,
@@ -1629,10 +1369,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_new_year_2024_02",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 1001,
@@ -1644,10 +1381,7 @@
     "costVirtualCoin": 300,
     "costJewel": 100,
     "effectAssetbundleName": "event_yuandan_01",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 1002,
@@ -1659,10 +1393,7 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_yuandan_02",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 1009,
@@ -1674,10 +1405,7 @@
     "costVirtualCoin": 300,
     "costJewel": 100,
     "effectAssetbundleName": "event_new_year_2024_01",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   },
   {
     "id": 1010,
@@ -1689,9 +1417,6 @@
     "costVirtualCoin": 450,
     "costJewel": 150,
     "effectAssetbundleName": "event_new_year_2024_02",
-    "effectExpressionType": "throw_effect",
-    "virtualItemLabelType": null,
-    "gameCharacterUnitId": null,
-    "unit": null
+    "effectExpressionType": "throw_effect"
   }
 ]

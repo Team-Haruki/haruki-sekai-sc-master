@@ -5,10 +5,7 @@
     "seq": 3,
     "resourceBoxId": 1,
     "cost": 1,
-    "refreshCycle": "weekly",
-    "exchangeLimit": null,
-    "startAt": null,
-    "endAt": null
+    "refreshCycle": "weekly"
   },
   {
     "id": 2,
@@ -17,9 +14,7 @@
     "resourceBoxId": 2,
     "cost": 1,
     "refreshCycle": "weekly",
-    "exchangeLimit": 120,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 120
   },
   {
     "id": 3,
@@ -28,9 +23,7 @@
     "resourceBoxId": 3,
     "cost": 5,
     "refreshCycle": "weekly",
-    "exchangeLimit": 40,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 40
   },
   {
     "id": 4,
@@ -39,9 +32,7 @@
     "resourceBoxId": 4,
     "cost": 5,
     "refreshCycle": "weekly",
-    "exchangeLimit": 40,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 40
   },
   {
     "id": 5,
@@ -50,9 +41,7 @@
     "resourceBoxId": 5,
     "cost": 10,
     "refreshCycle": "weekly",
-    "exchangeLimit": 40,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 40
   },
   {
     "id": 6,
@@ -61,9 +50,7 @@
     "resourceBoxId": 6,
     "cost": 10,
     "refreshCycle": "weekly",
-    "exchangeLimit": 20,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 20
   },
   {
     "id": 7,
@@ -72,9 +59,7 @@
     "resourceBoxId": 7,
     "cost": 10,
     "refreshCycle": "weekly",
-    "exchangeLimit": 15,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 15
   },
   {
     "id": 8,
@@ -83,9 +68,7 @@
     "resourceBoxId": 8,
     "cost": 10,
     "refreshCycle": "weekly",
-    "exchangeLimit": 20,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 20
   },
   {
     "id": 9,
@@ -94,9 +77,7 @@
     "resourceBoxId": 9,
     "cost": 3,
     "refreshCycle": "weekly",
-    "exchangeLimit": 20,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 20
   },
   {
     "id": 10,
@@ -105,9 +86,7 @@
     "resourceBoxId": 10,
     "cost": 1,
     "refreshCycle": "weekly",
-    "exchangeLimit": 30,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 30
   },
   {
     "id": 11,
@@ -116,9 +95,7 @@
     "resourceBoxId": 11,
     "cost": 10,
     "refreshCycle": "weekly",
-    "exchangeLimit": 30,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 30
   },
   {
     "id": 12,
@@ -127,9 +104,7 @@
     "resourceBoxId": 12,
     "cost": 5,
     "refreshCycle": "weekly",
-    "exchangeLimit": 20,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 20
   },
   {
     "id": 13,
@@ -138,9 +113,7 @@
     "resourceBoxId": 13,
     "cost": 5,
     "refreshCycle": "weekly",
-    "exchangeLimit": 20,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 20
   },
   {
     "id": 14,
@@ -149,9 +122,7 @@
     "resourceBoxId": 14,
     "cost": 5,
     "refreshCycle": "weekly",
-    "exchangeLimit": 20,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 20
   },
   {
     "id": 15,
@@ -160,9 +131,7 @@
     "resourceBoxId": 15,
     "cost": 5,
     "refreshCycle": "weekly",
-    "exchangeLimit": 20,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 20
   },
   {
     "id": 16,
@@ -171,9 +140,7 @@
     "resourceBoxId": 16,
     "cost": 5,
     "refreshCycle": "weekly",
-    "exchangeLimit": 20,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 20
   },
   {
     "id": 17,
@@ -182,9 +149,7 @@
     "resourceBoxId": 17,
     "cost": 50,
     "refreshCycle": "weekly",
-    "exchangeLimit": 10,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 10
   },
   {
     "id": 18,
@@ -193,9 +158,7 @@
     "resourceBoxId": 18,
     "cost": 10,
     "refreshCycle": "weekly",
-    "exchangeLimit": 5,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 5
   },
   {
     "id": 19,
@@ -204,9 +167,7 @@
     "resourceBoxId": 19,
     "cost": 5,
     "refreshCycle": "weekly",
-    "exchangeLimit": 10,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 10
   },
   {
     "id": 20,
@@ -215,9 +176,7 @@
     "resourceBoxId": 20,
     "cost": 5,
     "refreshCycle": "weekly",
-    "exchangeLimit": 10,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 10
   },
   {
     "id": 21,
@@ -226,9 +185,7 @@
     "resourceBoxId": 21,
     "cost": 5,
     "refreshCycle": "weekly",
-    "exchangeLimit": 10,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 10
   },
   {
     "id": 22,
@@ -237,9 +194,7 @@
     "resourceBoxId": 22,
     "cost": 5,
     "refreshCycle": "weekly",
-    "exchangeLimit": 10,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 10
   },
   {
     "id": 23,
@@ -248,9 +203,7 @@
     "resourceBoxId": 23,
     "cost": 5,
     "refreshCycle": "weekly",
-    "exchangeLimit": 10,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 10
   },
   {
     "id": 24,
@@ -259,9 +212,7 @@
     "resourceBoxId": 24,
     "cost": 50,
     "refreshCycle": "weekly",
-    "exchangeLimit": 2,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 2
   },
   {
     "id": 25,
@@ -270,9 +221,7 @@
     "resourceBoxId": 25,
     "cost": 150,
     "refreshCycle": "weekly",
-    "exchangeLimit": 2,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 2
   },
   {
     "id": 26,
@@ -281,9 +230,7 @@
     "resourceBoxId": 26,
     "cost": 150,
     "refreshCycle": "weekly",
-    "exchangeLimit": 2,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 2
   },
   {
     "id": 27,
@@ -292,9 +239,7 @@
     "resourceBoxId": 27,
     "cost": 150,
     "refreshCycle": "weekly",
-    "exchangeLimit": 2,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 2
   },
   {
     "id": 28,
@@ -303,9 +248,7 @@
     "resourceBoxId": 28,
     "cost": 150,
     "refreshCycle": "weekly",
-    "exchangeLimit": 2,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 2
   },
   {
     "id": 29,
@@ -314,9 +257,7 @@
     "resourceBoxId": 29,
     "cost": 150,
     "refreshCycle": "weekly",
-    "exchangeLimit": 2,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 2
   },
   {
     "id": 30,
@@ -325,9 +266,7 @@
     "resourceBoxId": 30,
     "cost": 150,
     "refreshCycle": "weekly",
-    "exchangeLimit": 2,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 2
   },
   {
     "id": 31,
@@ -336,9 +275,7 @@
     "resourceBoxId": 31,
     "cost": 3500,
     "refreshCycle": "weekly",
-    "exchangeLimit": 1,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 1
   },
   {
     "id": 32,
@@ -347,9 +284,7 @@
     "resourceBoxId": 32,
     "cost": 10500,
     "refreshCycle": "weekly",
-    "exchangeLimit": 1,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 1
   },
   {
     "id": 33,
@@ -358,8 +293,6 @@
     "resourceBoxId": 33,
     "cost": 500,
     "refreshCycle": "weekly",
-    "exchangeLimit": 2,
-    "startAt": null,
-    "endAt": null
+    "exchangeLimit": 2
   }
 ]
