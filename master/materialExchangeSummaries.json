@@ -353,7 +353,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 2,
@@ -2984,7 +2985,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 3,
@@ -4408,7 +4410,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 4,
@@ -5001,7 +5004,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 5,
@@ -8209,7 +8213,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 6,
@@ -10808,7 +10813,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 7,
@@ -15579,7 +15585,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 8,
@@ -20414,7 +20421,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 9,
@@ -21464,7 +21472,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 10,
@@ -21492,7 +21501,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 11,
@@ -24157,7 +24167,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 12,
@@ -28046,7 +28057,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 13,
@@ -28452,7 +28464,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 14,
@@ -28957,7 +28970,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 15,
@@ -28985,7 +28999,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 17,
@@ -29468,6 +29483,15 @@
           }
         ]
       }
+    ],
+    "materialExchangeDisplayResourceGroupId": 1,
+    "materialExchangeDisplayResourceGroups": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ]
   },
   {
@@ -29828,6 +29852,15 @@
           }
         ]
       }
+    ],
+    "materialExchangeDisplayResourceGroupId": 2,
+    "materialExchangeDisplayResourceGroups": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ]
   },
   {
@@ -29954,6 +29987,10 @@
           }
         ]
       }
+    ],
+    "materialExchangeDisplayResourceGroupId": 3,
+    "materialExchangeDisplayResourceGroups": [
+      {}
     ]
   },
   {
@@ -34863,6 +34900,39 @@
           }
         ]
       }
+    ],
+    "materialExchangeDisplayResourceGroups": [],
+    "materialExchangeFreebieGroupJson": {
+      "id": "id",
+      "materialExchangeFreebieType": "materialExchangeFreebieType"
+    },
+    "materialExchangeFreebies": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
     ]
   },
   {
@@ -34872,7 +34942,8 @@
     "materialExchangeType": "normal",
     "name": "闪耀徽章",
     "assetbundleName": "icon_shining_badge",
-    "materialExchanges": []
+    "materialExchanges": [],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 101,
@@ -37024,7 +37095,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 102,
@@ -39230,6 +39302,7 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   }
 ]
