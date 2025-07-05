@@ -1,1 +1,1762 @@
-[]
+[
+  {
+    "id": 1001,
+    "name": "世界百日庆典印章任务",
+    "assetbundleName": "4-5th_anniv_pm",
+    "bgmAssetbundleName": "4-5th_anniv_pm_bgm",
+    "selectableLimit": 5,
+    "startAt": 1751688000000,
+    "progressEndAt": 1753027199000,
+    "closedAt": 1753199999000,
+    "distributionEndAt": 1754409599000,
+    "informationId": 10143,
+    "panelMissionSheetGroups": [
+      {
+        "id": 100101,
+        "panelMissionCampaignId": 1001,
+        "name": "演出能量",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 10010101,
+            "panelMissionSheetGroupId": 100101,
+            "name": "休闲演出能量卡",
+            "seq": 1,
+            "assetbundleName": "sheet_casual_livebonus",
+            "panelMissions": [
+              {
+                "id": 1001010101,
+                "panelMissionSheetId": 10010101,
+                "name": "累计消耗5演出能量",
+                "description": "在演出中累计消耗5演出能量。\n*自动演出也纳入计算范围。",
+                "seq": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001010102,
+                "panelMissionSheetId": 10010101,
+                "name": "累计消耗10演出能量",
+                "description": "在演出中累计消耗10演出能量。\n*自动演出也纳入计算范围。",
+                "seq": 2,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001010103,
+                "panelMissionSheetId": 10010101,
+                "name": "累计消耗15演出能量",
+                "description": "在演出中累计消耗15演出能量。\n*自动演出也纳入计算范围。",
+                "seq": 3,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 15,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001010104,
+                "panelMissionSheetId": 10010101,
+                "name": "累计消耗20演出能量",
+                "description": "在演出中累计消耗20演出能量。\n*自动演出也纳入计算范围。",
+                "seq": 4,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 20,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001010105,
+                "panelMissionSheetId": 10010101,
+                "name": "累计消耗30演出能量",
+                "description": "在演出中累计消耗30演出能量。\n*自动演出也纳入计算范围。",
+                "seq": 5,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001010106,
+                "panelMissionSheetId": 10010101,
+                "name": "累计消耗40演出能量",
+                "description": "在演出中累计消耗40演出能量。\n*自动演出也纳入计算范围。",
+                "seq": 6,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 40,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001010107,
+                "panelMissionSheetId": 10010101,
+                "name": "累计消耗50演出能量",
+                "description": "在演出中累计消耗50演出能量。\n*自动演出也纳入计算范围。",
+                "seq": 7,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 50,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                100100134
+              ]
+            ]
+          },
+          {
+            "id": 10010102,
+            "panelMissionSheetGroupId": 100101,
+            "name": "标准演出能量卡",
+            "seq": 2,
+            "assetbundleName": "sheet_regular_livebonus",
+            "panelMissions": [
+              {
+                "id": 1001010201,
+                "panelMissionSheetId": 10010102,
+                "name": "累计消耗10演出能量",
+                "description": "在演出中累计消耗10演出能量。\n*自动演出也纳入计算范围。",
+                "seq": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001010202,
+                "panelMissionSheetId": 10010102,
+                "name": "累计消耗20演出能量",
+                "description": "在演出中累计消耗20演出能量。\n*自动演出也纳入计算范围。",
+                "seq": 2,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 20,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001010203,
+                "panelMissionSheetId": 10010102,
+                "name": "累计消耗30演出能量",
+                "description": "在演出中累计消耗30演出能量。\n*自动演出也纳入计算范围。",
+                "seq": 3,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001010204,
+                "panelMissionSheetId": 10010102,
+                "name": "累计消耗40演出能量",
+                "description": "在演出中累计消耗40演出能量。\n*自动演出也纳入计算范围。",
+                "seq": 4,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 40,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001010205,
+                "panelMissionSheetId": 10010102,
+                "name": "累计消耗60演出能量",
+                "description": "在演出中累计消耗60演出能量。\n*自动演出也纳入计算范围。",
+                "seq": 5,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 60,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001010206,
+                "panelMissionSheetId": 10010102,
+                "name": "累计消耗80演出能量",
+                "description": "在演出中累计消耗80演出能量。\n*自动演出也纳入计算范围。",
+                "seq": 6,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 80,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001010207,
+                "panelMissionSheetId": 10010102,
+                "name": "累计消耗100演出能量",
+                "description": "在演出中累计消耗100演出能量。\n*自动演出也纳入计算范围。",
+                "seq": 7,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 100,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                100100135
+              ]
+            ]
+          },
+          {
+            "id": 10010103,
+            "panelMissionSheetGroupId": 100101,
+            "name": "无限演出能量卡",
+            "seq": 3,
+            "assetbundleName": "sheet_unlimited_livebonus",
+            "panelMissions": [
+              {
+                "id": 1001010301,
+                "panelMissionSheetId": 10010103,
+                "name": "累计消耗30演出能量",
+                "description": "在演出中累计消耗30演出能量。\n*自动演出也纳入计算范围。",
+                "seq": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001010302,
+                "panelMissionSheetId": 10010103,
+                "name": "累计消耗50演出能量",
+                "description": "在演出中累计消耗50演出能量。\n*自动演出也纳入计算范围。",
+                "seq": 2,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 50,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001010303,
+                "panelMissionSheetId": 10010103,
+                "name": "累计消耗100演出能量",
+                "description": "在演出中累计消耗100演出能量。\n*自动演出也纳入计算范围。",
+                "seq": 3,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 100,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001010304,
+                "panelMissionSheetId": 10010103,
+                "name": "累计消耗150演出能量",
+                "description": "在演出中累计消耗150演出能量。\n*自动演出也纳入计算范围。",
+                "seq": 4,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 150,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001010305,
+                "panelMissionSheetId": 10010103,
+                "name": "累计消耗200演出能量",
+                "description": "在演出中累计消耗200演出能量。\n*自动演出也纳入计算范围。",
+                "seq": 5,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 200,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001010306,
+                "panelMissionSheetId": 10010103,
+                "name": "累计消耗250演出能量",
+                "description": "在演出中累计消耗250演出能量。\n*自动演出也纳入计算范围。",
+                "seq": 6,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 250,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001010307,
+                "panelMissionSheetId": 10010103,
+                "name": "累计消耗300演出能量",
+                "description": "在演出中累计消耗300演出能量。\n*自动演出也纳入计算范围。",
+                "seq": 7,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 300,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                100100136
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": 100102,
+        "panelMissionCampaignId": 1001,
+        "name": "歌曲",
+        "selectableLimit": 1,
+        "seq": 2,
+        "panelMissionSheets": [
+          {
+            "id": 10010201,
+            "panelMissionSheetGroupId": 100102,
+            "name": "休闲歌曲卡",
+            "seq": 1,
+            "assetbundleName": "sheet_casual_music",
+            "panelMissions": [
+              {
+                "id": 1001020101,
+                "panelMissionSheetId": 10010201,
+                "name": "完成1种歌曲",
+                "description": "完成1首歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 1,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 1,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001020102,
+                "panelMissionSheetId": 10010201,
+                "name": "完成3种不同的歌曲",
+                "description": "完成3首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 2,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 3,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001020103,
+                "panelMissionSheetId": 10010201,
+                "name": "完成4种不同的歌曲",
+                "description": "完成4首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 3,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 4,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001020104,
+                "panelMissionSheetId": 10010201,
+                "name": "完成5种不同的歌曲",
+                "description": "完成5首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 4,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001020105,
+                "panelMissionSheetId": 10010201,
+                "name": "完成6种不同的歌曲",
+                "description": "完成6首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 5,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 6,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001020106,
+                "panelMissionSheetId": 10010201,
+                "name": "完成7种不同的歌曲",
+                "description": "完成7首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 6,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 7,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001020107,
+                "panelMissionSheetId": 10010201,
+                "name": "完成10种不同的歌曲",
+                "description": "完成10首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 7,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 10,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                100100134
+              ]
+            ]
+          },
+          {
+            "id": 10010202,
+            "panelMissionSheetGroupId": 100102,
+            "name": "标准歌曲卡",
+            "seq": 2,
+            "assetbundleName": "sheet_regular_music",
+            "panelMissions": [
+              {
+                "id": 1001020201,
+                "panelMissionSheetId": 10010202,
+                "name": "完成1种歌曲",
+                "description": "完成1首歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 1,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 1,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001020202,
+                "panelMissionSheetId": 10010202,
+                "name": "完成3种不同的歌曲",
+                "description": "完成3首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 2,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 3,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001020203,
+                "panelMissionSheetId": 10010202,
+                "name": "完成5种不同的歌曲",
+                "description": "完成5首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 3,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001020204,
+                "panelMissionSheetId": 10010202,
+                "name": "完成10种不同的歌曲",
+                "description": "完成10首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 4,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 10,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001020205,
+                "panelMissionSheetId": 10010202,
+                "name": "完成15种不同的歌曲",
+                "description": "完成15首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 5,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 15,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001020206,
+                "panelMissionSheetId": 10010202,
+                "name": "完成20种不同的歌曲",
+                "description": "完成20首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 6,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 20,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001020207,
+                "panelMissionSheetId": 10010202,
+                "name": "完成25种不同的歌曲",
+                "description": "完成25首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 7,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 25,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                100100135
+              ]
+            ]
+          },
+          {
+            "id": 10010203,
+            "panelMissionSheetGroupId": 100102,
+            "name": "无限歌曲卡",
+            "seq": 3,
+            "assetbundleName": "sheet_unlimited_music",
+            "panelMissions": [
+              {
+                "id": 1001020301,
+                "panelMissionSheetId": 10010203,
+                "name": "完成1种歌曲",
+                "description": "完成1首歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 1,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 1,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001020302,
+                "panelMissionSheetId": 10010203,
+                "name": "完成5种不同的歌曲",
+                "description": "完成5首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 2,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001020303,
+                "panelMissionSheetId": 10010203,
+                "name": "完成10种不同的歌曲",
+                "description": "完成10首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 3,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 10,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001020304,
+                "panelMissionSheetId": 10010203,
+                "name": "完成20种不同的歌曲",
+                "description": "完成20首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 4,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 20,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001020305,
+                "panelMissionSheetId": 10010203,
+                "name": "完成30种不同的歌曲",
+                "description": "完成30首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 5,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 30,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001020306,
+                "panelMissionSheetId": 10010203,
+                "name": "完成40种不同的歌曲",
+                "description": "完成40首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 6,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 40,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001020307,
+                "panelMissionSheetId": 10010203,
+                "name": "完成50种不同的歌曲",
+                "description": "完成50首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 7,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 50,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                100100136
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": 100103,
+        "panelMissionCampaignId": 1001,
+        "name": "演出",
+        "selectableLimit": 1,
+        "seq": 3,
+        "panelMissionSheets": [
+          {
+            "id": 10010301,
+            "panelMissionSheetGroupId": 100103,
+            "name": "休闲演出卡",
+            "seq": 1,
+            "assetbundleName": "sheet_casual_live",
+            "panelMissions": [
+              {
+                "id": 1001030101,
+                "panelMissionSheetId": 10010301,
+                "name": "累计完成1次演出",
+                "description": "累计完成1次演出。\n*自动演出也纳入计算范围。",
+                "seq": 1,
+                "panelMissionType": "live_clear",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001030102,
+                "panelMissionSheetId": 10010301,
+                "name": "累计完成5次演出",
+                "description": "累计完成5次演出。\n*自动演出也纳入计算范围。",
+                "seq": 2,
+                "panelMissionType": "live_clear",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001030103,
+                "panelMissionSheetId": 10010301,
+                "name": "累计完成10次演出",
+                "description": "累计完成10次演出。\n*自动演出也纳入计算范围。",
+                "seq": 3,
+                "panelMissionType": "live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001030104,
+                "panelMissionSheetId": 10010301,
+                "name": "累计完成15次演出",
+                "description": "累计完成15次演出。\n*自动演出也纳入计算范围。",
+                "seq": 4,
+                "panelMissionType": "live_clear",
+                "requirement1": 15,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001030105,
+                "panelMissionSheetId": 10010301,
+                "name": "累计完成20次演出",
+                "description": "累计完成20次演出。\n*自动演出也纳入计算范围。",
+                "seq": 5,
+                "panelMissionType": "live_clear",
+                "requirement1": 20,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001030106,
+                "panelMissionSheetId": 10010301,
+                "name": "累计完成25次演出",
+                "description": "累计完成25次演出。\n*自动演出也纳入计算范围。",
+                "seq": 6,
+                "panelMissionType": "live_clear",
+                "requirement1": 25,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001030107,
+                "panelMissionSheetId": 10010301,
+                "name": "累计完成30次演出",
+                "description": "累计完成30次演出。\n*自动演出也纳入计算范围。",
+                "seq": 7,
+                "panelMissionType": "live_clear",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                100100137
+              ]
+            ]
+          },
+          {
+            "id": 10010302,
+            "panelMissionSheetGroupId": 100103,
+            "name": "标准演出卡",
+            "seq": 2,
+            "assetbundleName": "sheet_regular_live",
+            "panelMissions": [
+              {
+                "id": 1001030201,
+                "panelMissionSheetId": 10010302,
+                "name": "累计1次FULL COMBO",
+                "description": "累计以FULL COMBO完成1次演出。",
+                "seq": 1,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001030202,
+                "panelMissionSheetId": 10010302,
+                "name": "累计3次FULL COMBO",
+                "description": "累计以FULL COMBO完成3次演出。",
+                "seq": 2,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001030203,
+                "panelMissionSheetId": 10010302,
+                "name": "累计4次FULL COMBO",
+                "description": "累计以FULL COMBO完成4次演出。",
+                "seq": 3,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 4,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001030204,
+                "panelMissionSheetId": 10010302,
+                "name": "累计5次FULL COMBO",
+                "description": "累计以FULL COMBO完成5次演出。",
+                "seq": 4,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001030205,
+                "panelMissionSheetId": 10010302,
+                "name": "累计7次FULL COMBO",
+                "description": "累计以FULL COMBO完成7次演出。",
+                "seq": 5,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 7,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001030206,
+                "panelMissionSheetId": 10010302,
+                "name": "累计10次FULL COMBO",
+                "description": "累计以FULL COMBO完成10次演出。",
+                "seq": 6,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001030207,
+                "panelMissionSheetId": 10010302,
+                "name": "累计15次FULL COMBO",
+                "description": "累计以FULL COMBO完成15次演出。",
+                "seq": 7,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 15,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                100100138
+              ]
+            ]
+          },
+          {
+            "id": 10010303,
+            "panelMissionSheetGroupId": 100103,
+            "name": "无限演出卡",
+            "seq": 3,
+            "assetbundleName": "sheet_unlimited_live",
+            "panelMissions": [
+              {
+                "id": 1001030301,
+                "panelMissionSheetId": 10010303,
+                "name": "累计1次ALL PERFECT",
+                "description": "累计以ALL PERFECT完成1次演出。",
+                "seq": 1,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001030302,
+                "panelMissionSheetId": 10010303,
+                "name": "累计3次ALL PERFECT",
+                "description": "累计以ALL PERFECT完成3次演出。",
+                "seq": 2,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001030303,
+                "panelMissionSheetId": 10010303,
+                "name": "累计4次ALL PERFECT",
+                "description": "累计以ALL PERFECT完成4次演出。",
+                "seq": 3,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 4,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001030304,
+                "panelMissionSheetId": 10010303,
+                "name": "累计5次ALL PERFECT",
+                "description": "累计以ALL PERFECT完成5次演出。",
+                "seq": 4,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001030305,
+                "panelMissionSheetId": 10010303,
+                "name": "累计7次ALL PERFECT",
+                "description": "累计以ALL PERFECT完成7次演出。",
+                "seq": 5,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 7,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001030306,
+                "panelMissionSheetId": 10010303,
+                "name": "累计10次ALL PERFECT",
+                "description": "累计以ALL PERFECT完成10次演出。",
+                "seq": 6,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001030307,
+                "panelMissionSheetId": 10010303,
+                "name": "累计15次ALL PERFECT",
+                "description": "累计以ALL PERFECT完成15次演出。",
+                "seq": 7,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 15,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                100100139
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": 100104,
+        "panelMissionCampaignId": 1001,
+        "name": "活动积分",
+        "selectableLimit": 1,
+        "seq": 4,
+        "panelMissionSheets": [
+          {
+            "id": 10010401,
+            "panelMissionSheetGroupId": 100104,
+            "name": "休闲活动积分卡",
+            "seq": 1,
+            "assetbundleName": "sheet_casual_eventpoint",
+            "panelMissions": [
+              {
+                "id": 1001040101,
+                "panelMissionSheetId": 10010401,
+                "name": "累计获得1万活动积分",
+                "description": "累计获得1万活动积分。",
+                "seq": 1,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 10000,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001040102,
+                "panelMissionSheetId": 10010401,
+                "name": "累计获得3万活动积分",
+                "description": "累计获得3万活动积分。",
+                "seq": 2,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 30000,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001040103,
+                "panelMissionSheetId": 10010401,
+                "name": "累计获得5万活动积分",
+                "description": "累计获得5万活动积分。",
+                "seq": 3,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 50000,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001040104,
+                "panelMissionSheetId": 10010401,
+                "name": "累计获得10万活动积分",
+                "description": "累计获得10万活动积分。",
+                "seq": 4,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 100000,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001040105,
+                "panelMissionSheetId": 10010401,
+                "name": "累计获得15万活动积分",
+                "description": "累计获得15万活动积分。",
+                "seq": 5,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 150000,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001040106,
+                "panelMissionSheetId": 10010401,
+                "name": "累计获得20万活动积分",
+                "description": "累计获得20万活动积分。",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 200000,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001040107,
+                "panelMissionSheetId": 10010401,
+                "name": "累计获得30万活动积分",
+                "description": "累计获得30万活动积分。",
+                "seq": 7,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 300000,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                100100137
+              ]
+            ]
+          },
+          {
+            "id": 10010402,
+            "panelMissionSheetGroupId": 100104,
+            "name": "标准活动积分卡",
+            "seq": 2,
+            "assetbundleName": "sheet_regular_eventpoint",
+            "panelMissions": [
+              {
+                "id": 1001040201,
+                "panelMissionSheetId": 10010402,
+                "name": "累计获得1万活动积分",
+                "description": "累计获得1万活动积分。",
+                "seq": 1,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 10000,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001040202,
+                "panelMissionSheetId": 10010402,
+                "name": "累计获得5万活动积分",
+                "description": "累计获得5万活动积分。",
+                "seq": 2,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 50000,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001040203,
+                "panelMissionSheetId": 10010402,
+                "name": "累计获得15万活动积分",
+                "description": "累计获得15万活动积分。",
+                "seq": 3,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 150000,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001040204,
+                "panelMissionSheetId": 10010402,
+                "name": "累计获得30万活动积分",
+                "description": "累计获得30万活动积分。",
+                "seq": 4,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 300000,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001040205,
+                "panelMissionSheetId": 10010402,
+                "name": "累计获得50万活动积分",
+                "description": "累计获得50万活动积分。",
+                "seq": 5,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 500000,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001040206,
+                "panelMissionSheetId": 10010402,
+                "name": "累计获得75万活动积分",
+                "description": "累计获得75万活动积分。",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 750000,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001040207,
+                "panelMissionSheetId": 10010402,
+                "name": "累计获得100万活动积分",
+                "description": "累计获得100万活动积分。",
+                "seq": 7,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 1000000,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                100100138
+              ]
+            ]
+          },
+          {
+            "id": 10010403,
+            "panelMissionSheetGroupId": 100104,
+            "name": "无限活动积分卡",
+            "seq": 3,
+            "assetbundleName": "sheet_unlimited_eventpoint",
+            "panelMissions": [
+              {
+                "id": 1001040301,
+                "panelMissionSheetId": 10010403,
+                "name": "累计获得1万活动积分",
+                "description": "累计获得1万活动积分。",
+                "seq": 1,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 10000,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001040302,
+                "panelMissionSheetId": 10010403,
+                "name": "累计获得10万活动积分",
+                "description": "累计获得10万活动积分。",
+                "seq": 2,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 100000,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001040303,
+                "panelMissionSheetId": 10010403,
+                "name": "累计获得30万活动积分",
+                "description": "累计获得30万活动积分。",
+                "seq": 3,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 300000,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001040304,
+                "panelMissionSheetId": 10010403,
+                "name": "累计获得50万活动积分",
+                "description": "累计获得50万活动积分。",
+                "seq": 4,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 500000,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001040305,
+                "panelMissionSheetId": 10010403,
+                "name": "累计获得100万活动积分",
+                "description": "累计获得100万活动积分。",
+                "seq": 5,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 1000000,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001040306,
+                "panelMissionSheetId": 10010403,
+                "name": "累计获得150万活动积分",
+                "description": "累计获得150万活动积分。",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 1500000,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001040307,
+                "panelMissionSheetId": 10010403,
+                "name": "累计获得200万活动积分",
+                "description": "累计获得200万活动积分。",
+                "seq": 7,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 2000000,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                100100139
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": 100105,
+        "panelMissionCampaignId": 1001,
+        "name": "招募 商店",
+        "selectableLimit": 1,
+        "seq": 5,
+        "panelMissionSheets": [
+          {
+            "id": 10010501,
+            "panelMissionSheetGroupId": 100105,
+            "name": "标准招募 商店卡",
+            "seq": 1,
+            "assetbundleName": "sheet_standard_gachashop",
+            "panelMissions": [
+              {
+                "id": 1001050101,
+                "panelMissionSheetId": 10010501,
+                "name": "累计招募1次",
+                "description": "累计招募1次。\n*各类免费招募也纳入计算范围。",
+                "seq": 1,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001050102,
+                "panelMissionSheetId": 10010501,
+                "name": "累计招募5次",
+                "description": "累计招募5次。\n*各类免费招募也纳入计算范围。",
+                "seq": 2,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001050103,
+                "panelMissionSheetId": 10010501,
+                "name": "累计招募10次",
+                "description": "累计招募10次。\n*各类免费招募也纳入计算范围。",
+                "seq": 3,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001050104,
+                "panelMissionSheetId": 10010501,
+                "name": "累计招募20次",
+                "description": "累计招募20次。\n*各类免费招募也纳入计算范围。",
+                "seq": 4,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 20,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001050105,
+                "panelMissionSheetId": 10010501,
+                "name": "累计招募30次",
+                "description": "累计招募30次。\n*各类免费招募也纳入计算范围。",
+                "seq": 5,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001050106,
+                "panelMissionSheetId": 10010501,
+                "name": "累计招募40次",
+                "description": "累计招募40次。\n*各类免费招募也纳入计算范围。",
+                "seq": 6,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 40,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001050107,
+                "panelMissionSheetId": 10010501,
+                "name": "累计招募50次",
+                "description": "累计招募50次。\n*各类免费招募也纳入计算范围。",
+                "seq": 7,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 50,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                100100140
+              ]
+            ]
+          },
+          {
+            "id": 10010502,
+            "panelMissionSheetGroupId": 100105,
+            "name": "黄金招募 商店卡",
+            "seq": 2,
+            "assetbundleName": "sheet_gold_gachashop",
+            "panelMissions": [
+              {
+                "id": 1001050201,
+                "panelMissionSheetId": 10010502,
+                "name": "累计招募100次",
+                "description": "累计招募100次。\n*各类免费招募也纳入计算范围。",
+                "seq": 1,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 100,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001050202,
+                "panelMissionSheetId": 10010502,
+                "name": "招募50次“绚烂节日招募”",
+                "description": "招募50次“绚烂节日招募”或“The Party Of Blast!!招募”。",
+                "seq": 2,
+                "panelMissionType": "spin_gacha",
+                "requirement1": 50,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001050203,
+                "panelMissionSheetId": 10010502,
+                "name": "招募1次“自选清单招募”",
+                "description": "招募1次“自选清单招募”",
+                "seq": 3,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001050204,
+                "panelMissionSheetId": 10010502,
+                "name": "招募1次“[百日庆典]高级礼物招募”",
+                "description": "招募1次“[百日庆典]高级礼物招募”。",
+                "seq": 4,
+                "panelMissionType": "spin_gacha_tab",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001050205,
+                "panelMissionSheetId": 10010502,
+                "name": "购买“奇幻乐园外出服”或“清爽北极熊”服装",
+                "description": "在水晶商店购买“奇幻乐园外出服”或“清爽北极熊”服装礼包。",
+                "seq": 5,
+                "panelMissionType": "purchase_billing_shop_item_in_category",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001050206,
+                "panelMissionSheetId": 10010502,
+                "name": "购入1种百日庆典礼包",
+                "description": "购买1种[百日庆典]礼包。\n*不包含[庆典支援]付费水晶、服装礼包。",
+                "seq": 6,
+                "panelMissionType": "purchase_billing_shop_item_in_category",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001050207,
+                "panelMissionSheetId": 10010502,
+                "name": "购入2025年7月的白金任务通行证",
+                "description": "购买2025年7月的“白金任务通行证”（任意版本）。",
+                "seq": 7,
+                "panelMissionType": "purchase_premium_mission_pass",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                100100141
+              ]
+            ]
+          },
+          {
+            "id": 10010503,
+            "panelMissionSheetGroupId": 100105,
+            "name": "钻石招募 商店卡",
+            "seq": 3,
+            "assetbundleName": "sheet_diamond_gachashop",
+            "panelMissions": [
+              {
+                "id": 1001050301,
+                "panelMissionSheetId": 10010503,
+                "name": "累计招募200次",
+                "description": "累计招募200次。\n※各类免费招募也纳入计算范围。",
+                "seq": 1,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 200,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001050302,
+                "panelMissionSheetId": 10010503,
+                "name": "招募100次“绚烂节日招募”",
+                "description": "招募100次“绚烂节日招募”或“The Party Of Blast!!招募”。",
+                "seq": 2,
+                "panelMissionType": "spin_gacha",
+                "requirement1": 100,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001050303,
+                "panelMissionSheetId": 10010503,
+                "name": "招募1次“自选清单招募”",
+                "description": "招募1次“自选清单招募”",
+                "seq": 3,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001050304,
+                "panelMissionSheetId": 10010503,
+                "name": "招募2次“[百日庆典]高级礼物招募”",
+                "description": "招募2次“[百日庆典]高级礼物招募”",
+                "seq": 4,
+                "panelMissionType": "spin_gacha_tab",
+                "requirement1": 20,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001050305,
+                "panelMissionSheetId": 10010503,
+                "name": "购买“奇幻乐园外出服”和“清爽北极熊”服装",
+                "description": "在水晶商店购买“奇幻乐园外出服”和“清爽北极熊”服装礼包。",
+                "seq": 5,
+                "panelMissionType": "purchase_billing_shop_item_in_category",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001050306,
+                "panelMissionSheetId": 10010503,
+                "name": "购入2种百日庆典礼包",
+                "description": "购买2种[百日庆典]礼包。\n*不包含[庆典支援]付费水晶、服装礼包。",
+                "seq": 6,
+                "panelMissionType": "purchase_billing_shop_item_in_category",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              },
+              {
+                "id": 1001050307,
+                "panelMissionSheetId": 10010503,
+                "name": "购入2025年7月的白金任务通行证",
+                "description": "购买2025年7月的“白金任务通行证”（任意版本）。",
+                "seq": 7,
+                "panelMissionType": "purchase_premium_mission_pass",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    100100133
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                100100142
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
