@@ -425216,6 +425216,30 @@
     "resourceType": "material"
   },
   {
+    "resourceBoxId": 2076,
+    "resourceQuantity": 1,
+    "resourceId": 1003,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 2077,
+    "resourceQuantity": 1,
+    "resourceId": 2,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 2077,
+    "resourceQuantity": 1,
+    "resourceId": 17,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
     "resourceBoxId": 1,
     "resourceQuantity": 1,
     "resourceId": 29004,

@@ -4704,6 +4704,26 @@
     "value": "演出服装"
   },
   {
+    "wordingKey": "WORD_BONUS_EVENT_LIMIT_MISSION",
+    "value": "<color=#dfa7ff>限</color>时任务"
+  },
+  {
+    "wordingKey": "WORD_BONUS_EVENT_LIVE_BONUS",
+    "value": "<color=#08f4e0>演</color>出能量"
+  },
+  {
+    "wordingKey": "WORD_BONUS_EVENT_SPEICAL_REWARD",
+    "value": "<color=#ffe178>特</color>别奖励"
+  },
+  {
+    "wordingKey": "WORD_BONUS_EVENT_SPEICAL_REWARD_HISTORY",
+    "value": "领取记录"
+  },
+  {
+    "wordingKey": "WORD_BONUS_EVENT_VASET",
+    "value": "<color=#ff78b7>限</color>定礼包"
+  },
+  {
     "wordingKey": "WORD_BONUS_MISSION",
     "value": "奖励任务"
   },
@@ -14616,6 +14636,10 @@
     "value": "音符造型"
   },
   {
+    "wordingKey": "WORD_NOTHING_REWARD",
+    "value": "无领取记录。"
+  },
+  {
     "wordingKey": "WORD_NOTICE",
     "value": "通知"
   },
@@ -15757,7 +15781,7 @@
   },
   {
     "wordingKey": "WORD_RELEASE_FROM_TRAINING",
-    "value": "通过特训解锁"
+    "value": "特训后解锁"
   },
   {
     "wordingKey": "WORD_RELEASE_PROFILE",

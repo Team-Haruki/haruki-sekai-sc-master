@@ -1244,5 +1244,87 @@
         "resourceBoxId": 2065
       }
     ]
+  },
+  {
+    "id": 1114,
+    "startAt": 1752782400000,
+    "endAt": 1753041599000,
+    "assetbundleName": "restday2025_0718",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1293,
+        "limitedLoginBonusId": 1114,
+        "day": 1,
+        "resourceBoxId": 2053
+      },
+      {
+        "id": 1294,
+        "limitedLoginBonusId": 1114,
+        "day": 2,
+        "resourceBoxId": 2054
+      },
+      {
+        "id": 1295,
+        "limitedLoginBonusId": 1114,
+        "day": 3,
+        "resourceBoxId": 2076
+      }
+    ]
+  },
+  {
+    "id": 1115,
+    "startAt": 1753977600000,
+    "endAt": 1754063999000,
+    "assetbundleName": "chinajoy_2025",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1296,
+        "limitedLoginBonusId": 1115,
+        "day": 1,
+        "resourceBoxId": 2053
+      }
+    ]
+  },
+  {
+    "id": 1116,
+    "startAt": 1754064000000,
+    "endAt": 1754150399000,
+    "assetbundleName": "chinajoy_2025",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1297,
+        "limitedLoginBonusId": 1116,
+        "day": 1,
+        "resourceBoxId": 2053
+      }
+    ]
+  },
+  {
+    "id": 1117,
+    "startAt": 1754150400000,
+    "endAt": 1754236799000,
+    "assetbundleName": "chinajoy_2025",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1298,
+        "limitedLoginBonusId": 1117,
+        "day": 1,
+        "resourceBoxId": 2053
+      }
+    ]
+  },
+  {
+    "id": 1118,
+    "startAt": 1754236800000,
+    "endAt": 1754323199000,
+    "assetbundleName": "chinajoy_2025",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1299,
+        "limitedLoginBonusId": 1118,
+        "day": 1,
+        "resourceBoxId": 2077
+      }
+    ]
   }
 ]
