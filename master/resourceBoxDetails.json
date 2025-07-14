@@ -254976,6 +254976,30 @@
     "resourceType": "gacha_ticket"
   },
   {
+    "resourceBoxId": 1003,
+    "resourceQuantity": 1,
+    "resourceId": 1003,
+    "resourceBoxPurpose": "event_exchange",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 1004,
+    "resourceQuantity": 1,
+    "resourceId": 1005,
+    "resourceBoxPurpose": "event_exchange",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 1005,
+    "resourceQuantity": 1,
+    "resourceId": 1004,
+    "resourceBoxPurpose": "event_exchange",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
     "resourceBoxId": 9000,
     "resourceQuantity": 5,
     "resourceId": 15,

@@ -31591,7 +31591,7 @@
       {
         "id": 3055,
         "eventExchangeSummaryId": 136,
-        "seq": 1,
+        "seq": 2,
         "resourceBoxId": 310,
         "exchangeLimit": 1,
         "eventExchangeCost": {
@@ -31601,7 +31601,7 @@
       {
         "id": 3056,
         "eventExchangeSummaryId": 136,
-        "seq": 2,
+        "seq": 3,
         "resourceBoxId": 309,
         "exchangeLimit": 1,
         "eventExchangeCost": {
@@ -31611,7 +31611,7 @@
       {
         "id": 3057,
         "eventExchangeSummaryId": 136,
-        "seq": 3,
+        "seq": 4,
         "resourceBoxId": 53,
         "exchangeLimit": 2,
         "eventExchangeCost": {
@@ -31621,7 +31621,7 @@
       {
         "id": 3058,
         "eventExchangeSummaryId": 136,
-        "seq": 4,
+        "seq": 5,
         "resourceBoxId": 3,
         "exchangeLimit": 5,
         "eventExchangeCost": {
@@ -31631,7 +31631,7 @@
       {
         "id": 3059,
         "eventExchangeSummaryId": 136,
-        "seq": 5,
+        "seq": 6,
         "resourceBoxId": 9000,
         "exchangeLimit": 20,
         "eventExchangeCost": {
@@ -31641,7 +31641,7 @@
       {
         "id": 3060,
         "eventExchangeSummaryId": 136,
-        "seq": 6,
+        "seq": 7,
         "resourceBoxId": 17,
         "exchangeLimit": 5,
         "eventExchangeCost": {
@@ -31651,7 +31651,7 @@
       {
         "id": 3061,
         "eventExchangeSummaryId": 136,
-        "seq": 7,
+        "seq": 8,
         "resourceBoxId": 7,
         "exchangeLimit": 1,
         "eventExchangeCost": {
@@ -31661,7 +31661,7 @@
       {
         "id": 3062,
         "eventExchangeSummaryId": 136,
-        "seq": 8,
+        "seq": 9,
         "resourceBoxId": 18,
         "exchangeLimit": 50,
         "eventExchangeCost": {
@@ -31671,7 +31671,7 @@
       {
         "id": 3063,
         "eventExchangeSummaryId": 136,
-        "seq": 9,
+        "seq": 10,
         "resourceBoxId": 13,
         "exchangeLimit": 10,
         "eventExchangeCost": {
@@ -31681,7 +31681,7 @@
       {
         "id": 3064,
         "eventExchangeSummaryId": 136,
-        "seq": 10,
+        "seq": 11,
         "resourceBoxId": 6,
         "exchangeLimit": 20,
         "eventExchangeCost": {
@@ -31691,7 +31691,7 @@
       {
         "id": 3065,
         "eventExchangeSummaryId": 136,
-        "seq": 11,
+        "seq": 12,
         "resourceBoxId": 9032,
         "exchangeLimit": 20,
         "eventExchangeCost": {
@@ -31701,7 +31701,7 @@
       {
         "id": 3066,
         "eventExchangeSummaryId": 136,
-        "seq": 12,
+        "seq": 13,
         "resourceBoxId": 9031,
         "exchangeLimit": 10,
         "eventExchangeCost": {
@@ -31711,7 +31711,7 @@
       {
         "id": 3067,
         "eventExchangeSummaryId": 136,
-        "seq": 13,
+        "seq": 14,
         "resourceBoxId": 9,
         "exchangeLimit": 300,
         "eventExchangeCost": {
@@ -31721,7 +31721,7 @@
       {
         "id": 3068,
         "eventExchangeSummaryId": 136,
-        "seq": 14,
+        "seq": 15,
         "resourceBoxId": 10,
         "exchangeLimit": 30,
         "eventExchangeCost": {
@@ -31731,7 +31731,7 @@
       {
         "id": 3069,
         "eventExchangeSummaryId": 136,
-        "seq": 15,
+        "seq": 16,
         "resourceBoxId": 11,
         "exchangeLimit": 10,
         "eventExchangeCost": {
@@ -31741,7 +31741,7 @@
       {
         "id": 3070,
         "eventExchangeSummaryId": 136,
-        "seq": 16,
+        "seq": 17,
         "resourceBoxId": 148,
         "exchangeLimit": 3,
         "eventExchangeCost": {
@@ -31751,7 +31751,7 @@
       {
         "id": 3071,
         "eventExchangeSummaryId": 136,
-        "seq": 17,
+        "seq": 18,
         "resourceBoxId": 12,
         "exchangeLimit": 8,
         "eventExchangeCost": {
@@ -31761,7 +31761,7 @@
       {
         "id": 3072,
         "eventExchangeSummaryId": 136,
-        "seq": 18,
+        "seq": 19,
         "resourceBoxId": 16,
         "exchangeLimit": 1,
         "eventExchangeCost": {
@@ -31771,10 +31771,20 @@
       {
         "id": 3073,
         "eventExchangeSummaryId": 136,
-        "seq": 19,
+        "seq": 20,
         "resourceBoxId": 232,
         "eventExchangeCost": {
           "resourceQuantity": 1
+        }
+      },
+      {
+        "id": 10002,
+        "eventExchangeSummaryId": 136,
+        "seq": 1,
+        "resourceBoxId": 1003,
+        "exchangeLimit": 1,
+        "eventExchangeCost": {
+          "resourceQuantity": 21000
         }
       }
     ]
@@ -32474,7 +32484,7 @@
       {
         "id": 3138,
         "eventExchangeSummaryId": 139,
-        "seq": 1,
+        "seq": 2,
         "resourceBoxId": 316,
         "exchangeLimit": 1,
         "eventExchangeCost": {
@@ -32484,7 +32494,7 @@
       {
         "id": 3139,
         "eventExchangeSummaryId": 139,
-        "seq": 2,
+        "seq": 3,
         "resourceBoxId": 315,
         "exchangeLimit": 1,
         "eventExchangeCost": {
@@ -32494,7 +32504,7 @@
       {
         "id": 3140,
         "eventExchangeSummaryId": 139,
-        "seq": 3,
+        "seq": 4,
         "resourceBoxId": 49,
         "exchangeLimit": 2,
         "eventExchangeCost": {
@@ -32504,7 +32514,7 @@
       {
         "id": 3141,
         "eventExchangeSummaryId": 139,
-        "seq": 4,
+        "seq": 5,
         "resourceBoxId": 3,
         "exchangeLimit": 5,
         "eventExchangeCost": {
@@ -32514,7 +32524,7 @@
       {
         "id": 3142,
         "eventExchangeSummaryId": 139,
-        "seq": 5,
+        "seq": 6,
         "resourceBoxId": 9000,
         "exchangeLimit": 20,
         "eventExchangeCost": {
@@ -32524,7 +32534,7 @@
       {
         "id": 3143,
         "eventExchangeSummaryId": 139,
-        "seq": 6,
+        "seq": 7,
         "resourceBoxId": 17,
         "exchangeLimit": 5,
         "eventExchangeCost": {
@@ -32534,7 +32544,7 @@
       {
         "id": 3144,
         "eventExchangeSummaryId": 139,
-        "seq": 7,
+        "seq": 8,
         "resourceBoxId": 7,
         "exchangeLimit": 1,
         "eventExchangeCost": {
@@ -32544,7 +32554,7 @@
       {
         "id": 3145,
         "eventExchangeSummaryId": 139,
-        "seq": 8,
+        "seq": 9,
         "resourceBoxId": 18,
         "exchangeLimit": 50,
         "eventExchangeCost": {
@@ -32554,7 +32564,7 @@
       {
         "id": 3146,
         "eventExchangeSummaryId": 139,
-        "seq": 9,
+        "seq": 10,
         "resourceBoxId": 13,
         "exchangeLimit": 10,
         "eventExchangeCost": {
@@ -32564,7 +32574,7 @@
       {
         "id": 3147,
         "eventExchangeSummaryId": 139,
-        "seq": 10,
+        "seq": 11,
         "resourceBoxId": 6,
         "exchangeLimit": 20,
         "eventExchangeCost": {
@@ -32574,7 +32584,7 @@
       {
         "id": 3148,
         "eventExchangeSummaryId": 139,
-        "seq": 11,
+        "seq": 12,
         "resourceBoxId": 9052,
         "exchangeLimit": 20,
         "eventExchangeCost": {
@@ -32584,7 +32594,7 @@
       {
         "id": 3149,
         "eventExchangeSummaryId": 139,
-        "seq": 12,
+        "seq": 13,
         "resourceBoxId": 9051,
         "exchangeLimit": 10,
         "eventExchangeCost": {
@@ -32594,7 +32604,7 @@
       {
         "id": 3150,
         "eventExchangeSummaryId": 139,
-        "seq": 13,
+        "seq": 14,
         "resourceBoxId": 9,
         "exchangeLimit": 300,
         "eventExchangeCost": {
@@ -32604,7 +32614,7 @@
       {
         "id": 3151,
         "eventExchangeSummaryId": 139,
-        "seq": 14,
+        "seq": 15,
         "resourceBoxId": 10,
         "exchangeLimit": 30,
         "eventExchangeCost": {
@@ -32614,7 +32624,7 @@
       {
         "id": 3152,
         "eventExchangeSummaryId": 139,
-        "seq": 15,
+        "seq": 16,
         "resourceBoxId": 11,
         "exchangeLimit": 10,
         "eventExchangeCost": {
@@ -32624,7 +32634,7 @@
       {
         "id": 3153,
         "eventExchangeSummaryId": 139,
-        "seq": 16,
+        "seq": 17,
         "resourceBoxId": 148,
         "exchangeLimit": 3,
         "eventExchangeCost": {
@@ -32634,7 +32644,7 @@
       {
         "id": 3154,
         "eventExchangeSummaryId": 139,
-        "seq": 17,
+        "seq": 18,
         "resourceBoxId": 12,
         "exchangeLimit": 8,
         "eventExchangeCost": {
@@ -32644,7 +32654,7 @@
       {
         "id": 3155,
         "eventExchangeSummaryId": 139,
-        "seq": 18,
+        "seq": 19,
         "resourceBoxId": 16,
         "exchangeLimit": 1,
         "eventExchangeCost": {
@@ -32654,10 +32664,20 @@
       {
         "id": 3156,
         "eventExchangeSummaryId": 139,
-        "seq": 19,
+        "seq": 20,
         "resourceBoxId": 232,
         "eventExchangeCost": {
           "resourceQuantity": 1
+        }
+      },
+      {
+        "id": 10004,
+        "eventExchangeSummaryId": 139,
+        "seq": 1,
+        "resourceBoxId": 1005,
+        "exchangeLimit": 1,
+        "eventExchangeCost": {
+          "resourceQuantity": 21000
         }
       }
     ]
@@ -33543,7 +33563,7 @@
       {
         "id": 3238,
         "eventExchangeSummaryId": 142,
-        "seq": 1,
+        "seq": 2,
         "resourceBoxId": 321,
         "exchangeLimit": 1,
         "eventExchangeCost": {
@@ -33553,7 +33573,7 @@
       {
         "id": 3239,
         "eventExchangeSummaryId": 142,
-        "seq": 2,
+        "seq": 3,
         "resourceBoxId": 320,
         "exchangeLimit": 1,
         "eventExchangeCost": {
@@ -33563,7 +33583,7 @@
       {
         "id": 3240,
         "eventExchangeSummaryId": 142,
-        "seq": 3,
+        "seq": 4,
         "resourceBoxId": 49,
         "exchangeLimit": 2,
         "eventExchangeCost": {
@@ -33573,7 +33593,7 @@
       {
         "id": 3241,
         "eventExchangeSummaryId": 142,
-        "seq": 4,
+        "seq": 5,
         "resourceBoxId": 3,
         "exchangeLimit": 5,
         "eventExchangeCost": {
@@ -33583,7 +33603,7 @@
       {
         "id": 3242,
         "eventExchangeSummaryId": 142,
-        "seq": 5,
+        "seq": 6,
         "resourceBoxId": 9000,
         "exchangeLimit": 20,
         "eventExchangeCost": {
@@ -33593,7 +33613,7 @@
       {
         "id": 3243,
         "eventExchangeSummaryId": 142,
-        "seq": 6,
+        "seq": 7,
         "resourceBoxId": 17,
         "exchangeLimit": 5,
         "eventExchangeCost": {
@@ -33603,7 +33623,7 @@
       {
         "id": 3244,
         "eventExchangeSummaryId": 142,
-        "seq": 7,
+        "seq": 8,
         "resourceBoxId": 7,
         "exchangeLimit": 1,
         "eventExchangeCost": {
@@ -33613,7 +33633,7 @@
       {
         "id": 3245,
         "eventExchangeSummaryId": 142,
-        "seq": 8,
+        "seq": 9,
         "resourceBoxId": 18,
         "exchangeLimit": 50,
         "eventExchangeCost": {
@@ -33623,7 +33643,7 @@
       {
         "id": 3246,
         "eventExchangeSummaryId": 142,
-        "seq": 9,
+        "seq": 10,
         "resourceBoxId": 13,
         "exchangeLimit": 10,
         "eventExchangeCost": {
@@ -33633,7 +33653,7 @@
       {
         "id": 3247,
         "eventExchangeSummaryId": 142,
-        "seq": 10,
+        "seq": 11,
         "resourceBoxId": 6,
         "exchangeLimit": 20,
         "eventExchangeCost": {
@@ -33643,7 +33663,7 @@
       {
         "id": 3248,
         "eventExchangeSummaryId": 142,
-        "seq": 11,
+        "seq": 12,
         "resourceBoxId": 9042,
         "exchangeLimit": 20,
         "eventExchangeCost": {
@@ -33653,7 +33673,7 @@
       {
         "id": 3249,
         "eventExchangeSummaryId": 142,
-        "seq": 12,
+        "seq": 13,
         "resourceBoxId": 9041,
         "exchangeLimit": 10,
         "eventExchangeCost": {
@@ -33663,7 +33683,7 @@
       {
         "id": 3250,
         "eventExchangeSummaryId": 142,
-        "seq": 13,
+        "seq": 14,
         "resourceBoxId": 9,
         "exchangeLimit": 300,
         "eventExchangeCost": {
@@ -33673,7 +33693,7 @@
       {
         "id": 3251,
         "eventExchangeSummaryId": 142,
-        "seq": 14,
+        "seq": 15,
         "resourceBoxId": 10,
         "exchangeLimit": 30,
         "eventExchangeCost": {
@@ -33683,7 +33703,7 @@
       {
         "id": 3252,
         "eventExchangeSummaryId": 142,
-        "seq": 15,
+        "seq": 16,
         "resourceBoxId": 11,
         "exchangeLimit": 10,
         "eventExchangeCost": {
@@ -33693,7 +33713,7 @@
       {
         "id": 3253,
         "eventExchangeSummaryId": 142,
-        "seq": 16,
+        "seq": 17,
         "resourceBoxId": 148,
         "exchangeLimit": 3,
         "eventExchangeCost": {
@@ -33703,7 +33723,7 @@
       {
         "id": 3254,
         "eventExchangeSummaryId": 142,
-        "seq": 17,
+        "seq": 18,
         "resourceBoxId": 12,
         "exchangeLimit": 8,
         "eventExchangeCost": {
@@ -33713,7 +33733,7 @@
       {
         "id": 3255,
         "eventExchangeSummaryId": 142,
-        "seq": 18,
+        "seq": 19,
         "resourceBoxId": 16,
         "exchangeLimit": 1,
         "eventExchangeCost": {
@@ -33723,10 +33743,20 @@
       {
         "id": 3256,
         "eventExchangeSummaryId": 142,
-        "seq": 19,
+        "seq": 20,
         "resourceBoxId": 232,
         "eventExchangeCost": {
           "resourceQuantity": 1
+        }
+      },
+      {
+        "id": 10003,
+        "eventExchangeSummaryId": 142,
+        "seq": 1,
+        "resourceBoxId": 1004,
+        "exchangeLimit": 1,
+        "eventExchangeCost": {
+          "resourceQuantity": 21000
         }
       }
     ]
