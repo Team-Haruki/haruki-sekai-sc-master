@@ -1370,53 +1370,5 @@
     "costJewel": 150,
     "effectAssetbundleName": "event_new_year_2024_02",
     "effectExpressionType": "throw_effect"
-  },
-  {
-    "id": 1001,
-    "virtualItemCategory": "normal",
-    "seq": 1140,
-    "priority": 1140,
-    "name": "春联",
-    "assetbundleName": "event_yuandan_01",
-    "costVirtualCoin": 300,
-    "costJewel": 100,
-    "effectAssetbundleName": "event_yuandan_01",
-    "effectExpressionType": "throw_effect"
-  },
-  {
-    "id": 1002,
-    "virtualItemCategory": "normal",
-    "seq": 1150,
-    "priority": 1150,
-    "name": "年年有余",
-    "assetbundleName": "event_yuandan_02",
-    "costVirtualCoin": 450,
-    "costJewel": 150,
-    "effectAssetbundleName": "event_yuandan_02",
-    "effectExpressionType": "throw_effect"
-  },
-  {
-    "id": 1009,
-    "virtualItemCategory": "normal",
-    "seq": 2040,
-    "priority": 2040,
-    "name": "HAPPY NEW YEAR 2024",
-    "assetbundleName": "event_new_year_2024_01",
-    "costVirtualCoin": 300,
-    "costJewel": 100,
-    "effectAssetbundleName": "event_new_year_2024_01",
-    "effectExpressionType": "throw_effect"
-  },
-  {
-    "id": 1010,
-    "virtualItemCategory": "normal",
-    "seq": 2050,
-    "priority": 2050,
-    "name": "2024生肖“龙”",
-    "assetbundleName": "event_new_year_2024_02",
-    "costVirtualCoin": 450,
-    "costJewel": 150,
-    "effectAssetbundleName": "event_new_year_2024_02",
-    "effectExpressionType": "throw_effect"
   }
 ]

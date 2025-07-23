@@ -5791,7 +5791,7 @@
   },
   {
     "id": 290,
-    "name": "第142次活动周边贩卖区",
+    "name": "第142回イベント物販",
     "virtualShopItems": [
       {
         "id": 471,
@@ -5807,7 +5807,7 @@
   },
   {
     "id": 291,
-    "name": "第143次活动周边贩卖区",
+    "name": "第143回イベント物販",
     "virtualShopItems": [
       {
         "id": 472,
@@ -5823,7 +5823,7 @@
   },
   {
     "id": 294,
-    "name": "第144次活动周边贩卖区",
+    "name": "第144回イベント物販",
     "virtualShopItems": [
       {
         "id": 479,
@@ -5840,7 +5840,7 @@
   },
   {
     "id": 295,
-    "name": "第145次活动周边贩卖区",
+    "name": "第145回イベント物販",
     "virtualShopItems": [
       {
         "id": 480,
@@ -5857,7 +5857,7 @@
   },
   {
     "id": 296,
-    "name": "第146次活动周边贩卖区",
+    "name": "第146回イベント物販",
     "virtualShopItems": [
       {
         "id": 481,
@@ -5874,7 +5874,7 @@
   },
   {
     "id": 297,
-    "name": "第147次活动周边贩卖区",
+    "name": "第147回イベント物販",
     "virtualShopItems": [
       {
         "id": 482,
@@ -5890,7 +5890,7 @@
   },
   {
     "id": 298,
-    "name": "第148次活动周边贩卖区",
+    "name": "第148回イベント物販",
     "virtualShopItems": [
       {
         "id": 483,
@@ -5903,190 +5903,5 @@
       }
     ],
     "virtualShopType": "event"
-  },
-  {
-    "id": 1001,
-    "name": "春节",
-    "virtualShopItems": [
-      {
-        "id": 10001,
-        "virtualShopId": 1001,
-        "virtualShopItemType": "coordinate",
-        "seq": 1000001,
-        "resourceBoxId": 71,
-        "costPaidJewel": 1000,
-        "startAt": 1643536800000,
-        "endAt": 1644130799000
-      },
-      {
-        "id": 10002,
-        "virtualShopId": 1001,
-        "virtualShopItemType": "accessory",
-        "seq": 1000002,
-        "resourceBoxId": 72,
-        "costVirtualCoin": 3000,
-        "costJewel": 1000,
-        "startAt": 1643536800000,
-        "endAt": 1644130799000
-      },
-      {
-        "id": 10003,
-        "virtualShopId": 1001,
-        "virtualShopItemType": "coordinate",
-        "seq": 1000003,
-        "resourceBoxId": 10001,
-        "costPaidJewel": 1000,
-        "startAt": 1674284400000,
-        "endAt": 1674975600000
-      },
-      {
-        "id": 10004,
-        "virtualShopId": 1001,
-        "virtualShopItemType": "penlight",
-        "seq": 1000004,
-        "resourceBoxId": 57,
-        "costVirtualCoin": 6000,
-        "costJewel": 2000,
-        "startAt": 1674284400000,
-        "endAt": 1674975600000
-      },
-      {
-        "id": 10005,
-        "virtualShopId": 1001,
-        "virtualShopItemType": "accessory",
-        "seq": 1000005,
-        "resourceBoxId": 10002,
-        "costVirtualCoin": 3000,
-        "costJewel": 1000,
-        "startAt": 1643536800000,
-        "endAt": 1644130799000
-      }
-    ],
-    "virtualShopType": "event"
-  },
-  {
-    "id": 1002,
-    "name": "春节2024",
-    "virtualShopItems": [
-      {
-        "id": 10006,
-        "virtualShopId": 1002,
-        "virtualShopItemType": "coordinate",
-        "seq": 1000006,
-        "resourceBoxId": 10003,
-        "costPaidJewel": 1000,
-        "startAt": 1674198000000,
-        "endAt": 1674975600000
-      }
-    ],
-    "virtualShopType": "event"
-  },
-  {
-    "id": 1003,
-    "name": "元旦2025",
-    "virtualShopItems": [
-      {
-        "id": 10007,
-        "virtualShopId": 1003,
-        "virtualShopItemType": "coordinate",
-        "seq": 1000007,
-        "resourceBoxId": 10003,
-        "costPaidJewel": 1000,
-        "startAt": 1704006000000,
-        "endAt": 1704869999000
-      },
-      {
-        "id": 10008,
-        "virtualShopId": 1003,
-        "virtualShopItemType": "coordinate",
-        "seq": 1000008,
-        "resourceBoxId": 10004,
-        "costPaidJewel": 1000,
-        "startAt": 1704006000000,
-        "endAt": 1704869999000
-      }
-    ],
-    "virtualShopType": "event"
-  },
-  {
-    "id": 1004,
-    "name": "春节2025",
-    "virtualShopItems": [
-      {
-        "id": 10009,
-        "virtualShopId": 1004,
-        "virtualShopItemType": "coordinate",
-        "seq": 1000009,
-        "resourceBoxId": 10005,
-        "costPaidJewel": 1000,
-        "startAt": 4074303600000
-      },
-      {
-        "id": 10010,
-        "virtualShopId": 1004,
-        "virtualShopItemType": "coordinate",
-        "seq": 1000010,
-        "resourceBoxId": 10003,
-        "costPaidJewel": 1000,
-        "startAt": 4074303600000
-      },
-      {
-        "id": 10011,
-        "virtualShopId": 1004,
-        "virtualShopItemType": "coordinate",
-        "seq": 1000011,
-        "resourceBoxId": 10006,
-        "costPaidJewel": 1000,
-        "startAt": 4074303600000
-      },
-      {
-        "id": 10012,
-        "virtualShopId": 1004,
-        "virtualShopItemType": "coordinate",
-        "seq": 1000012,
-        "resourceBoxId": 10009,
-        "costPaidJewel": 1000,
-        "startAt": 4074303600000
-      },
-      {
-        "id": 10013,
-        "virtualShopId": 1004,
-        "virtualShopItemType": "penlight",
-        "seq": 1000013,
-        "resourceBoxId": 10007,
-        "costPaidJewel": 1000,
-        "startAt": 4074303600000
-      },
-      {
-        "id": 10014,
-        "virtualShopId": 1004,
-        "virtualShopItemType": "accessory",
-        "seq": 1000014,
-        "resourceBoxId": 10008,
-        "costVirtualCoin": 3000,
-        "costJewel": 1000,
-        "startAt": 4074303600000
-      }
-    ],
-    "virtualShopType": "event"
-  },
-  {
-    "id": 1005,
-    "name": "甘酒商店",
-    "virtualShopItems": [
-      {
-        "id": 10015,
-        "virtualShopId": 1005,
-        "virtualShopItemType": "boost_item",
-        "seq": 299999,
-        "resourceBoxId": 147,
-        "costVirtualCoin": 0,
-        "costJewel": 0,
-        "startAt": 1707462000000,
-        "endAt": 1708325999000,
-        "limitValue": 1
-      }
-    ],
-    "virtualShopType": "other"
   }
 ]

@@ -211,7 +211,7 @@
   },
   {
     "id": 329,
-    "seq": 1,
+    "seq": 30,
     "appealTargetType": "billing_shop",
     "appealType": "billing",
     "startAt": 1735660800000,
@@ -453,7 +453,7 @@
     "id": 353,
     "seq": 3,
     "appealTargetType": "billing_shop",
-    "appealType": "once",
+    "appealType": "billing",
     "startAt": 1751688000000,
     "endAt": 1753027199000,
     "appealReadConditionType": "transition",
@@ -463,7 +463,7 @@
     "id": 354,
     "seq": 3,
     "appealTargetType": "billing_shop",
-    "appealType": "once",
+    "appealType": "billing",
     "startAt": 1751688000000,
     "endAt": 1753027199000,
     "appealReadConditionType": "transition",
@@ -473,10 +473,120 @@
     "id": 355,
     "seq": 3,
     "appealTargetType": "billing_shop",
-    "appealType": "once",
+    "appealType": "billing",
     "startAt": 1751688000000,
     "endAt": 1753027199000,
     "appealReadConditionType": "transition",
     "text": "新服装"
+  },
+  {
+    "id": 356,
+    "seq": 3,
+    "appealTargetType": "billing_shop",
+    "appealType": "daily_once",
+    "startAt": 1753243200000,
+    "endAt": 1754236799000,
+    "appealReadConditionType": "transition",
+    "text": "「嘉年华」特惠礼包"
+  },
+  {
+    "id": 357,
+    "seq": 3,
+    "appealTargetType": "billing_shop",
+    "appealType": "daily_once",
+    "startAt": 1753243200000,
+    "endAt": 1754236799000,
+    "appealReadConditionType": "transition",
+    "text": "“夏季”服装限时登场"
+  },
+  {
+    "id": 358,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1754452800000,
+    "endAt": 1755403199000,
+    "appealReadConditionType": "purchase",
+    "text": "穗波、咲希、笑梦登场"
+  },
+  {
+    "id": 359,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1754452800000,
+    "endAt": 1755057599000,
+    "appealReadConditionType": "purchase",
+    "text": "冬弥、奏、杏登场"
+  },
+  {
+    "id": 360,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1754841600000,
+    "endAt": 1755446399000,
+    "appealReadConditionType": "purchase",
+    "text": "[生日]星乃一歌登场"
+  },
+  {
+    "id": 361,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1755057600000,
+    "endAt": 1756267199000,
+    "appealReadConditionType": "purchase",
+    "text": "初音未来等虚拟歌手登场"
+  },
+  {
+    "id": 362,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1755403200000,
+    "endAt": 1756353599000,
+    "appealReadConditionType": "purchase",
+    "text": "类、雫、司登场"
+  },
+  {
+    "id": 363,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1756267200000,
+    "endAt": 1756958399000,
+    "appealReadConditionType": "purchase",
+    "text": "笑梦、真冬、穗波登场"
+  },
+  {
+    "id": 364,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1756224000000,
+    "endAt": 1756828799000,
+    "appealReadConditionType": "purchase",
+    "text": "[生日]晓山瑞希登场"
+  },
+  {
+    "id": 365,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1756353600000,
+    "endAt": 1757303999000,
+    "appealReadConditionType": "purchase",
+    "text": "一歌、宁宁、奏登场"
+  },
+  {
+    "id": 366,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1756569600000,
+    "endAt": 1757174399000,
+    "appealReadConditionType": "purchase",
+    "text": "[纪念日]初音未来登场"
   }
 ]
