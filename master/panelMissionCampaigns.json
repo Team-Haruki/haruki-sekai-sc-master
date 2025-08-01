@@ -1,5 +1,146 @@
 [
   {
+    "id": 9,
+    "name": "[女神异闻录5 皇家版联动纪念]印章任务",
+    "assetbundleName": "persona5royal_collab_2025_pm",
+    "bgmAssetbundleName": "persona5royal_collab_2025_pm_bgm",
+    "selectableLimit": 1,
+    "startAt": 1754280000000,
+    "progressEndAt": 1755100799000,
+    "closedAt": 1755100799000,
+    "distributionEndAt": 1756310399000,
+    "informationId": 10204,
+    "panelMissionSheetGroups": [
+      {
+        "id": 901,
+        "panelMissionCampaignId": 9,
+        "name": "联动",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 90101,
+            "panelMissionSheetGroupId": 901,
+            "name": "联动卡",
+            "seq": 1,
+            "assetbundleName": "sheet_persona5royal_collab",
+            "panelMissions": [
+              {
+                "id": 9010101,
+                "panelMissionSheetId": 90101,
+                "name": "完成1次\n《Life Will Change》",
+                "description": "完成1次歌曲《Life Will Change》。",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1767
+                  ]
+                ]
+              },
+              {
+                "id": 9010102,
+                "panelMissionSheetId": 90101,
+                "name": "完成\n3首不同的歌曲",
+                "description": "完成3首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 2,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 3,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1767
+                  ]
+                ]
+              },
+              {
+                "id": 9010103,
+                "panelMissionSheetId": 90101,
+                "name": "完成\n5首不同的歌曲",
+                "description": "完成5首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 3,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1767
+                  ]
+                ]
+              },
+              {
+                "id": 9010104,
+                "panelMissionSheetId": 90101,
+                "name": "完成\n10首不同的歌曲",
+                "description": "完成10首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 4,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 10,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1767
+                  ]
+                ]
+              },
+              {
+                "id": 9010105,
+                "panelMissionSheetId": 90101,
+                "name": "完成\n15首不同的歌曲",
+                "description": "完成15首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 5,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 15,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1767
+                  ]
+                ]
+              },
+              {
+                "id": 9010106,
+                "panelMissionSheetId": 90101,
+                "name": "完成\n20首不同的歌曲",
+                "description": "完成20首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 6,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 20,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1767
+                  ]
+                ]
+              },
+              {
+                "id": 9010107,
+                "panelMissionSheetId": 90101,
+                "name": "完成\n25首不同的歌曲",
+                "description": "完成25首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "seq": 7,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 25,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1767
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1768
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 1001,
     "name": "世界百日庆典印章任务",
     "assetbundleName": "4-5th_anniv_pm",

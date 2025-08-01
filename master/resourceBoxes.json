@@ -108663,6 +108663,13 @@
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "gacha_extra",
+    "name": "女神异闻录5 皇家版联动纪念服装",
+    "id": 54,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_extra",
     "name": "10000硬币",
     "id": 200001,
     "resourceBoxType": "expand"
@@ -111233,6 +111240,13 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "gift_detail",
     "name": null,
+    "id": 1504,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gift_detail",
+    "name": null,
     "id": 10001,
     "resourceBoxType": "expand"
   },
@@ -112882,6 +112896,13 @@
     "resourceBoxType": "list"
   },
   {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "[女神异闻录5 皇家版联动纪念]登录活动奖励。",
+    "id": 171,
+    "resourceBoxType": "list"
+  },
+  {
     "assetbundleName": null,
     "resourceBoxPurpose": "login_bonus",
     "name": "回归玩家登录活动第1天奖励。",
@@ -113817,6 +113838,13 @@
     "resourceBoxPurpose": "login_bonus",
     "name": "2025ChinaJoy参展纪念！登录活动第4天奖励。",
     "id": 2077,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "「世界」的休憩日♪登录活动第3天奖励",
+    "id": 2078,
     "resourceBoxType": "expand"
   },
   {
@@ -144632,6 +144660,20 @@
     "name": "短上衣[其他颜色3]",
     "id": 1663,
     "resourceBoxType": "costume_3d"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "[女神异闻录5 皇家版联动纪念]印章任务奖励",
+    "id": 1767,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "[女神异闻录5 皇家版联动纪念]印章任务奖励",
+    "id": 1768,
+    "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,

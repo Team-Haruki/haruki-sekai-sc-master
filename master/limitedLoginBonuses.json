@@ -1,5 +1,19 @@
 [
   {
+    "id": 131,
+    "startAt": 1754280000000,
+    "endAt": 1755100799000,
+    "assetbundleName": "persona5royal_collab_2025",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 274,
+        "limitedLoginBonusId": 131,
+        "day": 1,
+        "resourceBoxId": 171
+      }
+    ]
+  },
+  {
     "id": 1058,
     "startAt": 1740794400000,
     "endAt": 1749931199000,
@@ -508,32 +522,6 @@
       {
         "id": 1222,
         "limitedLoginBonusId": 1074,
-        "day": 3,
-        "resourceBoxId": 2052
-      }
-    ]
-  },
-  {
-    "id": 1075,
-    "startAt": 1754596800000,
-    "endAt": 1754855999000,
-    "assetbundleName": "restday2025_weekend",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1223,
-        "limitedLoginBonusId": 1075,
-        "day": 1,
-        "resourceBoxId": 2050
-      },
-      {
-        "id": 1224,
-        "limitedLoginBonusId": 1075,
-        "day": 2,
-        "resourceBoxId": 2051
-      },
-      {
-        "id": 1225,
-        "limitedLoginBonusId": 1075,
         "day": 3,
         "resourceBoxId": 2052
       }
@@ -1324,6 +1312,32 @@
         "limitedLoginBonusId": 1118,
         "day": 1,
         "resourceBoxId": 2077
+      }
+    ]
+  },
+  {
+    "id": 1119,
+    "startAt": 1754596800000,
+    "endAt": 1754855999000,
+    "assetbundleName": "restday2025_0808",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1300,
+        "limitedLoginBonusId": 1119,
+        "day": 1,
+        "resourceBoxId": 2053
+      },
+      {
+        "id": 1301,
+        "limitedLoginBonusId": 1119,
+        "day": 2,
+        "resourceBoxId": 2054
+      },
+      {
+        "id": 1302,
+        "limitedLoginBonusId": 1119,
+        "day": 3,
+        "resourceBoxId": 2078
       }
     ]
   }
