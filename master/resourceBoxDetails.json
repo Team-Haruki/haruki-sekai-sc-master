@@ -413800,6 +413800,46 @@
     "resourceType": "costume_3d"
   },
   {
+    "resourceBoxId": 20040,
+    "resourceQuantity": 3,
+    "resourceId": 2,
+    "resourceBoxPurpose": "gift_detail",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 20040,
+    "resourceQuantity": 30,
+    "resourceId": 13,
+    "resourceBoxPurpose": "gift_detail",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 20040,
+    "resourceQuantity": 30,
+    "resourceId": 15,
+    "resourceBoxPurpose": "gift_detail",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 20040,
+    "resourceQuantity": 30,
+    "resourceId": 14,
+    "resourceBoxPurpose": "gift_detail",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 20040,
+    "resourceQuantity": 300,
+    "resourceId": null,
+    "resourceBoxPurpose": "gift_detail",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
     "resourceBoxId": 50001,
     "resourceQuantity": 3100,
     "resourceId": null,
@@ -460203,6 +460243,222 @@
     "resourceBoxId": 1547,
     "resourceQuantity": 1,
     "resourceId": 689144,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1548,
+    "resourceQuantity": 1,
+    "resourceId": 690091,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1548,
+    "resourceQuantity": 1,
+    "resourceId": 690162,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1548,
+    "resourceQuantity": 1,
+    "resourceId": 690092,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1549,
+    "resourceQuantity": 1,
+    "resourceId": 690093,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1549,
+    "resourceQuantity": 1,
+    "resourceId": 690163,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1549,
+    "resourceQuantity": 1,
+    "resourceId": 690094,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1550,
+    "resourceQuantity": 1,
+    "resourceId": 690095,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1550,
+    "resourceQuantity": 1,
+    "resourceId": 690164,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1550,
+    "resourceQuantity": 1,
+    "resourceId": 690096,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1551,
+    "resourceQuantity": 1,
+    "resourceId": 691083,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1551,
+    "resourceQuantity": 1,
+    "resourceId": 691162,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1551,
+    "resourceQuantity": 1,
+    "resourceId": 691084,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1552,
+    "resourceQuantity": 1,
+    "resourceId": 691085,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1552,
+    "resourceQuantity": 1,
+    "resourceId": 691163,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1552,
+    "resourceQuantity": 1,
+    "resourceId": 691086,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1553,
+    "resourceQuantity": 1,
+    "resourceId": 691087,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1553,
+    "resourceQuantity": 1,
+    "resourceId": 691164,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1553,
+    "resourceQuantity": 1,
+    "resourceId": 691088,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1554,
+    "resourceQuantity": 1,
+    "resourceId": 692035,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1554,
+    "resourceQuantity": 1,
+    "resourceId": 692050,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1554,
+    "resourceQuantity": 1,
+    "resourceId": 692036,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1555,
+    "resourceQuantity": 1,
+    "resourceId": 692037,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1555,
+    "resourceQuantity": 1,
+    "resourceId": 692051,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1555,
+    "resourceQuantity": 1,
+    "resourceId": 692038,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1556,
+    "resourceQuantity": 1,
+    "resourceId": 692039,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1556,
+    "resourceQuantity": 1,
+    "resourceId": 692052,
+    "resourceBoxPurpose": "master_lesson_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 1556,
+    "resourceQuantity": 1,
+    "resourceId": 692040,
     "resourceBoxPurpose": "master_lesson_reward",
     "resourceLevel": null,
     "resourceType": "costume_3d"
