@@ -5400,6 +5400,83 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "billing_shop_item",
     "name": null,
+    "id": 51051,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 51052,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 51053,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 51054,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 51055,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 51056,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 51057,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 51058,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 51059,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 51060,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 51061,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
     "id": 90001,
     "resourceBoxType": "expand"
   },
@@ -6738,6 +6815,13 @@
     "resourceBoxPurpose": "billing_shop_item_bonus",
     "name": null,
     "id": 20001,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 51051,
     "resourceBoxType": "expand"
   },
   {
@@ -108607,7 +108691,7 @@
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "gacha_extra",
-    "name": null,
+    "name": "魔法未来2024纪念服装",
     "id": 35,
     "resourceBoxType": "expand"
   },
@@ -108621,35 +108705,35 @@
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "gacha_extra",
-    "name": null,
+    "name": "4周年記念ユニット衣装[Leo/need]、ブルーフォーチュンフラワー",
     "id": 37,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "gacha_extra",
-    "name": null,
+    "name": "4周年記念ユニット衣装[MORE MORE JUMP！]、グリーンフォーチュンフラワー",
     "id": 38,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "gacha_extra",
-    "name": null,
+    "name": "4周年記念ユニット衣装[Vivid BAD SQUAD]、レッドフォーチュンフラワー",
     "id": 39,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "gacha_extra",
-    "name": null,
+    "name": "4周年記念ユニット衣装[ワンダーランズ×ショウタイム]、オレンジフォーチュンフラワー",
     "id": 40,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "gacha_extra",
-    "name": null,
+    "name": "4周年記念ユニット衣装[25時、ナイトコードで。]、パープルフォーチュンフラワー",
     "id": 41,
     "resourceBoxType": "expand"
   },
@@ -108665,6 +108749,13 @@
     "resourceBoxPurpose": "gacha_extra",
     "name": "女神异闻录5 皇家版联动纪念服装",
     "id": 54,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_extra",
+    "name": null,
+    "id": 55,
     "resourceBoxType": "expand"
   },
   {
@@ -113853,6 +113944,111 @@
     "name": "「世界」的休憩日♪登录活动第3天奖励",
     "id": 2078,
     "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "虚拟歌手纪念日登录活动的奖励。",
+    "id": 2079,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "「世界」应援日！登录活动第1天奖励。",
+    "id": 2080,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "「世界」应援日！登录活动第2天奖励。",
+    "id": 2081,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "「世界」应援日！登录活动第3天奖励。",
+    "id": 2082,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "「世界」应援日！登录活动第4天奖励。",
+    "id": 2083,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "「世界」应援日！登录活动第5天奖励。",
+    "id": 2084,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "「世界」应援日！登录活动第6天奖励。",
+    "id": 2085,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "「世界」应援日！登录活动第7天奖励。",
+    "id": 2086,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "「世界」的休憩日♪登录活动第3天奖励",
+    "id": 2087,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "夏日登录活动第1天奖励。",
+    "id": 2088,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "夏日登录活动第2天奖励。",
+    "id": 2089,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "夏日登录活动第3天奖励。",
+    "id": 2090,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "夏日登录活动第4天奖励。",
+    "id": 2091,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "夏日登录活动第5天奖励。",
+    "id": 2092,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "魔法未来2025登录活动的奖励。",
+    "id": 2093,
+    "resourceBoxType": "list"
   },
   {
     "assetbundleName": "gacha_cos0016_01",
@@ -150540,6 +150736,34 @@
     "name": "水晶*500",
     "id": 400081,
     "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "技能升级乐谱（小）×30",
+    "id": 400082,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "心愿碎片×50",
+    "id": 400083,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "练习乐谱（中级）×10",
+    "id": 400084,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": "limit_mission_01",
+    "resourceBoxPurpose": "mission_reward",
+    "name": "纪念服装×1 、任务招募券×5、葱×3、硬币×20000",
+    "id": 400085,
+    "resourceBoxType": "list"
   },
   {
     "assetbundleName": null,
