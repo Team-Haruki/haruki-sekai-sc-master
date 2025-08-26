@@ -12076,6 +12076,69 @@
     "archivePublishedAt": 1664380800000
   },
   {
+    "id": 442,
+    "musicId": 190,
+    "musicVocalType": "original_song",
+    "seq": 1,
+    "releaseConditionId": 5,
+    "caption": "虚拟歌手ver.",
+    "characters": [
+      {
+        "id": 830,
+        "musicId": 190,
+        "musicVocalId": 442,
+        "characterType": "game_character",
+        "characterId": 22,
+        "seq": 1900
+      }
+    ],
+    "assetbundleName": "vs_0190_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4104964800000
+  },
+  {
+    "id": 443,
+    "musicId": 191,
+    "musicVocalType": "original_song",
+    "seq": 1,
+    "releaseConditionId": 5,
+    "caption": "虚拟歌手ver.",
+    "characters": [
+      {
+        "id": 831,
+        "musicId": 191,
+        "musicVocalId": 443,
+        "characterType": "game_character",
+        "characterId": 23,
+        "seq": 1910
+      }
+    ],
+    "assetbundleName": "vs_0191_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4104964800000
+  },
+  {
+    "id": 444,
+    "musicId": 192,
+    "musicVocalType": "original_song",
+    "seq": 1,
+    "releaseConditionId": 5,
+    "caption": "虚拟歌手ver.",
+    "characters": [
+      {
+        "id": 832,
+        "musicId": 192,
+        "musicVocalId": 444,
+        "characterType": "game_character",
+        "characterId": 22,
+        "seq": 1920
+      }
+    ],
+    "assetbundleName": "vs_0192_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4104964800000
+  },
+  {
     "id": 445,
     "musicId": 193,
     "musicVocalType": "original_song",
@@ -23453,6 +23516,106 @@
     "archivePublishedAt": 1718121600000
   },
   {
+    "id": 851,
+    "musicId": 347,
+    "musicVocalType": "virtual_singer",
+    "seq": 1,
+    "releaseConditionId": 5,
+    "caption": "虚拟歌手ver.",
+    "characters": [
+      {
+        "id": 1620,
+        "musicId": 347,
+        "musicVocalId": 851,
+        "characterType": "game_character",
+        "characterId": 24,
+        "seq": 3470
+      }
+    ],
+    "assetbundleName": "vs_0347_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4104964800000
+  },
+  {
+    "id": 852,
+    "musicId": 348,
+    "musicVocalType": "virtual_singer",
+    "seq": 1,
+    "releaseConditionId": 5,
+    "caption": "虚拟歌手ver.",
+    "characters": [
+      {
+        "id": 1621,
+        "musicId": 348,
+        "musicVocalId": 852,
+        "characterType": "game_character",
+        "characterId": 26,
+        "seq": 3480
+      }
+    ],
+    "assetbundleName": "vs_0348_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4104964800000
+  },
+  {
+    "id": 853,
+    "musicId": 349,
+    "musicVocalType": "virtual_singer",
+    "seq": 1,
+    "releaseConditionId": 5,
+    "caption": "虚拟歌手ver.",
+    "characters": [
+      {
+        "id": 1622,
+        "musicId": 349,
+        "musicVocalId": 853,
+        "characterType": "game_character",
+        "characterId": 25,
+        "seq": 3490
+      },
+      {
+        "id": 1905,
+        "musicId": 349,
+        "musicVocalId": 853,
+        "characterType": "game_character",
+        "characterId": 22,
+        "seq": 3491
+      },
+      {
+        "id": 1906,
+        "musicId": 349,
+        "musicVocalId": 853,
+        "characterType": "game_character",
+        "characterId": 23,
+        "seq": 3492
+      }
+    ],
+    "assetbundleName": "vs_0349_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4104964800000
+  },
+  {
+    "id": 854,
+    "musicId": 350,
+    "musicVocalType": "virtual_singer",
+    "seq": 1,
+    "releaseConditionId": 5,
+    "caption": "虚拟歌手ver.",
+    "characters": [
+      {
+        "id": 1623,
+        "musicId": 350,
+        "musicVocalId": 854,
+        "characterType": "game_character",
+        "characterId": 21,
+        "seq": 3500
+      }
+    ],
+    "assetbundleName": "vs_0350_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4104964800000
+  },
+  {
     "id": 855,
     "musicId": 333,
     "musicVocalType": "sekai",
@@ -25841,7 +26004,7 @@
         "musicVocalId": 947,
         "characterType": "game_character",
         "characterId": 22,
-        "seq": 4092
+        "seq": 4093
       },
       {
         "id": 2437,
@@ -25849,7 +26012,7 @@
         "musicVocalId": 947,
         "characterType": "game_character",
         "characterId": 23,
-        "seq": 4093
+        "seq": 4094
       },
       {
         "id": 2438,
@@ -25857,7 +26020,7 @@
         "musicVocalId": 947,
         "characterType": "game_character",
         "characterId": 24,
-        "seq": 4094
+        "seq": 4095
       },
       {
         "id": 2439,
@@ -25865,7 +26028,7 @@
         "musicVocalId": 947,
         "characterType": "game_character",
         "characterId": 25,
-        "seq": 4095
+        "seq": 4096
       },
       {
         "id": 2440,
@@ -25873,7 +26036,7 @@
         "musicVocalId": 947,
         "characterType": "game_character",
         "characterId": 26,
-        "seq": 4096
+        "seq": 4097
       }
     ],
     "assetbundleName": "vs_0409_01",
@@ -28965,6 +29128,27 @@
     "archivePublishedAt": 1754280000000
   },
   {
+    "id": 1211,
+    "musicId": 654,
+    "musicVocalType": "virtual_singer",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "虚拟歌手ver.",
+    "characters": [
+      {
+        "id": 2079,
+        "musicId": 654,
+        "musicVocalId": 1211,
+        "characterType": "game_character",
+        "characterId": 21,
+        "seq": 6540
+      }
+    ],
+    "assetbundleName": "vs_0654_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1756450800000
+  },
+  {
     "id": 1358,
     "musicId": 395,
     "musicVocalType": "sekai",
@@ -29527,7 +29711,7 @@
         "musicVocalId": 1376,
         "characterType": "game_character",
         "characterId": 17,
-        "seq": 4022
+        "seq": 4023
       },
       {
         "id": 2464,
@@ -29535,7 +29719,7 @@
         "musicVocalId": 1376,
         "characterType": "game_character",
         "characterId": 18,
-        "seq": 4023
+        "seq": 4024
       },
       {
         "id": 2465,
@@ -29543,7 +29727,7 @@
         "musicVocalId": 1376,
         "characterType": "game_character",
         "characterId": 19,
-        "seq": 4024
+        "seq": 4025
       },
       {
         "id": 2466,
@@ -29551,7 +29735,7 @@
         "musicVocalId": 1376,
         "characterType": "game_character",
         "characterId": 20,
-        "seq": 4025
+        "seq": 4026
       }
     ],
     "assetbundleName": "se_0402_01",
@@ -30748,7 +30932,7 @@
         "musicVocalId": 1426,
         "characterType": "game_character",
         "characterId": 21,
-        "seq": 4131
+        "seq": 4132
       },
       {
         "id": 2422,
@@ -30756,7 +30940,7 @@
         "musicVocalId": 1426,
         "characterType": "game_character",
         "characterId": 5,
-        "seq": 4132
+        "seq": 4133
       },
       {
         "id": 2423,
@@ -30764,7 +30948,7 @@
         "musicVocalId": 1426,
         "characterType": "game_character",
         "characterId": 6,
-        "seq": 4133
+        "seq": 4134
       },
       {
         "id": 2424,
@@ -30772,7 +30956,7 @@
         "musicVocalId": 1426,
         "characterType": "game_character",
         "characterId": 7,
-        "seq": 4134
+        "seq": 4135
       },
       {
         "id": 2425,
@@ -30780,7 +30964,7 @@
         "musicVocalId": 1426,
         "characterType": "game_character",
         "characterId": 8,
-        "seq": 4135
+        "seq": 4136
       }
     ],
     "assetbundleName": "se_0413_01",
@@ -30801,7 +30985,7 @@
         "musicVocalId": 1428,
         "characterType": "game_character",
         "characterId": 17,
-        "seq": 4091
+        "seq": 4092
       },
       {
         "id": 2441,
@@ -30809,7 +30993,7 @@
         "musicVocalId": 1428,
         "characterType": "game_character",
         "characterId": 26,
-        "seq": 4097
+        "seq": 4098
       },
       {
         "id": 2442,
@@ -30817,7 +31001,7 @@
         "musicVocalId": 1428,
         "characterType": "game_character",
         "characterId": 18,
-        "seq": 4098
+        "seq": 4099
       },
       {
         "id": 2443,
@@ -30825,7 +31009,7 @@
         "musicVocalId": 1428,
         "characterType": "game_character",
         "characterId": 19,
-        "seq": 4099
+        "seq": 4100
       },
       {
         "id": 2444,
@@ -30833,7 +31017,7 @@
         "musicVocalId": 1428,
         "characterType": "game_character",
         "characterId": 20,
-        "seq": 4100
+        "seq": 4101
       }
     ],
     "assetbundleName": "se_0409_01",
@@ -34168,10 +34352,10 @@
   {
     "id": 10000,
     "musicId": 76,
-    "musicVocalType": "another_vocal",
-    "seq": 3,
+    "musicVocalType": "virtual_singer",
+    "seq": 101,
     "releaseConditionId": 5,
-    "caption": "Another Vocal ver.",
+    "caption": "虚拟歌手ver.",
     "characters": [
       {
         "id": 10000,
@@ -34182,7 +34366,7 @@
         "seq": 4680
       }
     ],
-    "assetbundleName": "0076_02",
+    "assetbundleName": "vs_10000_01",
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1735704000000
   },

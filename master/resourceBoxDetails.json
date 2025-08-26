@@ -330561,7 +330561,7 @@
   },
   {
     "resourceBoxId": 3162,
-    "resourceQuantity": 500,
+    "resourceQuantity": 300,
     "resourceId": null,
     "resourceBoxPurpose": "event_ranking_reward",
     "resourceLevel": null,
@@ -330569,8 +330569,8 @@
   },
   {
     "resourceBoxId": 3162,
-    "resourceQuantity": 1,
-    "resourceId": 3,
+    "resourceQuantity": 3,
+    "resourceId": 2,
     "resourceBoxPurpose": "event_ranking_reward",
     "resourceLevel": null,
     "resourceType": "skill_practice_ticket"
@@ -330585,7 +330585,7 @@
   },
   {
     "resourceBoxId": 3163,
-    "resourceQuantity": 500,
+    "resourceQuantity": 300,
     "resourceId": null,
     "resourceBoxPurpose": "event_ranking_reward",
     "resourceLevel": null,
@@ -330593,8 +330593,8 @@
   },
   {
     "resourceBoxId": 3163,
-    "resourceQuantity": 1,
-    "resourceId": 3,
+    "resourceQuantity": 3,
+    "resourceId": 2,
     "resourceBoxPurpose": "event_ranking_reward",
     "resourceLevel": null,
     "resourceType": "skill_practice_ticket"
@@ -330625,7 +330625,7 @@
   },
   {
     "resourceBoxId": 3165,
-    "resourceQuantity": 300,
+    "resourceQuantity": 100,
     "resourceId": null,
     "resourceBoxPurpose": "event_ranking_reward",
     "resourceLevel": null,
@@ -330633,22 +330633,6 @@
   },
   {
     "resourceBoxId": 3165,
-    "resourceQuantity": 2,
-    "resourceId": 2,
-    "resourceBoxPurpose": "event_ranking_reward",
-    "resourceLevel": null,
-    "resourceType": "skill_practice_ticket"
-  },
-  {
-    "resourceBoxId": 3166,
-    "resourceQuantity": 300,
-    "resourceId": null,
-    "resourceBoxPurpose": "event_ranking_reward",
-    "resourceLevel": null,
-    "resourceType": "jewel"
-  },
-  {
-    "resourceBoxId": 3166,
     "resourceQuantity": 1,
     "resourceId": 2,
     "resourceBoxPurpose": "event_ranking_reward",
@@ -609120,14 +609104,6 @@
     "resourceType": "music"
   },
   {
-    "resourceBoxId": 10666,
-    "resourceQuantity": 1,
-    "resourceId": 1423,
-    "resourceBoxPurpose": "shop_item",
-    "resourceLevel": null,
-    "resourceType": "music_vocal"
-  },
-  {
     "resourceBoxId": 10668,
     "resourceQuantity": 1,
     "resourceId": 413,
@@ -610070,6 +610046,14 @@
     "resourceBoxPurpose": "shop_item",
     "resourceLevel": null,
     "resourceType": "music_vocal"
+  },
+  {
+    "resourceBoxId": 10928,
+    "resourceQuantity": 1,
+    "resourceId": 654,
+    "resourceBoxPurpose": "shop_item",
+    "resourceLevel": null,
+    "resourceType": "music"
   },
   {
     "resourceBoxId": 20000,
