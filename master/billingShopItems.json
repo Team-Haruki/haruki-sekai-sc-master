@@ -2417,8 +2417,8 @@
     "id": 51054,
     "seq": 45899,
     "billingShopItemType": "value_set",
-    "name": "七夕主题服装",
-    "description": "七夕主题服装（台服在2023年8月首次上线的），男女全色",
+    "name": "「闪耀星辰连衣裙」服装礼包",
+    "description": "「闪耀星辰连衣裙」全色套装",
     "billableLimitType": "count",
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "none",
@@ -2525,6 +2525,22 @@
     "assetbundleName": "shop_51061",
     "resourceBoxId": 51061,
     "startAt": 1756353600000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 51062,
+    "seq": 45899,
+    "billingShopItemType": "value_set",
+    "name": "「闪耀星辰礼服」服装礼包",
+    "description": "「闪耀星辰礼服」全色套装",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_51062",
+    "resourceBoxId": 51062,
+    "label": "仅限购买1次",
+    "startAt": 1756450800000,
+    "endAt": 1757260799000,
     "purchaseOption": "exchange"
   },
   {
