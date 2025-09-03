@@ -220,7 +220,8 @@
     "billableLimitResetIntervalType": "day",
     "billableLimitResetIntervalValue": 180,
     "assetbundleName": "shop_68",
-    "resourceBoxId": 40001
+    "resourceBoxId": 40001,
+    "startAt": 1188503999000
   },
   {
     "id": 68,
@@ -234,7 +235,8 @@
     "billableLimitResetIntervalType": "day",
     "billableLimitResetIntervalValue": 180,
     "assetbundleName": "shop_69",
-    "resourceBoxId": 40003
+    "resourceBoxId": 40003,
+    "startAt": 1188503999000
   },
   {
     "id": 69,
@@ -248,7 +250,8 @@
     "billableLimitResetIntervalType": "day",
     "billableLimitResetIntervalValue": 180,
     "assetbundleName": "shop_70",
-    "resourceBoxId": 40002
+    "resourceBoxId": 40002,
+    "startAt": 1188503999000
   },
   {
     "id": 501,
@@ -2377,7 +2380,6 @@
     "assetbundleName": "shop_51051",
     "resourceBoxId": 51051,
     "bonusResourceBoxId": 51051,
-    "label": "仅限购买1次",
     "startAt": 1756440000000,
     "endAt": 1757260799000
   },
@@ -2495,6 +2497,7 @@
     "assetbundleName": "shop_51059",
     "resourceBoxId": 51059,
     "startAt": 1756353600000,
+    "endAt": 1756871999000,
     "purchaseOption": "exchange"
   },
   {
@@ -2523,6 +2526,7 @@
     "assetbundleName": "shop_51061",
     "resourceBoxId": 51061,
     "startAt": 1756353600000,
+    "endAt": 1756871999000,
     "purchaseOption": "exchange"
   },
   {
@@ -2539,6 +2543,36 @@
     "label": "仅限购买1次",
     "startAt": 1756440000000,
     "endAt": 1757260799000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 51063,
+    "seq": 13,
+    "billingShopItemType": "value_set",
+    "name": "练习乐谱（高级）",
+    "description": "练习乐谱（高级）×10",
+    "billableLimitType": "count",
+    "billableLimitValue": 10,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_51063",
+    "resourceBoxId": 51063,
+    "startAt": 1756872000000,
+    "endAt": 4102415999000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 51064,
+    "seq": 11,
+    "billingShopItemType": "value_set",
+    "name": "奇迹晶石",
+    "description": "奇迹晶石×50",
+    "billableLimitType": "count",
+    "billableLimitValue": 10,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_51064",
+    "resourceBoxId": 51064,
+    "startAt": 1756872000000,
+    "endAt": 4102415999000,
     "purchaseOption": "exchange"
   },
   {

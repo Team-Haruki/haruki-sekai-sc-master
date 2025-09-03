@@ -131360,6 +131360,22 @@
     "resourceType": "costume_3d"
   },
   {
+    "resourceBoxId": 51063,
+    "resourceQuantity": 10,
+    "resourceId": 3,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "practice_ticket"
+  },
+  {
+    "resourceBoxId": 51064,
+    "resourceQuantity": 50,
+    "resourceId": 14,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
     "resourceBoxId": 90001,
     "resourceQuantity": 2010,
     "resourceId": null,
@@ -427801,11 +427817,11 @@
   },
   {
     "resourceBoxId": 134,
-    "resourceQuantity": 5,
-    "resourceId": 21,
+    "resourceQuantity": 1500,
+    "resourceId": null,
     "resourceBoxPurpose": "login_bonus",
     "resourceLevel": null,
-    "resourceType": "gacha_ticket"
+    "resourceType": "jewel"
   },
   {
     "resourceBoxId": 134,
@@ -430766,6 +430782,70 @@
     "resourceBoxPurpose": "login_bonus",
     "resourceLevel": null,
     "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 2094,
+    "resourceQuantity": 5,
+    "resourceId": 89,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 2094,
+    "resourceQuantity": 5,
+    "resourceId": 90,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 2094,
+    "resourceQuantity": 5,
+    "resourceId": 91,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 2094,
+    "resourceQuantity": 2,
+    "resourceId": 2,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 2095,
+    "resourceQuantity": 5,
+    "resourceId": 89,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 2096,
+    "resourceQuantity": 5,
+    "resourceId": 90,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 2097,
+    "resourceQuantity": 5,
+    "resourceId": 91,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 2098,
+    "resourceQuantity": 2,
+    "resourceId": 2,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
   },
   {
     "resourceBoxId": 1,
@@ -609120,6 +609200,14 @@
     "resourceType": "music"
   },
   {
+    "resourceBoxId": 10667,
+    "resourceQuantity": 1,
+    "resourceId": 1425,
+    "resourceBoxPurpose": "shop_item",
+    "resourceLevel": null,
+    "resourceType": "music_vocal"
+  },
+  {
     "resourceBoxId": 10668,
     "resourceQuantity": 1,
     "resourceId": 413,
@@ -610059,6 +610147,14 @@
     "resourceBoxId": 10787,
     "resourceQuantity": 1,
     "resourceId": 1527,
+    "resourceBoxPurpose": "shop_item",
+    "resourceLevel": null,
+    "resourceType": "music_vocal"
+  },
+  {
+    "resourceBoxId": 10863,
+    "resourceQuantity": 1,
+    "resourceId": 1615,
     "resourceBoxPurpose": "shop_item",
     "resourceLevel": null,
     "resourceType": "music_vocal"

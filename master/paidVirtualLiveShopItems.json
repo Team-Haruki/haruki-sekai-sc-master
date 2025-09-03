@@ -560,13 +560,13 @@
         "id": 200261,
         "costResourceType": "jewel",
         "costResourceQuantity": 300,
-        "startAt": 1757692800000
+        "startAt": 1757736000000
       },
       {
         "id": 200262,
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 300,
-        "startAt": 1757692800000
+        "startAt": 1757736000000
       }
     ],
     "assetbundleName": "vl_archive_thumbnail_20026"
@@ -1132,13 +1132,13 @@
         "id": 200521,
         "costResourceType": "jewel",
         "costResourceQuantity": 300,
-        "startAt": 1757692800000
+        "startAt": 1757736000000
       },
       {
         "id": 200522,
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 300,
-        "startAt": 1757692800000
+        "startAt": 1757736000000
       }
     ],
     "assetbundleName": "vl_archive_thumbnail_20052"
@@ -1682,13 +1682,13 @@
         "id": 200771,
         "costResourceType": "jewel",
         "costResourceQuantity": 300,
-        "startAt": 1757692800000
+        "startAt": 1756699200000
       },
       {
         "id": 200772,
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 300,
-        "startAt": 1757692800000
+        "startAt": 1756699200000
       }
     ],
     "assetbundleName": "vl_archive_thumbnail_20077"
@@ -1704,13 +1704,13 @@
         "id": 200781,
         "costResourceType": "jewel",
         "costResourceQuantity": 300,
-        "startAt": 1756699200000
+        "startAt": 1757736000000
       },
       {
         "id": 200782,
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 300,
-        "startAt": 1756699200000
+        "startAt": 1757736000000
       }
     ],
     "assetbundleName": "vl_archive_thumbnail_20078"
@@ -2044,28 +2044,6 @@
       }
     ],
     "assetbundleName": "vl_archive_thumbnail_20093"
-  },
-  {
-    "id": 20094,
-    "seq": 20094,
-    "name": "绘名 2025",
-    "resourceBoxId": 20094,
-    "paidVirtualLiveShopItemPurchaseType": "single",
-    "paidVirtualLiveShopCosts": [
-      {
-        "id": 200941,
-        "costResourceType": "jewel",
-        "costResourceQuantity": 300,
-        "startAt": 1751299200000
-      },
-      {
-        "id": 200942,
-        "costResourceType": "paid_jewel",
-        "costResourceQuantity": 300,
-        "startAt": 1751299200000
-      }
-    ],
-    "assetbundleName": "vl_archive_thumbnail_20094"
   },
   {
     "id": 20095,
