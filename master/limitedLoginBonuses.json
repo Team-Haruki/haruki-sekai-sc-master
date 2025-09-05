@@ -106,6 +106,20 @@
     ]
   },
   {
+    "id": 105,
+    "startAt": 1761753600000,
+    "endAt": 1761839999000,
+    "assetbundleName": "halloween_2024",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 229,
+        "limitedLoginBonusId": 105,
+        "day": 1,
+        "resourceBoxId": 141
+      }
+    ]
+  },
+  {
     "id": 131,
     "startAt": 1754280000000,
     "endAt": 1755100799000,
@@ -2046,6 +2060,46 @@
         "limitedLoginBonusId": 1156,
         "day": 1,
         "resourceBoxId": 2097
+      }
+    ]
+  },
+  {
+    "id": 1157,
+    "startAt": 1761753600000,
+    "endAt": 1761839999000,
+    "assetbundleName": "halloween_2024",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1354,
+        "limitedLoginBonusId": 1157,
+        "day": 1,
+        "resourceBoxId": 2060
+      }
+    ]
+  },
+  {
+    "id": 1158,
+    "startAt": 1757073600000,
+    "endAt": 1757692740000,
+    "assetbundleName": "school_2025",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1355,
+        "limitedLoginBonusId": 1158,
+        "day": 1,
+        "resourceBoxId": 2099
+      },
+      {
+        "id": 1356,
+        "limitedLoginBonusId": 1158,
+        "day": 2,
+        "resourceBoxId": 2099
+      },
+      {
+        "id": 1357,
+        "limitedLoginBonusId": 1158,
+        "day": 3,
+        "resourceBoxId": 2100
       }
     ]
   }
