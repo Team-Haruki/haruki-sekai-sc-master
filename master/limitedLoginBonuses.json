@@ -2102,5 +2102,25 @@
         "resourceBoxId": 2100
       }
     ]
+  },
+  {
+    "id": 1159,
+    "startAt": 1758110400000,
+    "endAt": 1758643199000,
+    "assetbundleName": "school_2025_1",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1358,
+        "limitedLoginBonusId": 1159,
+        "day": 1,
+        "resourceBoxId": 2101
+      },
+      {
+        "id": 1359,
+        "limitedLoginBonusId": 1159,
+        "day": 2,
+        "resourceBoxId": 2102
+      }
+    ]
   }
 ]

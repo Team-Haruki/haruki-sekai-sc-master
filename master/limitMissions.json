@@ -106,5 +106,59 @@
     "requirement": 5,
     "sentence": "完成所有的初音未来纪念日限时任务。",
     "resourceBoxId": 400085
+  },
+  {
+    "limitMissionGroupId": 21,
+    "id": 124,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live",
+    "requirement": 5,
+    "sentence": "完成5次「挑战演出」。",
+    "resourceBoxId": 100319
+  },
+  {
+    "limitMissionGroupId": 21,
+    "id": 125,
+    "seq": 1,
+    "limitMissionType": "clear_multi_live",
+    "requirement": 10,
+    "sentence": "完成10次多人演出。",
+    "resourceBoxId": 100320
+  },
+  {
+    "limitMissionGroupId": 21,
+    "id": 126,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "在活动兑换所完成3次兑换。",
+    "resourceBoxId": 100309
+  },
+  {
+    "limitMissionGroupId": 21,
+    "id": 127,
+    "seq": 1,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 30,
+    "sentence": "累计消耗30点演出能量。",
+    "resourceBoxId": 100307
+  },
+  {
+    "limitMissionGroupId": 21,
+    "id": 128,
+    "seq": 1,
+    "limitMissionType": "master_rank",
+    "requirement": 1,
+    "sentence": "提升1次成员的专精等级。",
+    "resourceBoxId": 100321
+  },
+  {
+    "limitMissionGroupId": 21,
+    "id": 129,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "完成以上所有任务。",
+    "resourceBoxId": 400086
   }
 ]
