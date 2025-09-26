@@ -1,0 +1,793 @@
+[
+  {
+    "id": 1,
+    "seq": 1,
+    "mysekaiMaterialType": "wood",
+    "name": "心愿木材",
+    "pronunciation": "おもいのもくざい",
+    "description": "这是从你的心愿中诞生的类似木材一样的东西。\n可通过砍伐树木获得。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_wood_1",
+    "modelAssetbundleName": "mdl_site_wood_common_logdrop01",
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6
+    ]
+  },
+  {
+    "id": 2,
+    "seq": 2,
+    "mysekaiMaterialType": "wood",
+    "name": "硬质木材",
+    "pronunciation": "おもたいもくざい",
+    "description": "质地坚硬，可以承受一定重量而不会折断的木材。\n可通过砍伐阔叶树获得。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_wood_2",
+    "modelAssetbundleName": "mdl_site_wood_common_logdrop03",
+    "mysekaiSiteIds": [
+      5
+    ]
+  },
+  {
+    "id": 3,
+    "seq": 3,
+    "mysekaiMaterialType": "wood",
+    "name": "轻质木材",
+    "pronunciation": "かるいもくざい",
+    "description": "质地柔软便于加工的木材。\n最适合作为造纸的材料。\n可通过砍伐针叶树获得。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_wood_3",
+    "modelAssetbundleName": "mdl_site_wood_common_logdrop02",
+    "mysekaiSiteIds": [
+      7
+    ]
+  },
+  {
+    "id": 4,
+    "seq": 4,
+    "mysekaiMaterialType": "wood",
+    "name": "粘稠的树液",
+    "pronunciation": "べたべたのじゅえき",
+    "description": "非常粘稠很容易凝固的树液。\n能作为橡胶的替代品。\n可通过砍伐热带树获得。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_wood_4",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      6
+    ]
+  },
+  {
+    "id": 5,
+    "seq": 5,
+    "mysekaiMaterialType": "wood",
+    "name": "夕桐",
+    "pronunciation": "ゆうぎり",
+    "description": "一种珍贵的高级木材。\n可通过砍伐在黄昏时偶然发现的夕桐获得。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_wood_5",
+    "modelAssetbundleName": "mdl_site_wood_common_logdrop04",
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6
+    ]
+  },
+  {
+    "id": 6,
+    "seq": 101,
+    "mysekaiMaterialType": "mineral",
+    "name": "心愿石块",
+    "pronunciation": "おもいのいしころ",
+    "description": "看上去像是随处可见的石块，但其实是从你的心愿中诞生的东西。\n可通过敲击岩石获得。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_mineral_1",
+    "modelAssetbundleName": "mdl_site_rock_common_stonedrop01",
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 7,
+    "seq": 102,
+    "mysekaiMaterialType": "mineral",
+    "name": "铜",
+    "pronunciation": "どう",
+    "description": "能够导电的矿石。\n可通过敲击铜矿石获得。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_mineral_2",
+    "modelAssetbundleName": "mdl_site_rock_common_stonedrop02",
+    "mysekaiSiteIds": [
+      5,
+      8
+    ]
+  },
+  {
+    "id": 8,
+    "seq": 103,
+    "mysekaiMaterialType": "mineral",
+    "name": "铁",
+    "pronunciation": "てつ",
+    "description": "非常坚硬地矿石。\n可通过敲击铁矿石获得。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_mineral_3",
+    "modelAssetbundleName": "mdl_site_rock_common_stonedrop03",
+    "mysekaiSiteIds": [
+      7,
+      8
+    ]
+  },
+  {
+    "id": 9,
+    "seq": 104,
+    "mysekaiMaterialType": "mineral",
+    "name": "粘土",
+    "pronunciation": "ねんど",
+    "description": "能用在各种东西上的粘土。\n可通过敲击岩石获得。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_mineral_4",
+    "modelAssetbundleName": "mdl_site_rock_common_claydrop01",
+    "mysekaiSiteIds": [
+      5,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 10,
+    "seq": 105,
+    "mysekaiMaterialType": "mineral",
+    "name": "漂亮的玻璃",
+    "pronunciation": "きれいながらす",
+    "description": "透明的玻璃。\n可通过敲击玻璃石获得。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_mineral_5",
+    "modelAssetbundleName": "mdl_site_rock_common_stonedrop04",
+    "mysekaiSiteIds": [
+      6,
+      8
+    ]
+  },
+  {
+    "id": 11,
+    "seq": 106,
+    "mysekaiMaterialType": "mineral",
+    "name": "闪耀石英",
+    "pronunciation": "きらきらくぉーつ",
+    "description": "外观神秘的天然水晶。\n可通过敲击水晶石获得。\n容易在夜晚发现。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_mineral_6",
+    "modelAssetbundleName": "mdl_site_rock_common_stonedrop05",
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 12,
+    "seq": 107,
+    "mysekaiMaterialType": "mineral",
+    "name": "钻石",
+    "pronunciation": "だいやもんど",
+    "description": "散发令人陶醉的耀眼光芒的珍贵宝石。\n有极低概率通过敲击矿石获得。",
+    "mysekaiMaterialRarityType": "rarity_3",
+    "iconAssetbundleName": "item_mineral_7",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop03",
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 13,
+    "seq": 201,
+    "mysekaiMaterialType": "junk",
+    "name": "螺丝",
+    "pronunciation": "ねじ",
+    "description": "所有家电都会用到的零件。\n可通过打开工具箱获得。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_1",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 14,
+    "seq": 202,
+    "mysekaiMaterialType": "junk",
+    "name": "钉子",
+    "pronunciation": "くぎ",
+    "description": "可以用来粘合家具。\n可通过打开工具箱获得。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_2",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 15,
+    "seq": 203,
+    "mysekaiMaterialType": "junk",
+    "name": "塑料",
+    "pronunciation": "ぷらすちっく",
+    "description": "容易塑形，还能防水的万能材料。\n可通过打开工具箱获得。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_3",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 16,
+    "seq": 204,
+    "mysekaiMaterialType": "junk",
+    "name": "马达",
+    "pronunciation": "もーたー",
+    "description": "让所有东西通电运行起来的关键物品。\n可通过打开工具箱获得。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_4",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 17,
+    "seq": 205,
+    "mysekaiMaterialType": "junk",
+    "name": "电池",
+    "pronunciation": "でんち",
+    "description": "电器产品的必备之物。\n可通过打开工具箱获得。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_5",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 18,
+    "seq": 206,
+    "mysekaiMaterialType": "junk",
+    "name": "灯泡",
+    "pronunciation": "らいと",
+    "description": "通电后会发光。\n可通过打开工具箱获得。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_6",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 19,
+    "seq": 207,
+    "mysekaiMaterialType": "junk",
+    "name": "电路板",
+    "pronunciation": "でんしきばん",
+    "description": "用来控制复杂电路的线路板。\n可通过打开工具箱获得。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_7",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 20,
+    "seq": 301,
+    "mysekaiMaterialType": "plant",
+    "name": "四叶草",
+    "pronunciation": "よつばのくろーばー",
+    "description": "遇见后会带来幸运。\n可通过采集植物偶然获得。\n雨天容易发现。",
+    "mysekaiMaterialRarityType": "rarity_3",
+    "iconAssetbundleName": "item_plant_1",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop03",
+    "mysekaiSiteIds": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": 21,
+    "seq": 302,
+    "mysekaiMaterialType": "plant",
+    "name": "顺滑的亚麻",
+    "pronunciation": "さらさらりねん",
+    "description": "布的原料。手感顺滑。\n可通过采集植物获得。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_plant_2",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      7
+    ]
+  },
+  {
+    "id": 22,
+    "seq": 303,
+    "mysekaiMaterialType": "plant",
+    "name": "蓬松的棉花",
+    "pronunciation": "ふわふわこっとん",
+    "description": "柔软的棉花。在阳光下晒干后效果加倍。\n可通过采集植物获得。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_plant_3",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5
+    ]
+  },
+  {
+    "id": 23,
+    "seq": 304,
+    "mysekaiMaterialType": "plant",
+    "name": "花瓣",
+    "pronunciation": "はなびら",
+    "description": "各种各样的花卉，让生活充满色彩。\n可通过采集花卉获得。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_plant_4",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      7
+    ]
+  },
+  {
+    "id": 24,
+    "seq": 401,
+    "mysekaiMaterialType": "tone",
+    "name": "空白的音色",
+    "pronunciation": "まっさらなねいろ",
+    "description": "没有被任何东西感染的音色。\n可在忘却之所侧耳倾听后获得。\n可通过转换器转换成各种各样的材料。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_tone_8",
+    "modelAssetbundleName": "mdl_site_tone_common_tonedrop08",
+    "mysekaiSiteIds": [
+      8
+    ]
+  },
+  {
+    "id": 32,
+    "seq": 501,
+    "mysekaiMaterialType": "junk",
+    "name": "蓝天海玻璃",
+    "pronunciation": "あおぞらしーぐらす",
+    "description": "吸收了大量阳光的玻璃。\n会在夏天出现在地面上。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_8",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 4,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 33,
+    "seq": 502,
+    "mysekaiMaterialType": "mineral",
+    "name": "月光石",
+    "pronunciation": "げっこうせき",
+    "description": "散发月光般美丽光芒的神秘石头。\n会在满月的日子出现在地面上。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_mineral_8",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 5,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 34,
+    "seq": 503,
+    "mysekaiMaterialType": "junk",
+    "name": "流星碎片",
+    "pronunciation": "ながれぼしのかけら",
+    "description": "从流星剥落下来的充满浪漫的碎片。\n会在流星雨的夜晚出现在地面上。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_9",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 9,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 35,
+    "seq": 601,
+    "mysekaiMaterialType": "game_character",
+    "name": "天空蓝记忆",
+    "pronunciation": "すかいぶるーめもりあ",
+    "description": "和星乃一歌的回忆碎片。\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_1",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 36,
+    "seq": 602,
+    "mysekaiMaterialType": "game_character",
+    "name": "热情黄记忆",
+    "pronunciation": "ぱっしょんいえろーめもりあ",
+    "description": "和天马咲希的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_2",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 37,
+    "seq": 603,
+    "mysekaiMaterialType": "game_character",
+    "name": "虞美人红记忆",
+    "pronunciation": "ぽぴーれっどめもりあ",
+    "description": "和望月穗波的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_3",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 38,
+    "seq": 604,
+    "mysekaiMaterialType": "game_character",
+    "name": "黄绿色记忆",
+    "pronunciation": "いえろーぐりーんめもりあ",
+    "description": "和日野森志步的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_4",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 39,
+    "seq": 605,
+    "mysekaiMaterialType": "game_character",
+    "name": "杏黄色记忆",
+    "pronunciation": "あぷりこっとめもりあ",
+    "description": "和花里实乃理的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_5",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 40,
+    "seq": 606,
+    "mysekaiMaterialType": "game_character",
+    "name": "冷峻蓝记忆",
+    "pronunciation": "すとりくとぶるーめもりあ",
+    "description": "和桐谷遥的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_6",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 41,
+    "seq": 607,
+    "mysekaiMaterialType": "game_character",
+    "name": "可爱粉记忆",
+    "pronunciation": "らぶりーぴんくめもりあ",
+    "description": "和桃井爱莉的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_7",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 42,
+    "seq": 608,
+    "mysekaiMaterialType": "game_character",
+    "name": "蛋白石绿记忆",
+    "pronunciation": "おぱーるぐりーんめもりあ",
+    "description": "和日野森雫的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_8",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 43,
+    "seq": 609,
+    "mysekaiMaterialType": "game_character",
+    "name": "樱桃红记忆",
+    "pronunciation": "すりーずめもりあ",
+    "description": "和小豆泽心羽的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_9",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 44,
+    "seq": 610,
+    "mysekaiMaterialType": "game_character",
+    "name": "绿松石蓝记忆",
+    "pronunciation": "たーこいずぶるーめもりあ",
+    "description": "和白石杏的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_10",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 45,
+    "seq": 611,
+    "mysekaiMaterialType": "game_character",
+    "name": "珊瑚橙记忆",
+    "pronunciation": "じょりーこーらるめもりあ",
+    "description": "和东云彰人的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_11",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 46,
+    "seq": 612,
+    "mysekaiMaterialType": "game_character",
+    "name": "皇家蓝记忆",
+    "pronunciation": "ろいやるぶるーめもりあ",
+    "description": "和青柳冬弥的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_12",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 47,
+    "seq": 613,
+    "mysekaiMaterialType": "game_character",
+    "name": "向日癸黄记忆",
+    "pronunciation": "さんふらわーめもりあ",
+    "description": "和天马司的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_13",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 48,
+    "seq": 614,
+    "mysekaiMaterialType": "game_character",
+    "name": "温馨粉记忆",
+    "pronunciation": "ぽかぽかぴんくめもりあ",
+    "description": "和凤笑梦的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_14",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 49,
+    "seq": 615,
+    "mysekaiMaterialType": "game_character",
+    "name": "春绿色记忆",
+    "pronunciation": "すぷりんぐぐりーんめもりあ",
+    "description": "和草薙宁宁的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_15",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 50,
+    "seq": 616,
+    "mysekaiMaterialType": "game_character",
+    "name": "风铃草紫记忆",
+    "pronunciation": "かんぱぬらぱーぷるめもりあ",
+    "description": "和神代类的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_16",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 51,
+    "seq": 617,
+    "mysekaiMaterialType": "game_character",
+    "name": "粉紫色记忆",
+    "pronunciation": "ふぁりだめもりあ",
+    "description": "和宵崎奏的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_17",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 52,
+    "seq": 618,
+    "mysekaiMaterialType": "game_character",
+    "name": "紫藤色记忆",
+    "pronunciation": "うぃすたりあめもりあ",
+    "description": "和朝比奈真冬的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_18",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 53,
+    "seq": 619,
+    "mysekaiMaterialType": "game_character",
+    "name": "沙驼色记忆",
+    "pronunciation": "きゃらめるめもりあ",
+    "description": "和东云绘名的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_19",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 54,
+    "seq": 620,
+    "mysekaiMaterialType": "game_character",
+    "name": "蓟色记忆",
+    "pronunciation": "しっするめもりあ",
+    "description": "和晓山瑞希的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_20",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 55,
+    "seq": 621,
+    "mysekaiMaterialType": "game_character",
+    "name": "蓝绿色记忆",
+    "pronunciation": "ぶるーぐりーんめもりあ",
+    "description": "和初音未来的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_21",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 56,
+    "seq": 622,
+    "mysekaiMaterialType": "game_character",
+    "name": "橙色记忆",
+    "pronunciation": "おれんじめもりあ",
+    "description": "和镜音铃的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_22",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 57,
+    "seq": 623,
+    "mysekaiMaterialType": "game_character",
+    "name": "黄色记忆",
+    "pronunciation": "いえろーめもりあ",
+    "description": "和镜音连的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_23",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 58,
+    "seq": 624,
+    "mysekaiMaterialType": "game_character",
+    "name": "粉色记忆",
+    "pronunciation": "ぴんくめもりあ",
+    "description": "和巡音流歌的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_24",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 59,
+    "seq": 625,
+    "mysekaiMaterialType": "game_character",
+    "name": "红色记忆",
+    "pronunciation": "れっどめもりあ",
+    "description": "和MEIKO的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_25",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 60,
+    "seq": 626,
+    "mysekaiMaterialType": "game_character",
+    "name": "蓝色记忆",
+    "pronunciation": "ぶるーめもりあ",
+    "description": "和KAITO的回忆碎片\n可用来制作特定的家具。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_26",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 61,
+    "seq": 504,
+    "mysekaiMaterialType": "junk",
+    "name": "雪之结晶",
+    "pronunciation": "ゆきのけっしょう",
+    "description": "落下的雪没有融化并凝固而成的结晶。\n会在下雪的日子出现在地面上。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_10",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 10,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 62,
+    "seq": 701,
+    "mysekaiMaterialType": "junk",
+    "name": "最棒斧子的斧刃",
+    "pronunciation": "さいこうのおののは",
+    "description": "制作最棒的斧子所需的材料。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_11",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiSiteIds": [
+      8
+    ]
+  },
+  {
+    "id": 63,
+    "seq": 702,
+    "mysekaiMaterialType": "junk",
+    "name": "最棒十字镐的镐尖",
+    "pronunciation": "さいこうのつるはしのせんたん",
+    "description": "制作最棒的十字镐所需的材料。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_12",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiSiteIds": [
+      8
+    ]
+  },
+  {
+    "id": 64,
+    "seq": 505,
+    "mysekaiMaterialType": "junk",
+    "name": "雷光石",
+    "pronunciation": "らいこうせき",
+    "description": "吸收了雷之力量的神秘石头。\n会在打雷的日子出现在地面上。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_mineral_9",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 8,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 65,
+    "seq": 506,
+    "mysekaiMaterialType": "junk",
+    "name": "彩虹玻璃",
+    "pronunciation": "さいこうのびーどろ",
+    "description": "从彩虹上滴落的水滴凝固而成的玻璃。\n会在出彩虹的日子出现在地面上。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_mineral_10",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 17,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  }
+]

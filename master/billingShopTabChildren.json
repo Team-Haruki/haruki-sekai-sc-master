@@ -1,0 +1,79 @@
+[
+  {
+    "id": 101,
+    "seq": 101,
+    "billingShopTabParentId": 1,
+    "billingShopItemType": "jewel",
+    "name": "购买水晶"
+  },
+  {
+    "id": 2000,
+    "seq": 2000,
+    "billingShopTabParentId": 2,
+    "billingShopItemType": "value_set",
+    "name": "特惠礼包"
+  },
+  {
+    "id": 2100,
+    "seq": 2100,
+    "billingShopTabParentId": 2,
+    "billingShopItemType": "value_set",
+    "name": "新手礼包"
+  },
+  {
+    "id": 2500,
+    "seq": 2500,
+    "billingShopTabParentId": 2,
+    "billingShopItemType": "value_set",
+    "name": "生日礼包"
+  },
+  {
+    "id": 2800,
+    "seq": 2800,
+    "billingShopTabParentId": 2,
+    "billingShopItemType": "value_set",
+    "name": "免费水晶道具"
+  },
+  {
+    "id": 3000,
+    "seq": 3000,
+    "billingShopTabParentId": 3,
+    "billingShopItemType": "costume_3d",
+    "name": "限定演出服装"
+  },
+  {
+    "id": 3100,
+    "seq": 3100,
+    "billingShopTabParentId": 3,
+    "billingShopItemType": "costume_3d",
+    "name": "限定演出服装"
+  },
+  {
+    "id": 4000,
+    "seq": 4000,
+    "billingShopTabParentId": 4,
+    "billingShopItemType": "live_mission_pass",
+    "name": "白金\n任务通行证"
+  },
+  {
+    "id": 5000,
+    "seq": 5000,
+    "billingShopTabParentId": 4,
+    "billingShopItemType": "mysekai_mission_pass",
+    "name": "我的「世界」\n任务通行证"
+  },
+  {
+    "id": 6000,
+    "seq": 6000,
+    "billingShopTabParentId": 5,
+    "billingShopItemType": "colorful_pass_v2",
+    "name": "缤纷月卡"
+  },
+  {
+    "id": 7000,
+    "seq": 7000,
+    "billingShopTabParentId": 5,
+    "billingShopItemType": "mysekai_colorful_pass",
+    "name": "世界月卡"
+  }
+]

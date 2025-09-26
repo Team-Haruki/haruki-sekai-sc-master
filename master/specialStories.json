@@ -802,5 +802,131 @@
         "rewardResourceBoxIds": []
       }
     ]
+  },
+  {
+    "id": 49,
+    "assetbundleName": "collaboration-es-story",
+    "startAt": 1771138800000,
+    "endAt": 1771941599000,
+    "episodes": [
+      {
+        "id": 54,
+        "specialStoryId": 49,
+        "episodeNo": 1,
+        "title": "[初音未来：缤纷舞台×偶像梦幻祭2]联动纪念登录剧情 序章",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_es",
+        "scenarioId": "collaboration_es_op_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "assetbundleName": "collaboration-es-story",
+    "startAt": 1771941600000,
+    "endAt": 1772467199000,
+    "episodes": [
+      {
+        "id": 55,
+        "specialStoryId": 50,
+        "episodeNo": 1,
+        "title": "[初音未来：缤纷舞台×偶像梦幻祭2]联动纪念登录剧情 终章",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_es",
+        "scenarioId": "collaboration_es_ed_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "assetbundleName": "collaboration-es-story",
+    "startAt": 1771657200000,
+    "endAt": 1771847999000,
+    "episodes": [
+      {
+        "id": 56,
+        "specialStoryId": 51,
+        "episodeNo": 1,
+        "title": "[初音未来：缤纷舞台×偶像梦幻祭2]连线演唱会前日谈登录剧情",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_es",
+        "scenarioId": "collaboration_es_prequel_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "assetbundleName": "wl-2nd-event-pre-story",
+    "startAt": 1774843200000,
+    "endAt": 1776686399000,
+    "episodes": [
+      {
+        "id": 57,
+        "specialStoryId": 52,
+        "episodeNo": 1,
+        "title": "连接世界活动前日谈登录剧情",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_wl_2nd_pre",
+        "scenarioId": "wl_2nd_pre_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "assetbundleName": "aprilfool-story-2025",
+    "startAt": 1774972800000,
+    "endAt": 1775059199000,
+    "episodes": [
+      {
+        "id": 58,
+        "specialStoryId": 53,
+        "episodeNo": 1,
+        "title": "愚人节2026前导动画",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2025",
+        "scenarioId": "aprilfool_2025_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "assetbundleName": "aprilfool-story-2025",
+    "startAt": 1775059200000,
+    "endAt": 1775145599000,
+    "episodes": [
+      {
+        "id": 59,
+        "specialStoryId": 54,
+        "episodeNo": 1,
+        "title": "愚人节2026后日谈动画",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2025",
+        "scenarioId": "aprilfool_2025_02",
+        "releaseConditionId": 1000300,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
   }
 ]

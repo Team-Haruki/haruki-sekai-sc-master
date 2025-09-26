@@ -19,7 +19,7 @@
   },
   {
     "id": 4,
-    "name": "[2023新春]10连免费招募券",
+    "name": "[2023新年]10连免费招募券",
     "assetbundleName": "free_gacha_10_ticket",
     "gachaDisplayType": "always"
   },
@@ -37,7 +37,7 @@
   },
   {
     "id": 7,
-    "name": "[2024新春]10连免费招募券",
+    "name": "[2024新年]10连免费招募券",
     "assetbundleName": "free_gacha_10_ticket",
     "gachaDisplayType": "always"
   },
@@ -79,7 +79,7 @@
   },
   {
     "id": 14,
-    "name": "[2025新春]10连免费招募券",
+    "name": "[2025新年]10连免费招募券",
     "assetbundleName": "free_gacha_10_ticket",
     "gachaDisplayType": "always"
   },
@@ -124,6 +124,36 @@
     "name": "★4成员必出招募券",
     "assetbundleName": "gacha_ticket_star4",
     "gachaDisplayType": "having"
+  },
+  {
+    "id": 22,
+    "name": "[2026新年]新年免费招募券",
+    "assetbundleName": "gacha_ticket",
+    "gachaDisplayType": "always"
+  },
+  {
+    "id": 23,
+    "name": "[2026新年]绚烂节日招募专用券",
+    "assetbundleName": "anniversary_fes_gacha_ticket",
+    "gachaDisplayType": "always"
+  },
+  {
+    "id": 24,
+    "name": "偶像梦幻祭2联动招募专用券",
+    "assetbundleName": "collabo_gacha_ticket",
+    "gachaDisplayType": "always"
+  },
+  {
+    "id": 25,
+    "name": "[4.5周年纪念]★4成员必出招募券",
+    "assetbundleName": "gacha_ticket_star4",
+    "gachaDisplayType": "having"
+  },
+  {
+    "id": 26,
+    "name": "[4.5周年纪念]免费招募券",
+    "assetbundleName": "gacha_ticket",
+    "gachaDisplayType": "always"
   },
   {
     "id": 1000,

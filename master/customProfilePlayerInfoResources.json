@@ -4,6 +4,7 @@
     "id": 2,
     "seq": 3,
     "name": "综合力",
+    "pronunciation": "1",
     "resourceLoadType": "prefab",
     "resourceLoadVal": "CustomProfile/ContentView/General",
     "fileName": "TotalPower"
@@ -13,6 +14,7 @@
     "id": 3,
     "seq": 9,
     "name": "主要组合",
+    "pronunciation": "1",
     "resourceLoadType": "prefab",
     "resourceLoadVal": "CustomProfile/ContentView/General",
     "fileName": "Deck"
@@ -22,6 +24,7 @@
     "id": 4,
     "seq": 2,
     "name": "个性签名",
+    "pronunciation": "1",
     "resourceLoadType": "prefab",
     "resourceLoadVal": "CustomProfile/ContentView/General",
     "fileName": "Comment"
@@ -31,6 +34,7 @@
     "id": 5,
     "seq": 4,
     "name": "队长成员",
+    "pronunciation": "1",
     "resourceLoadType": "prefab",
     "resourceLoadVal": "CustomProfile/ContentView/General",
     "fileName": "LeaderCard"
@@ -40,6 +44,7 @@
     "id": 6,
     "seq": 8,
     "name": "称号",
+    "pronunciation": "1",
     "resourceLoadType": "prefab",
     "resourceLoadVal": "CustomProfile/ContentView/General",
     "fileName": "HonorDeck"
@@ -49,6 +54,7 @@
     "id": 9,
     "seq": 5,
     "name": "MVP\nSUPERSTAR",
+    "pronunciation": "1",
     "resourceLoadType": "prefab",
     "resourceLoadVal": "CustomProfile/ContentView/General",
     "fileName": "MultiLive"
@@ -58,6 +64,7 @@
     "id": 10,
     "seq": 11,
     "name": "挑战演出",
+    "pronunciation": "1",
     "resourceLoadType": "prefab",
     "resourceLoadVal": "CustomProfile/ContentView/General",
     "fileName": "ChallengeLive"
@@ -66,7 +73,8 @@
     "customProfileResourceType": "player_info",
     "id": 11,
     "seq": 6,
-    "name": "角色等级·挑战舞台",
+    "name": "角色收藏等级·挑战舞台",
+    "pronunciation": "1",
     "resourceLoadType": "prefab",
     "resourceLoadVal": "CustomProfile/ContentView/General",
     "fileName": "CharacterRankAndChallengeStage",
@@ -77,6 +85,7 @@
     "id": 12,
     "seq": 10,
     "name": "歌曲信息",
+    "pronunciation": "1",
     "resourceLoadType": "prefab",
     "resourceLoadVal": "CustomProfile/ContentView/General",
     "fileName": "MusicClearInfo",
@@ -87,6 +96,7 @@
     "id": 13,
     "seq": 1,
     "name": "玩家名称",
+    "pronunciation": "1",
     "resourceLoadType": "prefab",
     "resourceLoadVal": "CustomProfile/ContentView/General",
     "fileName": "EditUserName"
@@ -96,6 +106,7 @@
     "id": 14,
     "seq": 12,
     "name": "最喜欢的剧情",
+    "pronunciation": "1",
     "resourceLoadType": "prefab",
     "resourceLoadVal": "CustomProfile/ContentView/General",
     "fileName": "StoryFavorite"
@@ -104,7 +115,8 @@
     "customProfileResourceType": "player_info",
     "id": 15,
     "seq": 98,
-    "name": "角色等级·挑战舞台",
+    "name": "角色收藏等级·挑战舞台",
+    "pronunciation": "1",
     "resourceLoadType": "prefab",
     "resourceLoadVal": "CustomProfile/ContentView/General",
     "fileName": "CharacterRankAndChallengeStageScroll",
@@ -115,6 +127,7 @@
     "id": 16,
     "seq": 99,
     "name": "歌曲信息",
+    "pronunciation": "1",
     "resourceLoadType": "prefab",
     "resourceLoadVal": "CustomProfile/ContentView/General",
     "fileName": "MusicClearSelectTabInfo",

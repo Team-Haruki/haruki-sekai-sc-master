@@ -285,5 +285,26 @@
     "name": "Journey",
     "syncMusicFlg": false,
     "assetbundleName": "motion_avatar_37"
+  },
+  {
+    "id": 42,
+    "seq": 42,
+    "name": "我的「世界」偶像",
+    "syncMusicFlg": false,
+    "assetbundleName": "c_000_mov_idle_00"
+  },
+  {
+    "id": 43,
+    "seq": 43,
+    "name": "我的「世界」冲刺",
+    "syncMusicFlg": false,
+    "assetbundleName": "mov_u000_site_run001_o"
+  },
+  {
+    "id": 44,
+    "seq": 44,
+    "name": "我的「世界」漫步",
+    "syncMusicFlg": false,
+    "assetbundleName": "mov_u000_site_walk001_o"
   }
 ]

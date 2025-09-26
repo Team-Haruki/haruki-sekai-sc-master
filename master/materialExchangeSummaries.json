@@ -20462,7 +20462,7 @@
     "seq": 10,
     "exchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "name": "[新春2023]\n ★3成员",
+    "name": "[新年2023]\n ★3成员",
     "assetbundleName": "icon_memberTicket_star3",
     "startAt": 1672470000000,
     "endAt": 1676098799000,
@@ -29013,7 +29013,7 @@
     "materialExchangeType": "normal",
     "name": "限定\n招募贴纸券",
     "assetbundleName": "icon_gachaSealTicket_Limited",
-    "startAt": 1759161600000,
+    "startAt": 1758859200000,
     "materialExchanges": [
       {
         "id": 150001,
@@ -29042,20 +29042,20 @@
     "materialExchangeType": "normal",
     "name": "幸运\n之花",
     "assetbundleName": "icon_fortuneFlower",
-    "startAt": 1759161600000,
+    "startAt": 1758902400000,
     "endAt": 1763135999000,
     "materialExchanges": [
       {
         "id": 170001,
         "materialExchangeSummaryId": 17,
         "seq": 10,
-        "displayName": "4周年記念衣装セット",
+        "displayName": "半周年纪念服装礼包",
         "isDisplayQuantity": false,
         "thumbnailAssetbundleName": "item_cosSet_4th",
         "resourceBoxId": 170001,
         "refreshCycle": "none",
         "exchangeLimit": 1,
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 170001,
@@ -29105,12 +29105,12 @@
         "id": 170002,
         "materialExchangeSummaryId": 17,
         "seq": 20,
-        "displayName": "スキルアップ用スコア（コンプリート）",
+        "displayName": "技能升级乐谱（终极）",
         "isDisplayQuantity": true,
         "resourceBoxId": 170002,
         "refreshCycle": "none",
         "exchangeLimit": 1,
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 170002,
@@ -29160,13 +29160,13 @@
         "id": 170003,
         "materialExchangeSummaryId": 17,
         "seq": 30,
-        "displayName": "VSの想いの小瓶セット",
+        "displayName": "VS的心愿小瓶礼包",
         "isDisplayQuantity": false,
         "thumbnailAssetbundleName": "item_expSet_vs",
         "resourceBoxId": 170003,
         "refreshCycle": "none",
         "exchangeLimit": 1,
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 170003,
@@ -29181,12 +29181,12 @@
         "id": 170004,
         "materialExchangeSummaryId": 17,
         "seq": 40,
-        "displayName": "VSの想いの純結晶",
+        "displayName": "VS的心愿结晶",
         "isDisplayQuantity": true,
         "resourceBoxId": 170004,
         "refreshCycle": "none",
         "exchangeLimit": 1,
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 170004,
@@ -29201,13 +29201,13 @@
         "id": 170005,
         "materialExchangeSummaryId": 17,
         "seq": 50,
-        "displayName": "レオニの想いの小瓶セット",
+        "displayName": "L/n的心愿小瓶礼包",
         "isDisplayQuantity": false,
         "thumbnailAssetbundleName": "item_expSet_ln",
         "resourceBoxId": 170005,
         "refreshCycle": "none",
         "exchangeLimit": 1,
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 170005,
@@ -29222,12 +29222,12 @@
         "id": 170006,
         "materialExchangeSummaryId": 17,
         "seq": 60,
-        "displayName": "レオニの想いの純結晶",
+        "displayName": "L/n的心愿结晶",
         "isDisplayQuantity": true,
         "resourceBoxId": 170006,
         "refreshCycle": "none",
         "exchangeLimit": 1,
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 170006,
@@ -29242,13 +29242,13 @@
         "id": 170007,
         "materialExchangeSummaryId": 17,
         "seq": 70,
-        "displayName": "モモジャンの想いの小瓶セット",
+        "displayName": "MMJ的心愿小瓶礼包",
         "isDisplayQuantity": false,
         "thumbnailAssetbundleName": "item_expSet_mj",
         "resourceBoxId": 170007,
         "refreshCycle": "none",
         "exchangeLimit": 1,
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 170007,
@@ -29263,12 +29263,12 @@
         "id": 170008,
         "materialExchangeSummaryId": 17,
         "seq": 80,
-        "displayName": "モモジャンの想いの純結晶",
+        "displayName": "MMJ的心愿结晶",
         "isDisplayQuantity": true,
         "resourceBoxId": 170008,
         "refreshCycle": "none",
         "exchangeLimit": 1,
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 170008,
@@ -29283,13 +29283,13 @@
         "id": 170009,
         "materialExchangeSummaryId": 17,
         "seq": 90,
-        "displayName": "ビビバスの想いの小瓶セット",
+        "displayName": "VBS的心愿小瓶礼包",
         "isDisplayQuantity": false,
         "thumbnailAssetbundleName": "item_expSet_vb",
         "resourceBoxId": 170009,
         "refreshCycle": "none",
         "exchangeLimit": 1,
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 170009,
@@ -29304,12 +29304,12 @@
         "id": 170010,
         "materialExchangeSummaryId": 17,
         "seq": 100,
-        "displayName": "ビビバスの想いの純結晶",
+        "displayName": "VBS的心愿结晶",
         "isDisplayQuantity": true,
         "resourceBoxId": 170010,
         "refreshCycle": "none",
         "exchangeLimit": 1,
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 170010,
@@ -29324,13 +29324,13 @@
         "id": 170011,
         "materialExchangeSummaryId": 17,
         "seq": 110,
-        "displayName": "ワンダショの想いの小瓶セット",
+        "displayName": "WS的心愿小瓶礼包",
         "isDisplayQuantity": false,
         "thumbnailAssetbundleName": "item_expSet_ws",
         "resourceBoxId": 170011,
         "refreshCycle": "none",
         "exchangeLimit": 1,
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 170011,
@@ -29345,12 +29345,12 @@
         "id": 170012,
         "materialExchangeSummaryId": 17,
         "seq": 120,
-        "displayName": "ワンダショの想いの純結晶",
+        "displayName": "WS的心愿结晶",
         "isDisplayQuantity": true,
         "resourceBoxId": 170012,
         "refreshCycle": "none",
         "exchangeLimit": 1,
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 170012,
@@ -29365,13 +29365,13 @@
         "id": 170013,
         "materialExchangeSummaryId": 17,
         "seq": 130,
-        "displayName": "ニーゴの想いの小瓶セット",
+        "displayName": "25的心愿小瓶礼包",
         "isDisplayQuantity": false,
         "thumbnailAssetbundleName": "item_expSet_25",
         "resourceBoxId": 170013,
         "refreshCycle": "none",
         "exchangeLimit": 1,
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 170013,
@@ -29386,12 +29386,12 @@
         "id": 170014,
         "materialExchangeSummaryId": 17,
         "seq": 140,
-        "displayName": "ニーゴの想いの純結晶",
+        "displayName": "25的心愿结晶",
         "isDisplayQuantity": true,
         "resourceBoxId": 170014,
         "refreshCycle": "none",
         "exchangeLimit": 1,
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 170014,
@@ -29406,11 +29406,11 @@
         "id": 170015,
         "materialExchangeSummaryId": 17,
         "seq": 150,
-        "displayName": "白色の花びら",
+        "displayName": "白色花瓣",
         "isDisplayQuantity": true,
         "resourceBoxId": 170015,
         "refreshCycle": "none",
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 170015,
@@ -29425,11 +29425,11 @@
         "id": 170016,
         "materialExchangeSummaryId": 17,
         "seq": 160,
-        "displayName": "青色の花びら",
+        "displayName": "蓝色花瓣",
         "isDisplayQuantity": true,
         "resourceBoxId": 170016,
         "refreshCycle": "none",
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 170016,
@@ -29444,11 +29444,11 @@
         "id": 170017,
         "materialExchangeSummaryId": 17,
         "seq": 170,
-        "displayName": "緑色の花びら",
+        "displayName": "绿色花瓣",
         "isDisplayQuantity": true,
         "resourceBoxId": 170017,
         "refreshCycle": "none",
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 170017,
@@ -29463,11 +29463,11 @@
         "id": 170018,
         "materialExchangeSummaryId": 17,
         "seq": 180,
-        "displayName": "赤色の花びら",
+        "displayName": "红色花瓣",
         "isDisplayQuantity": true,
         "resourceBoxId": 170018,
         "refreshCycle": "none",
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 170018,
@@ -29482,11 +29482,11 @@
         "id": 170019,
         "materialExchangeSummaryId": 17,
         "seq": 190,
-        "displayName": "橙色の花びら",
+        "displayName": "橙色花瓣",
         "isDisplayQuantity": true,
         "resourceBoxId": 170019,
         "refreshCycle": "none",
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 170019,
@@ -29501,11 +29501,11 @@
         "id": 170020,
         "materialExchangeSummaryId": 17,
         "seq": 200,
-        "displayName": "紫色の花びら",
+        "displayName": "紫色花瓣",
         "isDisplayQuantity": true,
         "resourceBoxId": 170020,
         "refreshCycle": "none",
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 170020,
@@ -29576,19 +29576,19 @@
     "materialExchangeType": "normal",
     "name": "花瓣",
     "assetbundleName": "icon_fortuneGrass",
-    "startAt": 1759161600000,
+    "startAt": 1758902400000,
     "endAt": 1763135999000,
     "materialExchanges": [
       {
         "id": 180001,
         "materialExchangeSummaryId": 18,
         "seq": 10,
-        "displayName": "願いの雫",
+        "displayName": "心愿之露",
         "isDisplayQuantity": true,
         "resourceBoxId": 180001,
         "refreshCycle": "none",
         "exchangeLimit": 5,
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 180001,
@@ -29603,12 +29603,12 @@
         "id": 180002,
         "materialExchangeSummaryId": 18,
         "seq": 20,
-        "displayName": "スキルアップ用スコア（上級）",
+        "displayName": "技能升级乐谱（高级）",
         "isDisplayQuantity": true,
         "resourceBoxId": 180002,
         "refreshCycle": "none",
         "exchangeLimit": 5,
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 180002,
@@ -29623,12 +29623,12 @@
         "id": 180003,
         "materialExchangeSummaryId": 18,
         "seq": 30,
-        "displayName": "練習用スコア（上級）",
+        "displayName": "练习乐谱（高级）",
         "isDisplayQuantity": true,
         "resourceBoxId": 180003,
         "refreshCycle": "none",
         "exchangeLimit": 5,
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 180003,
@@ -29643,12 +29643,12 @@
         "id": 180004,
         "materialExchangeSummaryId": 18,
         "seq": 40,
-        "displayName": "クリスタル",
+        "displayName": "水晶",
         "isDisplayQuantity": true,
         "resourceBoxId": 180004,
         "refreshCycle": "none",
         "exchangeLimit": 5,
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 180004,
@@ -29663,12 +29663,12 @@
         "id": 180005,
         "materialExchangeSummaryId": 18,
         "seq": 50,
-        "displayName": "バーチャルコイン",
+        "displayName": "虚拟硬币",
         "isDisplayQuantity": true,
         "resourceBoxId": 180005,
         "refreshCycle": "none",
         "exchangeLimit": 5,
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 180005,
@@ -29683,12 +29683,12 @@
         "id": 180006,
         "materialExchangeSummaryId": 18,
         "seq": 60,
-        "displayName": "ライブボーナスドリンク（大）",
+        "displayName": "演出能量饮料（大）",
         "isDisplayQuantity": true,
         "resourceBoxId": 180006,
         "refreshCycle": "none",
         "exchangeLimit": 5,
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 180006,
@@ -29703,11 +29703,11 @@
         "id": 180007,
         "materialExchangeSummaryId": 18,
         "seq": 70,
-        "displayName": "ホワイトフォーチュンフラワー",
+        "displayName": "白色幸运之花",
         "isDisplayQuantity": true,
         "resourceBoxId": 180007,
         "refreshCycle": "none",
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 180007,
@@ -29722,11 +29722,11 @@
         "id": 180008,
         "materialExchangeSummaryId": 18,
         "seq": 80,
-        "displayName": "ブルーフォーチュンフラワー",
+        "displayName": "蓝色幸运之花",
         "isDisplayQuantity": true,
         "resourceBoxId": 180008,
         "refreshCycle": "none",
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 180008,
@@ -29741,11 +29741,11 @@
         "id": 180009,
         "materialExchangeSummaryId": 18,
         "seq": 90,
-        "displayName": "グリーンフォーチュンフラワー",
+        "displayName": "绿色幸运之花",
         "isDisplayQuantity": true,
         "resourceBoxId": 180009,
         "refreshCycle": "none",
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 180009,
@@ -29760,11 +29760,11 @@
         "id": 180010,
         "materialExchangeSummaryId": 18,
         "seq": 100,
-        "displayName": "レッドフォーチュンフラワー",
+        "displayName": "红色幸运之花",
         "isDisplayQuantity": true,
         "resourceBoxId": 180010,
         "refreshCycle": "none",
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 180010,
@@ -29779,11 +29779,11 @@
         "id": 180011,
         "materialExchangeSummaryId": 18,
         "seq": 110,
-        "displayName": "オレンジフォーチュンフラワー",
+        "displayName": "橙色幸运之花",
         "isDisplayQuantity": true,
         "resourceBoxId": 180011,
         "refreshCycle": "none",
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 180011,
@@ -29798,11 +29798,11 @@
         "id": 180012,
         "materialExchangeSummaryId": 18,
         "seq": 120,
-        "displayName": "パープルフォーチュンフラワー",
+        "displayName": "紫色幸运之花",
         "isDisplayQuantity": true,
         "resourceBoxId": 180012,
         "refreshCycle": "none",
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 180012,
@@ -29817,11 +29817,11 @@
         "id": 180013,
         "materialExchangeSummaryId": 18,
         "seq": 130,
-        "displayName": "VSの想いのカケラ",
+        "displayName": "VS的心愿碎片",
         "isDisplayQuantity": true,
         "resourceBoxId": 180013,
         "refreshCycle": "none",
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 180013,
@@ -29836,11 +29836,11 @@
         "id": 180014,
         "materialExchangeSummaryId": 18,
         "seq": 140,
-        "displayName": "レオニの想いのカケラ",
+        "displayName": "L/n的心愿碎片",
         "isDisplayQuantity": true,
         "resourceBoxId": 180014,
         "refreshCycle": "none",
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 180014,
@@ -29855,11 +29855,11 @@
         "id": 180015,
         "materialExchangeSummaryId": 18,
         "seq": 150,
-        "displayName": "モモジャンの想いのカケラ",
+        "displayName": "MMJ的心愿碎片",
         "isDisplayQuantity": true,
         "resourceBoxId": 180015,
         "refreshCycle": "none",
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 180015,
@@ -29874,11 +29874,11 @@
         "id": 180016,
         "materialExchangeSummaryId": 18,
         "seq": 160,
-        "displayName": "ビビバスの想いのカケラ",
+        "displayName": "VBS的心愿碎片",
         "isDisplayQuantity": true,
         "resourceBoxId": 180016,
         "refreshCycle": "none",
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 180016,
@@ -29893,11 +29893,11 @@
         "id": 180017,
         "materialExchangeSummaryId": 18,
         "seq": 170,
-        "displayName": "ワンダショの想いのカケラ",
+        "displayName": "WS的心愿碎片",
         "isDisplayQuantity": true,
         "resourceBoxId": 180017,
         "refreshCycle": "none",
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 180017,
@@ -29912,11 +29912,11 @@
         "id": 180018,
         "materialExchangeSummaryId": 18,
         "seq": 180,
-        "displayName": "ニーゴの想いのカケラ",
+        "displayName": "25的心愿碎片",
         "isDisplayQuantity": true,
         "resourceBoxId": 180018,
         "refreshCycle": "none",
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 180018,
@@ -29987,18 +29987,18 @@
     "materialExchangeType": "normal",
     "name": "百变\n幸运\n之花",
     "assetbundleName": "icon_miracleFortuneFlower",
-    "startAt": 1759161600000,
+    "startAt": 1758902400000,
     "endAt": 1763135999000,
     "materialExchanges": [
       {
         "id": 190001,
         "materialExchangeSummaryId": 19,
         "seq": 10,
-        "displayName": "ホワイトフォーチュンフラワー",
+        "displayName": "白色幸运之花",
         "isDisplayQuantity": true,
         "resourceBoxId": 190001,
         "refreshCycle": "none",
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 190001,
@@ -30013,11 +30013,11 @@
         "id": 190002,
         "materialExchangeSummaryId": 19,
         "seq": 20,
-        "displayName": "ブルーフォーチュンフラワー",
+        "displayName": "蓝色幸运之花",
         "isDisplayQuantity": true,
         "resourceBoxId": 190002,
         "refreshCycle": "none",
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 190002,
@@ -30032,11 +30032,11 @@
         "id": 190003,
         "materialExchangeSummaryId": 19,
         "seq": 30,
-        "displayName": "グリーンフォーチュンフラワー",
+        "displayName": "绿色幸运之花",
         "isDisplayQuantity": true,
         "resourceBoxId": 190003,
         "refreshCycle": "none",
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 190003,
@@ -30051,11 +30051,11 @@
         "id": 190004,
         "materialExchangeSummaryId": 19,
         "seq": 40,
-        "displayName": "レッドフォーチュンフラワー",
+        "displayName": "红色幸运之花",
         "isDisplayQuantity": true,
         "resourceBoxId": 190004,
         "refreshCycle": "none",
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 190004,
@@ -30070,11 +30070,11 @@
         "id": 190005,
         "materialExchangeSummaryId": 19,
         "seq": 50,
-        "displayName": "オレンジフォーチュンフラワー",
+        "displayName": "橙色幸运之花",
         "isDisplayQuantity": true,
         "resourceBoxId": 190005,
         "refreshCycle": "none",
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 190005,
@@ -30089,11 +30089,11 @@
         "id": 190006,
         "materialExchangeSummaryId": 19,
         "seq": 60,
-        "displayName": "パープルフォーチュンフラワー",
+        "displayName": "紫色幸运之花",
         "isDisplayQuantity": true,
         "resourceBoxId": 190006,
         "refreshCycle": "none",
-        "startAt": 1759161600000,
+        "startAt": 1758902400000,
         "costs": [
           {
             "materialExchangeId": 190006,
@@ -30122,9 +30122,9 @@
     "seq": 1,
     "exchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "name": "纪念\n★4成员\n票券",
+    "name": "纪念\n★4成员券",
     "assetbundleName": "icon_memberTicket_star4",
-    "startAt": 1759161600000,
+    "startAt": 1758945600000,
     "endAt": 1764518399000,
     "notificationRemainHour": 168,
     "materialExchanges": [
@@ -35188,6 +35188,460 @@
         "resourceBoxId": 26
       }
     ]
+  },
+  {
+    "id": 21,
+    "seq": 3,
+    "exchangeCategory": "mysekai_material_game_character",
+    "materialExchangeType": "normal",
+    "name": "七彩记忆",
+    "assetbundleName": "icon_memoria",
+    "startAt": 1758859200000,
+    "materialExchanges": [
+      {
+        "id": 210001,
+        "materialExchangeSummaryId": 21,
+        "seq": 10,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210001,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210001,
+            "costGroupId": 210001,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210002,
+        "materialExchangeSummaryId": 21,
+        "seq": 20,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210002,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210002,
+            "costGroupId": 210002,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210003,
+        "materialExchangeSummaryId": 21,
+        "seq": 30,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210003,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210003,
+            "costGroupId": 210003,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210004,
+        "materialExchangeSummaryId": 21,
+        "seq": 40,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210004,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210004,
+            "costGroupId": 210004,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210005,
+        "materialExchangeSummaryId": 21,
+        "seq": 50,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210005,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210005,
+            "costGroupId": 210005,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210006,
+        "materialExchangeSummaryId": 21,
+        "seq": 60,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210006,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210006,
+            "costGroupId": 210006,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210007,
+        "materialExchangeSummaryId": 21,
+        "seq": 70,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210007,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210007,
+            "costGroupId": 210007,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210008,
+        "materialExchangeSummaryId": 21,
+        "seq": 80,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210008,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210008,
+            "costGroupId": 210008,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210009,
+        "materialExchangeSummaryId": 21,
+        "seq": 90,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210009,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210009,
+            "costGroupId": 210009,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210010,
+        "materialExchangeSummaryId": 21,
+        "seq": 100,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210010,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210010,
+            "costGroupId": 210010,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210011,
+        "materialExchangeSummaryId": 21,
+        "seq": 110,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210011,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210011,
+            "costGroupId": 210011,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210012,
+        "materialExchangeSummaryId": 21,
+        "seq": 120,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210012,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210012,
+            "costGroupId": 210012,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210013,
+        "materialExchangeSummaryId": 21,
+        "seq": 130,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210013,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210013,
+            "costGroupId": 210013,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210014,
+        "materialExchangeSummaryId": 21,
+        "seq": 140,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210014,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210014,
+            "costGroupId": 210014,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210015,
+        "materialExchangeSummaryId": 21,
+        "seq": 150,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210015,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210015,
+            "costGroupId": 210015,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210016,
+        "materialExchangeSummaryId": 21,
+        "seq": 160,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210016,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210016,
+            "costGroupId": 210016,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210017,
+        "materialExchangeSummaryId": 21,
+        "seq": 170,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210017,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210017,
+            "costGroupId": 210017,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210018,
+        "materialExchangeSummaryId": 21,
+        "seq": 180,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210018,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210018,
+            "costGroupId": 210018,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210019,
+        "materialExchangeSummaryId": 21,
+        "seq": 190,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210019,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210019,
+            "costGroupId": 210019,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210020,
+        "materialExchangeSummaryId": 21,
+        "seq": 200,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210020,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210020,
+            "costGroupId": 210020,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210021,
+        "materialExchangeSummaryId": 21,
+        "seq": 210,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210021,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210021,
+            "costGroupId": 210021,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210022,
+        "materialExchangeSummaryId": 21,
+        "seq": 220,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210022,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210022,
+            "costGroupId": 210022,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210023,
+        "materialExchangeSummaryId": 21,
+        "seq": 230,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210023,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210023,
+            "costGroupId": 210023,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210024,
+        "materialExchangeSummaryId": 21,
+        "seq": 240,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210024,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210024,
+            "costGroupId": 210024,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210025,
+        "materialExchangeSummaryId": 21,
+        "seq": 250,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210025,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210025,
+            "costGroupId": 210025,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 210026,
+        "materialExchangeSummaryId": 21,
+        "seq": 260,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 210026,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 210026,
+            "costGroupId": 210026,
+            "seq": 1,
+            "resourceId": 168,
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 100,

@@ -1,0 +1,201 @@
+[
+  {
+    "id": 1,
+    "name": "全部",
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "icon_all"
+  },
+  {
+    "id": 2,
+    "name": "普通",
+    "groupId": 1,
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "icon_normal_furniture"
+  },
+  {
+    "id": 3,
+    "name": "小物品",
+    "groupId": 3,
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "icon_small_furniture"
+  },
+  {
+    "id": 4,
+    "name": "挂壁类",
+    "groupId": 2,
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "icon_wall_furniture"
+  },
+  {
+    "id": 5,
+    "name": "展示用",
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "icon_custom_furniture"
+  },
+  {
+    "id": 6,
+    "name": "装饰画",
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "icon_canvas"
+  },
+  {
+    "id": 7,
+    "name": "墙壁",
+    "groupId": 4,
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "icon_wall"
+  },
+  {
+    "id": 8,
+    "name": "地板",
+    "groupId": 5,
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "icon_floor"
+  },
+  {
+    "id": 9,
+    "name": "绒毯",
+    "groupId": 5,
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "icon_rug"
+  },
+  {
+    "id": 10,
+    "name": "地面",
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "icon_ground"
+  },
+  {
+    "id": 11,
+    "name": "家",
+    "mysekaiFixtureMainGenreType": "home",
+    "assetbundleName": "icon_house"
+  },
+  {
+    "id": 12,
+    "name": "道路",
+    "groupId": 5,
+    "mysekaiFixtureMainGenreType": "road",
+    "assetbundleName": "icon_road"
+  },
+  {
+    "id": 13,
+    "name": "栅栏",
+    "mysekaiFixtureMainGenreType": "fence",
+    "assetbundleName": "icon_fence"
+  },
+  {
+    "id": 14,
+    "name": "虚拟歌手",
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "logo_unit_s_outline_01_vs"
+  },
+  {
+    "id": 15,
+    "name": "Leo/need",
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "logo_unit_s_outline_02_ln"
+  },
+  {
+    "id": 16,
+    "name": "MORE MORE JUMP！",
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "logo_unit_s_outline_03_mj"
+  },
+  {
+    "id": 17,
+    "name": "Vivid BAD SQUAD",
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "logo_unit_s_outline_04_vb"
+  },
+  {
+    "id": 18,
+    "name": "Wonderlands×Showtime",
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "logo_unit_s_outline_05_ws"
+  },
+  {
+    "id": 19,
+    "name": "25点，Nightcord见。",
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "logo_unit_s_outline_06_25"
+  },
+  {
+    "id": 20,
+    "name": "角色",
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "icon_all"
+  },
+  {
+    "id": 21,
+    "name": "牵绊",
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "icon_all"
+  },
+  {
+    "id": 22,
+    "name": "成就",
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "icon_all"
+  },
+  {
+    "id": 23,
+    "name": "活动",
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "icon_all"
+  },
+  {
+    "id": 24,
+    "name": "斧子",
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "icon_axe"
+  },
+  {
+    "id": 25,
+    "name": "十字镐",
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "icon_pickaxe"
+  },
+  {
+    "id": 26,
+    "name": "植物",
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "icon_plant"
+  },
+  {
+    "id": 27,
+    "name": "周边",
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "icon_goods"
+  },
+  {
+    "id": 28,
+    "name": "成员",
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "icon_chr_member"
+  },
+  {
+    "id": 29,
+    "name": "玩偶",
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "icon_stuffed_toy"
+  },
+  {
+    "id": 30,
+    "name": "其他",
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "icon_others"
+  },
+  {
+    "id": 31,
+    "name": "彩色地砖",
+    "mysekaiFixtureMainGenreType": "road",
+    "assetbundleName": "icon_road_color"
+  },
+  {
+    "id": 32,
+    "name": "方块",
+    "mysekaiFixtureMainGenreType": "none",
+    "assetbundleName": "icon_block"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "seq": 1,
+    "mysekaiItemType": "white_blueprint",
+    "name": "空白设计图",
+    "pronunciation": "はくしのせっけいず",
+    "description": "没有任何内容的设计图。可以用来绘制其他人「世界」中的家具。",
+    "iconAssetbundleName": "item_blank_blueprint"
+  },
+  {
+    "id": 2,
+    "seq": 2,
+    "mysekaiItemType": "surplus_blueprint",
+    "name": "多余设计图",
+    "pronunciation": "あまったせっけいず",
+    "description": "已经拥有过的设计图。可通过转换器转换成其他设计图。",
+    "iconAssetbundleName": "item_surplus_blueprint"
+  },
+  {
+    "id": 5,
+    "seq": 5,
+    "mysekaiItemType": "surplus_music_record",
+    "name": "多余唱片",
+    "pronunciation": "あまったれこーど",
+    "description": "已经拥有过的唱片。可通过转换器转换成其他唱片。",
+    "iconAssetbundleName": "item_surplus_music_record"
+  },
+  {
+    "id": 6,
+    "seq": 6,
+    "mysekaiItemType": "mysekai_photo_film",
+    "name": "胶卷",
+    "pronunciation": "ふぉとふぃるむ",
+    "description": "照片显影所需的胶卷。拍照时需要用到。",
+    "iconAssetbundleName": "item_photofilm"
+  },
+  {
+    "id": 7,
+    "seq": 7,
+    "mysekaiItemType": "blueprint_fragment",
+    "name": "设计图碎片",
+    "pronunciation": "せっけいずのきれはし",
+    "description": "设计图的碎片。收集起来可通过转换器随机转换成其他设计图。",
+    "iconAssetbundleName": "item_blueprint_fragment"
+  }
+]

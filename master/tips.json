@@ -8,15 +8,15 @@
   },
   {
     "id": 3,
-    "title": "缤纷通行证",
-    "description": "购买“缤纷通行证”能获得2倍\n完成演出任务所需的演出积分。",
+    "title": "缤纷月卡",
+    "description": "购买“缤纷月卡”能获得2倍\n完成演出任务所需的演出积分。",
     "fromUserRank": 1,
     "toUserRank": 999
   },
   {
     "id": 4,
-    "title": "缤纷通行证",
-    "description": "购买“缤纷通行证”\n在挑战演出中能获得2倍挑战积分。",
+    "title": "缤纷月卡",
+    "description": "购买“缤纷月卡”\n在挑战演出中能获得2倍挑战积分。",
     "fromUserRank": 1,
     "toUserRank": 999
   },
@@ -184,7 +184,7 @@
   {
     "id": 50,
     "title": "观看卡牌剧情可以提升能力数值",
-    "description": "观看角色剧情可以提升能力数值",
+    "description": "观看卡牌剧情可以提升能力数值",
     "fromUserRank": 10,
     "toUserRank": 30
   },
@@ -253,22 +253,22 @@
   },
   {
     "id": 67,
-    "title": "角色等级的提升方式&奖励",
-    "description": "提升“角色等级”即可获得\n歌手卡等特别奖励。",
+    "title": "角色收藏等级的提升方式&奖励",
+    "description": "提升“角色收藏等级”即可获得\n歌手卡等特别奖励。",
     "fromUserRank": 30,
     "toUserRank": 60
   },
   {
     "id": 68,
-    "title": "角色等级的提升方式&奖励",
-    "description": "“角色等级”会给角色的综合力\n带来相应的奖励。",
+    "title": "角色收藏等级的提升方式&奖励",
+    "description": "“角色收藏等级”会给角色的综合力\n带来相应的奖励。",
     "fromUserRank": 30,
     "toUserRank": 60
   },
   {
     "id": 69,
-    "title": "角色等级的提升方式&奖励",
-    "description": "“角色等级经验值”可以通过挑战演出和\n角色任务等方式获得。",
+    "title": "角色收藏等级的提升方式&奖励",
+    "description": "“角色收藏等级经验值”可以通过挑战演出和\n角色任务等方式获得。",
     "fromUserRank": 30,
     "toUserRank": 60
   },
@@ -310,7 +310,7 @@
   {
     "id": 78,
     "title": "挑战演出的解锁方式",
-    "description": "“挑战演出”的编组人数会随着\n“角色等级”的提升而增加。",
+    "description": "“挑战演出”的编组人数会随着\n“角色收藏等级”的提升而增加。",
     "fromUserRank": 5,
     "toUserRank": 60
   },
@@ -345,7 +345,7 @@
   {
     "id": 84,
     "title": "购买Another Vocal ver.歌曲",
-    "description": "在“Another Vocal商店”使用的歌手卡可通过\n提升角色等级获得。",
+    "description": "在“Another Vocal商店”使用的歌手卡可通过\n提升角色收藏等级获得。",
     "fromUserRank": 60,
     "toUserRank": 100
   },
@@ -561,14 +561,14 @@
   },
   {
     "id": 119,
-    "title": "牵绊等级",
-    "description": "提升“牵绊等级”，\n即可获得两位角色的特别称号与奖励。",
+    "title": "角色牵绊等级",
+    "description": "提升“角色牵绊等级”，\n即可获得两位角色的特别称号与奖励。",
     "fromUserRank": 1,
     "toUserRank": 999
   },
   {
     "id": 120,
-    "title": "牵绊等级",
+    "title": "角色牵绊等级",
     "description": "“牵绊经验值”为同一编组中\n队长与其他四名成员通过演出获得的经验值。",
     "fromUserRank": 1,
     "toUserRank": 999
@@ -689,6 +689,41 @@
     "id": 141,
     "title": "剧情全部观看",
     "description": "不使用跳过或快进功能观看剧情，\n根据看完的主线/活动剧情数量可以获得相应的奖励。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 142,
+    "title": "我的「世界」是什么？",
+    "description": "我的「世界」就是属于你的那个未完成的「世界」。\n收集各种材料和家具，用你的想象把它变得丰富多彩吧。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 143,
+    "title": "转换器",
+    "description": "用我的「世界」的转换器将多余的道具\n转换为其他道具吧。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 144,
+    "title": "用装饰画提升表演",
+    "description": "在我的「世界」画下成员的装饰画，\n该成员的表演会获得提升。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 145,
+    "title": "用大门提升表演",
+    "description": "当我的「世界」大门等级提升时，\n该组合的表演会获得提升。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 146,
+    "title": "用玩偶提升表演",
+    "description": "在我的「世界」制作玩偶后，\n该角色的表演会获得提升。",
     "fromUserRank": 1,
     "toUserRank": 999
   },

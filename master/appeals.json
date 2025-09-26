@@ -677,7 +677,7 @@
     "startAt": 1757649600000,
     "endAt": 1758513599000,
     "appealReadConditionType": "purchase",
-    "text": "25点，Nightcord见成员登场"
+    "text": "25点，Nightcord见。成员登场"
   },
   {
     "id": 376,
@@ -758,5 +758,105 @@
     "endAt": 1760155199000,
     "appealReadConditionType": "purchase",
     "text": "司、彰人、瑞希登场"
+  },
+  {
+    "id": 384,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1759593600000,
+    "endAt": 1760198399000,
+    "appealReadConditionType": "purchase",
+    "text": "[生日]桐谷遥登场"
+  },
+  {
+    "id": 385,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1761494400000,
+    "endAt": 1762099199000,
+    "appealReadConditionType": "purchase",
+    "text": "[生日]望月穗波登场"
+  },
+  {
+    "id": 386,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1760155200000,
+    "endAt": 1761105599000,
+    "appealReadConditionType": "purchase",
+    "text": "奏、一歌、真冬登场"
+  },
+  {
+    "id": 387,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1759550400000,
+    "endAt": 1760155199000,
+    "appealReadConditionType": "purchase",
+    "text": "宁宁、志步、爱莉、冬弥登场"
+  },
+  {
+    "id": 388,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1760155200000,
+    "endAt": 1761019199000,
+    "appealReadConditionType": "purchase",
+    "text": "瑞希、绘名、KAITO登场"
+  },
+  {
+    "id": 389,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1761019200000,
+    "endAt": 1761883199000,
+    "appealReadConditionType": "purchase",
+    "text": "彰人、心羽、杏登场"
+  },
+  {
+    "id": 390,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1761364800000,
+    "endAt": 1761883199000,
+    "appealReadConditionType": "purchase",
+    "text": "★4出现率2倍"
+  },
+  {
+    "id": 391,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1761883200000,
+    "endAt": 1762747199000,
+    "appealReadConditionType": "purchase",
+    "text": "咲希、一歌、穗波登场"
+  },
+  {
+    "id": 392,
+    "seq": 3,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1758902400000,
+    "endAt": 1760198399000,
+    "appealReadConditionType": "transition",
+    "text": "半周年特惠礼包"
+  },
+  {
+    "id": 393,
+    "seq": 3,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1758902400000,
+    "endAt": 1760198399000,
+    "appealReadConditionType": "transition",
+    "text": "塔罗主题服装"
   }
 ]

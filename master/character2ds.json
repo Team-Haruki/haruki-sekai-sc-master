@@ -3148,6 +3148,330 @@
     "assetName": "sub_rivaltwins_slade"
   },
   {
+    "id": 364,
+    "characterType": "mob",
+    "isNextGrade": true,
+    "characterId": 136,
+    "unit": "none",
+    "isEnabledFlipDisplay": true,
+    "assetName": "sub_byakkomachi"
+  },
+  {
+    "id": 365,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 19,
+    "unit": "school_refusal",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_19ena_back"
+  },
+  {
+    "id": 366,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 20,
+    "unit": "school_refusal",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_20mizuki_back"
+  },
+  {
+    "id": 367,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 20,
+    "unit": "school_refusal",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_20mizuki_still_nig19"
+  },
+  {
+    "id": 368,
+    "characterType": "mob",
+    "isNextGrade": true,
+    "characterId": 40,
+    "unit": "none",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_sub_nenedayo"
+  },
+  {
+    "id": 369,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 3,
+    "unit": "light_sound",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_sub_child_honami"
+  },
+  {
+    "id": 370,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 1,
+    "unit": "light_sound",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_01ichika"
+  },
+  {
+    "id": 371,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 2,
+    "unit": "light_sound",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_02saki"
+  },
+  {
+    "id": 372,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 3,
+    "unit": "light_sound",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_03honami"
+  },
+  {
+    "id": 373,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 4,
+    "unit": "light_sound",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_04shiho"
+  },
+  {
+    "id": 374,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 5,
+    "unit": "idol",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_05minori"
+  },
+  {
+    "id": 375,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 6,
+    "unit": "idol",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_06haruka"
+  },
+  {
+    "id": 376,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 7,
+    "unit": "idol",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_07airi"
+  },
+  {
+    "id": 377,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 8,
+    "unit": "idol",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_08shizuku"
+  },
+  {
+    "id": 378,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 9,
+    "unit": "street",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_09kohane"
+  },
+  {
+    "id": 379,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 10,
+    "unit": "street",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_10an"
+  },
+  {
+    "id": 380,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 11,
+    "unit": "street",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_11akito"
+  },
+  {
+    "id": 381,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 12,
+    "unit": "street",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_12touya"
+  },
+  {
+    "id": 382,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 13,
+    "unit": "theme_park",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_13tsukasa"
+  },
+  {
+    "id": 383,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 14,
+    "unit": "theme_park",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_14emu"
+  },
+  {
+    "id": 384,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 15,
+    "unit": "theme_park",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_15nene"
+  },
+  {
+    "id": 385,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 16,
+    "unit": "theme_park",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_16rui"
+  },
+  {
+    "id": 386,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 17,
+    "unit": "school_refusal",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_17kanade"
+  },
+  {
+    "id": 387,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 18,
+    "unit": "school_refusal",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_18mafuyu"
+  },
+  {
+    "id": 388,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 19,
+    "unit": "school_refusal",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_19ena"
+  },
+  {
+    "id": 389,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 20,
+    "unit": "school_refusal",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_20mizuki"
+  },
+  {
+    "id": 391,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 3,
+    "unit": "light_sound",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_03honami"
+  },
+  {
+    "id": 392,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 6,
+    "unit": "idol",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_06haruka"
+  },
+  {
+    "id": 393,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 7,
+    "unit": "idol",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_07airi"
+  },
+  {
+    "id": 394,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 21,
+    "unit": "theme_park",
+    "isEnabledFlipDisplay": false,
+    "assetName": "v2_21miku"
+  },
+  {
+    "id": 395,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 22,
+    "unit": "school_refusal",
+    "isEnabledFlipDisplay": false,
+    "assetName": "v2_22rin"
+  },
+  {
+    "id": 396,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 23,
+    "unit": "school_refusal",
+    "isEnabledFlipDisplay": false,
+    "assetName": "v2_23len"
+  },
+  {
+    "id": 397,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 24,
+    "unit": "idol",
+    "isEnabledFlipDisplay": false,
+    "assetName": "v2_24luka"
+  },
+  {
+    "id": 398,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 25,
+    "unit": "street",
+    "isEnabledFlipDisplay": false,
+    "assetName": "v2_25meiko"
+  },
+  {
+    "id": 399,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 26,
+    "unit": "light_sound",
+    "isEnabledFlipDisplay": false,
+    "assetName": "v2_26kaito"
+  },
+  {
+    "id": 400,
+    "characterType": "mob",
+    "isNextGrade": true,
+    "characterId": 174,
+    "unit": "none",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_sub_mikurobo"
+  },
+  {
     "id": 900,
     "characterType": "sub_game_character",
     "isNextGrade": true,
@@ -3236,6 +3560,654 @@
     "unit": "none",
     "isEnabledFlipDisplay": false,
     "assetName": "v2_sub_sanrio_kuromi_black"
+  },
+  {
+    "id": 910,
+    "characterType": "game_character",
+    "isNextGrade": true,
+    "characterId": 21,
+    "unit": "none",
+    "isEnabledFlipDisplay": false,
+    "assetName": "v2_clb01_21miku"
+  },
+  {
+    "id": 911,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 121,
+    "unit": "none",
+    "isEnabledFlipDisplay": false,
+    "assetName": "v2_sub_enst_04jun"
+  },
+  {
+    "id": 912,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 144,
+    "unit": "none",
+    "isEnabledFlipDisplay": false,
+    "assetName": "v2_sub_enst_01izumi"
+  },
+  {
+    "id": 913,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 112,
+    "unit": "none",
+    "isEnabledFlipDisplay": false,
+    "assetName": "v2_sub_enst_02chiaki"
+  },
+  {
+    "id": 914,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 147,
+    "unit": "none",
+    "isEnabledFlipDisplay": false,
+    "assetName": "v2_sub_enst_03natsume"
+  },
+  {
+    "id": 1000,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 101,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1001,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 102,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1002,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 103,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1003,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 104,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1004,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 105,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1005,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 106,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1006,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 107,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1007,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 108,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1008,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 109,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1009,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 110,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1010,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 111,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1011,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 112,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1012,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 113,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1013,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 114,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1014,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 115,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1015,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 116,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1016,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 117,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1017,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 118,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1018,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 119,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1019,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 120,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1020,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 121,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1021,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 122,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1022,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 123,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1023,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 124,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1024,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 125,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1025,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 126,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1026,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 127,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1027,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 128,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1028,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 129,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1029,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 130,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1030,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 131,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1031,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 132,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1032,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 133,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1033,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 134,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1034,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 135,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1035,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 136,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1036,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 137,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1037,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 138,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1038,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 139,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1039,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 140,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1040,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 141,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1041,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 142,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1042,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 143,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1043,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 144,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1044,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 145,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1045,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 146,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1046,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 147,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1047,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 148,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1048,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 149,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1049,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 150,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1050,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 151,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1051,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 152,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1052,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 153,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1053,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 154,
+    "unit": "none",
+    "isEnabledFlipDisplay": false
+  },
+  {
+    "id": 1054,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 155,
+    "unit": "light_sound",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_01ichika"
+  },
+  {
+    "id": 1055,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 156,
+    "unit": "light_sound",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_02saki"
+  },
+  {
+    "id": 1056,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 157,
+    "unit": "light_sound",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_03honami"
+  },
+  {
+    "id": 1057,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 158,
+    "unit": "light_sound",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_04shiho"
+  },
+  {
+    "id": 1058,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 159,
+    "unit": "idol",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_06haruka"
+  },
+  {
+    "id": 1059,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 160,
+    "unit": "idol",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_08shizuku"
+  },
+  {
+    "id": 1060,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 161,
+    "unit": "street",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_09kohane"
+  },
+  {
+    "id": 1061,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 162,
+    "unit": "theme_park",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_14emu"
+  },
+  {
+    "id": 1062,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 163,
+    "unit": "theme_park",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_15nene"
+  },
+  {
+    "id": 1063,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 164,
+    "unit": "theme_park",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_16rui"
+  },
+  {
+    "id": 1064,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 165,
+    "unit": "school_refusal",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_17kanade"
+  },
+  {
+    "id": 1065,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 166,
+    "unit": "school_refusal",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_19ena"
+  },
+  {
+    "id": 1066,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 167,
+    "unit": "school_refusal",
+    "isEnabledFlipDisplay": false,
+    "assetName": "v2_22rin"
+  },
+  {
+    "id": 1067,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 168,
+    "unit": "school_refusal",
+    "isEnabledFlipDisplay": false,
+    "assetName": "v2_23len"
+  },
+  {
+    "id": 1068,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 169,
+    "unit": "idol",
+    "isEnabledFlipDisplay": false,
+    "assetName": "v2_24luka"
+  },
+  {
+    "id": 1069,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 170,
+    "unit": "street",
+    "isEnabledFlipDisplay": false,
+    "assetName": "v2_25meiko"
+  },
+  {
+    "id": 1070,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 171,
+    "unit": "light_sound",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_02saki"
+  },
+  {
+    "id": 1071,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 172,
+    "unit": "light_sound",
+    "isEnabledFlipDisplay": true,
+    "assetName": "v2_03honami"
+  },
+  {
+    "id": 1072,
+    "characterType": "sub_game_character",
+    "isNextGrade": true,
+    "characterId": 173,
+    "unit": "school_refusal",
+    "isEnabledFlipDisplay": false,
+    "assetName": "v2_20mizuki"
   },
   {
     "id": 900000,

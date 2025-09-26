@@ -40,5 +40,23 @@
     "type": "home_banner",
     "funcId": 20065,
     "channels": "taptap,bsdk,App Store"
+  },
+  {
+    "id": 17,
+    "type": "home_banner",
+    "funcId": 20069,
+    "channels": "taptap,bsdk,App Store"
+  },
+  {
+    "id": 18,
+    "type": "information",
+    "funcId": 10299,
+    "channels": "bilibili"
+  },
+  {
+    "id": 19,
+    "type": "information",
+    "funcId": 10300,
+    "channels": "taptap,bsdk,App Store"
   }
 ]
