@@ -122552,6 +122552,14 @@
     "resourceType": "jewel"
   },
   {
+    "resourceBoxId": 402,
+    "resourceQuantity": 3900,
+    "resourceId": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "live_point"
+  },
+  {
     "resourceBoxId": 403,
     "resourceQuantity": 1,
     "resourceId": 545001,
@@ -238963,6 +238971,14 @@
     "resourceBoxId": 10,
     "resourceQuantity": 1,
     "resourceId": 881,
+    "resourceBoxPurpose": "card_extra",
+    "resourceLevel": null,
+    "resourceType": "stamp"
+  },
+  {
+    "resourceBoxId": 9999,
+    "resourceQuantity": 1,
+    "resourceId": 874,
     "resourceBoxPurpose": "card_extra",
     "resourceLevel": null,
     "resourceType": "stamp"
@@ -453512,6 +453528,30 @@
     "resourceType": "material"
   },
   {
+    "resourceBoxId": 50011,
+    "resourceQuantity": 1,
+    "resourceId": 19,
+    "resourceBoxPurpose": "gift_detail",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 50011,
+    "resourceQuantity": 5,
+    "resourceId": 2,
+    "resourceBoxPurpose": "gift_detail",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 50012,
+    "resourceQuantity": 1,
+    "resourceId": 1022,
+    "resourceBoxPurpose": "gift_detail",
+    "resourceLevel": null,
+    "resourceType": "music_vocal"
+  },
+  {
     "resourceBoxId": 9999999,
     "resourceQuantity": 1,
     "resourceId": 1,
@@ -528446,6 +528486,270 @@
     "resourceBoxPurpose": "material_exchange",
     "resourceLevel": null,
     "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001001,
+    "resourceQuantity": 1,
+    "resourceId": 1096,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001002,
+    "resourceQuantity": 1,
+    "resourceId": 1070,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001003,
+    "resourceQuantity": 1,
+    "resourceId": 1071,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001004,
+    "resourceQuantity": 1,
+    "resourceId": 1072,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001005,
+    "resourceQuantity": 1,
+    "resourceId": 1073,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001006,
+    "resourceQuantity": 1,
+    "resourceId": 1074,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001007,
+    "resourceQuantity": 1,
+    "resourceId": 1075,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001008,
+    "resourceQuantity": 1,
+    "resourceId": 1076,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001009,
+    "resourceQuantity": 1,
+    "resourceId": 1077,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001010,
+    "resourceQuantity": 1,
+    "resourceId": 1078,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001011,
+    "resourceQuantity": 1,
+    "resourceId": 1079,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001012,
+    "resourceQuantity": 1,
+    "resourceId": 1080,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001013,
+    "resourceQuantity": 1,
+    "resourceId": 1081,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001014,
+    "resourceQuantity": 1,
+    "resourceId": 1082,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001015,
+    "resourceQuantity": 1,
+    "resourceId": 1083,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001016,
+    "resourceQuantity": 1,
+    "resourceId": 1084,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001017,
+    "resourceQuantity": 1,
+    "resourceId": 1085,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001018,
+    "resourceQuantity": 1,
+    "resourceId": 1086,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001019,
+    "resourceQuantity": 1,
+    "resourceId": 1087,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001020,
+    "resourceQuantity": 1,
+    "resourceId": 1088,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001021,
+    "resourceQuantity": 1,
+    "resourceId": 1089,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001022,
+    "resourceQuantity": 1,
+    "resourceId": 1090,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001023,
+    "resourceQuantity": 1,
+    "resourceId": 1091,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001024,
+    "resourceQuantity": 1,
+    "resourceId": 1092,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001025,
+    "resourceQuantity": 1,
+    "resourceId": 1093,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001026,
+    "resourceQuantity": 1,
+    "resourceId": 1094,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001027,
+    "resourceQuantity": 1,
+    "resourceId": 1095,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 4001028,
+    "resourceQuantity": 1,
+    "resourceId": 17,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 4001029,
+    "resourceQuantity": 1,
+    "resourceId": 18,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 4001030,
+    "resourceQuantity": 1,
+    "resourceId": 19,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 4001031,
+    "resourceQuantity": 1,
+    "resourceId": 20,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 4001032,
+    "resourceQuantity": 1,
+    "resourceId": 21,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 4001033,
+    "resourceQuantity": 1,
+    "resourceId": 22,
+    "resourceBoxPurpose": "material_exchange",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
   },
   {
     "resourceBoxId": 1,

@@ -1,7 +1,7 @@
 [
   {
     "id": 4,
-    "name": "4周年纪念印章任务 BLOOM",
+    "name": "半周年纪念印章任务 BLOOM",
     "assetbundleName": "4th_anniv_pm_bloom",
     "bgmAssetbundleName": "4th_anniv_pm_bloom_bgm",
     "selectableLimit": 4,
@@ -673,7 +673,7 @@
                 "id": 4020206,
                 "panelMissionSheetId": 40202,
                 "name": "在歌曲《热风》的\n任意5种难度中\n达成AP",
-                "description": "在歌曲《热风》的任意5种难度中达成FULL COMBO。\n（EASY/NORMAL/HARD/EXPERT/MASTER/APPEND难度）",
+                "description": "在歌曲《热风》的任意5种难度中达成ALL PERFECT。\n（EASY/NORMAL/HARD/EXPERT/MASTER/APPEND难度）",
                 "seq": 6,
                 "panelMissionType": "live_clear_all_perfect_all_difficulty_in_music",
                 "requirement1": 5,
@@ -2657,7 +2657,7 @@
   },
   {
     "id": 5,
-    "name": "4周年纪念印章任务 CONNECT",
+    "name": "半周年纪念印章任务 CONNECT",
     "assetbundleName": "4th_anniv_pm_connect",
     "bgmAssetbundleName": "4th_anniv_pm_connect_bgm",
     "selectableLimit": 3,
@@ -2665,7 +2665,7 @@
     "progressEndAt": 1761029999000,
     "closedAt": 1761029999000,
     "distributionEndAt": 1762239599000,
-    "informationId": 10286,
+    "informationId": 10326,
     "panelMissionSheetGroups": [
       {
         "id": 501,
@@ -2684,7 +2684,7 @@
               {
                 "id": 5010101,
                 "panelMissionSheetId": 50101,
-                "name": "在“多人演出”中累计达成\n5次“SUPER FEVER”。",
+                "name": "达成5次\n“SUPER FEVER”",
                 "description": "在“多人演出”中累计达成\n5次“SUPER FEVER”。",
                 "seq": 1,
                 "panelMissionType": "multi_live_clear_super_fever",
@@ -2698,7 +2698,7 @@
               {
                 "id": 5010102,
                 "panelMissionSheetId": 50101,
-                "name": "使用至少1名MORE MORE JUMP！成员进行编组\n并进行10次演出。",
+                "name": "使用包含特定组合成员的编组\n进行10次演出",
                 "description": "使用至少1名MORE MORE JUMP！成员进行编组\n并进行10次演出。",
                 "seq": 2,
                 "panelMissionType": "play_live_with_unit",
@@ -2712,7 +2712,7 @@
               {
                 "id": 5010103,
                 "panelMissionSheetId": 50101,
-                "name": "将成员“★3[品尝正宗的烤鱿鱼] 朝比奈真冬”\n养成至50级。",
+                "name": "将特定成员\n养成至50级",
                 "description": "将成员“★3[品尝正宗的烤鱿鱼] 朝比奈真冬”\n养成至50级。",
                 "seq": 4,
                 "panelMissionType": "card_level_up",
@@ -2726,7 +2726,7 @@
               {
                 "id": 5010104,
                 "panelMissionSheetId": 50101,
-                "name": "观看活动“荆棘之路通往何处”的\n活动剧情最后一话。",
+                "name": "观看活动\n“荆棘之路\n通往何处”\n最后一话",
                 "description": "观看活动“荆棘之路通往何处”的\n活动剧情最后一话。",
                 "seq": 6,
                 "panelMissionType": "read_event_story_episode",
@@ -2740,7 +2740,7 @@
               {
                 "id": 5010105,
                 "panelMissionSheetId": 50101,
-                "name": "参加1次“荆棘之路通往何处\n后日谈·演唱会”。",
+                "name": "参加1次\n“荆棘之路通往何处\n后日谈·演唱会”",
                 "description": "参加1次“荆棘之路通往何处\n后日谈·演唱会”。",
                 "seq": 8,
                 "panelMissionType": "join_virtual_live",
@@ -2754,7 +2754,7 @@
               {
                 "id": 5010106,
                 "panelMissionSheetId": 50101,
-                "name": "累计消耗100演出能量。",
+                "name": "累计消耗\n100演出能量",
                 "description": "累计消耗100演出能量。",
                 "seq": 9,
                 "panelMissionType": "consume_boost_count",
@@ -2768,7 +2768,7 @@
               {
                 "id": 5010107,
                 "panelMissionSheetId": 50101,
-                "name": "累计在“荆棘之路通往何处”活动中\n获得70万活动积分。",
+                "name": "累计获得\n70万活动积分",
                 "description": "累计在“荆棘之路通往何处”活动中\n获得70万活动积分。",
                 "seq": 11,
                 "panelMissionType": "collect_event_point",
@@ -2796,7 +2796,7 @@
               {
                 "id": 5010201,
                 "panelMissionSheetId": 50102,
-                "name": "在“多人演出”中累计达成\n10次“SUPER FEVER”。",
+                "name": "达成10次\n“SUPER FEVER”",
                 "description": "在“多人演出”中累计达成\n10次“SUPER FEVER”。",
                 "seq": 1,
                 "panelMissionType": "multi_live_clear_super_fever",
@@ -2810,7 +2810,7 @@
               {
                 "id": 5010202,
                 "panelMissionSheetId": 50102,
-                "name": "使用至少1名MORE MORE JUMP！成员进行编组\n并进行20次演出。",
+                "name": "使用包含特定组合成员的编组\n进行20次演出",
                 "description": "使用至少1名MORE MORE JUMP！成员进行编组\n并进行20次演出。",
                 "seq": 2,
                 "panelMissionType": "play_live_with_unit",
@@ -2824,7 +2824,7 @@
               {
                 "id": 5010203,
                 "panelMissionSheetId": 50102,
-                "name": "不使用跳过或快进功能，\n观看4话活动“荆棘之路通往何处”相关的卡牌剧情。",
+                "name": "观看4话\n活动“荆棘之路通往何处”\n相关的卡牌剧情",
                 "description": "不使用跳过或快进功能，\n观看4话活动“荆棘之路通往何处”相关的卡牌剧情。",
                 "seq": 4,
                 "panelMissionType": "read_event_linked_card_episode_without_skip",
@@ -2839,7 +2839,7 @@
               {
                 "id": 5010204,
                 "panelMissionSheetId": 50102,
-                "name": "不使用跳过或快进功能，\n观看活动“荆棘之路通往何处”的全部活动剧情。",
+                "name": "看完活动所有剧情",
                 "description": "不使用跳过或快进功能，\n观看活动“荆棘之路通往何处”的全部活动剧情。",
                 "seq": 6,
                 "panelMissionType": "read_all_event_story_episode_without_skip",
@@ -2854,7 +2854,7 @@
               {
                 "id": 5010205,
                 "panelMissionSheetId": 50102,
-                "name": "在“荆棘之路通往何处后日谈·演唱会”中\n累计获得1500应援积分。",
+                "name": "在“荆棘之路通往何处\n后日谈·演唱会”中\n累计获得\n1500应援积分",
                 "description": "在“荆棘之路通往何处后日谈·演唱会”中\n累计获得1500应援积分。",
                 "seq": 8,
                 "panelMissionType": "collect_virtual_live_cheer_point_in_live",
@@ -2868,7 +2868,7 @@
               {
                 "id": 5010206,
                 "panelMissionSheetId": 50102,
-                "name": "累计消耗300演出能量。",
+                "name": "累计消耗\n300演出能量",
                 "description": "累计消耗300演出能量。",
                 "seq": 9,
                 "panelMissionType": "consume_boost_count",
@@ -2882,7 +2882,7 @@
               {
                 "id": 5010207,
                 "panelMissionSheetId": 50102,
-                "name": "累计在“荆棘之路通往何处”活动中\n获得150万活动积分。",
+                "name": "累计获得\n150万活动积分",
                 "description": "累计在“荆棘之路通往何处”活动中\n获得150万活动积分。",
                 "seq": 11,
                 "panelMissionType": "collect_event_point",
@@ -2910,7 +2910,7 @@
               {
                 "id": 5010301,
                 "panelMissionSheetId": 50103,
-                "name": "在“多人演出”中累计达成\n5次“SUPER FEVER”。",
+                "name": "达成5次\n“SUPER FEVER”",
                 "description": "在“多人演出”中累计达成\n5次“SUPER FEVER”。",
                 "seq": 1,
                 "panelMissionType": "multi_live_clear_super_fever",
@@ -2924,8 +2924,8 @@
               {
                 "id": 5010302,
                 "panelMissionSheetId": 50103,
-                "name": "使用至少1名Vivid BAD SQUAD歌手成员进行编组\n并进行10次演出。",
-                "description": "使用至少1名Vivid BAD SQUAD歌手成员进行编组\n并进行10次演出。",
+                "name": "使用包含特定组合成员的编组\n进行10次演出",
+                "description": "使用至少1名Vivid BAD SQUAD成员进行编组\n并进行10次演出。",
                 "seq": 2,
                 "panelMissionType": "play_live_with_unit",
                 "requirement1": 10,
@@ -2938,7 +2938,7 @@
               {
                 "id": 5010303,
                 "panelMissionSheetId": 50103,
-                "name": "将成员“★3[品尝正宗的烤鱿鱼] 朝比奈真冬”\n养成至50级。",
+                "name": "将特定成员\n养成至50级",
                 "description": "将成员“★3[品尝正宗的烤鱿鱼] 朝比奈真冬”\n养成至50级。",
                 "seq": 4,
                 "panelMissionType": "card_level_up",
@@ -2952,7 +2952,7 @@
               {
                 "id": 5010304,
                 "panelMissionSheetId": 50103,
-                "name": "观看活动“荆棘之路通往何处”的\n活动剧情最后一话。",
+                "name": "观看活动\n“荆棘之路\n通往何处”\n最后一话",
                 "description": "观看活动“荆棘之路通往何处”的\n活动剧情最后一话。",
                 "seq": 6,
                 "panelMissionType": "read_event_story_episode",
@@ -2966,7 +2966,7 @@
               {
                 "id": 5010305,
                 "panelMissionSheetId": 50103,
-                "name": "参加1次“荆棘之路通往何处\n后日谈·演唱会”。",
+                "name": "参加1次\n“荆棘之路通往何处\n后日谈·演唱会”",
                 "description": "参加1次“荆棘之路通往何处\n后日谈·演唱会”。",
                 "seq": 8,
                 "panelMissionType": "join_virtual_live",
@@ -2980,7 +2980,7 @@
               {
                 "id": 5010306,
                 "panelMissionSheetId": 50103,
-                "name": "累计消耗100演出能量。",
+                "name": "累计消耗\n100演出能量",
                 "description": "累计消耗100演出能量。",
                 "seq": 9,
                 "panelMissionType": "consume_boost_count",
@@ -2994,7 +2994,7 @@
               {
                 "id": 5010307,
                 "panelMissionSheetId": 50103,
-                "name": "累计在“荆棘之路通往何处”活动中\n获得70万活动积分。",
+                "name": "累计获得\n70万活动积分",
                 "description": "累计在“荆棘之路通往何处”活动中\n获得70万活动积分。",
                 "seq": 11,
                 "panelMissionType": "collect_event_point",
@@ -3022,7 +3022,7 @@
               {
                 "id": 5010401,
                 "panelMissionSheetId": 50104,
-                "name": "在“多人演出”中累计达成\n10次“SUPER FEVER”。",
+                "name": "达成10次\n“SUPER FEVER”",
                 "description": "在“多人演出”中累计达成\n10次“SUPER FEVER”。",
                 "seq": 1,
                 "panelMissionType": "multi_live_clear_super_fever",
@@ -3036,8 +3036,8 @@
               {
                 "id": 5010402,
                 "panelMissionSheetId": 50104,
-                "name": "使用至少1名Vivid BAD SQUAD歌手成员进行编组\n并进行20次演出。",
-                "description": "使用至少1名Vivid BAD SQUAD歌手成员进行编组\n并进行20次演出。",
+                "name": "使用包含特定组合成员的编组\n进行20次演出",
+                "description": "使用至少1名Vivid BAD SQUAD成员进行编组\n并进行20次演出。",
                 "seq": 2,
                 "panelMissionType": "play_live_with_unit",
                 "requirement1": 20,
@@ -3050,7 +3050,7 @@
               {
                 "id": 5010403,
                 "panelMissionSheetId": 50104,
-                "name": "不使用跳过或快进功能，\n观看4话活动“荆棘之路通往何处”相关的卡牌剧情。",
+                "name": "观看4话\n活动“荆棘之路通往何处”\n相关的卡牌剧情",
                 "description": "不使用跳过或快进功能，\n观看4话活动“荆棘之路通往何处”相关的卡牌剧情。",
                 "seq": 4,
                 "panelMissionType": "read_event_linked_card_episode_without_skip",
@@ -3065,7 +3065,7 @@
               {
                 "id": 5010404,
                 "panelMissionSheetId": 50104,
-                "name": "不使用跳过或快进功能，\n观看活动“荆棘之路通往何处”的全部活动剧情。",
+                "name": "看完活动所有剧情",
                 "description": "不使用跳过或快进功能，\n观看活动“荆棘之路通往何处”的全部活动剧情。",
                 "seq": 6,
                 "panelMissionType": "read_all_event_story_episode_without_skip",
@@ -3080,7 +3080,7 @@
               {
                 "id": 5010405,
                 "panelMissionSheetId": 50104,
-                "name": "在“荆棘之路通往何处后日谈·演唱会”中\n累计获得1500应援积分。",
+                "name": "在“荆棘之路通往何处\n后日谈·演唱会”中\n累计获得\n1500应援积分",
                 "description": "在“荆棘之路通往何处后日谈·演唱会”中\n累计获得1500应援积分。",
                 "seq": 8,
                 "panelMissionType": "collect_virtual_live_cheer_point_in_live",
@@ -3094,7 +3094,7 @@
               {
                 "id": 5010406,
                 "panelMissionSheetId": 50104,
-                "name": "累计消耗300演出能量。",
+                "name": "累计消耗\n300演出能量",
                 "description": "累计消耗300演出能量。",
                 "seq": 9,
                 "panelMissionType": "consume_boost_count",
@@ -3108,7 +3108,7 @@
               {
                 "id": 5010407,
                 "panelMissionSheetId": 50104,
-                "name": "累计在“荆棘之路通往何处”活动中\n获得150万活动积分。",
+                "name": "累计获得\n150万活动积分",
                 "description": "累计在“荆棘之路通往何处”活动中\n获得150万活动积分。",
                 "seq": 11,
                 "panelMissionType": "collect_event_point",
@@ -3145,7 +3145,7 @@
               {
                 "id": 5020101,
                 "panelMissionSheetId": 50201,
-                "name": "累计在“多人演出”中\n获得5次“MVP、SUPER STAR”。",
+                "name": "获得5次\n“MVP、\nSUPER STAR”",
                 "description": "累计在“多人演出”中\n获得5次“MVP、SUPER STAR”。",
                 "seq": 1,
                 "panelMissionType": "multi_live_clear_top_score",
@@ -3159,7 +3159,7 @@
               {
                 "id": 5020102,
                 "panelMissionSheetId": 50201,
-                "name": "在“排位赛”中进行10次演出。",
+                "name": "在排位赛中\n进行10次演出",
                 "description": "在“排位赛”中进行10次演出。",
                 "seq": 2,
                 "panelMissionType": "live_clear_rank_match",
@@ -3173,7 +3173,7 @@
               {
                 "id": 5020103,
                 "panelMissionSheetId": 50201,
-                "name": "在等级27～28的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
+                "name": "在等级27～28的\n歌曲中达成5次\nFULL COMBO",
                 "description": "在等级27～28的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
                 "seq": 3,
                 "panelMissionType": "live_clear_full_combo_in_music_level",
@@ -3187,7 +3187,7 @@
               {
                 "id": 5020104,
                 "panelMissionSheetId": 50201,
-                "name": "在等级29的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
+                "name": "在等级29的\n歌曲中达成5次\nFULL COMBO",
                 "description": "在等级29的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
                 "seq": 4,
                 "panelMissionType": "live_clear_full_combo_in_music_level",
@@ -3201,7 +3201,7 @@
               {
                 "id": 5020105,
                 "panelMissionSheetId": 50201,
-                "name": "完成等级至少为30的歌曲5次。\n（包括APPEND难度）",
+                "name": "完成等级至少为30的\n歌曲5次",
                 "description": "完成等级至少为30的歌曲5次。\n（包括APPEND难度）",
                 "seq": 5,
                 "panelMissionType": "live_clear_in_music_level",
@@ -3215,7 +3215,7 @@
               {
                 "id": 5020106,
                 "panelMissionSheetId": 50201,
-                "name": "在歌曲《热风》的5种难度中达成FULL COMBO。\n（EASY/NORMAL/HARD/EXPERT/MASTER/APPEND难度）",
+                "name": "在歌曲《热风》的\n5种难度中\n达成FULL COMBO",
                 "description": "在歌曲《热风》的5种难度中达成FULL COMBO。\n（EASY/NORMAL/HARD/EXPERT/MASTER/APPEND难度）",
                 "seq": 6,
                 "panelMissionType": "live_clear_full_combo_all_difficulty_in_music",
@@ -3230,7 +3230,7 @@
               {
                 "id": 5020107,
                 "panelMissionSheetId": 50201,
-                "name": "以ALL PERFECT完成\nEXPERT、MASTER、APPEND中任意一种难度的歌曲5次。",
+                "name": "以AP完成\nEXPERT或以上难度\n5次",
                 "description": "以ALL PERFECT完成\nEXPERT、MASTER、APPEND中任意一种难度的歌曲5次。",
                 "seq": 7,
                 "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
@@ -3258,7 +3258,7 @@
               {
                 "id": 5020201,
                 "panelMissionSheetId": 50202,
-                "name": "累计在“多人演出”中获得10次“MVP、SUPER STAR”。",
+                "name": "获得10次\n“MVP、\nSUPER STAR”",
                 "description": "累计在“多人演出”中获得10次“MVP、SUPER STAR”。",
                 "seq": 1,
                 "panelMissionType": "multi_live_clear_top_score",
@@ -3272,7 +3272,7 @@
               {
                 "id": 5020202,
                 "panelMissionSheetId": 50202,
-                "name": "在“排位赛”中进行20次演出。",
+                "name": "在排位赛中\n进行20次演出",
                 "description": "在“排位赛”中进行20次演出。",
                 "seq": 2,
                 "panelMissionType": "live_clear_rank_match",
@@ -3286,7 +3286,7 @@
               {
                 "id": 5020203,
                 "panelMissionSheetId": 50202,
-                "name": "在等级30～31的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
+                "name": "在等级30～31的\n歌曲中达成5次\nFULL COMBO",
                 "description": "在等级30～31的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
                 "seq": 3,
                 "panelMissionType": "live_clear_full_combo_in_music_level",
@@ -3300,7 +3300,7 @@
               {
                 "id": 5020204,
                 "panelMissionSheetId": 50202,
-                "name": "在等级32的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
+                "name": "在等级32的\n歌曲中达成5次\nFULL COMBO",
                 "description": "在等级32的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
                 "seq": 4,
                 "panelMissionType": "live_clear_full_combo_in_music_level",
@@ -3314,7 +3314,7 @@
               {
                 "id": 5020205,
                 "panelMissionSheetId": 50202,
-                "name": "完成等级至少为33的歌曲5次。\n（包括APPEND难度）",
+                "name": "完成等级至少为33的\n歌曲5次",
                 "description": "完成等级至少为33的歌曲5次。\n（包括APPEND难度）",
                 "seq": 5,
                 "panelMissionType": "live_clear_in_music_level",
@@ -3328,7 +3328,7 @@
               {
                 "id": 5020206,
                 "panelMissionSheetId": 50202,
-                "name": "在歌曲《热风》的5种难度中达成ALL PERFECT。\n（EASY/NORMAL/HARD/EXPERT/MASTER/APPEND难度）",
+                "name": "在歌曲《热风》的\n5种难度中\n达成AP",
                 "description": "在歌曲《热风》的5种难度中达成ALL PERFECT。\n（EASY/NORMAL/HARD/EXPERT/MASTER/APPEND难度）",
                 "seq": 6,
                 "panelMissionType": "live_clear_all_perfect_all_difficulty_in_music",
@@ -3343,7 +3343,7 @@
               {
                 "id": 5020207,
                 "panelMissionSheetId": 50202,
-                "name": "以ALL PERFECT完成MASTER难度的歌曲3次。",
+                "name": "以AP完成\nMASTER难度3次",
                 "description": "以ALL PERFECT完成MASTER难度的歌曲3次。",
                 "seq": 7,
                 "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
@@ -3371,7 +3371,7 @@
               {
                 "id": 5020301,
                 "panelMissionSheetId": 50203,
-                "name": "累计在“多人演出”中获得5次“MVP、SUPER STAR”。",
+                "name": "获得5次\n“MVP、\nSUPER STAR”",
                 "description": "累计在“多人演出”中获得5次“MVP、SUPER STAR”。",
                 "seq": 1,
                 "panelMissionType": "multi_live_clear_top_score",
@@ -3385,7 +3385,7 @@
               {
                 "id": 5020302,
                 "panelMissionSheetId": 50203,
-                "name": "在“排位赛”中进行10次演出。",
+                "name": "在排位赛中\n进行10次演出",
                 "description": "在“排位赛”中进行10次演出。",
                 "seq": 2,
                 "panelMissionType": "live_clear_rank_match",
@@ -3399,7 +3399,7 @@
               {
                 "id": 5020303,
                 "panelMissionSheetId": 50203,
-                "name": "在等级27～28的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
+                "name": "在等级27～28的\n歌曲中达成5次\nFULL COMBO",
                 "description": "在等级27～28的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
                 "seq": 3,
                 "panelMissionType": "live_clear_full_combo_in_music_level",
@@ -3413,7 +3413,7 @@
               {
                 "id": 5020304,
                 "panelMissionSheetId": 50203,
-                "name": "在等级29的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
+                "name": "在等级29的\n歌曲中达成5次\nFULL COMBO",
                 "description": "在等级29的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
                 "seq": 4,
                 "panelMissionType": "live_clear_full_combo_in_music_level",
@@ -3427,7 +3427,7 @@
               {
                 "id": 5020305,
                 "panelMissionSheetId": 50203,
-                "name": "完成等级至少为30的歌曲5次。\n（包括APPEND难度）",
+                "name": "完成等级至少为30的\n歌曲5次",
                 "description": "完成等级至少为30的歌曲5次。\n（包括APPEND难度）",
                 "seq": 5,
                 "panelMissionType": "live_clear_in_music_level",
@@ -3441,7 +3441,7 @@
               {
                 "id": 5020306,
                 "panelMissionSheetId": 50203,
-                "name": "在歌曲《热风》的5种难度中达成FULL COMBO。\n（EASY/NORMAL/HARD/EXPERT/MASTER/APPEND难度）",
+                "name": "在歌曲《热风》的\n5种难度中\n达成FULL COMBO",
                 "description": "在歌曲《热风》的5种难度中达成FULL COMBO。\n（EASY/NORMAL/HARD/EXPERT/MASTER/APPEND难度）",
                 "seq": 6,
                 "panelMissionType": "live_clear_full_combo_all_difficulty_in_music",
@@ -3456,7 +3456,7 @@
               {
                 "id": 5020307,
                 "panelMissionSheetId": 50203,
-                "name": "以ALL PERFECT完成\nEXPERT、MASTER、APPEND中任意一种难度的歌曲5次。",
+                "name": "以AP完成\nEXPERT或以上难度\n5次",
                 "description": "以ALL PERFECT完成\nEXPERT、MASTER、APPEND中任意一种难度的歌曲5次。",
                 "seq": 7,
                 "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
@@ -3484,7 +3484,7 @@
               {
                 "id": 5020401,
                 "panelMissionSheetId": 50204,
-                "name": "累计在“多人演出”中获得10次“MVP、SUPER STAR”。",
+                "name": "获得10次\n“MVP、\nSUPER STAR”",
                 "description": "累计在“多人演出”中获得10次“MVP、SUPER STAR”。",
                 "seq": 1,
                 "panelMissionType": "multi_live_clear_top_score",
@@ -3498,7 +3498,7 @@
               {
                 "id": 5020402,
                 "panelMissionSheetId": 50204,
-                "name": "在“排位赛”中进行20次演出。",
+                "name": "在排位赛中\n进行20次演出",
                 "description": "在“排位赛”中进行20次演出。",
                 "seq": 2,
                 "panelMissionType": "live_clear_rank_match",
@@ -3512,7 +3512,7 @@
               {
                 "id": 5020403,
                 "panelMissionSheetId": 50204,
-                "name": "在等级30～31的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
+                "name": "在等级30～31的\n歌曲中达成5次\nFULL COMBO",
                 "description": "在等级30～31的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
                 "seq": 3,
                 "panelMissionType": "live_clear_full_combo_in_music_level",
@@ -3526,7 +3526,7 @@
               {
                 "id": 5020404,
                 "panelMissionSheetId": 50204,
-                "name": "在等级32的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
+                "name": "在等级32的\n歌曲中达成5次\nFULL COMBO",
                 "description": "在等级32的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
                 "seq": 4,
                 "panelMissionType": "live_clear_full_combo_in_music_level",
@@ -3540,7 +3540,7 @@
               {
                 "id": 5020405,
                 "panelMissionSheetId": 50204,
-                "name": "完成等级至少为33的歌曲5次。\n（包括APPEND难度）",
+                "name": "完成等级至少为33的\n歌曲5次",
                 "description": "完成等级至少为33的歌曲5次。\n（包括APPEND难度）",
                 "seq": 5,
                 "panelMissionType": "live_clear_in_music_level",
@@ -3554,7 +3554,7 @@
               {
                 "id": 5020406,
                 "panelMissionSheetId": 50204,
-                "name": "在歌曲《热风》的5种难度中达成ALL PERFECT。\n（EASY/NORMAL/HARD/EXPERT/MASTER/APPEND难度）",
+                "name": "在歌曲《热风》的\n5种难度中\n达成AP",
                 "description": "在歌曲《热风》的5种难度中达成ALL PERFECT。\n（EASY/NORMAL/HARD/EXPERT/MASTER/APPEND难度）",
                 "seq": 6,
                 "panelMissionType": "live_clear_all_perfect_all_difficulty_in_music",
@@ -3569,7 +3569,7 @@
               {
                 "id": 5020407,
                 "panelMissionSheetId": 50204,
-                "name": "以ALL PERFECT完成MASTER难度的歌曲3次。",
+                "name": "以AP完成\nMASTER难度3次",
                 "description": "以ALL PERFECT完成MASTER难度的歌曲3次。",
                 "seq": 7,
                 "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
@@ -3606,7 +3606,7 @@
               {
                 "id": 5030101,
                 "panelMissionSheetId": 50301,
-                "name": "完成5次歌曲《热风》。",
+                "name": "完成5次\n《热风》",
                 "description": "完成5次歌曲《热风》。",
                 "seq": 1,
                 "panelMissionType": "live_clear_in_music",
@@ -3620,7 +3620,7 @@
               {
                 "id": 5030102,
                 "panelMissionSheetId": 50301,
-                "name": "使用歌曲选择画面的\n“MORE MORE JUMP！选项卡”中的歌曲进行10次演出。",
+                "name": "选择特定组合歌曲\n进行10次演出",
                 "description": "使用歌曲选择界面的\n“MORE MORE JUMP！选项卡”中的歌曲进行10次演出。",
                 "seq": 2,
                 "panelMissionType": "unit_live_clear_music",
@@ -3634,7 +3634,7 @@
               {
                 "id": 5030103,
                 "panelMissionSheetId": 50301,
-                "name": "完成10首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "name": "完成\n10首不同的歌曲",
                 "description": "完成10种歌曲。\n*自动演出也纳入计算范围。",
                 "seq": 3,
                 "panelMissionType": "live_clear_with_different_music",
@@ -3649,7 +3649,7 @@
               {
                 "id": 5030104,
                 "panelMissionSheetId": 50301,
-                "name": "完成10次多人演出。",
+                "name": "完成10次\n多人演出",
                 "description": "完成10次多人演出。",
                 "seq": 4,
                 "panelMissionType": "multi_live_clear",
@@ -3663,7 +3663,7 @@
               {
                 "id": 5030105,
                 "panelMissionSheetId": 50301,
-                "name": "累计完成50次演出。\n*自动演出也纳入计算范围。",
+                "name": "累计完成\n50次演出",
                 "description": "累计完成50次演出。\n*自动演出也纳入计算范围。",
                 "seq": 5,
                 "panelMissionType": "live_clear",
@@ -3677,7 +3677,7 @@
               {
                 "id": 5030106,
                 "panelMissionSheetId": 50301,
-                "name": "使用2DMV、原曲MV模式完成5次演出。",
+                "name": "使用2DMV、\n原曲MV模式\n完成5次演出",
                 "description": "使用2DMV、原曲MV模式完成5次演出。",
                 "seq": 6,
                 "panelMissionType": "live_clear_with_mv_2d_or_original",
@@ -3691,7 +3691,7 @@
               {
                 "id": 5030107,
                 "panelMissionSheetId": 50301,
-                "name": "使用3DMV模式完成5次演出。",
+                "name": "使用3DMV模式\n完成5次演出",
                 "description": "使用3DMV模式完成5次演出。",
                 "seq": 7,
                 "panelMissionType": "live_clear_with_mv_3d",
@@ -3719,7 +3719,7 @@
               {
                 "id": 5030201,
                 "panelMissionSheetId": 50302,
-                "name": "完成10次歌曲《热风》。",
+                "name": "完成10次\n《热风》",
                 "description": "完成10次歌曲《热风》。",
                 "seq": 1,
                 "panelMissionType": "live_clear_in_music",
@@ -3733,7 +3733,7 @@
               {
                 "id": 5030202,
                 "panelMissionSheetId": 50302,
-                "name": "使用歌曲选择界面的\n“MORE MORE JUMP！选项卡”中的歌曲进行15次演出。",
+                "name": "选择特定组合歌曲\n进行15次演出",
                 "description": "使用歌曲选择界面的\n“MORE MORE JUMP！选项卡”中的歌曲进行15次演出。",
                 "seq": 2,
                 "panelMissionType": "unit_live_clear_music",
@@ -3747,7 +3747,7 @@
               {
                 "id": 5030203,
                 "panelMissionSheetId": 50302,
-                "name": "完成15首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "name": "完成\n15首不同的歌曲",
                 "description": "完成15种歌曲。\n*自动演出也纳入计算范围。",
                 "seq": 3,
                 "panelMissionType": "live_clear_with_different_music",
@@ -3762,7 +3762,7 @@
               {
                 "id": 5030204,
                 "panelMissionSheetId": 50302,
-                "name": "完成15次“多人演出”。",
+                "name": "完成15次\n多人演出",
                 "description": "完成15次“多人演出”。",
                 "seq": 4,
                 "panelMissionType": "multi_live_clear",
@@ -3776,7 +3776,7 @@
               {
                 "id": 5030205,
                 "panelMissionSheetId": 50302,
-                "name": "累计完成100次演出。\n*自动演出也纳入计算范围。",
+                "name": "累计完成\n100次演出",
                 "description": "累计完成100次演出。\n*自动演出也纳入计算范围。",
                 "seq": 5,
                 "panelMissionType": "live_clear",
@@ -3790,7 +3790,7 @@
               {
                 "id": 5030206,
                 "panelMissionSheetId": 50302,
-                "name": "累计在演出中获得20000次PERFECT判定。",
+                "name": "累计获得20000次\nPERFECT判定",
                 "description": "累计在演出中获得20000次PERFECT判定。",
                 "seq": 6,
                 "panelMissionType": "get_live_perfect",
@@ -3804,7 +3804,7 @@
               {
                 "id": 5030207,
                 "panelMissionSheetId": 50302,
-                "name": "在歌曲中达成15次FULL COMBO。",
+                "name": "在歌曲中完成15次\nFULL COMBO",
                 "description": "在歌曲中达成15次FULL COMBO。",
                 "seq": 7,
                 "panelMissionType": "live_clear_full_combo",
@@ -3832,7 +3832,7 @@
               {
                 "id": 5030301,
                 "panelMissionSheetId": 50303,
-                "name": "完成5次歌曲《热风》。",
+                "name": "完成5次\n《热风》",
                 "description": "完成5次歌曲《热风》。",
                 "seq": 1,
                 "panelMissionType": "live_clear_in_music",
@@ -3846,7 +3846,7 @@
               {
                 "id": 5030302,
                 "panelMissionSheetId": 50303,
-                "name": "使用歌曲选择界面的\n“Vivid BAD SQUAD选项卡”中的歌曲进行10次演出。",
+                "name": "选择特定组合歌曲\n进行10次演出",
                 "description": "使用歌曲选择界面的\n“Vivid BAD SQUAD选项卡”中的歌曲进行10次演出。",
                 "seq": 2,
                 "panelMissionType": "unit_live_clear_music",
@@ -3860,7 +3860,7 @@
               {
                 "id": 5030303,
                 "panelMissionSheetId": 50303,
-                "name": "完成10首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "name": "完成\n10首不同的歌曲",
                 "description": "完成10种歌曲。\n*自动演出也纳入计算范围。",
                 "seq": 3,
                 "panelMissionType": "live_clear_with_different_music",
@@ -3875,7 +3875,7 @@
               {
                 "id": 5030304,
                 "panelMissionSheetId": 50303,
-                "name": "完成10次多人演出。",
+                "name": "完成10次\n多人演出",
                 "description": "完成10次多人演出。",
                 "seq": 4,
                 "panelMissionType": "multi_live_clear",
@@ -3889,7 +3889,7 @@
               {
                 "id": 5030305,
                 "panelMissionSheetId": 50303,
-                "name": "累计完成50次演出。\n*自动演出也纳入计算范围。",
+                "name": "累计完成\n50次演出",
                 "description": "累计完成50次演出。\n*自动演出也纳入计算范围。",
                 "seq": 5,
                 "panelMissionType": "live_clear",
@@ -3903,7 +3903,7 @@
               {
                 "id": 5030306,
                 "panelMissionSheetId": 50303,
-                "name": "使用2DMV、原曲MV模式完成5次演出。",
+                "name": "使用2DMV、\n原曲MV模式\n完成5次演出",
                 "description": "使用2DMV、原曲MV模式完成5次演出。",
                 "seq": 6,
                 "panelMissionType": "live_clear_with_mv_2d_or_original",
@@ -3917,7 +3917,7 @@
               {
                 "id": 5030307,
                 "panelMissionSheetId": 50303,
-                "name": "使用3DMV模式完成5次演出。",
+                "name": "使用3DMV模式\n完成5次演出",
                 "description": "使用3DMV模式完成5次演出。",
                 "seq": 7,
                 "panelMissionType": "live_clear_with_mv_3d",
@@ -3945,7 +3945,7 @@
               {
                 "id": 5030401,
                 "panelMissionSheetId": 50304,
-                "name": "完成10次歌曲《热风》。",
+                "name": "完成10次\n《热风》",
                 "description": "完成10次歌曲《热风》。",
                 "seq": 1,
                 "panelMissionType": "live_clear_in_music",
@@ -3959,7 +3959,7 @@
               {
                 "id": 5030402,
                 "panelMissionSheetId": 50304,
-                "name": "使用歌曲选择界面的\n“Vivid BAD SQUAD选项卡”中的歌曲进行15次演出。",
+                "name": "选择特定组合歌曲\n进行15次演出",
                 "description": "使用歌曲选择界面的\n“Vivid BAD SQUAD选项卡”中的歌曲进行15次演出。",
                 "seq": 2,
                 "panelMissionType": "unit_live_clear_music",
@@ -3973,7 +3973,7 @@
               {
                 "id": 5030403,
                 "panelMissionSheetId": 50304,
-                "name": "完成15首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "name": "完成\n15首不同的歌曲",
                 "description": "完成15种歌曲。\n*自动演出也纳入计算范围。",
                 "seq": 3,
                 "panelMissionType": "live_clear_with_different_music",
@@ -3988,7 +3988,7 @@
               {
                 "id": 5030404,
                 "panelMissionSheetId": 50304,
-                "name": "完成15次“多人演出”。",
+                "name": "完成15次\n多人演出",
                 "description": "完成15次“多人演出”。",
                 "seq": 4,
                 "panelMissionType": "multi_live_clear",
@@ -4002,7 +4002,7 @@
               {
                 "id": 5030405,
                 "panelMissionSheetId": 50304,
-                "name": "累计完成100次演出。\n*自动演出也纳入计算范围。",
+                "name": "累计完成\n100次演出",
                 "description": "累计完成100次演出。\n*自动演出也纳入计算范围。",
                 "seq": 5,
                 "panelMissionType": "live_clear",
@@ -4016,7 +4016,7 @@
               {
                 "id": 5030406,
                 "panelMissionSheetId": 50304,
-                "name": "累计在演出中获得20000次PERFECT判定。",
+                "name": "累计获得20000次\nPERFECT判定",
                 "description": "累计在演出中获得20000次PERFECT判定。",
                 "seq": 6,
                 "panelMissionType": "get_live_perfect",
@@ -4030,7 +4030,7 @@
               {
                 "id": 5030407,
                 "panelMissionSheetId": 50304,
-                "name": "在歌曲中达成15次FULL COMBO。",
+                "name": "在歌曲中完成15次\nFULL COMBO",
                 "description": "在歌曲中达成15次FULL COMBO。",
                 "seq": 7,
                 "panelMissionType": "live_clear_full_combo",
@@ -4070,9 +4070,8 @@
                 "name": "累计消耗 \n5演出能量",
                 "description": "累计消耗5演出能量。",
                 "seq": 1,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 1,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 5,
                 "rewards": [
                   [
                     1608
@@ -4085,9 +4084,8 @@
                 "name": "累计消耗\n10演出能量",
                 "description": "累计消耗10演出能量。",
                 "seq": 2,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 3,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 10,
                 "rewards": [
                   [
                     1608
@@ -4100,9 +4098,8 @@
                 "name": "累计消耗\n15演出能量",
                 "description": "累计消耗15演出能量。",
                 "seq": 3,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 5,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 15,
                 "rewards": [
                   [
                     1608
@@ -4115,9 +4112,8 @@
                 "name": "累计消耗\n20演出能量",
                 "description": "累计消耗20演出能量。",
                 "seq": 4,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 7,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 20,
                 "rewards": [
                   [
                     1608
@@ -4130,9 +4126,8 @@
                 "name": "累计消耗\n30演出能量",
                 "description": "累计消耗30演出能量。",
                 "seq": 5,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 9,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 30,
                 "rewards": [
                   [
                     1608
@@ -4145,9 +4140,8 @@
                 "name": "累计消耗\n40演出能量",
                 "description": "累计消耗40演出能量。",
                 "seq": 6,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 12,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 40,
                 "rewards": [
                   [
                     1609
@@ -4160,9 +4154,8 @@
                 "name": "累计消耗\n50演出能量",
                 "description": "累计消耗50演出能量。",
                 "seq": 7,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 15,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 50,
                 "rewards": [
                   [
                     1610
@@ -4189,9 +4182,8 @@
                 "name": "累计消耗\n10演出能量",
                 "description": "累计消耗10演出能量。",
                 "seq": 1,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 1,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 10,
                 "rewards": [
                   [
                     1609
@@ -4204,9 +4196,8 @@
                 "name": "累计消耗\n20演出能量",
                 "description": "累计消耗20演出能量。",
                 "seq": 2,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 5,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 20,
                 "rewards": [
                   [
                     1610
@@ -4219,9 +4210,8 @@
                 "name": "累计消耗\n30演出能量",
                 "description": "累计消耗30演出能量。",
                 "seq": 3,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 10,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 30,
                 "rewards": [
                   [
                     1610
@@ -4234,9 +4224,8 @@
                 "name": "累计消耗\n40演出能量",
                 "description": "累计消耗40演出能量。",
                 "seq": 4,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 15,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 40,
                 "rewards": [
                   [
                     1610
@@ -4249,9 +4238,8 @@
                 "name": "累计消耗\n60演出能量",
                 "description": "累计消耗60演出能量。",
                 "seq": 5,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 20,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 60,
                 "rewards": [
                   [
                     1610
@@ -4264,9 +4252,8 @@
                 "name": "累计消耗\n80演出能量",
                 "description": "累计消耗80演出能量。",
                 "seq": 6,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 25,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 80,
                 "rewards": [
                   [
                     1610
@@ -4279,9 +4266,8 @@
                 "name": "累计消耗\n100演出能量",
                 "description": "累计消耗100演出能量。",
                 "seq": 7,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 30,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 100,
                 "rewards": [
                   [
                     1610
@@ -4308,9 +4294,8 @@
                 "name": "累计消耗\n5演出能量",
                 "description": "累计消耗5演出能量。",
                 "seq": 1,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 1,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 5,
                 "rewards": [
                   [
                     1621
@@ -4323,9 +4308,8 @@
                 "name": "累计消耗\n10演出能量",
                 "description": "累计消耗10演出能量。",
                 "seq": 2,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 3,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 10,
                 "rewards": [
                   [
                     1621
@@ -4338,9 +4322,8 @@
                 "name": "累计消耗\n15演出能量",
                 "description": "累计消耗15演出能量。",
                 "seq": 3,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 5,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 15,
                 "rewards": [
                   [
                     1621
@@ -4353,9 +4336,8 @@
                 "name": "累计消耗\n20演出能量",
                 "description": "累计消耗20演出能量。",
                 "seq": 4,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 7,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 20,
                 "rewards": [
                   [
                     1621
@@ -4368,9 +4350,8 @@
                 "name": "累计消耗\n30演出能量",
                 "description": "累计消耗30演出能量。",
                 "seq": 5,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 9,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 30,
                 "rewards": [
                   [
                     1621
@@ -4383,9 +4364,8 @@
                 "name": "累计消耗\n40演出能量",
                 "description": "累计消耗40演出能量。",
                 "seq": 6,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 12,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 40,
                 "rewards": [
                   [
                     1622
@@ -4398,9 +4378,8 @@
                 "name": "累计消耗\n50演出能量",
                 "description": "累计消耗50演出能量。",
                 "seq": 7,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 15,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 50,
                 "rewards": [
                   [
                     1623
@@ -4427,9 +4406,8 @@
                 "name": "累计消耗\n10演出能量",
                 "description": "累计消耗10演出能量。",
                 "seq": 1,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 1,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 10,
                 "rewards": [
                   [
                     1622
@@ -4442,9 +4420,8 @@
                 "name": "累计消耗\n20演出能量",
                 "description": "累计消耗20演出能量。",
                 "seq": 2,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 5,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 20,
                 "rewards": [
                   [
                     1623
@@ -4457,9 +4434,8 @@
                 "name": "累计消耗\n30演出能量",
                 "description": "累计消耗30演出能量。",
                 "seq": 3,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 10,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 30,
                 "rewards": [
                   [
                     1623
@@ -4472,9 +4448,8 @@
                 "name": "累计消耗\n40演出能量",
                 "description": "累计消耗40演出能量。",
                 "seq": 4,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 15,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 40,
                 "rewards": [
                   [
                     1623
@@ -4487,9 +4462,8 @@
                 "name": "累计消耗\n60演出能量",
                 "description": "累计消耗60演出能量。",
                 "seq": 5,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 20,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 60,
                 "rewards": [
                   [
                     1623
@@ -4502,9 +4476,8 @@
                 "name": "累计消耗\n80演出能量",
                 "description": "累计消耗80演出能量。",
                 "seq": 6,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 25,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 80,
                 "rewards": [
                   [
                     1623
@@ -4517,9 +4490,8 @@
                 "name": "累计消耗\n100演出能量",
                 "description": "累计消耗100演出能量。",
                 "seq": 7,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 30,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 100,
                 "rewards": [
                   [
                     1623
@@ -4552,7 +4524,7 @@
               {
                 "id": 5050101,
                 "panelMissionSheetId": 50501,
-                "name": "累计登录1天。",
+                "name": "累计登录\n1天",
                 "description": "累计登录1天。",
                 "seq": 1,
                 "panelMissionType": "login",
@@ -4566,7 +4538,7 @@
               {
                 "id": 5050102,
                 "panelMissionSheetId": 50501,
-                "name": "累计登录2天。",
+                "name": "累计登录\n2天",
                 "description": "累计登录2天。",
                 "seq": 2,
                 "panelMissionType": "login",
@@ -4580,7 +4552,7 @@
               {
                 "id": 5050103,
                 "panelMissionSheetId": 50501,
-                "name": "累计登录3天。",
+                "name": "累计登录\n3天",
                 "description": "累计登录3天。",
                 "seq": 3,
                 "panelMissionType": "login",
@@ -4594,7 +4566,7 @@
               {
                 "id": 5050104,
                 "panelMissionSheetId": 50501,
-                "name": "累计登录4天。",
+                "name": "累计登录\n4天",
                 "description": "累计登录4天。",
                 "seq": 4,
                 "panelMissionType": "login",
@@ -4608,7 +4580,7 @@
               {
                 "id": 5050105,
                 "panelMissionSheetId": 50501,
-                "name": "累计登录5天。",
+                "name": "累计登录\n5天",
                 "description": "累计登录5天。",
                 "seq": 5,
                 "panelMissionType": "login",
@@ -4622,7 +4594,7 @@
               {
                 "id": 5050106,
                 "panelMissionSheetId": 50501,
-                "name": "累计登录6天。",
+                "name": "累计登录\n6天",
                 "description": "累计登录6天。",
                 "seq": 6,
                 "panelMissionType": "login",
@@ -4636,7 +4608,7 @@
               {
                 "id": 5050107,
                 "panelMissionSheetId": 50501,
-                "name": "累计登录7天。",
+                "name": "累计登录\n7天",
                 "description": "累计登录7天。",
                 "seq": 7,
                 "panelMissionType": "login",
@@ -4664,7 +4636,7 @@
               {
                 "id": 5050201,
                 "panelMissionSheetId": 50502,
-                "name": "累计登录1天。",
+                "name": "累计登录\n1天",
                 "description": "累计登录1天。",
                 "seq": 1,
                 "panelMissionType": "login",
@@ -4678,7 +4650,7 @@
               {
                 "id": 5050202,
                 "panelMissionSheetId": 50502,
-                "name": "累计登录2天。",
+                "name": "累计登录\n2天",
                 "description": "累计登录2天。",
                 "seq": 2,
                 "panelMissionType": "login",
@@ -4692,7 +4664,7 @@
               {
                 "id": 5050203,
                 "panelMissionSheetId": 50502,
-                "name": "累计登录3天。",
+                "name": "累计登录\n3天",
                 "description": "累计登录3天。",
                 "seq": 3,
                 "panelMissionType": "login",
@@ -4706,7 +4678,7 @@
               {
                 "id": 5050204,
                 "panelMissionSheetId": 50502,
-                "name": "累计登录4天。",
+                "name": "累计登录\n4天",
                 "description": "累计登录4天。",
                 "seq": 4,
                 "panelMissionType": "login",
@@ -4720,7 +4692,7 @@
               {
                 "id": 5050205,
                 "panelMissionSheetId": 50502,
-                "name": "累计登录5天。",
+                "name": "累计登录\n5天",
                 "description": "累计登录5天。",
                 "seq": 5,
                 "panelMissionType": "login",
@@ -4734,7 +4706,7 @@
               {
                 "id": 5050206,
                 "panelMissionSheetId": 50502,
-                "name": "累计登录7天。",
+                "name": "累计登录\n7天",
                 "description": "累计登录7天。",
                 "seq": 6,
                 "panelMissionType": "login",
@@ -4748,7 +4720,7 @@
               {
                 "id": 5050207,
                 "panelMissionSheetId": 50502,
-                "name": "累计登录9天。",
+                "name": "累计登录\n9天",
                 "description": "累计登录9天。",
                 "seq": 8,
                 "panelMissionType": "login",
@@ -4776,7 +4748,7 @@
               {
                 "id": 5050301,
                 "panelMissionSheetId": 50503,
-                "name": "累计登录1天。",
+                "name": "累计登录\n1天",
                 "description": "累计登录1天。",
                 "seq": 1,
                 "panelMissionType": "login",
@@ -4790,7 +4762,7 @@
               {
                 "id": 5050302,
                 "panelMissionSheetId": 50503,
-                "name": "累计登录2天。",
+                "name": "累计登录\n2天",
                 "description": "累计登录2天。",
                 "seq": 2,
                 "panelMissionType": "login",
@@ -4804,7 +4776,7 @@
               {
                 "id": 5050303,
                 "panelMissionSheetId": 50503,
-                "name": "累计登录3天。",
+                "name": "累计登录\n3天",
                 "description": "累计登录3天。",
                 "seq": 3,
                 "panelMissionType": "login",
@@ -4818,7 +4790,7 @@
               {
                 "id": 5050304,
                 "panelMissionSheetId": 50503,
-                "name": "累计登录4天。",
+                "name": "累计登录\n4天",
                 "description": "累计登录4天。",
                 "seq": 4,
                 "panelMissionType": "login",
@@ -4832,7 +4804,7 @@
               {
                 "id": 5050305,
                 "panelMissionSheetId": 50503,
-                "name": "累计登录5天。",
+                "name": "累计登录\n5天",
                 "description": "累计登录5天。",
                 "seq": 5,
                 "panelMissionType": "login",
@@ -4846,7 +4818,7 @@
               {
                 "id": 5050306,
                 "panelMissionSheetId": 50503,
-                "name": "累计登录6天。",
+                "name": "累计登录\n6天",
                 "description": "累计登录6天。",
                 "seq": 6,
                 "panelMissionType": "login",
@@ -4860,7 +4832,7 @@
               {
                 "id": 5050307,
                 "panelMissionSheetId": 50503,
-                "name": "累计登录7天。",
+                "name": "累计登录\n7天",
                 "description": "累计登录7天。",
                 "seq": 7,
                 "panelMissionType": "login",
@@ -4888,7 +4860,7 @@
               {
                 "id": 5050401,
                 "panelMissionSheetId": 50504,
-                "name": "累计登录1天。",
+                "name": "累计登录\n1天",
                 "description": "累计登录1天。",
                 "seq": 1,
                 "panelMissionType": "login",
@@ -4902,7 +4874,7 @@
               {
                 "id": 5050402,
                 "panelMissionSheetId": 50504,
-                "name": "累计登录2天。",
+                "name": "累计登录\n2天",
                 "description": "累计登录2天。",
                 "seq": 2,
                 "panelMissionType": "login",
@@ -4916,7 +4888,7 @@
               {
                 "id": 5050403,
                 "panelMissionSheetId": 50504,
-                "name": "累计登录3天。",
+                "name": "累计登录\n3天",
                 "description": "累计登录3天。",
                 "seq": 3,
                 "panelMissionType": "login",
@@ -4930,7 +4902,7 @@
               {
                 "id": 5050404,
                 "panelMissionSheetId": 50504,
-                "name": "累计登录4天。",
+                "name": "累计登录\n4天",
                 "description": "累计登录4天。",
                 "seq": 4,
                 "panelMissionType": "login",
@@ -4944,7 +4916,7 @@
               {
                 "id": 5050405,
                 "panelMissionSheetId": 50504,
-                "name": "累计登录5天。",
+                "name": "累计登录\n5天",
                 "description": "累计登录5天。",
                 "seq": 5,
                 "panelMissionType": "login",
@@ -4958,7 +4930,7 @@
               {
                 "id": 5050406,
                 "panelMissionSheetId": 50504,
-                "name": "累计登录7天。",
+                "name": "累计登录\n7天",
                 "description": "累计登录7天。",
                 "seq": 6,
                 "panelMissionType": "login",
@@ -4972,7 +4944,7 @@
               {
                 "id": 5050407,
                 "panelMissionSheetId": 50504,
-                "name": "累计登录9天。",
+                "name": "累计登录\n9天",
                 "description": "累计登录9天。",
                 "seq": 8,
                 "panelMissionType": "login",
@@ -4996,15 +4968,15 @@
   },
   {
     "id": 6,
-    "name": "4周年纪念印章任务 CHEER",
+    "name": "半周年纪念印章任务 CHEER",
     "assetbundleName": "4th_anniv_pm_cheer",
     "bgmAssetbundleName": "4th_anniv_pm_cheer_bgm",
     "selectableLimit": 3,
-    "startAt": 1761040800000,
+    "startAt": 1761030000000,
     "progressEndAt": 1761893999000,
     "closedAt": 1761893999000,
     "distributionEndAt": 1763103599000,
-    "informationId": 10286,
+    "informationId": 10343,
     "panelMissionSheetGroups": [
       {
         "id": 601,
@@ -5023,7 +4995,7 @@
               {
                 "id": 6010101,
                 "panelMissionSheetId": 60101,
-                "name": "在“多人演出”中累计达成\n5次“SUPER FEVER”。",
+                "name": "达成5次\n“SUPER FEVER”",
                 "description": "在“多人演出”中累计达成\n5次“SUPER FEVER”。",
                 "seq": 1,
                 "panelMissionType": "multi_live_clear_super_fever",
@@ -5037,7 +5009,7 @@
               {
                 "id": 6010102,
                 "panelMissionSheetId": 60101,
-                "name": "使用至少1名Wonderlands×Showtime成员进行编组\n并进行10次演出。",
+                "name": "使用包含特定组合成员的编组\n进行10次演出",
                 "description": "使用至少1名Wonderlands×Showtime成员进行编组\n并进行10次演出。",
                 "seq": 2,
                 "panelMissionType": "play_live_with_unit",
@@ -5051,7 +5023,7 @@
               {
                 "id": 6010103,
                 "panelMissionSheetId": 60101,
-                "name": "将成员★3[对追求“热情”的你] KAITO\n养成至50级。",
+                "name": "将特定成员\n养成至50级",
                 "description": "将成员★3[对追求“热情”的你] KAITO\n养成至50级。",
                 "seq": 4,
                 "panelMissionType": "card_level_up",
@@ -5065,7 +5037,7 @@
               {
                 "id": 6010104,
                 "panelMissionSheetId": 60101,
-                "name": "观看活动“Rekindle the flame”的\n活动剧情最后一话。",
+                "name": "观看活动\n“Rekindle\n the flame”\n最后一话",
                 "description": "观看活动“Rekindle the flame”的\n活动剧情最后一话。",
                 "seq": 6,
                 "panelMissionType": "read_event_story_episode",
@@ -5079,7 +5051,7 @@
               {
                 "id": 6010105,
                 "panelMissionSheetId": 60101,
-                "name": "参加1次\n“Rekindle the flame 后日谈·演唱会”。",
+                "name": "参加1次\n“Rekindle\n the flame\n后日谈·演唱会”",
                 "description": "参加1次\n“Rekindle the flame 后日谈·演唱会”。",
                 "seq": 8,
                 "panelMissionType": "join_virtual_live",
@@ -5093,7 +5065,7 @@
               {
                 "id": 6010106,
                 "panelMissionSheetId": 60101,
-                "name": "累计消耗100演出能量。",
+                "name": "累计消耗\n100演出能量",
                 "description": "累计消耗100演出能量。",
                 "seq": 9,
                 "panelMissionType": "consume_boost_count",
@@ -5107,7 +5079,7 @@
               {
                 "id": 6010107,
                 "panelMissionSheetId": 60101,
-                "name": "累计在“Rekindle the flame”活动中\n获得70万活动积分。",
+                "name": "累计获得\n70万活动积分",
                 "description": "累计在“Rekindle the flame”活动中\n获得70万活动积分。",
                 "seq": 11,
                 "panelMissionType": "collect_event_point",
@@ -5135,7 +5107,7 @@
               {
                 "id": 6010201,
                 "panelMissionSheetId": 60102,
-                "name": "在“多人演出”中累计达成\n10次“SUPER FEVER”。",
+                "name": "达成10次\n“SUPER FEVER”",
                 "description": "在“多人演出”中累计达成\n10次“SUPER FEVER”。",
                 "seq": 1,
                 "panelMissionType": "multi_live_clear_super_fever",
@@ -5149,7 +5121,7 @@
               {
                 "id": 6010202,
                 "panelMissionSheetId": 60102,
-                "name": "使用至少1名Wonderlands×Showtime成员进行编组\n并进行20次演出。",
+                "name": "使用包含特定组合成员的编组\n进行20次演出",
                 "description": "使用至少1名Wonderlands×Showtime成员进行编组\n并进行20次演出。",
                 "seq": 2,
                 "panelMissionType": "play_live_with_unit",
@@ -5163,7 +5135,7 @@
               {
                 "id": 6010203,
                 "panelMissionSheetId": 60102,
-                "name": "不使用跳过或快进功能，\n观看4话活动“Rekindle the flame”相关的卡牌剧情。",
+                "name": "观看4话\n活动“Rekindle\n the flame”\n相关的卡牌剧情",
                 "description": "不使用跳过或快进功能，\n观看4话活动“Rekindle the flame”相关的卡牌剧情。",
                 "seq": 4,
                 "panelMissionType": "read_event_linked_card_episode_without_skip",
@@ -5178,7 +5150,7 @@
               {
                 "id": 6010204,
                 "panelMissionSheetId": 60102,
-                "name": "不使用跳过或快进功能，\n观看活动“Rekindle the flame”的全部活动剧情。",
+                "name": "看完活动所有剧情",
                 "description": "不使用跳过或快进功能，\n观看活动“Rekindle the flame”的全部活动剧情。",
                 "seq": 6,
                 "panelMissionType": "read_all_event_story_episode_without_skip",
@@ -5193,7 +5165,7 @@
               {
                 "id": 6010205,
                 "panelMissionSheetId": 60102,
-                "name": "在“Rekindle the flame后日谈·演唱会”中\n累计获得1500应援积分。",
+                "name": "在“Rekindle the flame\n后日谈·演唱会”\n中累计获得\n1500应援积分",
                 "description": "在“Rekindle the flame后日谈·演唱会”中\n累计获得1500应援积分。",
                 "seq": 8,
                 "panelMissionType": "collect_virtual_live_cheer_point_in_live",
@@ -5207,7 +5179,7 @@
               {
                 "id": 6010206,
                 "panelMissionSheetId": 60102,
-                "name": "累计消耗300演出能量。",
+                "name": "累计消耗\n300演出能量",
                 "description": "累计消耗300演出能量。",
                 "seq": 9,
                 "panelMissionType": "consume_boost_count",
@@ -5221,7 +5193,7 @@
               {
                 "id": 6010207,
                 "panelMissionSheetId": 60102,
-                "name": "累计在“Rekindle the flame”活动中\n获得150万活动积分。",
+                "name": "累计获得\n150万活动积分",
                 "description": "累计在“Rekindle the flame”活动中\n获得150万活动积分。",
                 "seq": 11,
                 "panelMissionType": "collect_event_point",
@@ -5249,7 +5221,7 @@
               {
                 "id": 6010301,
                 "panelMissionSheetId": 60103,
-                "name": "在“多人演出”中累计达成\n5次“SUPER FEVER”。",
+                "name": "达成5次\n“SUPER FEVER”",
                 "description": "在“多人演出”中累计达成\n5次“SUPER FEVER”。",
                 "seq": 1,
                 "panelMissionType": "multi_live_clear_super_fever",
@@ -5263,7 +5235,7 @@
               {
                 "id": 6010302,
                 "panelMissionSheetId": 60103,
-                "name": "使用至少1名25点，Nightcord见。成员进行编组\n并进行10次演出。",
+                "name": "使用包含特定组合成员的编组\n进行10次演出",
                 "description": "使用至少1名25点，Nightcord见。成员进行编组\n并进行10次演出。",
                 "seq": 2,
                 "panelMissionType": "play_live_with_unit",
@@ -5277,7 +5249,7 @@
               {
                 "id": 6010303,
                 "panelMissionSheetId": 60103,
-                "name": "将成员★3[对追求“热情”的你] KAITO\n养成至50级。",
+                "name": "将特定成员\n养成至50级",
                 "description": "将成员★3[对追求“热情”的你] KAITO\n养成至50级。",
                 "seq": 4,
                 "panelMissionType": "card_level_up",
@@ -5291,7 +5263,7 @@
               {
                 "id": 6010304,
                 "panelMissionSheetId": 60103,
-                "name": "观看活动“Rekindle the flame”的\n活动剧情最后一话。",
+                "name": "观看活动\n“Rekindle\n the flame”\n最后一话",
                 "description": "观看活动“Rekindle the flame”的\n活动剧情最后一话。",
                 "seq": 6,
                 "panelMissionType": "read_event_story_episode",
@@ -5305,7 +5277,7 @@
               {
                 "id": 6010305,
                 "panelMissionSheetId": 60103,
-                "name": "参加1次\n“Rekindle the flame 后日谈·演唱会”。",
+                "name": "参加1次\n“Rekindle\n the flame\n后日谈·演唱会”",
                 "description": "参加1次\n“Rekindle the flame 后日谈·演唱会”。",
                 "seq": 8,
                 "panelMissionType": "join_virtual_live",
@@ -5319,7 +5291,7 @@
               {
                 "id": 6010306,
                 "panelMissionSheetId": 60103,
-                "name": "累计消耗100演出能量。",
+                "name": "累计消耗\n100演出能量",
                 "description": "累计消耗100演出能量。",
                 "seq": 9,
                 "panelMissionType": "consume_boost_count",
@@ -5333,7 +5305,7 @@
               {
                 "id": 6010307,
                 "panelMissionSheetId": 60103,
-                "name": "累计在“Rekindle the flame”活动中\n获得70万活动积分。",
+                "name": "累计获得\n70万活动积分",
                 "description": "累计在“Rekindle the flame”活动中\n获得70万活动积分。",
                 "seq": 11,
                 "panelMissionType": "collect_event_point",
@@ -5361,7 +5333,7 @@
               {
                 "id": 6010401,
                 "panelMissionSheetId": 60104,
-                "name": "在“多人演出”中累计达成\n10次“SUPER FEVER”。",
+                "name": "达成10次\n“SUPER FEVER”",
                 "description": "在“多人演出”中累计达成\n10次“SUPER FEVER”。",
                 "seq": 1,
                 "panelMissionType": "multi_live_clear_super_fever",
@@ -5375,7 +5347,7 @@
               {
                 "id": 6010402,
                 "panelMissionSheetId": 60104,
-                "name": "使用至少1名25点，Nightcord见。成员进行编组\n并进行20次演出。",
+                "name": "使用包含特定组合成员的编组\n进行20次演出",
                 "description": "使用至少1名25点，Nightcord见。成员进行编组\n并进行20次演出。",
                 "seq": 2,
                 "panelMissionType": "play_live_with_unit",
@@ -5389,7 +5361,7 @@
               {
                 "id": 6010403,
                 "panelMissionSheetId": 60104,
-                "name": "不使用跳过或快进功能，\n观看4话活动“Rekindle the flame”相关的卡牌剧情。",
+                "name": "观看4话\n活动“Rekindle\n the flame”\n相关的卡牌剧情",
                 "description": "不使用跳过或快进功能，\n观看4话活动“Rekindle the flame”相关的卡牌剧情。",
                 "seq": 4,
                 "panelMissionType": "read_event_linked_card_episode_without_skip",
@@ -5404,7 +5376,7 @@
               {
                 "id": 6010404,
                 "panelMissionSheetId": 60104,
-                "name": "不使用跳过或快进功能，\n观看活动“Rekindle the flame”的全部活动剧情。",
+                "name": "看完活动所有剧情",
                 "description": "不使用跳过或快进功能，\n观看活动“Rekindle the flame”的全部活动剧情。",
                 "seq": 6,
                 "panelMissionType": "read_all_event_story_episode_without_skip",
@@ -5419,7 +5391,7 @@
               {
                 "id": 6010405,
                 "panelMissionSheetId": 60104,
-                "name": "在“Rekindle the flame后日谈·演唱会”中\n累计获得1500应援积分。",
+                "name": "在“Rekindle the flame\n后日谈·演唱会”\n中累计获得\n1500应援积分",
                 "description": "在“Rekindle the flame后日谈·演唱会”中\n累计获得1500应援积分。",
                 "seq": 8,
                 "panelMissionType": "collect_virtual_live_cheer_point_in_live",
@@ -5433,7 +5405,7 @@
               {
                 "id": 6010406,
                 "panelMissionSheetId": 60104,
-                "name": "累计消耗300演出能量。",
+                "name": "累计消耗\n300演出能量",
                 "description": "累计消耗300演出能量。",
                 "seq": 9,
                 "panelMissionType": "consume_boost_count",
@@ -5447,7 +5419,7 @@
               {
                 "id": 6010407,
                 "panelMissionSheetId": 60104,
-                "name": "累计在“Rekindle the flame”活动中\n获得150万活动积分。",
+                "name": "累计获得\n150万活动积分",
                 "description": "累计在“Rekindle the flame”活动中\n获得150万活动积分。",
                 "seq": 11,
                 "panelMissionType": "collect_event_point",
@@ -5484,7 +5456,7 @@
               {
                 "id": 6020101,
                 "panelMissionSheetId": 60201,
-                "name": "累计在“多人演出”中\n获得5次“MVP、SUPER STAR”。",
+                "name": "获得5次\n“MVP、\nSUPER STAR”",
                 "description": "累计在“多人演出”中\n获得5次“MVP、SUPER STAR”。",
                 "seq": 1,
                 "panelMissionType": "multi_live_clear_top_score",
@@ -5498,7 +5470,7 @@
               {
                 "id": 6020102,
                 "panelMissionSheetId": 60201,
-                "name": "在“排位赛”中进行10次演出。",
+                "name": "在排位赛中\n进行10次演出",
                 "description": "在“排位赛”中进行10次演出。",
                 "seq": 2,
                 "panelMissionType": "live_clear_rank_match",
@@ -5512,7 +5484,7 @@
               {
                 "id": 6020103,
                 "panelMissionSheetId": 60201,
-                "name": "在等级27～28的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
+                "name": "在等级27～28的\n歌曲中达成5次\nFULL COMBO",
                 "description": "在等级27～28的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
                 "seq": 3,
                 "panelMissionType": "live_clear_full_combo_in_music_level",
@@ -5526,7 +5498,7 @@
               {
                 "id": 6020104,
                 "panelMissionSheetId": 60201,
-                "name": "在等级29的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
+                "name": "在等级29的\n歌曲中达成5次\nFULL COMBO",
                 "description": "在等级29的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
                 "seq": 4,
                 "panelMissionType": "live_clear_full_combo_in_music_level",
@@ -5540,7 +5512,7 @@
               {
                 "id": 6020105,
                 "panelMissionSheetId": 60201,
-                "name": "完成等级至少为30的歌曲5次。\n（包括APPEND难度）",
+                "name": "完成等级至少为30的\n歌曲5次",
                 "description": "完成等级至少为30的歌曲5次。\n（包括APPEND难度）",
                 "seq": 5,
                 "panelMissionType": "live_clear_in_music_level",
@@ -5554,7 +5526,7 @@
               {
                 "id": 6020106,
                 "panelMissionSheetId": 60201,
-                "name": "在歌曲《热风》的5种难度中达成FULL COMBO。\n（EASY/NORMAL/HARD/EXPERT/MASTER/APPEND难度）",
+                "name": "在歌曲《热风》的\n5种难度中\n达成FULL COMBO",
                 "description": "在歌曲《热风》的5种难度中达成FULL COMBO。\n（EASY/NORMAL/HARD/EXPERT/MASTER/APPEND难度）",
                 "seq": 6,
                 "panelMissionType": "live_clear_full_combo_all_difficulty_in_music",
@@ -5569,7 +5541,7 @@
               {
                 "id": 6020107,
                 "panelMissionSheetId": 60201,
-                "name": "以ALL PERFECT完成\nEXPERT、MASTER、APPEND中任意一种难度的歌曲5次。",
+                "name": "以AP完成\nEXPERT或以上难度\n5次",
                 "description": "以ALL PERFECT完成\nEXPERT、MASTER、APPEND中任意一种难度的歌曲5次。",
                 "seq": 7,
                 "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
@@ -5597,7 +5569,7 @@
               {
                 "id": 6020201,
                 "panelMissionSheetId": 60202,
-                "name": "累计在“多人演出”中获得10次“MVP、SUPER STAR”。",
+                "name": "获得10次\n“MVP、\nSUPER STAR”",
                 "description": "累计在“多人演出”中获得10次“MVP、SUPER STAR”。",
                 "seq": 1,
                 "panelMissionType": "multi_live_clear_top_score",
@@ -5611,7 +5583,7 @@
               {
                 "id": 6020202,
                 "panelMissionSheetId": 60202,
-                "name": "在“排位赛”中进行20次演出。",
+                "name": "在排位赛中\n进行20次演出",
                 "description": "在“排位赛”中进行20次演出。",
                 "seq": 2,
                 "panelMissionType": "live_clear_rank_match",
@@ -5625,7 +5597,7 @@
               {
                 "id": 6020203,
                 "panelMissionSheetId": 60202,
-                "name": "在等级30～31的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
+                "name": "在等级30～31的\n歌曲中达成5次\nFULL COMBO",
                 "description": "在等级30～31的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
                 "seq": 3,
                 "panelMissionType": "live_clear_full_combo_in_music_level",
@@ -5639,7 +5611,7 @@
               {
                 "id": 6020204,
                 "panelMissionSheetId": 60202,
-                "name": "在等级32的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
+                "name": "在等级32的\n歌曲中达成5次\nFULL COMBO",
                 "description": "在等级32的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
                 "seq": 4,
                 "panelMissionType": "live_clear_full_combo_in_music_level",
@@ -5653,7 +5625,7 @@
               {
                 "id": 6020205,
                 "panelMissionSheetId": 60202,
-                "name": "完成等级至少为33的歌曲5次。\n（包括APPEND难度）",
+                "name": "完成等级至少为33的\n歌曲5次",
                 "description": "完成等级至少为33的歌曲5次。\n（包括APPEND难度）",
                 "seq": 5,
                 "panelMissionType": "live_clear_in_music_level",
@@ -5667,7 +5639,7 @@
               {
                 "id": 6020206,
                 "panelMissionSheetId": 60202,
-                "name": "在歌曲《热风》的5种难度中达成ALL PERFECT。\n（EASY/NORMAL/HARD/EXPERT/MASTER/APPEND难度）",
+                "name": "在歌曲《热风》的\n5种难度中\n达成AP",
                 "description": "在歌曲《热风》的5种难度中达成ALL PERFECT。\n（EASY/NORMAL/HARD/EXPERT/MASTER/APPEND难度）",
                 "seq": 6,
                 "panelMissionType": "live_clear_all_perfect_all_difficulty_in_music",
@@ -5682,7 +5654,7 @@
               {
                 "id": 6020207,
                 "panelMissionSheetId": 60202,
-                "name": "以ALL PERFECT完成MASTER难度的歌曲3次。",
+                "name": "以AP完成\nMASTER难度3次",
                 "description": "以ALL PERFECT完成MASTER难度的歌曲3次。",
                 "seq": 7,
                 "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
@@ -5710,7 +5682,7 @@
               {
                 "id": 6020301,
                 "panelMissionSheetId": 60203,
-                "name": "累计在“多人演出”中获得5次“MVP、SUPER STAR”。",
+                "name": "获得5次\n“MVP、\nSUPER STAR”",
                 "description": "累计在“多人演出”中获得5次“MVP、SUPER STAR”。",
                 "seq": 1,
                 "panelMissionType": "multi_live_clear_top_score",
@@ -5724,7 +5696,7 @@
               {
                 "id": 6020302,
                 "panelMissionSheetId": 60203,
-                "name": "在“排位赛”中进行10次演出。",
+                "name": "在排位赛中\n进行10次演出",
                 "description": "在“排位赛”中进行10次演出。",
                 "seq": 2,
                 "panelMissionType": "live_clear_rank_match",
@@ -5738,7 +5710,7 @@
               {
                 "id": 6020303,
                 "panelMissionSheetId": 60203,
-                "name": "在等级27～28的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
+                "name": "在等级27～28的\n歌曲中达成5次\nFULL COMBO",
                 "description": "在等级27～28的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
                 "seq": 3,
                 "panelMissionType": "live_clear_full_combo_in_music_level",
@@ -5752,7 +5724,7 @@
               {
                 "id": 6020304,
                 "panelMissionSheetId": 60203,
-                "name": "在等级29的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
+                "name": "在等级29的\n歌曲中达成5次\nFULL COMBO",
                 "description": "在等级29的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
                 "seq": 4,
                 "panelMissionType": "live_clear_full_combo_in_music_level",
@@ -5766,7 +5738,7 @@
               {
                 "id": 6020305,
                 "panelMissionSheetId": 60203,
-                "name": "完成等级至少为30的歌曲5次。\n（包括APPEND难度）",
+                "name": "完成等级至少为30的\n歌曲5次",
                 "description": "完成等级至少为30的歌曲5次。\n（包括APPEND难度）",
                 "seq": 5,
                 "panelMissionType": "live_clear_in_music_level",
@@ -5780,7 +5752,7 @@
               {
                 "id": 6020306,
                 "panelMissionSheetId": 60203,
-                "name": "在歌曲《热风》的5种难度中达成FULL COMBO。\n（EASY/NORMAL/HARD/EXPERT/MASTER/APPEND难度）",
+                "name": "在歌曲《热风》的\n5种难度中\n达成FULL COMBO",
                 "description": "在歌曲《热风》的5种难度中达成FULL COMBO。\n（EASY/NORMAL/HARD/EXPERT/MASTER/APPEND难度）",
                 "seq": 6,
                 "panelMissionType": "live_clear_full_combo_all_difficulty_in_music",
@@ -5795,7 +5767,7 @@
               {
                 "id": 6020307,
                 "panelMissionSheetId": 60203,
-                "name": "以ALL PERFECT完成\nEXPERT、MASTER、APPEND中任意一种难度的歌曲5次。",
+                "name": "以AP完成\nEXPERT或以上难度\n5次",
                 "description": "以ALL PERFECT完成\nEXPERT、MASTER、APPEND中任意一种难度的歌曲5次。",
                 "seq": 7,
                 "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
@@ -5823,7 +5795,7 @@
               {
                 "id": 6020401,
                 "panelMissionSheetId": 60204,
-                "name": "累计在“多人演出”中获得10次“MVP、SUPER STAR”。",
+                "name": "获得10次\n“MVP、\nSUPER STAR”",
                 "description": "累计在“多人演出”中获得10次“MVP、SUPER STAR”。",
                 "seq": 1,
                 "panelMissionType": "multi_live_clear_top_score",
@@ -5837,7 +5809,7 @@
               {
                 "id": 6020402,
                 "panelMissionSheetId": 60204,
-                "name": "在“排位赛”中进行20次演出。",
+                "name": "在排位赛中\n进行20次演出",
                 "description": "在“排位赛”中进行20次演出。",
                 "seq": 2,
                 "panelMissionType": "live_clear_rank_match",
@@ -5851,7 +5823,7 @@
               {
                 "id": 6020403,
                 "panelMissionSheetId": 60204,
-                "name": "在等级30～31的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
+                "name": "在等级30～31的\n歌曲中达成5次\nFULL COMBO",
                 "description": "在等级30～31的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
                 "seq": 3,
                 "panelMissionType": "live_clear_full_combo_in_music_level",
@@ -5865,7 +5837,7 @@
               {
                 "id": 6020404,
                 "panelMissionSheetId": 60204,
-                "name": "在等级32的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
+                "name": "在等级32的\n歌曲中达成5次\nFULL COMBO",
                 "description": "在等级32的歌曲中达成5次FULL COMBO。\n（包括APPEND难度）",
                 "seq": 4,
                 "panelMissionType": "live_clear_full_combo_in_music_level",
@@ -5879,7 +5851,7 @@
               {
                 "id": 6020405,
                 "panelMissionSheetId": 60204,
-                "name": "完成等级至少为33的歌曲5次。\n（包括APPEND难度）",
+                "name": "完成等级至少为33的\n歌曲5次",
                 "description": "完成等级至少为33的歌曲5次。\n（包括APPEND难度）",
                 "seq": 5,
                 "panelMissionType": "live_clear_in_music_level",
@@ -5893,7 +5865,7 @@
               {
                 "id": 6020406,
                 "panelMissionSheetId": 60204,
-                "name": "在歌曲《热风》的5种难度中达成ALL PERFECT。\n（EASY/NORMAL/HARD/EXPERT/MASTER/APPEND难度）",
+                "name": "在歌曲《热风》的\n5种难度中\n达成AP",
                 "description": "在歌曲《热风》的5种难度中达成ALL PERFECT。\n（EASY/NORMAL/HARD/EXPERT/MASTER/APPEND难度）",
                 "seq": 6,
                 "panelMissionType": "live_clear_all_perfect_all_difficulty_in_music",
@@ -5908,7 +5880,7 @@
               {
                 "id": 6020407,
                 "panelMissionSheetId": 60204,
-                "name": "以AP完成\nEXPERT或以上难度\n3次",
+                "name": "以AP完成\nMASTER难度3次",
                 "description": "以ALLPERFECT完成\n难度至少为EXPERT的歌曲3次。",
                 "seq": 7,
                 "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
@@ -5945,7 +5917,7 @@
               {
                 "id": 6030101,
                 "panelMissionSheetId": 60301,
-                "name": "完成5次歌曲《热风》。",
+                "name": "完成5次\n《热风》",
                 "description": "完成5次歌曲《热风》。",
                 "seq": 1,
                 "panelMissionType": "live_clear_in_music",
@@ -5959,7 +5931,7 @@
               {
                 "id": 6030102,
                 "panelMissionSheetId": 60301,
-                "name": "使用歌曲选择界面的\n“Wonderlands×Showtime选项卡”中的歌曲进行10次演出。",
+                "name": "选择特定组合歌曲\n进行10次演出",
                 "description": "使用歌曲选择界面的\n“Wonderlands×Showtime选项卡”中的歌曲进行10次演出。",
                 "seq": 2,
                 "panelMissionType": "unit_live_clear_music",
@@ -5973,7 +5945,7 @@
               {
                 "id": 6030103,
                 "panelMissionSheetId": 60301,
-                "name": "完成10首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "name": "完成\n10首不同的歌曲",
                 "description": "完成10种歌曲。\n*自动演出也纳入计算范围。",
                 "seq": 3,
                 "panelMissionType": "live_clear_with_different_music",
@@ -5988,7 +5960,7 @@
               {
                 "id": 6030104,
                 "panelMissionSheetId": 60301,
-                "name": "完成10次多人演出。",
+                "name": "完成10次\n多人演出",
                 "description": "完成10次多人演出。",
                 "seq": 4,
                 "panelMissionType": "multi_live_clear",
@@ -6002,7 +5974,7 @@
               {
                 "id": 6030105,
                 "panelMissionSheetId": 60301,
-                "name": "累计完成50次演出。\n*自动演出也纳入计算范围。",
+                "name": "累计完成\n50次演出",
                 "description": "累计完成50次演出。\n*自动演出也纳入计算范围。",
                 "seq": 5,
                 "panelMissionType": "live_clear",
@@ -6016,7 +5988,7 @@
               {
                 "id": 6030106,
                 "panelMissionSheetId": 60301,
-                "name": "使用2DMV、原曲MV模式完成5次演出。",
+                "name": "使用2DMV、\n原曲MV模式\n完成5次演出",
                 "description": "使用2DMV、原曲MV模式完成5次演出。",
                 "seq": 6,
                 "panelMissionType": "live_clear_with_mv_2d_or_original",
@@ -6030,7 +6002,7 @@
               {
                 "id": 6030107,
                 "panelMissionSheetId": 60301,
-                "name": "使用3DMV模式完成5次演出。",
+                "name": "使用3DMV模式\n完成5次演出",
                 "description": "使用3DMV模式完成5次演出。",
                 "seq": 7,
                 "panelMissionType": "live_clear_with_mv_3d",
@@ -6058,7 +6030,7 @@
               {
                 "id": 6030201,
                 "panelMissionSheetId": 60302,
-                "name": "完成10次歌曲《热风》。",
+                "name": "完成10次\n《热风》",
                 "description": "完成10次歌曲《热风》。",
                 "seq": 1,
                 "panelMissionType": "live_clear_in_music",
@@ -6072,7 +6044,7 @@
               {
                 "id": 6030202,
                 "panelMissionSheetId": 60302,
-                "name": "使用歌曲选择界面的\n“Wonderlands×Showtime选项卡”中的歌曲进行15次演出。",
+                "name": "选择特定组合歌曲\n进行15次演出",
                 "description": "使用歌曲选择界面的\n“Wonderlands×Showtime选项卡”中的歌曲进行15次演出。",
                 "seq": 2,
                 "panelMissionType": "unit_live_clear_music",
@@ -6086,7 +6058,7 @@
               {
                 "id": 6030203,
                 "panelMissionSheetId": 60302,
-                "name": "完成15首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "name": "完成\n15首不同的歌曲",
                 "description": "完成15种歌曲。\n*自动演出也纳入计算范围。",
                 "seq": 3,
                 "panelMissionType": "live_clear_with_different_music",
@@ -6101,7 +6073,7 @@
               {
                 "id": 6030204,
                 "panelMissionSheetId": 60302,
-                "name": "完成15次“多人演出”。",
+                "name": "完成15次\n多人演出",
                 "description": "完成15次“多人演出”。",
                 "seq": 4,
                 "panelMissionType": "multi_live_clear",
@@ -6115,7 +6087,7 @@
               {
                 "id": 6030205,
                 "panelMissionSheetId": 60302,
-                "name": "累计完成100次演出。\n*自动演出也纳入计算范围。",
+                "name": "累计完成\n100次演出",
                 "description": "累计完成100次演出。\n*自动演出也纳入计算范围。",
                 "seq": 5,
                 "panelMissionType": "live_clear",
@@ -6129,7 +6101,7 @@
               {
                 "id": 6030206,
                 "panelMissionSheetId": 60302,
-                "name": "累计在演出中获得20000次PERFECT判定。",
+                "name": "累计获得20000次\nPERFECT判定",
                 "description": "累计在演出中获得20000次PERFECT判定。",
                 "seq": 6,
                 "panelMissionType": "get_live_perfect",
@@ -6143,7 +6115,7 @@
               {
                 "id": 6030207,
                 "panelMissionSheetId": 60302,
-                "name": "在歌曲中达成15次FULL COMBO。",
+                "name": "在歌曲中完成15次\nFULL COMBO",
                 "description": "在歌曲中达成15次FULL COMBO。",
                 "seq": 7,
                 "panelMissionType": "live_clear_full_combo",
@@ -6171,7 +6143,7 @@
               {
                 "id": 6030301,
                 "panelMissionSheetId": 60303,
-                "name": "完成5次歌曲《热风》。",
+                "name": "完成5次\n《热风》",
                 "description": "完成5次歌曲《热风》。",
                 "seq": 1,
                 "panelMissionType": "live_clear_in_music",
@@ -6185,7 +6157,7 @@
               {
                 "id": 6030302,
                 "panelMissionSheetId": 60303,
-                "name": "使用歌曲选择画面的\n“25点，Nightcord见。选项卡”中的歌曲进行10次演出。",
+                "name": "选择特定组合歌曲\n进行10次演出",
                 "description": "使用歌曲选择画面的\n“25点，Nightcord见。选项卡”中的歌曲进行10次演出。",
                 "seq": 2,
                 "panelMissionType": "unit_live_clear_music",
@@ -6199,7 +6171,7 @@
               {
                 "id": 6030303,
                 "panelMissionSheetId": 60303,
-                "name": "完成10首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "name": "完成\n10首不同的歌曲",
                 "description": "完成10种歌曲。\n*自动演出也纳入计算范围。",
                 "seq": 3,
                 "panelMissionType": "live_clear_with_different_music",
@@ -6214,7 +6186,7 @@
               {
                 "id": 6030304,
                 "panelMissionSheetId": 60303,
-                "name": "完成10次多人演出。",
+                "name": "完成10次\n多人演出",
                 "description": "完成10次多人演出。",
                 "seq": 4,
                 "panelMissionType": "multi_live_clear",
@@ -6228,7 +6200,7 @@
               {
                 "id": 6030305,
                 "panelMissionSheetId": 60303,
-                "name": "累计完成50次演出。\n*自动演出也纳入计算范围。",
+                "name": "累计完成\n50次演出",
                 "description": "累计完成50次演出。\n*自动演出也纳入计算范围。",
                 "seq": 5,
                 "panelMissionType": "live_clear",
@@ -6242,7 +6214,7 @@
               {
                 "id": 6030306,
                 "panelMissionSheetId": 60303,
-                "name": "使用2DMV、原曲MV模式完成5次演出。",
+                "name": "使用2DMV、\n原曲MV模式\n完成5次演出",
                 "description": "使用2DMV、原曲MV模式完成5次演出。",
                 "seq": 6,
                 "panelMissionType": "live_clear_with_mv_2d_or_original",
@@ -6256,7 +6228,7 @@
               {
                 "id": 6030307,
                 "panelMissionSheetId": 60303,
-                "name": "使用3DMV模式完成5次演出。",
+                "name": "使用3DMV模式\n完成5次演出",
                 "description": "使用3DMV模式完成5次演出。",
                 "seq": 7,
                 "panelMissionType": "live_clear_with_mv_3d",
@@ -6284,7 +6256,7 @@
               {
                 "id": 6030401,
                 "panelMissionSheetId": 60304,
-                "name": "完成10次歌曲《热风》。",
+                "name": "完成10次\n《热风》",
                 "description": "完成10次歌曲《热风》。",
                 "seq": 1,
                 "panelMissionType": "live_clear_in_music",
@@ -6298,7 +6270,7 @@
               {
                 "id": 6030402,
                 "panelMissionSheetId": 60304,
-                "name": "使用歌曲选择画面的\n“25点，Nightcord见。选项卡”中的歌曲进行15次演出。",
+                "name": "选择特定组合歌曲\n进行15次演出",
                 "description": "使用歌曲选择画面的\n“25点，Nightcord见。选项卡”中的歌曲进行15次演出。",
                 "seq": 2,
                 "panelMissionType": "unit_live_clear_music",
@@ -6312,7 +6284,7 @@
               {
                 "id": 6030403,
                 "panelMissionSheetId": 60304,
-                "name": "完成15首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "name": "完成\n15首不同的歌曲",
                 "description": "完成15种歌曲。\n*自动演出也纳入计算范围。",
                 "seq": 3,
                 "panelMissionType": "live_clear_with_different_music",
@@ -6327,7 +6299,7 @@
               {
                 "id": 6030404,
                 "panelMissionSheetId": 60304,
-                "name": "完成15次“多人演出”。",
+                "name": "完成15次\n多人演出",
                 "description": "完成15次“多人演出”。",
                 "seq": 4,
                 "panelMissionType": "multi_live_clear",
@@ -6341,7 +6313,7 @@
               {
                 "id": 6030405,
                 "panelMissionSheetId": 60304,
-                "name": "累计完成100次演出。\n*自动演出也纳入计算范围。",
+                "name": "累计完成\n100次演出",
                 "description": "累计完成100次演出。\n*自动演出也纳入计算范围。",
                 "seq": 5,
                 "panelMissionType": "live_clear",
@@ -6355,7 +6327,7 @@
               {
                 "id": 6030406,
                 "panelMissionSheetId": 60304,
-                "name": "累计在演出中获得20000次PERFECT判定。",
+                "name": "累计获得20000次\nPERFECT判定",
                 "description": "累计在演出中获得20000次PERFECT判定。",
                 "seq": 6,
                 "panelMissionType": "get_live_perfect",
@@ -6369,7 +6341,7 @@
               {
                 "id": 6030407,
                 "panelMissionSheetId": 60304,
-                "name": "在歌曲中达成15次FULL COMBO。",
+                "name": "在歌曲中完成15次\nFULL COMBO",
                 "description": "在歌曲中达成15次FULL COMBO。",
                 "seq": 7,
                 "panelMissionType": "live_clear_full_combo",
@@ -6409,9 +6381,8 @@
                 "name": "累计消耗 \n5演出能量",
                 "description": "累计消耗5演出能量。",
                 "seq": 1,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 1,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 5,
                 "rewards": [
                   [
                     1634
@@ -6424,9 +6395,8 @@
                 "name": "累计消耗\n10演出能量",
                 "description": "累计消耗10演出能量。",
                 "seq": 2,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 3,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 10,
                 "rewards": [
                   [
                     1634
@@ -6439,9 +6409,8 @@
                 "name": "累计消耗\n15演出能量",
                 "description": "累计消耗15演出能量。",
                 "seq": 3,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 5,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 15,
                 "rewards": [
                   [
                     1634
@@ -6454,9 +6423,8 @@
                 "name": "累计消耗\n20演出能量",
                 "description": "累计消耗20演出能量。",
                 "seq": 4,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 7,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 20,
                 "rewards": [
                   [
                     1634
@@ -6469,9 +6437,8 @@
                 "name": "累计消耗\n30演出能量",
                 "description": "累计消耗30演出能量。",
                 "seq": 5,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 9,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 30,
                 "rewards": [
                   [
                     1634
@@ -6484,9 +6451,8 @@
                 "name": "累计消耗\n40演出能量",
                 "description": "累计消耗40演出能量。",
                 "seq": 6,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 12,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 40,
                 "rewards": [
                   [
                     1635
@@ -6499,9 +6465,8 @@
                 "name": "累计消耗\n50演出能量",
                 "description": "累计消耗50演出能量。",
                 "seq": 7,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 15,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 50,
                 "rewards": [
                   [
                     1636
@@ -6528,9 +6493,8 @@
                 "name": "累计消耗\n10演出能量",
                 "description": "累计消耗10演出能量。",
                 "seq": 1,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 1,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 10,
                 "rewards": [
                   [
                     1635
@@ -6543,9 +6507,8 @@
                 "name": "累计消耗\n20演出能量",
                 "description": "累计消耗20演出能量。",
                 "seq": 2,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 5,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 20,
                 "rewards": [
                   [
                     1636
@@ -6558,9 +6521,8 @@
                 "name": "累计消耗\n30演出能量",
                 "description": "累计消耗30演出能量。",
                 "seq": 3,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 10,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 30,
                 "rewards": [
                   [
                     1636
@@ -6573,9 +6535,8 @@
                 "name": "累计消耗\n40演出能量",
                 "description": "累计消耗40演出能量。",
                 "seq": 4,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 15,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 40,
                 "rewards": [
                   [
                     1636
@@ -6588,9 +6549,8 @@
                 "name": "累计消耗\n60演出能量",
                 "description": "累计消耗60演出能量。",
                 "seq": 5,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 20,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 60,
                 "rewards": [
                   [
                     1636
@@ -6603,9 +6563,8 @@
                 "name": "累计消耗\n80演出能量",
                 "description": "累计消耗80演出能量。",
                 "seq": 6,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 25,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 80,
                 "rewards": [
                   [
                     1636
@@ -6618,9 +6577,8 @@
                 "name": "累计消耗\n100演出能量",
                 "description": "累计消耗100演出能量。",
                 "seq": 7,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 30,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 100,
                 "rewards": [
                   [
                     1636
@@ -6647,9 +6605,8 @@
                 "name": "累计消耗\n5演出能量",
                 "description": "累计消耗5演出能量。",
                 "seq": 1,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 1,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 5,
                 "rewards": [
                   [
                     1647
@@ -6662,9 +6619,8 @@
                 "name": "累计消耗\n10演出能量",
                 "description": "累计消耗10演出能量。",
                 "seq": 2,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 3,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 10,
                 "rewards": [
                   [
                     1647
@@ -6677,9 +6633,8 @@
                 "name": "累计消耗\n15演出能量",
                 "description": "累计消耗15演出能量。",
                 "seq": 3,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 5,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 15,
                 "rewards": [
                   [
                     1647
@@ -6692,9 +6647,8 @@
                 "name": "累计消耗\n20演出能量",
                 "description": "累计消耗20演出能量。",
                 "seq": 4,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 7,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 20,
                 "rewards": [
                   [
                     1647
@@ -6707,9 +6661,8 @@
                 "name": "累计消耗\n30演出能量",
                 "description": "累计消耗30演出能量。",
                 "seq": 5,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 9,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 30,
                 "rewards": [
                   [
                     1647
@@ -6722,9 +6675,8 @@
                 "name": "累计消耗\n40演出能量",
                 "description": "累计消耗40演出能量。",
                 "seq": 6,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 12,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 40,
                 "rewards": [
                   [
                     1648
@@ -6737,9 +6689,8 @@
                 "name": "累计消耗\n50演出能量",
                 "description": "累计消耗50演出能量。",
                 "seq": 7,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 15,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 50,
                 "rewards": [
                   [
                     1649
@@ -6766,9 +6717,8 @@
                 "name": "累计消耗\n10演出能量",
                 "description": "累计消耗10演出能量。",
                 "seq": 1,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 1,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 10,
                 "rewards": [
                   [
                     1648
@@ -6781,9 +6731,8 @@
                 "name": "累计消耗\n20演出能量",
                 "description": "累计消耗20演出能量。",
                 "seq": 2,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 5,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 20,
                 "rewards": [
                   [
                     1649
@@ -6796,9 +6745,8 @@
                 "name": "累计消耗\n30演出能量",
                 "description": "累计消耗30演出能量。",
                 "seq": 3,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 10,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 30,
                 "rewards": [
                   [
                     1649
@@ -6811,9 +6759,8 @@
                 "name": "累计消耗\n40演出能量",
                 "description": "累计消耗40演出能量。",
                 "seq": 4,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 15,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 40,
                 "rewards": [
                   [
                     1649
@@ -6826,9 +6773,8 @@
                 "name": "累计消耗\n60演出能量",
                 "description": "累计消耗60演出能量。",
                 "seq": 5,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 20,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 60,
                 "rewards": [
                   [
                     1649
@@ -6841,9 +6787,8 @@
                 "name": "累计消耗\n80演出能量",
                 "description": "累计消耗80演出能量。",
                 "seq": 6,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 25,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 80,
                 "rewards": [
                   [
                     1649
@@ -6856,9 +6801,8 @@
                 "name": "累计消耗\n100演出能量",
                 "description": "累计消耗100演出能量。",
                 "seq": 7,
-                "panelMissionType": "bonds_rank_up",
-                "requirement1": 30,
-                "requirement2": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 100,
                 "rewards": [
                   [
                     1649
@@ -6891,7 +6835,7 @@
               {
                 "id": 6050101,
                 "panelMissionSheetId": 60501,
-                "name": "累计登录1天。",
+                "name": "累计登录\n1天",
                 "description": "累计登录1天。",
                 "seq": 1,
                 "panelMissionType": "login",
@@ -6905,7 +6849,7 @@
               {
                 "id": 6050102,
                 "panelMissionSheetId": 60501,
-                "name": "累计登录2天。",
+                "name": "累计登录\n2天",
                 "description": "累计登录2天。",
                 "seq": 2,
                 "panelMissionType": "login",
@@ -6919,7 +6863,7 @@
               {
                 "id": 6050103,
                 "panelMissionSheetId": 60501,
-                "name": "累计登录3天。",
+                "name": "累计登录\n3天",
                 "description": "累计登录3天。",
                 "seq": 3,
                 "panelMissionType": "login",
@@ -6933,7 +6877,7 @@
               {
                 "id": 6050104,
                 "panelMissionSheetId": 60501,
-                "name": "累计登录4天。",
+                "name": "累计登录\n4天",
                 "description": "累计登录4天。",
                 "seq": 4,
                 "panelMissionType": "login",
@@ -6947,7 +6891,7 @@
               {
                 "id": 6050105,
                 "panelMissionSheetId": 60501,
-                "name": "累计登录5天。",
+                "name": "累计登录\n5天",
                 "description": "累计登录5天。",
                 "seq": 5,
                 "panelMissionType": "login",
@@ -6961,7 +6905,7 @@
               {
                 "id": 6050106,
                 "panelMissionSheetId": 60501,
-                "name": "累计登录6天。",
+                "name": "累计登录\n6天",
                 "description": "累计登录6天。",
                 "seq": 6,
                 "panelMissionType": "login",
@@ -6975,7 +6919,7 @@
               {
                 "id": 6050107,
                 "panelMissionSheetId": 60501,
-                "name": "累计登录7天。",
+                "name": "累计登录\n7天",
                 "description": "累计登录7天。",
                 "seq": 7,
                 "panelMissionType": "login",
@@ -7003,7 +6947,7 @@
               {
                 "id": 6050201,
                 "panelMissionSheetId": 60502,
-                "name": "累计登录1天。",
+                "name": "累计登录\n1天",
                 "description": "累计登录1天。",
                 "seq": 1,
                 "panelMissionType": "login",
@@ -7017,7 +6961,7 @@
               {
                 "id": 6050202,
                 "panelMissionSheetId": 60502,
-                "name": "累计登录2天。",
+                "name": "累计登录\n2天",
                 "description": "累计登录2天。",
                 "seq": 2,
                 "panelMissionType": "login",
@@ -7031,7 +6975,7 @@
               {
                 "id": 6050203,
                 "panelMissionSheetId": 60502,
-                "name": "累计登录3天。",
+                "name": "累计登录\n3天",
                 "description": "累计登录3天。",
                 "seq": 3,
                 "panelMissionType": "login",
@@ -7045,7 +6989,7 @@
               {
                 "id": 6050204,
                 "panelMissionSheetId": 60502,
-                "name": "累计登录4天。",
+                "name": "累计登录\n4天",
                 "description": "累计登录4天。",
                 "seq": 4,
                 "panelMissionType": "login",
@@ -7059,7 +7003,7 @@
               {
                 "id": 6050205,
                 "panelMissionSheetId": 60502,
-                "name": "累计登录5天。",
+                "name": "累计登录\n5天",
                 "description": "累计登录5天。",
                 "seq": 5,
                 "panelMissionType": "login",
@@ -7073,7 +7017,7 @@
               {
                 "id": 6050206,
                 "panelMissionSheetId": 60502,
-                "name": "累计登录7天。",
+                "name": "累计登录\n7天",
                 "description": "累计登录7天。",
                 "seq": 6,
                 "panelMissionType": "login",
@@ -7087,7 +7031,7 @@
               {
                 "id": 6050207,
                 "panelMissionSheetId": 60502,
-                "name": "累计登录10天。",
+                "name": "累计登录\n10天",
                 "description": "累计登录10天。",
                 "seq": 7,
                 "panelMissionType": "login",
@@ -7115,7 +7059,7 @@
               {
                 "id": 6050301,
                 "panelMissionSheetId": 60503,
-                "name": "累计登录1天。",
+                "name": "累计登录\n1天",
                 "description": "累计登录1天。",
                 "seq": 1,
                 "panelMissionType": "login",
@@ -7129,7 +7073,7 @@
               {
                 "id": 6050302,
                 "panelMissionSheetId": 60503,
-                "name": "累计登录2天。",
+                "name": "累计登录\n2天",
                 "description": "累计登录2天。",
                 "seq": 2,
                 "panelMissionType": "login",
@@ -7143,7 +7087,7 @@
               {
                 "id": 6050303,
                 "panelMissionSheetId": 60503,
-                "name": "累计登录3天。",
+                "name": "累计登录\n3天",
                 "description": "累计登录3天。",
                 "seq": 3,
                 "panelMissionType": "login",
@@ -7157,7 +7101,7 @@
               {
                 "id": 6050304,
                 "panelMissionSheetId": 60503,
-                "name": "累计登录4天。",
+                "name": "累计登录\n4天",
                 "description": "累计登录4天。",
                 "seq": 4,
                 "panelMissionType": "login",
@@ -7171,7 +7115,7 @@
               {
                 "id": 6050305,
                 "panelMissionSheetId": 60503,
-                "name": "累计登录5天。",
+                "name": "累计登录\n5天",
                 "description": "累计登录5天。",
                 "seq": 5,
                 "panelMissionType": "login",
@@ -7185,7 +7129,7 @@
               {
                 "id": 6050306,
                 "panelMissionSheetId": 60503,
-                "name": "累计登录6天。",
+                "name": "累计登录\n6天",
                 "description": "累计登录6天。",
                 "seq": 6,
                 "panelMissionType": "login",
@@ -7199,7 +7143,7 @@
               {
                 "id": 6050307,
                 "panelMissionSheetId": 60503,
-                "name": "累计登录7天。",
+                "name": "累计登录\n7天",
                 "description": "累计登录7天。",
                 "seq": 7,
                 "panelMissionType": "login",
@@ -7227,7 +7171,7 @@
               {
                 "id": 6050401,
                 "panelMissionSheetId": 60504,
-                "name": "累计登录1天。",
+                "name": "累计登录\n1天",
                 "description": "累计登录1天。",
                 "seq": 1,
                 "panelMissionType": "login",
@@ -7241,7 +7185,7 @@
               {
                 "id": 6050402,
                 "panelMissionSheetId": 60504,
-                "name": "累计登录2天。",
+                "name": "累计登录\n2天",
                 "description": "累计登录2天。",
                 "seq": 2,
                 "panelMissionType": "login",
@@ -7255,7 +7199,7 @@
               {
                 "id": 6050403,
                 "panelMissionSheetId": 60504,
-                "name": "累计登录3天。",
+                "name": "累计登录\n3天",
                 "description": "累计登录3天。",
                 "seq": 3,
                 "panelMissionType": "login",
@@ -7269,7 +7213,7 @@
               {
                 "id": 6050404,
                 "panelMissionSheetId": 60504,
-                "name": "累计登录4天。",
+                "name": "累计登录\n4天",
                 "description": "累计登录4天。",
                 "seq": 4,
                 "panelMissionType": "login",
@@ -7283,7 +7227,7 @@
               {
                 "id": 6050405,
                 "panelMissionSheetId": 60504,
-                "name": "累计登录5天。",
+                "name": "累计登录\n5天",
                 "description": "累计登录5天。",
                 "seq": 5,
                 "panelMissionType": "login",
@@ -7297,7 +7241,7 @@
               {
                 "id": 6050406,
                 "panelMissionSheetId": 60504,
-                "name": "累计登录7天。",
+                "name": "累计登录\n7天",
                 "description": "累计登录7天。",
                 "seq": 6,
                 "panelMissionType": "login",
@@ -7311,7 +7255,7 @@
               {
                 "id": 6050407,
                 "panelMissionSheetId": 60504,
-                "name": "累计登录10天。",
+                "name": "累计登录\n10天",
                 "description": "累计登录10天。",
                 "seq": 7,
                 "panelMissionType": "login",

@@ -100843,7 +100843,7 @@
       {
         "level": 1,
         "bonus": 0,
-        "description": "坚持就是胜利！"
+        "description": "累计登录奖励"
       }
     ]
   },
@@ -100858,7 +100858,7 @@
       {
         "level": 1,
         "bonus": 0,
-        "description": "大感谢！"
+        "description": "累计登录奖励"
       }
     ]
   },
@@ -100873,7 +100873,7 @@
       {
         "level": 1,
         "bonus": 0,
-        "description": "一路同行"
+        "description": "累计登录奖励"
       }
     ]
   },
@@ -100888,7 +100888,7 @@
       {
         "level": 1,
         "bonus": 0,
-        "description": "一路同行"
+        "description": "累计登录奖励"
       }
     ]
   },
@@ -100903,7 +100903,7 @@
       {
         "level": 1,
         "bonus": 0,
-        "description": "摸鱼ing"
+        "description": "突袭！新学期的世界限时任务奖励"
       }
     ]
   },
@@ -100918,7 +100918,7 @@
       {
         "level": 1,
         "bonus": 0,
-        "description": "学习中"
+        "description": "突袭！新学期的世界限时任务奖励"
       }
     ]
   },
@@ -101599,13 +101599,13 @@
     "seq": 2000001,
     "groupId": 20000,
     "honorRarity": "highest",
-    "name": "TOP1",
+    "name": "心愿榜称号「TOP1」",
     "assetbundleName": "honor_top_000001",
     "levels": [
       {
         "level": 1,
         "bonus": 0,
-        "description": "TOP1"
+        "description": "「世界」心愿榜的活动奖励"
       }
     ]
   },
@@ -101614,13 +101614,13 @@
     "seq": 2000002,
     "groupId": 20000,
     "honorRarity": "highest",
-    "name": "TOP2",
+    "name": "心愿榜称号「TOP2」",
     "assetbundleName": "honor_top_000002",
     "levels": [
       {
         "level": 1,
         "bonus": 0,
-        "description": "TOP2"
+        "description": "「世界」心愿榜的活动奖励"
       }
     ]
   },
@@ -101629,13 +101629,13 @@
     "seq": 2000003,
     "groupId": 20000,
     "honorRarity": "highest",
-    "name": "TOP3",
+    "name": "心愿榜称号「TOP3」",
     "assetbundleName": "honor_top_000003",
     "levels": [
       {
         "level": 1,
         "bonus": 0,
-        "description": "TOP3"
+        "description": "「世界」心愿榜的活动奖励"
       }
     ]
   },
@@ -101644,13 +101644,13 @@
     "seq": 2000004,
     "groupId": 20000,
     "honorRarity": "high",
-    "name": "TOP4-10",
-    "assetbundleName": "honor_top_000004",
+    "name": "心愿榜称号「TOP10」",
+    "assetbundleName": "honor_top_000010",
     "levels": [
       {
         "level": 1,
         "bonus": 0,
-        "description": "TOP4-10"
+        "description": "「世界」心愿榜的活动奖励"
       }
     ]
   },
@@ -101659,13 +101659,13 @@
     "seq": 2000005,
     "groupId": 20000,
     "honorRarity": "high",
-    "name": "TOP11-100",
-    "assetbundleName": "honor_top_000005",
+    "name": "心愿榜称号「TOP100」",
+    "assetbundleName": "honor_top_000100",
     "levels": [
       {
         "level": 1,
         "bonus": 0,
-        "description": "TOP11-100"
+        "description": "「世界」心愿榜的活动奖励"
       }
     ]
   },
@@ -101673,14 +101673,14 @@
     "id": 20005,
     "seq": 2000006,
     "groupId": 20000,
-    "honorRarity": "middle",
-    "name": "TOP101-1000",
-    "assetbundleName": "honor_top_000006",
+    "honorRarity": "high",
+    "name": "心愿榜称号「TOP500」",
+    "assetbundleName": "honor_top_000500",
     "levels": [
       {
         "level": 1,
         "bonus": 0,
-        "description": "TOP101-1000"
+        "description": "「世界」心愿榜的活动奖励"
       }
     ]
   },
@@ -101689,13 +101689,13 @@
     "seq": 2000007,
     "groupId": 20000,
     "honorRarity": "middle",
-    "name": "TOP1001-10000",
-    "assetbundleName": "honor_top_000007",
+    "name": "心愿榜称号「TOP10000」",
+    "assetbundleName": "honor_top_010000",
     "levels": [
       {
         "level": 1,
         "bonus": 0,
-        "description": "TOP1001-10000"
+        "description": "「世界」心愿榜的活动奖励"
       }
     ]
   },
@@ -101704,13 +101704,13 @@
     "seq": 2000008,
     "groupId": 20000,
     "honorRarity": "low",
-    "name": "TOP10001-20000",
-    "assetbundleName": "honor_top_000008",
+    "name": "心愿榜称号「TOP50000」",
+    "assetbundleName": "honor_top_050000",
     "levels": [
       {
         "level": 1,
         "bonus": 0,
-        "description": "TOP10001-20000"
+        "description": "「世界」心愿榜的活动奖励"
       }
     ]
   },
