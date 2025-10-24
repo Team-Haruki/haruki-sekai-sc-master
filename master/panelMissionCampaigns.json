@@ -7278,6 +7278,2090 @@
     ]
   },
   {
+    "id": 7,
+    "name": "电影世界计划初音未来上映纪念印章任务",
+    "assetbundleName": "cinema_2025_pm",
+    "bgmAssetbundleName": "cinema_2025_pm_bgm",
+    "selectableLimit": 6,
+    "startAt": 1761969600000,
+    "progressEndAt": 1764518399000,
+    "closedAt": 1764907199000,
+    "distributionEndAt": 1766116799000,
+    "informationId": 4516,
+    "panelMissionSheetGroups": [
+      {
+        "id": 701,
+        "panelMissionCampaignId": 7,
+        "name": "虚拟歌手",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 70101,
+            "panelMissionSheetGroupId": 701,
+            "name": "虚拟歌手 休闲卡",
+            "seq": 1,
+            "assetbundleName": "sheet_piapro_casual",
+            "panelMissions": [
+              {
+                "id": 7010101,
+                "panelMissionSheetId": 70101,
+                "name": "累计消耗\n50演出能量",
+                "description": "累计消耗50演出能量。\n*演出以及我的「世界」的消耗都纳入计算范围。",
+                "seq": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 50,
+                "rewards": [
+                  [
+                    1687
+                  ]
+                ]
+              },
+              {
+                "id": 7010102,
+                "panelMissionSheetId": 70101,
+                "name": "只用组合成员\n完成5次演出",
+                "description": "只用虚拟歌手成员\n进行编组并完成5次演出。",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1687
+                  ]
+                ]
+              },
+              {
+                "id": 7010103,
+                "panelMissionSheetId": 70101,
+                "name": "选择组合歌曲\n进行5次演出",
+                "description": "使用歌曲选择界面的\n“虚拟歌手选项卡”中的歌曲进行5次演出。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1687
+                  ]
+                ]
+              },
+              {
+                "id": 7010104,
+                "panelMissionSheetId": 70101,
+                "name": "选择组合成员的\nAnother Vocal ver.\n完成5次演出",
+                "description": "选择歌手中含有虚拟歌手成员的\nAnother Vocal ver.歌曲完成5次演出。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1687
+                  ]
+                ]
+              },
+              {
+                "id": 7010105,
+                "panelMissionSheetId": 70101,
+                "name": "身穿虚拟形象服装\n参加1场虚拟演唱会",
+                "description": "穿上虚拟歌手的“应援法披”\n或成员的“应援T恤”后，参加1次虚拟演唱会。",
+                "seq": 5,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1687
+                  ]
+                ]
+              },
+              {
+                "id": 7010106,
+                "panelMissionSheetId": 70101,
+                "name": "至少2人\n各佩戴粉丝称号\n完成3次演出\n",
+                "description": "至少2人均佩戴虚拟歌手成员粉丝称号\n完成3次“多人演出”。",
+                "seq": 6,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1687
+                  ]
+                ]
+              },
+              {
+                "id": 7010107,
+                "panelMissionSheetId": 70101,
+                "name": "以至少300万得分\n完成歌曲\n《I'm Mine》",
+                "description": "在“多人演出”中以至少300万的合计得分\n完成歌曲《I'm Mine》。",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 3000000,
+                "rewards": [
+                  [
+                    1687
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1688
+              ]
+            ]
+          },
+          {
+            "id": 70102,
+            "panelMissionSheetGroupId": 701,
+            "name": "虚拟歌手 标准卡",
+            "seq": 2,
+            "assetbundleName": "sheet_piapro_regular",
+            "panelMissions": [
+              {
+                "id": 7010201,
+                "panelMissionSheetId": 70102,
+                "name": "累计消耗\n100演出能量\n",
+                "description": "累计消耗100演出能量。\n*演出以及我的「世界」的消耗也纳入计算范围。",
+                "seq": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 100,
+                "rewards": [
+                  [
+                    1687
+                  ]
+                ]
+              },
+              {
+                "id": 7010202,
+                "panelMissionSheetId": 70102,
+                "name": "只用组合成员\n完成10次演出",
+                "description": "只用虚拟歌手成员\n进行编组并完成10次演出。",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1687
+                  ]
+                ]
+              },
+              {
+                "id": 7010203,
+                "panelMissionSheetId": 70102,
+                "name": "选择组合歌曲\n进行10次演出",
+                "description": "使用歌曲选择界面的\n“虚拟歌手选项卡”中的歌曲进行10次演出。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1687
+                  ]
+                ]
+              },
+              {
+                "id": 7010204,
+                "panelMissionSheetId": 70102,
+                "name": "选择组合成员的\nAnother Vocal ver.\n完成10次演出",
+                "description": "选择歌手中含有虚拟歌手成员的\nAnother Vocal ver.歌曲完成10次演出。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1687
+                  ]
+                ]
+              },
+              {
+                "id": 7010205,
+                "panelMissionSheetId": 70102,
+                "name": "身穿虚拟形象服装\n参加3场虚拟演唱会",
+                "description": "穿上虚拟歌手的“应援法披”\n或成员的“应援T恤”后，参加3次虚拟演唱会。",
+                "seq": 5,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1687
+                  ]
+                ]
+              },
+              {
+                "id": 7010206,
+                "panelMissionSheetId": 70102,
+                "name": "至少2人\n各佩戴粉丝称号\n完成5次演出",
+                "description": "至少2人均佩戴虚拟歌手成员粉丝称号\n完成5次“多人演出”。",
+                "seq": 6,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1687
+                  ]
+                ]
+              },
+              {
+                "id": 7010207,
+                "panelMissionSheetId": 70102,
+                "name": "以至少500万得分\n完成歌曲\n《I'm Mine》",
+                "description": "在“多人演出”中以至少500万的合计得分\n完成歌曲《I'm Mine》。",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 5000000,
+                "rewards": [
+                  [
+                    1687
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1689
+              ]
+            ]
+          },
+          {
+            "id": 70103,
+            "panelMissionSheetGroupId": 701,
+            "name": "虚拟歌手 无限卡",
+            "seq": 3,
+            "assetbundleName": "sheet_piapro_unlimited",
+            "panelMissions": [
+              {
+                "id": 7010301,
+                "panelMissionSheetId": 70103,
+                "name": "只用组合成员\n完成30次演出",
+                "description": "只用虚拟歌手成员\n进行编组并完成30次演出。",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1687
+                  ]
+                ]
+              },
+              {
+                "id": 7010302,
+                "panelMissionSheetId": 70103,
+                "name": "选择组合歌曲\n进行30次演出",
+                "description": "使用歌曲选择界面的\n“虚拟歌手选项卡”中的歌曲进行30次演出。",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1687
+                  ]
+                ]
+              },
+              {
+                "id": 7010303,
+                "panelMissionSheetId": 70103,
+                "name": "选择组合成员的\nAnother Vocal ver.\n完成30次演出",
+                "description": "选择歌手中含有虚拟歌手成员的\nAnother Vocal ver.歌曲完成30次演出。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1687
+                  ]
+                ]
+              },
+              {
+                "id": 7010304,
+                "panelMissionSheetId": 70103,
+                "name": "身穿虚拟形象服装\n参加5场虚拟演唱会",
+                "description": "穿上虚拟歌手的“应援法披”\n或成员的“应援T恤”后，参加5次虚拟演唱会。",
+                "seq": 4,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1687
+                  ]
+                ]
+              },
+              {
+                "id": 7010305,
+                "panelMissionSheetId": 70103,
+                "name": "至少2人\n各佩戴粉丝称号\n完成10次演出",
+                "description": "至少2人均佩戴虚拟歌手成员粉丝称号\n完成10次“多人演出”。",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1687
+                  ]
+                ]
+              },
+              {
+                "id": 7010306,
+                "panelMissionSheetId": 70103,
+                "name": "以至少800万得分\n完成歌曲\n《I'm Mine》",
+                "description": "在“多人演出”中以至少800万的合计得分\n完成歌曲《I'm Mine》。",
+                "seq": 6,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 8000000,
+                "rewards": [
+                  [
+                    1687
+                  ]
+                ]
+              },
+              {
+                "id": 7010307,
+                "panelMissionSheetId": 70103,
+                "name": "累计招募50次。",
+                "description": "任意招募累计招募50次。",
+                "seq": 7,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 50,
+                "rewards": [
+                  [
+                    1687
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1690
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": 702,
+        "panelMissionCampaignId": 7,
+        "name": "Leo/need",
+        "selectableLimit": 1,
+        "seq": 2,
+        "panelMissionSheets": [
+          {
+            "id": 70201,
+            "panelMissionSheetGroupId": 702,
+            "name": "Leo/need 休闲卡",
+            "seq": 1,
+            "assetbundleName": "sheet_lightsound_casual",
+            "panelMissions": [
+              {
+                "id": 7020101,
+                "panelMissionSheetId": 70201,
+                "name": "达成3次\n“SUPERFEVER”",
+                "description": "在“多人演出”中累计达成\n3次“SUPER FEVER”。",
+                "seq": 1,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1691
+                  ]
+                ]
+              },
+              {
+                "id": 7020102,
+                "panelMissionSheetId": 70201,
+                "name": "只用组合成员\n完成5次演出",
+                "description": "包含副组合在内，只用Leo/need成员\n进行编组并完成5次演出。",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1691
+                  ]
+                ]
+              },
+              {
+                "id": 7020103,
+                "panelMissionSheetId": 70201,
+                "name": "选择组合歌曲\n进行5次演出",
+                "description": "使用歌曲选择界面的\n“Leo/need选项卡”中的歌曲进行5次演出。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1691
+                  ]
+                ]
+              },
+              {
+                "id": 7020104,
+                "panelMissionSheetId": 70201,
+                "name": "选择组合成员的\nAnother Vocal ver.\n完成5次演出",
+                "description": "选择歌手中含有Leo/need成员的\nAnother Vocal ver.歌曲完成5次演出。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1691
+                  ]
+                ]
+              },
+              {
+                "id": 7020105,
+                "panelMissionSheetId": 70201,
+                "name": "身穿虚拟形象服装\n参加1场虚拟演唱会",
+                "description": "穿上Leo/need的“应援法披”\n或成员的“应援T恤”后，参加1次虚拟演唱会。",
+                "seq": 5,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1691
+                  ]
+                ]
+              },
+              {
+                "id": 7020106,
+                "panelMissionSheetId": 70201,
+                "name": "至少2人\n各佩戴粉丝称号\n完成3次演出\n",
+                "description": "至少2人均佩戴Leo/need成员粉丝称号\n完成3次“多人演出”。",
+                "seq": 6,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1691
+                  ]
+                ]
+              },
+              {
+                "id": 7020107,
+                "panelMissionSheetId": 70201,
+                "name": "以至少300万得分\n完成歌曲\n《缺一不可》",
+                "description": "在“多人演出”中以至少300万的合计得分\n完成歌曲《Integral》。",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 3000000,
+                "rewards": [
+                  [
+                    1691
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1692
+              ]
+            ]
+          },
+          {
+            "id": 70202,
+            "panelMissionSheetGroupId": 702,
+            "name": "Leo/need 标准卡",
+            "seq": 2,
+            "assetbundleName": "sheet_lightsound_regular",
+            "panelMissions": [
+              {
+                "id": 7020201,
+                "panelMissionSheetId": 70202,
+                "name": "达成5次\n“SUPERFEVER”",
+                "description": "在“多人演出”中累计达成\n5次“SUPER FEVER”。",
+                "seq": 1,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1691
+                  ]
+                ]
+              },
+              {
+                "id": 7020202,
+                "panelMissionSheetId": 70202,
+                "name": "只用组合成员\n完成10次演出",
+                "description": "包含副组合在内，只用Leo/need成员\n进行编组并完成10次演出。",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1691
+                  ]
+                ]
+              },
+              {
+                "id": 7020203,
+                "panelMissionSheetId": 70202,
+                "name": "选择组合歌曲\n进行10次演出",
+                "description": "使用歌曲选择界面的\n“Leo/need选项卡”中的歌曲进行10次演出。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1691
+                  ]
+                ]
+              },
+              {
+                "id": 7020204,
+                "panelMissionSheetId": 70202,
+                "name": "选择组合成员的\nAnother Vocal ver.\n完成10次演出",
+                "description": "选择歌手中含有Leo/need成员的\nAnother Vocal ver.歌曲完成10次演出。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1691
+                  ]
+                ]
+              },
+              {
+                "id": 7020205,
+                "panelMissionSheetId": 70202,
+                "name": "身穿虚拟形象服装\n参加3场虚拟演唱会",
+                "description": "穿上Leo/need的“应援法披”\n或成员的“应援T恤”后，参加3次虚拟演唱会。",
+                "seq": 5,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1691
+                  ]
+                ]
+              },
+              {
+                "id": 7020206,
+                "panelMissionSheetId": 70202,
+                "name": "至少2人\n各佩戴粉丝称号\n完成5次演出",
+                "description": "至少2人均佩戴Leo/need成员粉丝称号\n完成5次“多人演出”。",
+                "seq": 6,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1691
+                  ]
+                ]
+              },
+              {
+                "id": 7020207,
+                "panelMissionSheetId": 70202,
+                "name": "以至少500万得分\n完成歌曲\n《缺一不可》",
+                "description": "在“多人演出”中以至少500万的合计得分\n完成歌曲《Integral》。",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 5000000,
+                "rewards": [
+                  [
+                    1691
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1693
+              ]
+            ]
+          },
+          {
+            "id": 70203,
+            "panelMissionSheetGroupId": 702,
+            "name": "Leo/need 无限卡",
+            "seq": 3,
+            "assetbundleName": "sheet_lightsound_unlimited",
+            "panelMissions": [
+              {
+                "id": 7020301,
+                "panelMissionSheetId": 70203,
+                "name": "只用组合成员\n完成30次演出",
+                "description": "包含副组合在内，只用Leo/need成员\n进行编组并完成30次演出。",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1691
+                  ]
+                ]
+              },
+              {
+                "id": 7020302,
+                "panelMissionSheetId": 70203,
+                "name": "选择组合歌曲\n进行30次演出",
+                "description": "使用歌曲选择界面的\n“Leo/need选项卡”中的歌曲进行30次演出。",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1691
+                  ]
+                ]
+              },
+              {
+                "id": 7020303,
+                "panelMissionSheetId": 70203,
+                "name": "选择组合成员的\nAnother Vocal ver.\n完成30次演出",
+                "description": "选择歌手中含有Leo/need成员的\nAnother Vocal ver.歌曲完成30次演出。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1691
+                  ]
+                ]
+              },
+              {
+                "id": 7020304,
+                "panelMissionSheetId": 70203,
+                "name": "身穿虚拟形象服装\n参加5场虚拟演唱会",
+                "description": "穿上Leo/need的“应援法披”\n或成员的“应援T恤”后，参加5次虚拟演唱会。",
+                "seq": 4,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1691
+                  ]
+                ]
+              },
+              {
+                "id": 7020305,
+                "panelMissionSheetId": 70203,
+                "name": "至少2人\n各佩戴粉丝称号\n完成10次演出",
+                "description": "至少2人均佩戴Leo/need成员粉丝称号\n完成10次“多人演出”。",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1691
+                  ]
+                ]
+              },
+              {
+                "id": 7020306,
+                "panelMissionSheetId": 70203,
+                "name": "以至少800万得分\n完成歌曲\n《缺一不可》",
+                "description": "在“多人演出”中以至少800万的合计得分\n完成歌曲《Integral》。",
+                "seq": 6,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 8000000,
+                "rewards": [
+                  [
+                    1691
+                  ]
+                ]
+              },
+              {
+                "id": 7020307,
+                "panelMissionSheetId": 70203,
+                "name": "累计招募50次。",
+                "description": "任意招募累计招募50次。",
+                "seq": 7,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 50,
+                "rewards": [
+                  [
+                    1691
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1694
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": 703,
+        "panelMissionCampaignId": 7,
+        "name": "MORE MORE JUMP！",
+        "selectableLimit": 1,
+        "seq": 3,
+        "panelMissionSheets": [
+          {
+            "id": 70301,
+            "panelMissionSheetGroupId": 703,
+            "name": "MORE MORE JUMP！ 休闲卡",
+            "seq": 1,
+            "assetbundleName": "sheet_idol_casual",
+            "panelMissions": [
+              {
+                "id": 7030101,
+                "panelMissionSheetId": 70301,
+                "name": "观看\n5次MV",
+                "description": "累计在“观看MV”中观看5次MV。",
+                "seq": 1,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1695
+                  ]
+                ]
+              },
+              {
+                "id": 7030102,
+                "panelMissionSheetId": 70301,
+                "name": "只用组合成员\n完成5次演出",
+                "description": "包含副组合在内，只用MORE MORE JUMP！成员\n进行编组并完成5次演出。",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1695
+                  ]
+                ]
+              },
+              {
+                "id": 7030103,
+                "panelMissionSheetId": 70301,
+                "name": "选择组合歌曲\n进行5次演出",
+                "description": "使用歌曲选择界面的\n“MORE MORE JUMP！选项卡”中的歌曲进行5次演出。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1695
+                  ]
+                ]
+              },
+              {
+                "id": 7030104,
+                "panelMissionSheetId": 70301,
+                "name": "选择组合成员的\nAnother Vocal ver.\n完成5次演出",
+                "description": "选择歌手中含有MORE MORE JUMP！成员的\nAnother Vocal ver.歌曲完成5次演出。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1695
+                  ]
+                ]
+              },
+              {
+                "id": 7030105,
+                "panelMissionSheetId": 70301,
+                "name": "身穿虚拟形象服装\n参加1场虚拟演唱会",
+                "description": "穿上MORE MORE JUMP！的“应援法披”\n或成员的“应援T恤”后，参加1次虚拟演唱会。",
+                "seq": 5,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1695
+                  ]
+                ]
+              },
+              {
+                "id": 7030106,
+                "panelMissionSheetId": 70301,
+                "name": "至少2人\n各佩戴粉丝称号\n完成3次演出\n",
+                "description": "至少2人均佩戴MORE MORE JUMP！成员粉丝称号\n完成3次“多人演出”。",
+                "seq": 6,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1695
+                  ]
+                ]
+              },
+              {
+                "id": 7030107,
+                "panelMissionSheetId": 70301,
+                "name": "以至少300万得分\n完成歌曲\n《MOTTO!!!》",
+                "description": "在“多人演出”中以至少300万的合计得分\n完成歌曲《MOTTO!!!》。",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 3000000,
+                "rewards": [
+                  [
+                    1695
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1696
+              ]
+            ]
+          },
+          {
+            "id": 70302,
+            "panelMissionSheetGroupId": 703,
+            "name": "MORE MORE JUMP！ 标准卡",
+            "seq": 2,
+            "assetbundleName": "sheet_idol_regular",
+            "panelMissions": [
+              {
+                "id": 7030201,
+                "panelMissionSheetId": 70302,
+                "name": "观看\n10次MV",
+                "description": "累计在“观看MV”中观看10次MV。",
+                "seq": 1,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1695
+                  ]
+                ]
+              },
+              {
+                "id": 7030202,
+                "panelMissionSheetId": 70302,
+                "name": "只用组合成员\n完成10次演出",
+                "description": "包含副组合在内，只用MORE MORE JUMP！成员\n进行编组并完成10次演出。",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1695
+                  ]
+                ]
+              },
+              {
+                "id": 7030203,
+                "panelMissionSheetId": 70302,
+                "name": "选择组合歌曲\n进行10次演出\n",
+                "description": "使用歌曲选择界面的\n“MORE MORE JUMP！选项卡”中的歌曲进行10次演出。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1695
+                  ]
+                ]
+              },
+              {
+                "id": 7030204,
+                "panelMissionSheetId": 70302,
+                "name": "选择组合成员的\nAnother Vocal ver.\n完成10次演出",
+                "description": "选择歌手中含有MORE MORE JUMP！成员的\nAnother Vocal ver.歌曲完成10次演出。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1695
+                  ]
+                ]
+              },
+              {
+                "id": 7030205,
+                "panelMissionSheetId": 70302,
+                "name": "身穿虚拟形象服装\n参加3场虚拟演唱会",
+                "description": "穿上MORE MORE JUMP！的“应援法披”\n或成员的“应援T恤”后，参加3次虚拟演唱会。",
+                "seq": 5,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1695
+                  ]
+                ]
+              },
+              {
+                "id": 7030206,
+                "panelMissionSheetId": 70302,
+                "name": "至少2人\n各佩戴粉丝称号\n完成5次演出",
+                "description": "至少2人均佩戴MORE MORE JUMP！成员粉丝称号\n完成5次“多人演出”。",
+                "seq": 6,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1695
+                  ]
+                ]
+              },
+              {
+                "id": 7030207,
+                "panelMissionSheetId": 70302,
+                "name": "以至少500万得分\n完成歌曲\n《MOTTO!!!》",
+                "description": "在“多人演出”中以至少500万的合计得分\n完成歌曲《MOTTO!!!》。",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 5000000,
+                "rewards": [
+                  [
+                    1695
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1697
+              ]
+            ]
+          },
+          {
+            "id": 70303,
+            "panelMissionSheetGroupId": 703,
+            "name": "MORE MORE JUMP！ 无限卡",
+            "seq": 3,
+            "assetbundleName": "sheet_idol_unlimited",
+            "panelMissions": [
+              {
+                "id": 7030301,
+                "panelMissionSheetId": 70303,
+                "name": "只用组合成员\n完成30次演出",
+                "description": "包含副组合在内，只用MORE MORE JUMP！成员\n进行编组并完成30次演出。",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1695
+                  ]
+                ]
+              },
+              {
+                "id": 7030302,
+                "panelMissionSheetId": 70303,
+                "name": "选择组合歌曲\n进行30次演出",
+                "description": "使用歌曲选择界面的\n“MORE MORE JUMP！选项卡”中的歌曲进行30次演出。",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1695
+                  ]
+                ]
+              },
+              {
+                "id": 7030303,
+                "panelMissionSheetId": 70303,
+                "name": "选择组合成员的\nAnother Vocal ver.\n完成30次演出",
+                "description": "选择歌手中含有MORE MORE JUMP！成员的\nAnother Vocal ver.歌曲完成30次演出。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1695
+                  ]
+                ]
+              },
+              {
+                "id": 7030304,
+                "panelMissionSheetId": 70303,
+                "name": "身穿虚拟形象服装\n参加5场虚拟演唱会",
+                "description": "穿上MORE MORE JUMP！的“应援法披”\n或成员的“应援T恤”后，参加5次虚拟演唱会。",
+                "seq": 4,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1695
+                  ]
+                ]
+              },
+              {
+                "id": 7030305,
+                "panelMissionSheetId": 70303,
+                "name": "至少2人\n各佩戴粉丝称号\n完成10次演出",
+                "description": "至少2人均佩戴MORE MORE JUMP！成员粉丝称号\n完成10次“多人演出”。",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1695
+                  ]
+                ]
+              },
+              {
+                "id": 7030306,
+                "panelMissionSheetId": 70303,
+                "name": "以至少800万得分\n完成歌曲\n《MOTTO!!!》",
+                "description": "在“多人演出”中以至少800万的合计得分\n完成歌曲《MOTTO!!!》。",
+                "seq": 6,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 8000000,
+                "rewards": [
+                  [
+                    1695
+                  ]
+                ]
+              },
+              {
+                "id": 7030307,
+                "panelMissionSheetId": 70303,
+                "name": "累计招募50次。",
+                "description": "任意招募累计招募50次。",
+                "seq": 7,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 50,
+                "rewards": [
+                  [
+                    1695
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1698
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": 704,
+        "panelMissionCampaignId": 7,
+        "name": "Vivid BAD SQUAD",
+        "selectableLimit": 1,
+        "seq": 4,
+        "panelMissionSheets": [
+          {
+            "id": 70401,
+            "panelMissionSheetGroupId": 704,
+            "name": "Vivid BAD SQUAD 休闲卡",
+            "seq": 1,
+            "assetbundleName": "sheet_street_casual",
+            "panelMissions": [
+              {
+                "id": 7040101,
+                "panelMissionSheetId": 70401,
+                "name": "累计观看\n5话剧情",
+                "description": "累计观看主线剧情/活动剧情或卡牌剧情5话，不能跳过或快进。\n*已观看的剧情也纳入计算范围。",
+                "seq": 1,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1699
+                  ]
+                ]
+              },
+              {
+                "id": 7040102,
+                "panelMissionSheetId": 70401,
+                "name": "只用组合成员\n完成5次演出",
+                "description": "包含副组合在内，只用Vivid BAD SQUAD成员\n进行编组并完成5次演出。",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1699
+                  ]
+                ]
+              },
+              {
+                "id": 7040103,
+                "panelMissionSheetId": 70401,
+                "name": "选择组合歌曲\n进行5次演出",
+                "description": "使用歌曲选择界面的\n“Vivid BAD SQUAD选项卡”中的歌曲进行5次演出。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1699
+                  ]
+                ]
+              },
+              {
+                "id": 7040104,
+                "panelMissionSheetId": 70401,
+                "name": "选择组合成员的\nAnother Vocal ver.\n完成5次演出",
+                "description": "选择歌手中含有Vivid BAD SQUAD成员的\nAnother Vocal ver.歌曲完成5次演出。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1699
+                  ]
+                ]
+              },
+              {
+                "id": 7040105,
+                "panelMissionSheetId": 70401,
+                "name": "身穿虚拟形象服装\n参加1场虚拟演唱会",
+                "description": "穿上Vivid BAD SQUAD的“应援法披”\n或成员的“应援T恤”后，参加1次虚拟演唱会。",
+                "seq": 5,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1699
+                  ]
+                ]
+              },
+              {
+                "id": 7040106,
+                "panelMissionSheetId": 70401,
+                "name": "至少2人\n各佩戴粉丝称号\n完成3次演出\n",
+                "description": "至少2人均佩戴Vivid BAD SQUAD成员粉丝称号\n完成3次“多人演出”。",
+                "seq": 6,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1699
+                  ]
+                ]
+              },
+              {
+                "id": 7040107,
+                "panelMissionSheetId": 70401,
+                "name": "以至少300万得分\n完成歌曲\n《Beyond the way》",
+                "description": "在“多人演出”中以至少300万的合计得分\n完成歌曲《Beyond the way》。",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 3000000,
+                "rewards": [
+                  [
+                    1699
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1700
+              ]
+            ]
+          },
+          {
+            "id": 70402,
+            "panelMissionSheetGroupId": 704,
+            "name": "Vivid BAD SQUAD 标准卡",
+            "seq": 2,
+            "assetbundleName": "sheet_street_regular",
+            "panelMissions": [
+              {
+                "id": 7040201,
+                "panelMissionSheetId": 70402,
+                "name": "累计观看\n10话剧情",
+                "description": "累计观看主线剧情/活动剧情或卡牌剧情10话，不能跳过或快进。\n*已观看的剧情也纳入计算范围。",
+                "seq": 1,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1699
+                  ]
+                ]
+              },
+              {
+                "id": 7040202,
+                "panelMissionSheetId": 70402,
+                "name": "只用组合成员\n完成10次演出",
+                "description": "包含副组合在内，只用Vivid BAD SQUAD成员\n进行编组并完成10次演出。",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1699
+                  ]
+                ]
+              },
+              {
+                "id": 7040203,
+                "panelMissionSheetId": 70402,
+                "name": "选择组合歌曲\n进行10次演出\n",
+                "description": "使用歌曲选择界面的\n“Vivid BAD SQUAD选项卡”中的歌曲进行10次演出。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1699
+                  ]
+                ]
+              },
+              {
+                "id": 7040204,
+                "panelMissionSheetId": 70402,
+                "name": "选择组合成员的\nAnother Vocal ver.\n完成10次演出",
+                "description": "选择歌手中含有Vivid BAD SQUAD成员的\nAnother Vocal ver.歌曲完成10次演出。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1699
+                  ]
+                ]
+              },
+              {
+                "id": 7040205,
+                "panelMissionSheetId": 70402,
+                "name": "身穿虚拟形象服装\n参加3场虚拟演唱会",
+                "description": "穿上Vivid BAD SQUAD的“应援法披”\n或成员的“应援T恤”后，参加3次虚拟演唱会。",
+                "seq": 5,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1699
+                  ]
+                ]
+              },
+              {
+                "id": 7040206,
+                "panelMissionSheetId": 70402,
+                "name": "至少2人\n各佩戴粉丝称号\n完成5次演出",
+                "description": "至少2人均佩戴Vivid BAD SQUAD成员粉丝称号\n完成5次“多人演出”。",
+                "seq": 6,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1699
+                  ]
+                ]
+              },
+              {
+                "id": 7040207,
+                "panelMissionSheetId": 70402,
+                "name": "以至少500万得分\n完成歌曲\n《Beyond the way》",
+                "description": "在“多人演出”中以至少500万的合计得分\n完成歌曲《Beyond the way》。",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 5000000,
+                "rewards": [
+                  [
+                    1699
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1701
+              ]
+            ]
+          },
+          {
+            "id": 70403,
+            "panelMissionSheetGroupId": 704,
+            "name": "Vivid BAD SQUAD 无限卡",
+            "seq": 3,
+            "assetbundleName": "sheet_street_unlimited",
+            "panelMissions": [
+              {
+                "id": 7040301,
+                "panelMissionSheetId": 70403,
+                "name": "只用组合成员\n完成30次演出",
+                "description": "包含副组合在内，只用Vivid BAD SQUAD成员\n进行编组并完成30次演出。",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1699
+                  ]
+                ]
+              },
+              {
+                "id": 7040302,
+                "panelMissionSheetId": 70403,
+                "name": "选择组合歌曲\n进行30次演出",
+                "description": "使用歌曲选择界面的\n“Vivid BAD SQUAD选项卡”中的歌曲进行30次演出。",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1699
+                  ]
+                ]
+              },
+              {
+                "id": 7040303,
+                "panelMissionSheetId": 70403,
+                "name": "选择组合成员的\nAnother Vocal ver.\n完成30次演出",
+                "description": "选择歌手中含有Vivid BAD SQUAD成员的\nAnother Vocal ver.歌曲完成30次演出。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1699
+                  ]
+                ]
+              },
+              {
+                "id": 7040304,
+                "panelMissionSheetId": 70403,
+                "name": "身穿虚拟形象服装\n参加5场虚拟演唱会",
+                "description": "穿上Vivid BAD SQUAD的“应援法披”\n或成员的“应援T恤”后，参加5次虚拟演唱会。",
+                "seq": 4,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1699
+                  ]
+                ]
+              },
+              {
+                "id": 7040305,
+                "panelMissionSheetId": 70403,
+                "name": "至少2人\n各佩戴粉丝称号\n完成10次演出",
+                "description": "至少2人均佩戴Vivid BAD SQUAD成员粉丝称号\n完成10次“多人演出”。",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1699
+                  ]
+                ]
+              },
+              {
+                "id": 7040306,
+                "panelMissionSheetId": 70403,
+                "name": "以至少800万得分\n完成歌曲\n《Beyond the way》",
+                "description": "在“多人演出”中以至少800万的合计得分\n完成歌曲《Beyond the way》。",
+                "seq": 6,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 8000000,
+                "rewards": [
+                  [
+                    1699
+                  ]
+                ]
+              },
+              {
+                "id": 7040307,
+                "panelMissionSheetId": 70403,
+                "name": "累计招募50次。",
+                "description": "任意招募累计招募50次。",
+                "seq": 7,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 50,
+                "rewards": [
+                  [
+                    1699
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1702
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": 705,
+        "panelMissionCampaignId": 7,
+        "name": "Wonderlands×Showtime",
+        "selectableLimit": 1,
+        "seq": 5,
+        "panelMissionSheets": [
+          {
+            "id": 70501,
+            "panelMissionSheetGroupId": 705,
+            "name": "Vivid BAD SQUAD 休闲卡",
+            "seq": 1,
+            "assetbundleName": "sheet_themepark_casual",
+            "panelMissions": [
+              {
+                "id": 7050101,
+                "panelMissionSheetId": 70501,
+                "name": "累计获得5000次\nPERFECT判定",
+                "description": "累计在演出中获得5000次PERFECT判定。",
+                "seq": 1,
+                "panelMissionType": "get_live_perfect",
+                "requirement1": 5000,
+                "rewards": [
+                  [
+                    1703
+                  ]
+                ]
+              },
+              {
+                "id": 7050102,
+                "panelMissionSheetId": 70501,
+                "name": "只用组合成员\n完成5次演出",
+                "description": "包含副组合在内，只用Wonderlands×Showtime成员\n进行编组并完成5次演出。",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1703
+                  ]
+                ]
+              },
+              {
+                "id": 7050103,
+                "panelMissionSheetId": 70501,
+                "name": "选择组合歌曲\n进行5次演出",
+                "description": "使用歌曲选择界面的\n“Wonderlands×Showtime选项卡”中的歌曲进行5次演出。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1703
+                  ]
+                ]
+              },
+              {
+                "id": 7050104,
+                "panelMissionSheetId": 70501,
+                "name": "选择组合成员的\nAnother Vocal ver.\n完成5次演出",
+                "description": "选择歌手中含有Wonderlands×Showtime成员的\nAnother Vocal ver.歌曲完成5次演出。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1703
+                  ]
+                ]
+              },
+              {
+                "id": 7050105,
+                "panelMissionSheetId": 70501,
+                "name": "身穿虚拟形象服装\n参加1场虚拟演唱会",
+                "description": "穿上Wonderlands×Showtime的“应援法披”\n或成员的“应援T恤”后，参加1次虚拟演唱会。",
+                "seq": 5,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1703
+                  ]
+                ]
+              },
+              {
+                "id": 7050106,
+                "panelMissionSheetId": 70501,
+                "name": "至少2人\n各佩戴粉丝称号\n完成3次演出\n",
+                "description": "至少2人均佩戴Wonderlands×Showtime成员粉丝称号\n完成3次“多人演出”。",
+                "seq": 6,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1703
+                  ]
+                ]
+              },
+              {
+                "id": 7050107,
+                "panelMissionSheetId": 70501,
+                "name": "以至少300万得分\n完成歌曲\n《照亮世界的四和音》",
+                "description": "在“多人演出”中以至少300万的合计得分\n完成歌曲《照亮世界的四和音》。",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 3000000,
+                "rewards": [
+                  [
+                    1703
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1704
+              ]
+            ]
+          },
+          {
+            "id": 70502,
+            "panelMissionSheetGroupId": 705,
+            "name": "Vivid BAD SQUAD 标准卡",
+            "seq": 2,
+            "assetbundleName": "sheet_themepark_regular",
+            "panelMissions": [
+              {
+                "id": 7050201,
+                "panelMissionSheetId": 70502,
+                "name": "累计获得20000次\nPERFECT判定",
+                "description": "累计在演出中获得20000次PERFECT判定。",
+                "seq": 1,
+                "panelMissionType": "get_live_perfect",
+                "requirement1": 20000,
+                "rewards": [
+                  [
+                    1703
+                  ]
+                ]
+              },
+              {
+                "id": 7050202,
+                "panelMissionSheetId": 70502,
+                "name": "只用组合成员\n完成10次演出",
+                "description": "包含副组合在内，只用Wonderlands×Showtime成员\n进行编组并完成10次演出。",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1703
+                  ]
+                ]
+              },
+              {
+                "id": 7050203,
+                "panelMissionSheetId": 70502,
+                "name": "选择组合歌曲\n进行10次演出\n",
+                "description": "使用歌曲选择界面的\n“Wonderlands×Showtime选项卡”中的歌曲进行10次演出。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1703
+                  ]
+                ]
+              },
+              {
+                "id": 7050204,
+                "panelMissionSheetId": 70502,
+                "name": "选择组合成员的\nAnother Vocal ver.\n完成10次演出",
+                "description": "选择歌手中含有Wonderlands×Showtime成员的\nAnother Vocal ver.歌曲完成10次演出。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1703
+                  ]
+                ]
+              },
+              {
+                "id": 7050205,
+                "panelMissionSheetId": 70502,
+                "name": "身穿虚拟形象服装\n参加3场虚拟演唱会",
+                "description": "穿上Wonderlands×Showtime的“应援法披”\n或成员的“应援T恤”后，参加3次虚拟演唱会。",
+                "seq": 5,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1703
+                  ]
+                ]
+              },
+              {
+                "id": 7050206,
+                "panelMissionSheetId": 70502,
+                "name": "至少2人\n各佩戴粉丝称号\n完成5次演出",
+                "description": "至少2人均佩戴Wonderlands×Showtime成员粉丝称号\n完成5次“多人演出”。",
+                "seq": 6,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1703
+                  ]
+                ]
+              },
+              {
+                "id": 7050207,
+                "panelMissionSheetId": 70502,
+                "name": "以至少500万得分\n完成歌曲\n《照亮世界的四和音》",
+                "description": "在“多人演出”中以至少500万的合计得分\n完成歌曲《照亮世界的四和音》。",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 5000000,
+                "rewards": [
+                  [
+                    1703
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1705
+              ]
+            ]
+          },
+          {
+            "id": 70503,
+            "panelMissionSheetGroupId": 705,
+            "name": "Vivid BAD SQUAD 无限卡",
+            "seq": 3,
+            "assetbundleName": "sheet_themepark_unlimited",
+            "panelMissions": [
+              {
+                "id": 7050301,
+                "panelMissionSheetId": 70503,
+                "name": "只用组合成员\n完成30次演出",
+                "description": "包含副组合在内，只用Wonderlands×Showtime成员\n进行编组并完成30次演出。",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1703
+                  ]
+                ]
+              },
+              {
+                "id": 7050302,
+                "panelMissionSheetId": 70503,
+                "name": "选择组合歌曲\n进行30次演出",
+                "description": "使用歌曲选择界面的\n“Wonderlands×Showtime选项卡”中的歌曲进行30次演出。",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1703
+                  ]
+                ]
+              },
+              {
+                "id": 7050303,
+                "panelMissionSheetId": 70503,
+                "name": "选择组合成员的\nAnother Vocal ver.\n完成30次演出",
+                "description": "选择歌手中含有Wonderlands×Showtime成员的\nAnother Vocal ver.歌曲完成30次演出。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1703
+                  ]
+                ]
+              },
+              {
+                "id": 7050304,
+                "panelMissionSheetId": 70503,
+                "name": "身穿虚拟形象服装\n参加5场虚拟演唱会",
+                "description": "穿上Wonderlands×Showtime的“应援法披”\n或成员的“应援T恤”后，参加5次虚拟演唱会。",
+                "seq": 4,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1703
+                  ]
+                ]
+              },
+              {
+                "id": 7050305,
+                "panelMissionSheetId": 70503,
+                "name": "至少2人\n各佩戴粉丝称号\n完成10次演出",
+                "description": "至少2人均佩戴Wonderlands×Showtime成员粉丝称号\n完成10次“多人演出”。",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1703
+                  ]
+                ]
+              },
+              {
+                "id": 7050306,
+                "panelMissionSheetId": 70503,
+                "name": "以至少800万得分\n完成歌曲\n《照亮世界的四和音》",
+                "description": "在“多人演出”中以至少800万的合计得分\n完成歌曲《照亮世界的四和音》。",
+                "seq": 6,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 8000000,
+                "rewards": [
+                  [
+                    1703
+                  ]
+                ]
+              },
+              {
+                "id": 7050307,
+                "panelMissionSheetId": 70503,
+                "name": "累计招募50次。",
+                "description": "任意招募累计招募50次。",
+                "seq": 7,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 50,
+                "rewards": [
+                  [
+                    1703
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1706
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": 706,
+        "panelMissionCampaignId": 7,
+        "name": "25点，Nightcord见。",
+        "selectableLimit": 1,
+        "seq": 6,
+        "panelMissionSheets": [
+          {
+            "id": 70601,
+            "panelMissionSheetGroupId": 706,
+            "name": "25点，Nightcord见。 休闲卡",
+            "seq": 1,
+            "assetbundleName": "sheet_schoolrefusal_casual",
+            "panelMissions": [
+              {
+                "id": 7060101,
+                "panelMissionSheetId": 70601,
+                "name": "累计在演出中获得\n10万活动积分",
+                "description": "累计在演出中获得10万活动积分。\n*在我的「世界」获得的活动积分不纳入计算范围。",
+                "seq": 1,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 100000,
+                "rewards": [
+                  [
+                    1707
+                  ]
+                ]
+              },
+              {
+                "id": 7060102,
+                "panelMissionSheetId": 70601,
+                "name": "只用组合成员\n完成5次演出",
+                "description": "包含副组合在内，只用25点，Nightcord见。成员\n进行编组并完成5次演出。",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1707
+                  ]
+                ]
+              },
+              {
+                "id": 7060103,
+                "panelMissionSheetId": 70601,
+                "name": "选择组合歌曲\n进行5次演出",
+                "description": "使用歌曲选择画面的\n“25点，Nightcord见。选项卡”中的歌曲进行5次演出。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1707
+                  ]
+                ]
+              },
+              {
+                "id": 7060104,
+                "panelMissionSheetId": 70601,
+                "name": "选择组合成员的\nAnother Vocal ver.\n完成5次演出",
+                "description": "选择歌手中含有25点，Nightcord见。成员的\nAnother Vocal ver.歌曲完成5次演出。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1707
+                  ]
+                ]
+              },
+              {
+                "id": 7060105,
+                "panelMissionSheetId": 70601,
+                "name": "身穿虚拟形象服装\n参加1场虚拟演唱会",
+                "description": "穿上25点，Nightcord见。的“应援法披”\n或成员的“应援T恤”后，参加1次虚拟演唱会。",
+                "seq": 5,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1707
+                  ]
+                ]
+              },
+              {
+                "id": 7060106,
+                "panelMissionSheetId": 70601,
+                "name": "至少2人\n各佩戴粉丝称号\n完成3次演出\n",
+                "description": "至少2人均佩戴25点，Nightcord见。成员粉丝称号\n完成3次“多人演出”。",
+                "seq": 6,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1707
+                  ]
+                ]
+              },
+              {
+                "id": 7060107,
+                "panelMissionSheetId": 70601,
+                "name": "以至少300万得分\n完成歌曲\n《微明暮光》",
+                "description": "在“多人演出”中以至少300万的合计得分\n完成歌曲《Twilight Light》。",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 3000000,
+                "rewards": [
+                  [
+                    1707
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1708
+              ]
+            ]
+          },
+          {
+            "id": 70602,
+            "panelMissionSheetGroupId": 706,
+            "name": "25点，Nightcord见。 标准卡",
+            "seq": 2,
+            "assetbundleName": "sheet_schoolrefusal_regular",
+            "panelMissions": [
+              {
+                "id": 7060201,
+                "panelMissionSheetId": 70602,
+                "name": "累计获得\n30万活动积分",
+                "description": "累计在演出中获得30万活动积分。\n*在我的「世界」获得的活动积分不纳入计算范围。",
+                "seq": 1,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 300000,
+                "rewards": [
+                  [
+                    1707
+                  ]
+                ]
+              },
+              {
+                "id": 7060202,
+                "panelMissionSheetId": 70602,
+                "name": "只用组合成员\n完成10次演出",
+                "description": "包含副组合在内，只用25点，Nightcord见。成员\n进行编组并完成10次演出。",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1707
+                  ]
+                ]
+              },
+              {
+                "id": 7060203,
+                "panelMissionSheetId": 70602,
+                "name": "选择组合歌曲\n进行10次演出\n",
+                "description": "使用歌曲选择画面的\n“25点，Nightcord见。选项卡”中的歌曲进行10次演出。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1707
+                  ]
+                ]
+              },
+              {
+                "id": 7060204,
+                "panelMissionSheetId": 70602,
+                "name": "选择组合成员的\nAnother Vocal ver.\n完成10次演出",
+                "description": "选择歌手中含有25点，Nightcord见。成员的\nAnother Vocal ver.歌曲完成10次演出。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1707
+                  ]
+                ]
+              },
+              {
+                "id": 7060205,
+                "panelMissionSheetId": 70602,
+                "name": "身穿虚拟形象服装\n参加3场虚拟演唱会",
+                "description": "穿上25点，Nightcord见。的“应援法披”\n或成员的“应援T恤”后，参加3次虚拟演唱会。",
+                "seq": 5,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1707
+                  ]
+                ]
+              },
+              {
+                "id": 7060206,
+                "panelMissionSheetId": 70602,
+                "name": "至少2人\n各佩戴粉丝称号\n完成5次演出",
+                "description": "至少2人均佩戴25点，Nightcord见。成员粉丝称号\n完成5次“多人演出”。",
+                "seq": 6,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1707
+                  ]
+                ]
+              },
+              {
+                "id": 7060207,
+                "panelMissionSheetId": 70602,
+                "name": "以至少500万得分\n完成歌曲\n《微明暮光》",
+                "description": "在“多人演出”中以至少500万的合计得分\n完成歌曲《Twilight Light》。",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 5000000,
+                "rewards": [
+                  [
+                    1707
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1709
+              ]
+            ]
+          },
+          {
+            "id": 70603,
+            "panelMissionSheetGroupId": 706,
+            "name": "25点，Nightcord见。 无限卡",
+            "seq": 3,
+            "assetbundleName": "sheet_schoolrefusal_unlimited",
+            "panelMissions": [
+              {
+                "id": 7060301,
+                "panelMissionSheetId": 70603,
+                "name": "只用组合成员\n完成30次演出",
+                "description": "包含副组合在内，只用25点，Nightcord见。成员\n进行编组并完成30次演出。",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1707
+                  ]
+                ]
+              },
+              {
+                "id": 7060302,
+                "panelMissionSheetId": 70603,
+                "name": "选择组合歌曲\n进行30次演出",
+                "description": "使用歌曲选择画面的\n“25点，Nightcord见。选项卡”中的歌曲进行30次演出。",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1707
+                  ]
+                ]
+              },
+              {
+                "id": 7060303,
+                "panelMissionSheetId": 70603,
+                "name": "选择组合成员的\nAnother Vocal ver.\n完成30次演出",
+                "description": "选择歌手中含有25点，Nightcord见。成员的\nAnother Vocal ver.歌曲完成30次演出。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1707
+                  ]
+                ]
+              },
+              {
+                "id": 7060304,
+                "panelMissionSheetId": 70603,
+                "name": "身穿虚拟形象服装\n参加5场虚拟演唱会",
+                "description": "穿上25点，Nightcord见。的“应援法披”\n或成员的“应援T恤”后，参加5次虚拟演唱会。",
+                "seq": 4,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1707
+                  ]
+                ]
+              },
+              {
+                "id": 7060305,
+                "panelMissionSheetId": 70603,
+                "name": "至少2人\n各佩戴粉丝称号\n完成10次演出",
+                "description": "至少2人均佩戴25点，Nightcord见。成员粉丝称号\n完成10次“多人演出”。",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1707
+                  ]
+                ]
+              },
+              {
+                "id": 7060306,
+                "panelMissionSheetId": 70603,
+                "name": "以至少800万得分\n完成歌曲\n《微明暮光》",
+                "description": "在“多人演出”中以至少800万的合计得分\n完成歌曲《Twilight Light》。",
+                "seq": 6,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 8000000,
+                "rewards": [
+                  [
+                    1707
+                  ]
+                ]
+              },
+              {
+                "id": 7060307,
+                "panelMissionSheetId": 70603,
+                "name": "累计招募50次。",
+                "description": "任意招募累计招募50次。",
+                "seq": 7,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 50,
+                "rewards": [
+                  [
+                    1707
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1710
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 9,
     "name": "[女神异闻录5 皇家版联动纪念]印章任务",
     "assetbundleName": "persona5royal_collab_2025_pm",

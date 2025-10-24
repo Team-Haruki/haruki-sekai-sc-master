@@ -234,8 +234,8 @@
     "id": 135,
     "seq": 1,
     "limitMissionType": "clear_virtual_live",
-    "requirement": 333,
-    "sentence": "观看一次万圣节虚拟演唱会。",
+    "requirement": 1,
+    "sentence": "观看1场虚拟演唱会。",
     "resourceBoxId": 400087,
     "selectableRewardGroupId": 0
   },
@@ -247,6 +247,66 @@
     "requirement": 5,
     "sentence": "完成以上所有任务。",
     "resourceBoxId": 400081,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 23,
+    "id": 137,
+    "seq": 1,
+    "limitMissionType": "clear_live_join_member_meiko",
+    "requirement": 15,
+    "sentence": "将MEIKO加入编组，累计完成15次演出。",
+    "resourceBoxId": 100320,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 23,
+    "id": 138,
+    "seq": 1,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 100,
+    "sentence": "累计消耗100演出能量。（可以从[演出]->[设置]中调整演出能量的消耗量。）    ",
+    "resourceBoxId": 100307,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 23,
+    "id": 139,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "在活动兑换所中进行3次交换。",
+    "resourceBoxId": 400082,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 23,
+    "id": 140,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live_vocal_meiko",
+    "requirement": 3,
+    "sentence": "选择演唱者含MEIKO的歌曲进行3次挑战演出吧。",
+    "resourceBoxId": 400083,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 23,
+    "id": 141,
+    "seq": 1,
+    "limitMissionType": "collect_event_point",
+    "requirement": 200000,
+    "sentence": "累计获得200,000活动积分。",
+    "resourceBoxId": 400084,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 23,
+    "id": 142,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "完成所有的MEIKO纪念日限时任务。",
+    "resourceBoxId": 400088,
     "selectableRewardGroupId": 0
   }
 ]

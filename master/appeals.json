@@ -858,5 +858,115 @@
     "endAt": 1760198399000,
     "appealReadConditionType": "transition",
     "text": "塔罗主题服装"
+  },
+  {
+    "id": 394,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1761364800000,
+    "endAt": 1762703999000,
+    "appealReadConditionType": "purchase",
+    "text": "奇幻万圣节服装登场"
+  },
+  {
+    "id": 395,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1762056000000,
+    "endAt": 1763006399000,
+    "appealReadConditionType": "purchase",
+    "text": "实乃理、心羽、司登场"
+  },
+  {
+    "id": 396,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1763006400000,
+    "endAt": 1763956799000,
+    "appealReadConditionType": "purchase",
+    "text": "爱莉、咲希、瑞希登场"
+  },
+  {
+    "id": 397,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1763956800000,
+    "endAt": 1764907199000,
+    "appealReadConditionType": "purchase",
+    "text": "冬弥、类、KAITO登场"
+  },
+  {
+    "id": 398,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1762272000000,
+    "endAt": 1762876799000,
+    "appealReadConditionType": "purchase",
+    "text": "[纪念日]MEIKO登场"
+  },
+  {
+    "id": 399,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1762876800000,
+    "endAt": 1763481599000,
+    "appealReadConditionType": "purchase",
+    "text": "[生日]东云彰人登场"
+  },
+  {
+    "id": 400,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1762747200000,
+    "endAt": 1763611199000,
+    "appealReadConditionType": "purchase",
+    "text": "志步、雫、铃登场"
+  },
+  {
+    "id": 401,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1763611200000,
+    "endAt": 1764475199000,
+    "appealReadConditionType": "purchase",
+    "text": "宁宁、笑梦、连登场"
+  },
+  {
+    "id": 402,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1764475200000,
+    "endAt": 1765425599000,
+    "appealReadConditionType": "purchase",
+    "text": "绘名、瑞希、MEIKO登场"
+  },
+  {
+    "id": 403,
+    "seq": 3,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1761364800000,
+    "endAt": 1762703999000,
+    "appealReadConditionType": "transition",
+    "text": "万圣节特惠礼包"
+  },
+  {
+    "id": 404,
+    "seq": 3,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1761364800000,
+    "endAt": 1762703999000,
+    "appealReadConditionType": "transition",
+    "text": "万圣节服装"
   }
 ]

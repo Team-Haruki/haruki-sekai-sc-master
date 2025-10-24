@@ -20,13 +20,24 @@
     "keyMissionId": 129,
     "startAt": 1758110400000,
     "endAt": 1758643199000,
-    "assetbundleName": "limit_15s_2022"
+    "assetbundleName": "limit_15s_2022",
+    "distributionEndAt": 1758729599000
   },
   {
     "id": 22,
     "keyMissionId": 136,
     "startAt": 1761278400000,
     "endAt": 1761926399000,
-    "assetbundleName": "limit_15s_2022"
+    "assetbundleName": "limit_15s_2022",
+    "distributionEndAt": 1762012799000
+  },
+  {
+    "id": 23,
+    "keyMissionId": 142,
+    "startAt": 1761969600000,
+    "endAt": 1763038799000,
+    "assetbundleName": "limitmission_miku_25",
+    "iconAssetbundleName": "limitmission_miku_25",
+    "distributionEndAt": 1763125199000
   }
 ]
