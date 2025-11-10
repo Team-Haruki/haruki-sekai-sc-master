@@ -244,7 +244,7 @@
     "id": 136,
     "seq": 1,
     "limitMissionType": "clear_all_limit_mission",
-    "requirement": 6,
+    "requirement": 5,
     "sentence": "完成以上所有任务。",
     "resourceBoxId": 400081,
     "selectableRewardGroupId": 0
@@ -307,6 +307,166 @@
     "requirement": 5,
     "sentence": "完成所有的MEIKO纪念日限时任务。",
     "resourceBoxId": 400088,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 24,
+    "id": 143,
+    "seq": 1,
+    "limitMissionType": "login",
+    "requirement": 1,
+    "sentence": "登录1次游戏。",
+    "resourceBoxId": 400095,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 24,
+    "id": 144,
+    "seq": 1,
+    "limitMissionType": "clear_live_kagamine_leader",
+    "requirement": 15,
+    "sentence": "将镜音连和镜音铃加入编组，累计完成15次演出。",
+    "resourceBoxId": 14,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 24,
+    "id": 145,
+    "seq": 1,
+    "limitMissionType": "clear_virtual_live",
+    "requirement": 1,
+    "sentence": "观看1次镜音连或镜音铃的纪念日演唱会。",
+    "resourceBoxId": 100034,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 24,
+    "id": 146,
+    "seq": 1,
+    "limitMissionType": "master_piece_exchange",
+    "requirement": 3,
+    "sentence": "在心愿碎片兑换所中进行3次交换。",
+    "resourceBoxId": 400095,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 24,
+    "id": 147,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "在活动兑换所中进行3次交换。",
+    "resourceBoxId": 400082,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 24,
+    "id": 148,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live_vocal_kagamine",
+    "requirement": 3,
+    "sentence": "选择演唱者含镜音铃或镜音连的歌曲进行3次挑战演出吧。",
+    "resourceBoxId": 400083,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 24,
+    "id": 149,
+    "seq": 1,
+    "limitMissionType": "collect_event_point",
+    "requirement": 200000,
+    "sentence": "累计获得200,000活动积分。",
+    "resourceBoxId": 400084,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 24,
+    "id": 150,
+    "seq": 1,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 200,
+    "sentence": "累计消耗200演出能量。（我的「世界」中消耗的也计算在内。）  ",
+    "resourceBoxId": 400096,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 24,
+    "id": 151,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 8,
+    "sentence": "完成以上所有任务。",
+    "resourceBoxId": 400097,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 25,
+    "id": 152,
+    "seq": 1,
+    "limitMissionType": "login",
+    "requirement": 1,
+    "sentence": "登录1次游戏。",
+    "resourceBoxId": 400089,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 25,
+    "id": 153,
+    "seq": 1,
+    "limitMissionType": "master_piece_exchange",
+    "requirement": 1,
+    "sentence": "在心愿碎片兑换所进行一次交换。",
+    "resourceBoxId": 100307,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 25,
+    "id": 154,
+    "seq": 1,
+    "limitMissionType": "buy_music",
+    "requirement": 1,
+    "sentence": "在音乐商店交换一次歌曲。",
+    "resourceBoxId": 400090,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 25,
+    "id": 155,
+    "seq": 1,
+    "limitMissionType": "clear_maimai_music",
+    "requirement": 10,
+    "sentence": "完成含舞萌|中二联动标签的歌曲10次",
+    "resourceBoxId": 400091,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 25,
+    "id": 156,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live",
+    "requirement": 3,
+    "sentence": "完成3次挑战演出。",
+    "resourceBoxId": 400092,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 25,
+    "id": 157,
+    "seq": 1,
+    "limitMissionType": "collect_event_point",
+    "requirement": 200000,
+    "sentence": "累计获得200,000活动积分。",
+    "resourceBoxId": 400093,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 25,
+    "id": 158,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 6,
+    "sentence": "完成以上所有任务。",
+    "resourceBoxId": 400094,
     "selectableRewardGroupId": 0
   }
 ]

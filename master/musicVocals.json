@@ -9701,7 +9701,7 @@
     "characters": [],
     "assetbundleName": "in_0162_01",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 4104964800000
+    "archivePublishedAt": 1764831600000
   },
   {
     "id": 354,
@@ -9713,7 +9713,7 @@
     "characters": [],
     "assetbundleName": "in_0163_01",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 4104964800000
+    "archivePublishedAt": 1764918000000
   },
   {
     "id": 355,
@@ -9725,7 +9725,7 @@
     "characters": [],
     "assetbundleName": "in_0164_01",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 4104964800000
+    "archivePublishedAt": 1765004400000
   },
   {
     "id": 357,
@@ -29424,7 +29424,7 @@
     ],
     "assetbundleName": "vs_0544_01",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 4104964800000
+    "archivePublishedAt": 1764226800000
   },
   {
     "id": 1102,
@@ -29445,7 +29445,7 @@
     ],
     "assetbundleName": "vs_0545_01",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 4104964800000
+    "archivePublishedAt": 1763967600000
   },
   {
     "id": 1104,
@@ -29467,27 +29467,6 @@
     "assetbundleName": "vs_0547_01",
     "archiveDisplayType": "normal",
     "archivePublishedAt": 4104964800000
-  },
-  {
-    "id": 1105,
-    "musicId": 548,
-    "musicVocalType": "original_song",
-    "seq": 101,
-    "releaseConditionId": 5,
-    "caption": "虚拟歌手ver.",
-    "characters": [
-      {
-        "id": 1973,
-        "musicId": 548,
-        "musicVocalId": 1105,
-        "characterType": "outside_character",
-        "characterId": 3,
-        "seq": 5480
-      }
-    ],
-    "assetbundleName": "vs_0548_01",
-    "archiveDisplayType": "normal",
-    "archivePublishedAt": 1763622000000
   },
   {
     "id": 1106,
@@ -31293,27 +31272,6 @@
     "archivePublishedAt": 1757044800000
   },
   {
-    "id": 1381,
-    "musicId": 356,
-    "musicVocalType": "another_vocal",
-    "seq": 309,
-    "releaseConditionId": 9,
-    "caption": "Another Vocal ver.",
-    "characters": [
-      {
-        "id": 2282,
-        "musicId": 356,
-        "musicVocalId": 1381,
-        "characterType": "game_character",
-        "characterId": 9,
-        "seq": 3566
-      }
-    ],
-    "assetbundleName": "an_0356_01",
-    "archiveDisplayType": "normal",
-    "archivePublishedAt": 4104964800000
-  },
-  {
     "id": 1382,
     "musicId": 358,
     "musicVocalType": "sekai",
@@ -32646,7 +32604,7 @@
     "characters": [],
     "assetbundleName": "in_0447_01",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 4104964800000
+    "archivePublishedAt": 1765090800000
   },
   {
     "id": 1430,
@@ -32658,7 +32616,7 @@
     "characters": [],
     "assetbundleName": "in_0448_01",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 4104964800000
+    "archivePublishedAt": 1765177200000
   },
   {
     "id": 1431,
@@ -32670,7 +32628,7 @@
     "characters": [],
     "assetbundleName": "in_0449_01",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 4104964800000
+    "archivePublishedAt": 1765263600000
   },
   {
     "id": 1432,
@@ -36190,7 +36148,7 @@
     ],
     "assetbundleName": "se_0544_01",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 4104964800000
+    "archivePublishedAt": 1764226800000
   },
   {
     "id": 1526,
@@ -36969,6 +36927,27 @@
     "assetbundleName": "se_0578_01",
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1761721200000
+  },
+  {
+    "id": 1575,
+    "musicId": 141,
+    "musicVocalType": "sekai",
+    "seq": 1201,
+    "releaseConditionId": 10,
+    "caption": "「电影世界计划初音未来」ver.",
+    "characters": [
+      {
+        "id": 2971,
+        "musicId": 141,
+        "musicVocalId": 1575,
+        "characterType": "outside_character",
+        "characterId": 39,
+        "seq": 1428
+      }
+    ],
+    "assetbundleName": "cinema_0141_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1763276400000
   },
   {
     "id": 1593,

@@ -157,31 +157,31 @@
   },
   {
     "id": 1004,
-    "name": "红酒",
+    "name": "葡萄特调",
     "recoveryValue": 10,
     "flavorText": "恢复10演出能量。"
   },
   {
     "id": 1005,
-    "name": "香蕉",
+    "name": "果汁",
     "recoveryValue": 10,
     "flavorText": "恢复10演出能量。"
   },
   {
     "id": 1006,
-    "name": "橘子",
+    "name": "紅白米糕",
     "recoveryValue": 10,
     "flavorText": "恢复10演出能量。"
   },
   {
     "id": 1007,
-    "name": "鱼",
+    "name": "鮪魚",
     "recoveryValue": 10,
     "flavorText": "恢复10演出能量。"
   },
   {
     "id": 1008,
-    "name": "冰棍",
+    "name": "冰棒",
     "recoveryValue": 10,
     "flavorText": "恢复10演出能量。"
   },
@@ -355,7 +355,7 @@
   },
   {
     "id": 3025,
-    "name": "红酒",
+    "name": "葡萄特调",
     "recoveryValue": 10,
     "flavorText": "恢复10演出能量。"
   },
@@ -374,6 +374,12 @@
   {
     "id": 5001,
     "name": "南瓜粥",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 5002,
+    "name": "烤火鸡",
     "recoveryValue": 10,
     "flavorText": "恢复10演出能量。"
   }

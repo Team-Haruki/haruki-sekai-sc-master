@@ -121032,6 +121032,62 @@
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "login_bonus",
+    "name": "舞萌|中二联动纪念登录活动奖励。",
+    "id": 2103,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "联动SPECIAL WEEKS每日奖励。",
+    "id": 2104,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "联动SPECIAL WEEKS每日奖励。",
+    "id": 2105,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "感恩节登录活动奖励。",
+    "id": 2106,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "偶像梦幻祭2联动纪念登录活动奖励。",
+    "id": 2107,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "偶像梦幻祭2联动纪念登录活动奖励。",
+    "id": 2108,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "偶像梦幻祭2联动纪念登录活动奖励。",
+    "id": 2109,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "偶像梦幻祭2联动纪念登录活动奖励。",
+    "id": 2110,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
     "name": "「生日快乐，一歌！」登录活动",
     "id": 5001,
     "resourceBoxType": "expand"
@@ -161086,8 +161142,71 @@
   {
     "assetbundleName": "limit_mission_02",
     "resourceBoxPurpose": "mission_reward",
-    "name": "纪念服装×1 、任务招募券×5、红酒×3、硬币×20000",
+    "name": "纪念服装×1 、任务招募券×5、葡萄特调×3、硬币×20000",
     "id": 400088,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "心愿碎片×10",
+    "id": 400089,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "演出能量饮料（大）×1",
+    "id": 400090,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "练习乐谱（初级）×30",
+    "id": 400091,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "心愿碎片×10",
+    "id": 400092,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "硬币×10000",
+    "id": 400093,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "mission_reward",
+    "name": "联动纪念表情×6、任务招募券×1",
+    "id": 400094,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "演出能量饮料（小）×3",
+    "id": 400095,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "音乐卡×20",
+    "id": 400096,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": "limit_mission_03",
+    "resourceBoxPurpose": "mission_reward",
+    "name": "纪念服装×2（镜音铃、镜音连各一套） 、任务招募券×5、果汁×3（相当于演出能量饮料大）、硬币×20000",
+    "id": 400097,
     "resourceBoxType": "list"
   },
   {
