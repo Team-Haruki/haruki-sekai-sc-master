@@ -9701,7 +9701,7 @@
     "characters": [],
     "assetbundleName": "in_0162_01",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1764831600000
+    "archivePublishedAt": 1764820800000
   },
   {
     "id": 354,
@@ -9713,7 +9713,7 @@
     "characters": [],
     "assetbundleName": "in_0163_01",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1764918000000
+    "archivePublishedAt": 1764907200000
   },
   {
     "id": 355,
@@ -9725,7 +9725,7 @@
     "characters": [],
     "assetbundleName": "in_0164_01",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1765004400000
+    "archivePublishedAt": 1764993600000
   },
   {
     "id": 357,
@@ -28954,7 +28954,7 @@
     ],
     "assetbundleName": "vs_0518_01",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 4104964800000
+    "archivePublishedAt": 1765782000000
   },
   {
     "id": 1076,
@@ -28996,7 +28996,7 @@
     ],
     "assetbundleName": "vs_0520_01",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 4104964800000
+    "archivePublishedAt": 1767164400000
   },
   {
     "id": 1078,
@@ -29516,7 +29516,7 @@
     ],
     "assetbundleName": "vs_0553_01",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 4104964800000
+    "archivePublishedAt": 1764572400000
   },
   {
     "id": 1111,
@@ -29566,7 +29566,7 @@
     ],
     "assetbundleName": "vs_0555_01",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 4104964800000
+    "archivePublishedAt": 1766127600000
   },
   {
     "id": 1113,
@@ -30277,7 +30277,7 @@
     ],
     "assetbundleName": "vs_0593_01",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 4104964800000
+    "archivePublishedAt": 1766646000000
   },
   {
     "id": 1151,
@@ -32604,7 +32604,7 @@
     "characters": [],
     "assetbundleName": "in_0447_01",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1765090800000
+    "archivePublishedAt": 1765080000000
   },
   {
     "id": 1430,
@@ -32616,7 +32616,7 @@
     "characters": [],
     "assetbundleName": "in_0448_01",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1765177200000
+    "archivePublishedAt": 1765166400000
   },
   {
     "id": 1431,
@@ -32628,7 +32628,7 @@
     "characters": [],
     "assetbundleName": "in_0449_01",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1765263600000
+    "archivePublishedAt": 1765252800000
   },
   {
     "id": 1432,
@@ -36733,6 +36733,249 @@
     "archivePublishedAt": 1763017200000
   },
   {
+    "id": 1555,
+    "musicId": 555,
+    "musicVocalType": "sekai",
+    "seq": 201,
+    "releaseConditionId": 10,
+    "caption": "「世界」ver.",
+    "characters": [
+      {
+        "id": 2912,
+        "musicId": 555,
+        "musicVocalId": 1555,
+        "characterType": "outside_character",
+        "characterId": 35,
+        "seq": 5552
+      }
+    ],
+    "assetbundleName": "se_0555_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1766127600000
+  },
+  {
+    "id": 1556,
+    "musicId": 555,
+    "musicVocalType": "streaming_live",
+    "seq": 601,
+    "releaseConditionId": 11,
+    "caption": "连线演唱会（DAY1昼）ver.",
+    "characters": [
+      {
+        "id": 2913,
+        "musicId": 555,
+        "musicVocalId": 1556,
+        "characterType": "outside_character",
+        "characterId": 35,
+        "seq": 5553
+      },
+      {
+        "id": 3005,
+        "musicId": 555,
+        "musicVocalId": 1556,
+        "characterType": "game_character",
+        "characterId": 23,
+        "seq": 5557
+      },
+      {
+        "id": 3006,
+        "musicId": 555,
+        "musicVocalId": 1556,
+        "characterType": "game_character",
+        "characterId": 26,
+        "seq": 5558
+      }
+    ],
+    "assetbundleName": "cl_0555_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1766127600000
+  },
+  {
+    "id": 1557,
+    "musicId": 555,
+    "musicVocalType": "streaming_live",
+    "seq": 602,
+    "releaseConditionId": 11,
+    "caption": "连线演唱会（DAY1夜）ver.",
+    "characters": [
+      {
+        "id": 2914,
+        "musicId": 555,
+        "musicVocalId": 1557,
+        "characterType": "outside_character",
+        "characterId": 35,
+        "seq": 5554
+      },
+      {
+        "id": 3007,
+        "musicId": 555,
+        "musicVocalId": 1557,
+        "characterType": "game_character",
+        "characterId": 23,
+        "seq": 5559
+      },
+      {
+        "id": 3008,
+        "musicId": 555,
+        "musicVocalId": 1557,
+        "characterType": "game_character",
+        "characterId": 26,
+        "seq": 5560
+      }
+    ],
+    "assetbundleName": "cl_0555_02",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1766127600000
+  },
+  {
+    "id": 1558,
+    "musicId": 555,
+    "musicVocalType": "streaming_live",
+    "seq": 603,
+    "releaseConditionId": 11,
+    "caption": "连线演唱会（DAY2昼）ver.",
+    "characters": [
+      {
+        "id": 2915,
+        "musicId": 555,
+        "musicVocalId": 1558,
+        "characterType": "outside_character",
+        "characterId": 35,
+        "seq": 5555
+      },
+      {
+        "id": 3009,
+        "musicId": 555,
+        "musicVocalId": 1558,
+        "characterType": "game_character",
+        "characterId": 23,
+        "seq": 5561
+      },
+      {
+        "id": 3010,
+        "musicId": 555,
+        "musicVocalId": 1558,
+        "characterType": "game_character",
+        "characterId": 26,
+        "seq": 5562
+      }
+    ],
+    "assetbundleName": "cl_0555_03",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1766127600000
+  },
+  {
+    "id": 1559,
+    "musicId": 555,
+    "musicVocalType": "streaming_live",
+    "seq": 604,
+    "releaseConditionId": 11,
+    "caption": "连线演唱会（DAY2夜）ver.",
+    "characters": [
+      {
+        "id": 2916,
+        "musicId": 555,
+        "musicVocalId": 1559,
+        "characterType": "outside_character",
+        "characterId": 35,
+        "seq": 5556
+      },
+      {
+        "id": 3011,
+        "musicId": 555,
+        "musicVocalId": 1559,
+        "characterType": "game_character",
+        "characterId": 23,
+        "seq": 5563
+      },
+      {
+        "id": 3012,
+        "musicId": 555,
+        "musicVocalId": 1559,
+        "characterType": "game_character",
+        "characterId": 26,
+        "seq": 5564
+      }
+    ],
+    "assetbundleName": "cl_0555_04",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1766127600000
+  },
+  {
+    "id": 1560,
+    "musicId": 138,
+    "musicVocalType": "sekai",
+    "seq": 1201,
+    "releaseConditionId": 10,
+    "caption": "偶像梦幻祭2联动ver.",
+    "characters": [
+      {
+        "id": 2917,
+        "musicId": 138,
+        "musicVocalId": 1560,
+        "characterType": "game_character",
+        "characterId": 13,
+        "seq": 1386
+      },
+      {
+        "id": 2918,
+        "musicId": 138,
+        "musicVocalId": 1560,
+        "characterType": "game_character",
+        "characterId": 16,
+        "seq": 1387
+      },
+      {
+        "id": 2919,
+        "musicId": 138,
+        "musicVocalId": 1560,
+        "characterType": "outside_character",
+        "characterId": 36,
+        "seq": 1388
+      }
+    ],
+    "assetbundleName": "collabo_es_138_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1766300400000
+  },
+  {
+    "id": 1561,
+    "musicId": 69,
+    "musicVocalType": "sekai",
+    "seq": 1201,
+    "releaseConditionId": 10,
+    "caption": "偶像梦幻祭2联动ver.",
+    "characters": [
+      {
+        "id": 2920,
+        "musicId": 69,
+        "musicVocalId": 1561,
+        "characterType": "game_character",
+        "characterId": 11,
+        "seq": 697
+      },
+      {
+        "id": 2921,
+        "musicId": 69,
+        "musicVocalId": 1561,
+        "characterType": "game_character",
+        "characterId": 12,
+        "seq": 698
+      },
+      {
+        "id": 2922,
+        "musicId": 69,
+        "musicVocalId": 1561,
+        "characterType": "outside_character",
+        "characterId": 37,
+        "seq": 699
+      }
+    ],
+    "assetbundleName": "collabo_es_69_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1766473200000
+  },
+  {
     "id": 1565,
     "musicId": 575,
     "musicVocalType": "sekai",
@@ -36948,6 +37191,59 @@
     "assetbundleName": "cinema_0141_01",
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1763276400000
+  },
+  {
+    "id": 1585,
+    "musicId": 520,
+    "musicVocalType": "sekai",
+    "seq": 201,
+    "releaseConditionId": 5,
+    "caption": "「世界」ver.",
+    "characters": [
+      {
+        "id": 3000,
+        "musicId": 520,
+        "musicVocalId": 1585,
+        "characterType": "game_character",
+        "characterId": 23,
+        "seq": 5201
+      },
+      {
+        "id": 3001,
+        "musicId": 520,
+        "musicVocalId": 1585,
+        "characterType": "game_character",
+        "characterId": 1,
+        "seq": 5202
+      },
+      {
+        "id": 3002,
+        "musicId": 520,
+        "musicVocalId": 1585,
+        "characterType": "game_character",
+        "characterId": 2,
+        "seq": 5203
+      },
+      {
+        "id": 3003,
+        "musicId": 520,
+        "musicVocalId": 1585,
+        "characterType": "game_character",
+        "characterId": 3,
+        "seq": 5204
+      },
+      {
+        "id": 3004,
+        "musicId": 520,
+        "musicVocalId": 1585,
+        "characterType": "game_character",
+        "characterId": 4,
+        "seq": 5205
+      }
+    ],
+    "assetbundleName": "se_0520_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1767164400000
   },
   {
     "id": 1593,

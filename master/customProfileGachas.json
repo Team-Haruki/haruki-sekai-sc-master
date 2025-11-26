@@ -2049,5 +2049,202 @@
         "weight": 1
       }
     ]
+  },
+  {
+    "id": 34,
+    "name": "“Ensemble in SEKAI”收藏礼盒",
+    "startAt": 1766127600000,
+    "endAt": 1767455999000,
+    "assetbundleName": "collab_es_collection",
+    "description": "“‘Ensemble in SEKAI’ 收藏礼盒”登场！\n\n各联动限定角色的徽章和亚克力立牌作为联动限定收藏道具出现在“‘Ensemble in SEKAI’ 收藏礼盒”中。\n\n获得的收藏道具除了可用作自定义个人资料的材料外，还可在“我的「世界」”中作为展示用家具进行展示。",
+    "notice": "·消耗水晶时将优先消耗免费水晶。\n·在收藏礼盒中出现的收藏可能会重复。重复获得的收藏可以在自定义个人资料和我的「世界」中多次使用。\n·收藏礼盒的每次抽取都会根据提供比例进行。比如即使某个收藏的提供比例为1%，也并不意味着抽取100次一定会有1次抽到该收藏。\n·关于收藏礼盒的提供比例，详情请在提供比例选项卡中查看。\n·提供比例选项卡中显示的概率由于小数点后第4位会被自动四舍五入，因此可能存在全部相加后不等于100%的情况。\n·即使在抽取收藏礼盒后强行关闭游戏，或者由于连接中断导致未能正常显示招募结果界面，也会正常获得收藏。请在自定义个人资料的收藏和我的「世界」的周边中查看。\n 本次收藏礼盒的联动限定收藏今后有可能再次登场，但目前暂时没有再次登场的计划。\n·举办日程可能会在未提前通知的情况下发生改变。",
+    "customProfileGachaBehaviors": [
+      {
+        "id": 100,
+        "customProfileGachaId": 34,
+        "seq": 1,
+        "costResourceType": "virtual_coin",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      },
+      {
+        "id": 101,
+        "customProfileGachaId": 34,
+        "seq": 2,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 1000,
+        "spinCount": 10
+      },
+      {
+        "id": 102,
+        "customProfileGachaId": 34,
+        "seq": 3,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1
+      }
+    ],
+    "customProfileGachaDetails": [
+      {
+        "id": 1129,
+        "customProfileGachaId": 34,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 801,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1130,
+        "customProfileGachaId": 34,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 802,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1131,
+        "customProfileGachaId": 34,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 803,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1132,
+        "customProfileGachaId": 34,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 804,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1133,
+        "customProfileGachaId": 34,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 805,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1134,
+        "customProfileGachaId": 34,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 806,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1135,
+        "customProfileGachaId": 34,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 807,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1136,
+        "customProfileGachaId": 34,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 808,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1137,
+        "customProfileGachaId": 34,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 809,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1138,
+        "customProfileGachaId": 34,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 810,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1139,
+        "customProfileGachaId": 34,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 811,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1140,
+        "customProfileGachaId": 34,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 812,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1141,
+        "customProfileGachaId": 34,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 813,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1142,
+        "customProfileGachaId": 34,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 814,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1143,
+        "customProfileGachaId": 34,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 815,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1144,
+        "customProfileGachaId": 34,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 816,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1145,
+        "customProfileGachaId": 34,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 817,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1146,
+        "customProfileGachaId": 34,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 818,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1147,
+        "customProfileGachaId": 34,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 819,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1148,
+        "customProfileGachaId": 34,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 820,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      }
+    ]
   }
 ]
