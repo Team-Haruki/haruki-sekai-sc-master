@@ -806,8 +806,8 @@
   {
     "id": 49,
     "assetbundleName": "collaboration-es-story",
-    "startAt": 1771138800000,
-    "endAt": 1771941599000,
+    "startAt": 1766127600000,
+    "endAt": 1766930399000,
     "episodes": [
       {
         "id": 54,
@@ -827,8 +827,8 @@
   {
     "id": 50,
     "assetbundleName": "collaboration-es-story",
-    "startAt": 1771941600000,
-    "endAt": 1772467199000,
+    "startAt": 1766930400000,
+    "endAt": 1767455999000,
     "episodes": [
       {
         "id": 55,
@@ -838,27 +838,6 @@
         "specialStoryEpisodeType": "none",
         "assetbundleName": "story_collaboration_es",
         "scenarioId": "collaboration_es_ed_01",
-        "releaseConditionId": 1,
-        "isAbleSkip": true,
-        "isActionSetRefresh": false,
-        "rewardResourceBoxIds": []
-      }
-    ]
-  },
-  {
-    "id": 51,
-    "assetbundleName": "collaboration-es-story",
-    "startAt": 1771657200000,
-    "endAt": 1771847999000,
-    "episodes": [
-      {
-        "id": 56,
-        "specialStoryId": 51,
-        "episodeNo": 1,
-        "title": "[初音未来：缤纷舞台×偶像梦幻祭2]连线演唱会前日谈登录剧情",
-        "specialStoryEpisodeType": "none",
-        "assetbundleName": "story_collaboration_es",
-        "scenarioId": "collaboration_es_prequel_01",
         "releaseConditionId": 1,
         "isAbleSkip": true,
         "isActionSetRefresh": false,

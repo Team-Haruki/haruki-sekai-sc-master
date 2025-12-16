@@ -1,12 +1,57 @@
 [
   {
-    "id": 102,
+    "id": 1,
+    "seq": 1,
+    "title": "With Gratitude",
+    "pronunciation": "うぃずぐらてぃてゅーど",
+    "musicSoundTrackCategoryId": 1,
+    "assetbundleName": "sound/scenario/bgm/bgm_area00001",
+    "assetbundleFileName": "bgm_area00001"
+  },
+  {
+    "id": 2,
+    "seq": 2,
+    "title": "Crystal Blessing",
+    "pronunciation": "くりすたるぶれっしんぐ",
+    "musicSoundTrackCategoryId": 1,
+    "assetbundleName": "sound/scenario/bgm/bgm_area00001",
+    "assetbundleFileName": "bgm_area00001"
+  },
+  {
+    "id": 3,
+    "seq": 3,
+    "title": "キミだけの足跡",
+    "pronunciation": "きみだけのあしあと",
+    "musicSoundTrackCategoryId": 1,
+    "assetbundleName": "sound/scenario/bgm/bgm_area00001",
+    "assetbundleFileName": "bgm_area00001"
+  },
+  {
+    "id": 4,
     "seq": 102,
     "title": "セカイの狭間にて",
     "pronunciation": "せかいのはざまにて",
     "musicSoundTrackCategoryId": 2,
     "assetbundleName": "sound/scenario/bgm/bgm00036",
     "assetbundleFileName": "bgm00036"
+  },
+  {
+    "id": 101,
+    "seq": 101,
+    "title": "一緒に歌おう！",
+    "pronunciation": "いっしょにうたおう",
+    "musicSoundTrackCategoryId": 11,
+    "assetbundleName": "mysekai/sound/bgm/music0001",
+    "assetbundleFileName": "music0001"
+  },
+  {
+    "id": 103,
+    "seq": 103,
+    "title": "Our Town, Our Life",
+    "pronunciation": "あうあたうんあうあらいふ",
+    "musicSoundTrackCategoryId": 11,
+    "assetbundleName": "mysekai/sound/bgm/music0002",
+    "assetbundleFileName": "music0002"
   },
   {
     "id": 104,
@@ -52,6 +97,69 @@
     "musicSoundTrackCategoryId": 7,
     "assetbundleName": "sound/scenario/bgm/bgm_area00005",
     "assetbundleFileName": "bgm_area00005"
+  },
+  {
+    "id": 109,
+    "seq": 109,
+    "title": "Crossing World",
+    "pronunciation": "くろっしんぐわーるど",
+    "musicSoundTrackCategoryId": 16,
+    "assetbundleName": "mysekai/sound/bgm/music0003",
+    "assetbundleFileName": "music0003"
+  },
+  {
+    "id": 110,
+    "seq": 110,
+    "title": "響声の息吹",
+    "pronunciation": "きょうせいのいぶき",
+    "musicSoundTrackCategoryId": 16,
+    "assetbundleName": "mysekai/sound/bgm/music0004",
+    "assetbundleFileName": "music0004"
+  },
+  {
+    "id": 111,
+    "seq": 111,
+    "title": "手と手をつないで",
+    "pronunciation": "てとてをつないで",
+    "musicSoundTrackCategoryId": 14,
+    "assetbundleName": "mysekai/sound/bgm/music0005",
+    "assetbundleFileName": "music0005"
+  },
+  {
+    "id": 112,
+    "seq": 112,
+    "title": "辿った軌跡",
+    "pronunciation": "たどったきせき",
+    "musicSoundTrackCategoryId": 14,
+    "assetbundleName": "mysekai/sound/bgm/music0006",
+    "assetbundleFileName": "music0006"
+  },
+  {
+    "id": 113,
+    "seq": 113,
+    "title": "Many Times With You",
+    "pronunciation": "めにーたいむずうぃずゆー",
+    "musicSoundTrackCategoryId": 11,
+    "assetbundleName": "mysekai/sound/bgm/music0007",
+    "assetbundleFileName": "music0007"
+  },
+  {
+    "id": 114,
+    "seq": 114,
+    "title": "Journey Beats",
+    "pronunciation": "じゃーにーびーつ",
+    "musicSoundTrackCategoryId": 14,
+    "assetbundleName": "mysekai/sound/bgm/music0008",
+    "assetbundleFileName": "music0008"
+  },
+  {
+    "id": 115,
+    "seq": 115,
+    "title": "想いの結晶は希う",
+    "pronunciation": "おもいのけっしょうはこいねがう",
+    "musicSoundTrackCategoryId": 15,
+    "assetbundleName": "mysekai/sound/bgm/music0009",
+    "assetbundleFileName": "music0009"
   },
   {
     "id": 116,
@@ -279,6 +387,24 @@
     "assetbundleFileName": "bgm00077"
   },
   {
+    "id": 141,
+    "seq": 141,
+    "title": "これからも、キミの隣で",
+    "pronunciation": "これからもきみのとなりで",
+    "musicSoundTrackCategoryId": 11,
+    "assetbundleName": "mysekai/sound/bgm/music0010",
+    "assetbundleFileName": "music0010"
+  },
+  {
+    "id": 142,
+    "seq": 142,
+    "title": "My name is...",
+    "pronunciation": "まいねーむいず",
+    "musicSoundTrackCategoryId": 11,
+    "assetbundleName": "mysekai/sound/bgm/music0011",
+    "assetbundleFileName": "music0011"
+  },
+  {
     "id": 143,
     "seq": 143,
     "title": "貴方への誓い",
@@ -430,6 +556,51 @@
     "musicSoundTrackCategoryId": 4,
     "assetbundleName": "sound/scenario/bgm/bgm00111",
     "assetbundleFileName": "bgm00111"
+  },
+  {
+    "id": 160,
+    "seq": 160,
+    "title": "清らかな気持ちで",
+    "pronunciation": "きよらかなきもちで",
+    "musicSoundTrackCategoryId": 15,
+    "assetbundleName": "mysekai/sound/bgm/music0012",
+    "assetbundleFileName": "music0012"
+  },
+  {
+    "id": 161,
+    "seq": 161,
+    "title": "優雅にハッピーニューイヤー！",
+    "pronunciation": "ゆうがにはっぴーにゅーいやー",
+    "musicSoundTrackCategoryId": 11,
+    "assetbundleName": "mysekai/sound/bgm/music0013",
+    "assetbundleFileName": "music0013"
+  },
+  {
+    "id": 162,
+    "seq": 162,
+    "title": "幸福の門出を",
+    "pronunciation": "こうふくのかどでを",
+    "musicSoundTrackCategoryId": 16,
+    "assetbundleName": "mysekai/sound/bgm/music0014",
+    "assetbundleFileName": "music0014"
+  },
+  {
+    "id": 163,
+    "seq": 163,
+    "title": "At the backstage",
+    "pronunciation": "あっとざばっくすてーじ",
+    "musicSoundTrackCategoryId": 14,
+    "assetbundleName": "mysekai/sound/bgm/music0015",
+    "assetbundleFileName": "music0015"
+  },
+  {
+    "id": 164,
+    "seq": 164,
+    "title": "Let's have a match!!",
+    "pronunciation": "れっつはぶあまっち",
+    "musicSoundTrackCategoryId": 14,
+    "assetbundleName": "mysekai/sound/bgm/music0016",
+    "assetbundleFileName": "music0016"
   },
   {
     "id": 165,

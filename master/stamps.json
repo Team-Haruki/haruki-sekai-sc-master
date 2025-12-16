@@ -10006,7 +10006,10 @@
     "name": "[表情]志步：HAPPY BIRTHDAY",
     "assetbundleName": "stamp0842",
     "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 4,
+    "gameCharacterUnitId": 4,
     "archiveDisplayType": "normal",
+    "archivePublishedAt": 1767682800000,
     "description": "参加“HAPPY BIRTHDAY演唱会\n志步 2026”"
   },
   {
@@ -10016,7 +10019,10 @@
     "name": "[表情]实乃理：HAPPY BIRTHDAY",
     "assetbundleName": "stamp0843",
     "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 5,
+    "gameCharacterUnitId": 5,
     "archiveDisplayType": "normal",
+    "archivePublishedAt": 1775977200000,
     "description": "参加“HAPPY BIRTHDAY演唱会\n实乃理 2026”"
   },
   {
@@ -10039,7 +10045,10 @@
     "name": "[表情]爱莉：HAPPY BIRTHDAY",
     "assetbundleName": "stamp0845",
     "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 7,
+    "gameCharacterUnitId": 7,
     "archiveDisplayType": "normal",
+    "archivePublishedAt": 1773730800000,
     "description": "参加“HAPPY BIRTHDAY演唱会\n爱莉 2026”"
   },
   {
@@ -10049,7 +10058,10 @@
     "name": "[表情]雫：HAPPY BIRTHDAY",
     "assetbundleName": "stamp0846",
     "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 8,
+    "gameCharacterUnitId": 8,
     "archiveDisplayType": "normal",
+    "archivePublishedAt": 1764831600000,
     "description": "参加“HAPPY BIRTHDAY演唱会\n雫 2025”"
   },
   {
@@ -10059,7 +10071,10 @@
     "name": "[表情]心羽：HAPPY BIRTHDAY",
     "assetbundleName": "stamp0847",
     "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 9,
+    "gameCharacterUnitId": 9,
     "archiveDisplayType": "normal",
+    "archivePublishedAt": 1772262000000,
     "description": "参加“HAPPY BIRTHDAY演唱会\n心羽 2026”"
   },
   {
@@ -10082,7 +10097,10 @@
     "name": "[表情]奏：HAPPY BIRTHDAY",
     "assetbundleName": "stamp0855",
     "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 17,
+    "gameCharacterUnitId": 17,
     "archiveDisplayType": "normal",
+    "archivePublishedAt": 1770534000000,
     "description": "参加“HAPPY BIRTHDAY演唱会\n奏 2026”"
   },
   {
@@ -10092,17 +10110,23 @@
     "name": "[表情]真冬：HAPPY BIRTHDAY",
     "assetbundleName": "stamp0856",
     "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 18,
+    "gameCharacterUnitId": 18,
     "archiveDisplayType": "normal",
+    "archivePublishedAt": 1769324400000,
     "description": "参加“HAPPY BIRTHDAY演唱会\n真冬 2026”"
   },
   {
     "id": 857,
     "stampType": "illustration",
     "seq": 10920,
-    "name": "[表情]笑梦：HAPPY BIRTHDAY",
+    "name": "[表情]绘名：HAPPY BIRTHDAY",
     "assetbundleName": "stamp0857",
     "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 19,
+    "gameCharacterUnitId": 19,
     "archiveDisplayType": "normal",
+    "archivePublishedAt": 1777359600000,
     "description": "参加“HAPPY BIRTHDAY演唱会\n绘名 2026”"
   },
   {
@@ -10112,7 +10136,10 @@
     "name": "[表情]镜音铃：HAPPY ANNIVERSARY",
     "assetbundleName": "stamp0860",
     "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 22,
+    "gameCharacterUnitId": 22,
     "archiveDisplayType": "normal",
+    "archivePublishedAt": 1766646000000,
     "description": "参加“HAPPY ANNIVERSARY演唱会\n镜音铃 2025”"
   },
   {
@@ -10122,7 +10149,10 @@
     "name": "[表情]镜音连：HAPPY ANNIVERSARY",
     "assetbundleName": "stamp0861",
     "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 23,
+    "gameCharacterUnitId": 23,
     "archiveDisplayType": "normal",
+    "archivePublishedAt": 1766646000000,
     "description": "参加“HAPPY ANNIVERSARY演唱会\n镜音连 2025”"
   },
   {
@@ -10132,7 +10162,10 @@
     "name": "[表情]巡音流歌：HAPPY ANNIVERSARY",
     "assetbundleName": "stamp0862",
     "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 24,
+    "gameCharacterUnitId": 24,
     "archiveDisplayType": "normal",
+    "archivePublishedAt": 1769583600000,
     "description": "参加“HAPPY ANNIVERSARY演唱会\n巡音流歌 2025”"
   },
   {
@@ -10155,7 +10188,10 @@
     "name": "[表情]KAITO：HAPPY ANNIVERSARY",
     "assetbundleName": "stamp0864",
     "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 26,
+    "gameCharacterUnitId": 26,
     "archiveDisplayType": "normal",
+    "archivePublishedAt": 1771138800000,
     "description": "参加“HAPPY ANNIVERSARY演唱会\nKAITO 206”"
   },
   {
@@ -11191,6 +11227,84 @@
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1761624000000,
     "description": "在表情商店购买"
+  },
+  {
+    "id": 10059,
+    "stampType": "illustration",
+    "seq": 100590,
+    "name": "[表情]未来：舞萌 中二庆典开启",
+    "assetbundleName": "stamp10059",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 21,
+    "gameCharacterUnitId": 21,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1764820800000,
+    "description": "舞萌|中二联动限时任务获得"
+  },
+  {
+    "id": 10060,
+    "stampType": "illustration",
+    "seq": 100600,
+    "name": "[表情]一歌：ALL PERFECT!",
+    "assetbundleName": "stamp10060",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 1,
+    "gameCharacterUnitId": 1,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1764820800000,
+    "description": "舞萌|中二联动限时任务获得"
+  },
+  {
+    "id": 10061,
+    "stampType": "illustration",
+    "seq": 100610,
+    "name": "[表情]遥：好喜欢！",
+    "assetbundleName": "stamp10061",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 6,
+    "gameCharacterUnitId": 6,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1764820800000,
+    "description": "舞萌|中二联动限时任务获得"
+  },
+  {
+    "id": 10062,
+    "stampType": "illustration",
+    "seq": 100620,
+    "name": "[表情]冬弥：ALL JUSTICE!",
+    "assetbundleName": "stamp10062",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 12,
+    "gameCharacterUnitId": 12,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1764820800000,
+    "description": "舞萌|中二联动限时任务获得"
+  },
+  {
+    "id": 10063,
+    "stampType": "illustration",
+    "seq": 100630,
+    "name": "[表情]宁宁：我来挑战！",
+    "assetbundleName": "stamp10063",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 15,
+    "gameCharacterUnitId": 15,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1764820800000,
+    "description": "舞萌|中二联动限时任务获得"
+  },
+  {
+    "id": 10064,
+    "stampType": "illustration",
+    "seq": 100640,
+    "name": "[表情]奏：呃…舞萌|中二？",
+    "assetbundleName": "stamp10064",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 17,
+    "gameCharacterUnitId": 17,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1764820800000,
+    "description": "舞萌|中二联动限时任务获得"
   },
   {
     "id": 101021,
