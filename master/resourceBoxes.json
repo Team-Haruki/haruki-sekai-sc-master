@@ -6226,6 +6226,20 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "billing_shop_item",
     "name": null,
+    "id": 51086,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 51087,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
     "id": 90001,
     "resourceBoxType": "expand"
   },
@@ -115586,6 +115600,13 @@
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "gacha_extra",
+    "name": "圣诞装☆2025",
+    "id": 3016,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_extra",
     "name": null,
     "id": 9999,
     "resourceBoxType": "expand"
@@ -162115,7 +162136,7 @@
   {
     "assetbundleName": "limit_mission_03",
     "resourceBoxPurpose": "mission_reward",
-    "name": "纪念服装×2（镜音铃、镜音连各一套） 、任务招募券×5、果汁×3（相当于演出能量饮料大）、硬币×20000",
+    "name": "纪念服装×2（镜音铃、镜音连各一套） 、任务招募券×5、橘子果汁×3、香蕉果汁×3、硬币×20000",
     "id": 400097,
     "resourceBoxType": "list"
   },
@@ -194364,6 +194385,13 @@
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "virtual_shop_item",
+    "name": "[全套套装]兔子玩偶装",
+    "id": 216,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "virtual_shop_item",
     "name": "[饰品]新春狛犬",
     "id": 217,
     "resourceBoxType": "expand"
@@ -195554,28 +195582,28 @@
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "virtual_shop_item",
-    "name": "「Ensemble in SEKAI」ライブTシャツ（白）",
+    "name": "“Ensemble in SEKAI”演唱会T恤（白）",
     "id": 392,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "virtual_shop_item",
-    "name": "「Ensemble in SEKAI」ライブTシャツ（黒）",
+    "name": "“Ensemble in SEKAI”演唱会T恤（黑）",
     "id": 393,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "virtual_shop_item",
-    "name": "「Ensemble in SEKAI」ライブキャップ",
+    "name": "“Ensemble in SEKAI”演唱会鸭舌帽",
     "id": 394,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "virtual_shop_item",
-    "name": "ESアイドル衣装",
+    "name": "ES偶像服装",
     "id": 395,
     "resourceBoxType": "expand"
   },

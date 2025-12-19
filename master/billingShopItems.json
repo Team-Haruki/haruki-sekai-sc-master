@@ -3244,6 +3244,38 @@
     "billingShopTabChildId": 2000
   },
   {
+    "id": 51086,
+    "seq": 46015,
+    "billingShopItemType": "value_set",
+    "name": "「少女风·冬日大衣」服装礼包",
+    "description": "「少女风·冬日大衣」服装礼包",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_51086",
+    "resourceBoxId": 51086,
+    "startAt": 1766505600000,
+    "endAt": 1766937599000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
+  },
+  {
+    "id": 51087,
+    "seq": 46015,
+    "billingShopItemType": "value_set",
+    "name": "「时尚风·冬日大衣」服装礼包",
+    "description": "「时尚风·冬日大衣」服装礼包",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_51087",
+    "resourceBoxId": 51087,
+    "startAt": 1766505600000,
+    "endAt": 1766937599000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
+  },
+  {
     "id": 60000,
     "seq": 1,
     "billingShopItemType": "live_mission_pass_lite",
