@@ -798,12 +798,10 @@
         "id": 69,
         "virtualShopId": 16,
         "virtualShopItemType": "penlight",
-        "seq": 99991,
+        "seq": 199906,
         "resourceBoxId": 57,
-        "costVirtualCoin": 6000,
-        "costJewel": 2000,
-        "startAt": 1609322400000,
-        "endAt": 1609916399000
+        "costPaidJewel": 1000,
+        "startAt": 1766732400000
       }
     ],
     "virtualShopType": "special_live",
@@ -2446,33 +2444,29 @@
         "id": 184,
         "virtualShopId": 85,
         "virtualShopItemType": "penlight",
-        "seq": 99922,
+        "seq": 199907,
         "resourceBoxId": 149,
-        "costVirtualCoin": 6000,
-        "costJewel": 2000,
-        "startAt": 1672470000000,
-        "endAt": 1673506799000
+        "costPaidJewel": 1000,
+        "startAt": 1766732400000
       },
       {
         "id": 185,
         "virtualShopId": 85,
         "virtualShopItemType": "accessory",
-        "seq": 99921,
+        "seq": 199908,
         "resourceBoxId": 150,
         "costVirtualCoin": 3000,
         "costJewel": 1000,
-        "startAt": 1674284400000,
-        "endAt": 1674975600000
+        "startAt": 1766732400000
       },
       {
         "id": 186,
         "virtualShopId": 85,
         "virtualShopItemType": "coordinate",
-        "seq": 99920,
+        "seq": 199909,
         "resourceBoxId": 151,
         "costPaidJewel": 1000,
-        "startAt": 1672470000000,
-        "endAt": 1673506799000
+        "startAt": 1766732400000
       }
     ],
     "virtualShopType": "special_live",
@@ -3899,26 +3893,26 @@
         "resourceBoxId": 67,
         "costVirtualCoin": 3000,
         "costJewel": 1000,
-        "startAt": 4101606000000
+        "startAt": 1766386800000
       },
       {
         "id": 306,
         "virtualShopId": 158,
         "virtualShopItemType": "penlight",
-        "seq": 199902,
+        "seq": 199910,
         "resourceBoxId": 144,
         "costPaidJewel": 1000,
-        "startAt": 4101606000000
+        "startAt": 1766386800000
       },
       {
         "id": 307,
         "virtualShopId": 158,
         "virtualShopItemType": "accessory",
-        "seq": 199908,
+        "seq": 199911,
         "resourceBoxId": 211,
         "costVirtualCoin": 3000,
         "costJewel": 1000,
-        "startAt": 4101606000000
+        "startAt": 1766386800000
       }
     ],
     "virtualShopType": "special_live",
@@ -3966,20 +3960,29 @@
         "id": 310,
         "virtualShopId": 161,
         "virtualShopItemType": "accessory",
-        "seq": 199906,
+        "seq": 199910,
         "resourceBoxId": 214,
         "costVirtualCoin": 3000,
         "costJewel": 1000,
-        "startAt": 4102383600000
+        "startAt": 1766732400000
       },
       {
         "id": 311,
         "virtualShopId": 161,
         "virtualShopItemType": "penlight",
-        "seq": 199899,
+        "seq": 199911,
         "resourceBoxId": 215,
         "costPaidJewel": 1000,
-        "startAt": 4102383600000
+        "startAt": 1766732400000
+      },
+      {
+        "id": 312,
+        "virtualShopId": 161,
+        "virtualShopItemType": "coordinate",
+        "seq": 199912,
+        "resourceBoxId": 216,
+        "costPaidJewel": 1000,
+        "startAt": 1766732400000
       }
     ],
     "virtualShopType": "special_live",
@@ -5239,29 +5242,29 @@
         "id": 416,
         "virtualShopId": 241,
         "virtualShopItemType": "accessory",
-        "seq": 99888,
+        "seq": 199913,
         "resourceBoxId": 313,
         "costVirtualCoin": 3000,
         "costJewel": 1000,
-        "startAt": 4102383600000
+        "startAt": 1766732400000
       },
       {
         "id": 417,
         "virtualShopId": 241,
         "virtualShopItemType": "penlight",
-        "seq": 199865,
+        "seq": 199914,
         "resourceBoxId": 314,
         "costPaidJewel": 1000,
-        "startAt": 4102383600000
+        "startAt": 1766732400000
       },
       {
         "id": 418,
         "virtualShopId": 241,
         "virtualShopItemType": "coordinate",
-        "seq": 99840,
+        "seq": 199915,
         "resourceBoxId": 315,
         "costPaidJewel": 1000,
-        "startAt": 1767164400000
+        "startAt": 1766732400000
       }
     ],
     "virtualShopType": "special_live",
@@ -6284,10 +6287,10 @@
         "id": 489,
         "virtualShopId": 304,
         "virtualShopItemType": "coordinate",
-        "seq": 99816,
+        "seq": 199916,
         "resourceBoxId": 385,
         "costPaidJewel": 1000,
-        "startAt": 1767164400000
+        "startAt": 1766732400000
       }
     ],
     "virtualShopType": "special_live",

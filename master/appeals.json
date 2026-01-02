@@ -1067,7 +1067,7 @@
     "startAt": 1766764800000,
     "endAt": 1767369599000,
     "appealReadConditionType": "transition",
-    "text": "[生日]镜音铃登场"
+    "text": "[纪念日]镜音铃登场"
   },
   {
     "id": 415,
@@ -1077,7 +1077,7 @@
     "startAt": 1766764800000,
     "endAt": 1767369599000,
     "appealReadConditionType": "transition",
-    "text": "[生日]镜音连登场"
+    "text": "[纪念日]镜音连登场"
   },
   {
     "id": 416,
@@ -1128,5 +1128,145 @@
     "endAt": 1765123199000,
     "appealReadConditionType": "transition",
     "text": "感恩节优惠礼包"
+  },
+  {
+    "id": 421,
+    "seq": 3,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1766505600000,
+    "endAt": 1766937599000,
+    "appealReadConditionType": "transition",
+    "text": "圣诞节服装"
+  },
+  {
+    "id": 422,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1766505600000,
+    "endAt": 1766937599000,
+    "appealReadConditionType": "transition",
+    "text": "圣诞节服装"
+  },
+  {
+    "id": 423,
+    "seq": 3,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1767153600000,
+    "endAt": 1768103940000,
+    "appealReadConditionType": "transition",
+    "text": "元旦限定优惠"
+  },
+  {
+    "id": 424,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1767672000000,
+    "endAt": 1768535999000,
+    "appealReadConditionType": "transition",
+    "text": "笑梦、宁宁、类登场"
+  },
+  {
+    "id": 425,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1768536000000,
+    "endAt": 1769399999000,
+    "appealReadConditionType": "transition",
+    "text": "志步、杏、绘名、未来登场"
+  },
+  {
+    "id": 426,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1769400000000,
+    "endAt": 1770263999000,
+    "appealReadConditionType": "transition",
+    "text": "遥、爱莉、MEIKO登场"
+  },
+  {
+    "id": 427,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1767499200000,
+    "endAt": 1768103999000,
+    "appealReadConditionType": "transition",
+    "text": "彰人、爱莉、KAITO登场"
+  },
+  {
+    "id": 428,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1767801600000,
+    "endAt": 1768406399000,
+    "appealReadConditionType": "transition",
+    "text": "[生日]日野森志步登场"
+  },
+  {
+    "id": 429,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1768104000000,
+    "endAt": 1768967999000,
+    "appealReadConditionType": "transition",
+    "text": "冬弥、心羽、连登场"
+  },
+  {
+    "id": 430,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1768968000000,
+    "endAt": 1769831999000,
+    "appealReadConditionType": "transition",
+    "text": "奏、咲希、铃登场"
+  },
+  {
+    "id": 431,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1769227200000,
+    "endAt": 1769961599000,
+    "appealReadConditionType": "transition",
+    "text": "★4成员必中"
+  },
+  {
+    "id": 432,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1769443200000,
+    "endAt": 1770047999000,
+    "appealReadConditionType": "transition",
+    "text": "[生日]朝比奈真冬登场"
+  },
+  {
+    "id": 433,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1769702400000,
+    "endAt": 1770307199000,
+    "appealReadConditionType": "transition",
+    "text": "[纪念日]巡音流歌登场"
+  },
+  {
+    "id": 434,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1769832000000,
+    "endAt": 1770695999000,
+    "appealReadConditionType": "transition",
+    "text": "雫、真冬、连登场"
   }
 ]
