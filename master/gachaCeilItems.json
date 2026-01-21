@@ -1216,6 +1216,14 @@
     "convertResourceBoxId": 2
   },
   {
+    "id": 263,
+    "gachaId": 443,
+    "name": "[回响]神兽们的新年招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1773719999000,
+    "convertResourceBoxId": 2
+  },
+  {
     "id": 265,
     "gachaId": 445,
     "name": "[回响]如梦似幻☆梦境般的乐园招募贴纸",
@@ -1421,6 +1429,14 @@
     "name": "going upstairs招募贴纸",
     "assetbundleName": "ceil_item",
     "convertStartAt": 1753761600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 330,
+    "gachaId": 525,
+    "name": "[回响]Darkness Festa招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1774583999000,
     "convertResourceBoxId": 2
   },
   {
@@ -1804,7 +1820,23 @@
     "gachaId": 674,
     "name": "[宵崎奏]HAPPY BIRTHDAY招募贴纸",
     "assetbundleName": "ceil_item_birthday",
-    "convertStartAt": 1773979200000,
+    "convertStartAt": 1773849599000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 402,
+    "gachaId": 678,
+    "name": "Stay determined招募贴纸",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1774151999000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 403,
+    "gachaId": 679,
+    "name": "[回响]上镜♡情人节招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1775447999000,
     "convertResourceBoxId": 2
   },
   {
@@ -1812,7 +1844,7 @@
     "gachaId": 681,
     "name": "[KAITO]HAPPY ANNIVERSARY招募贴纸",
     "assetbundleName": "ceil_item_birthday",
-    "convertStartAt": 1775016000000,
+    "convertStartAt": 1774454399000,
     "convertResourceBoxId": 2
   },
   {
@@ -1821,6 +1853,22 @@
     "name": "交错「世界」的梦幻祭招募贴纸",
     "assetbundleName": "ceil_item_limited",
     "convertStartAt": 1769918399000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 407,
+    "gachaId": 687,
+    "name": "魔女编织的童话招募贴纸",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1774843199000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 408,
+    "gachaId": 689,
+    "name": "永无止境的守护之战招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1775707199000,
     "convertResourceBoxId": 2
   },
   {
@@ -1861,6 +1909,14 @@
     "name": "仅限30次！★4双倍 · 自选招募贴纸",
     "assetbundleName": "ceil_item_limited",
     "convertStartAt": 1766505599000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 3018,
+    "gachaId": 3018,
+    "name": "仅限30次！★4双倍 · 自选招募贴纸",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1772553599000,
     "convertResourceBoxId": 2
   }
 ]

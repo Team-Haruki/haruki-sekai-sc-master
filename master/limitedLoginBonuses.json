@@ -308,6 +308,20 @@
     ]
   },
   {
+    "id": 118,
+    "startAt": 1770998400000,
+    "endAt": 1771171199000,
+    "assetbundleName": "valentine_2025",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 248,
+        "limitedLoginBonusId": 118,
+        "day": 1,
+        "resourceBoxId": 155
+      }
+    ]
+  },
+  {
     "id": 119,
     "startAt": 1766127600000,
     "endAt": 1767455999000,
@@ -2496,6 +2510,56 @@
         "limitedLoginBonusId": 1162,
         "day": 3,
         "resourceBoxId": 2060
+      }
+    ]
+  },
+  {
+    "id": 1163,
+    "startAt": 1770523200000,
+    "endAt": 1771775999000,
+    "assetbundleName": "xny_2026",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1385,
+        "limitedLoginBonusId": 1163,
+        "day": 1,
+        "resourceBoxId": 2119
+      },
+      {
+        "id": 1386,
+        "limitedLoginBonusId": 1163,
+        "day": 2,
+        "resourceBoxId": 2120
+      },
+      {
+        "id": 1387,
+        "limitedLoginBonusId": 1163,
+        "day": 3,
+        "resourceBoxId": 2121
+      },
+      {
+        "id": 1388,
+        "limitedLoginBonusId": 1163,
+        "day": 4,
+        "resourceBoxId": 2122
+      },
+      {
+        "id": 1389,
+        "limitedLoginBonusId": 1163,
+        "day": 5,
+        "resourceBoxId": 2123
+      },
+      {
+        "id": 1390,
+        "limitedLoginBonusId": 1163,
+        "day": 6,
+        "resourceBoxId": 2124
+      },
+      {
+        "id": 1391,
+        "limitedLoginBonusId": 1163,
+        "day": 7,
+        "resourceBoxId": 2125
       }
     ]
   }

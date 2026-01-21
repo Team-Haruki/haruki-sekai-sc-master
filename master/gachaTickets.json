@@ -127,7 +127,7 @@
   },
   {
     "id": 22,
-    "name": "[2026元旦]元旦免费招募券",
+    "name": "[2026元旦]免费招募券",
     "assetbundleName": "gacha_ticket",
     "gachaDisplayType": "always"
   },
@@ -202,5 +202,11 @@
     "name": "★4成员必出招募券",
     "assetbundleName": "gacha_ticket_star4",
     "gachaDisplayType": "having"
+  },
+  {
+    "id": 1008,
+    "name": "[2026新春]免费招募券",
+    "assetbundleName": "gacha_ticket_cn_free",
+    "gachaDisplayType": "always"
   }
 ]
