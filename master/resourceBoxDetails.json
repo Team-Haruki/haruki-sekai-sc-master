@@ -188553,7 +188553,7 @@
   },
   {
     "resourceBoxId": 51090,
-    "resourceQuantity": 50,
+    "resourceQuantity": 20,
     "resourceId": 2,
     "resourceBoxPurpose": "billing_shop_item",
     "resourceLevel": null,
@@ -529408,6 +529408,94 @@
     "resourceType": "boost_item"
   },
   {
+    "resourceBoxId": 2126,
+    "resourceQuantity": 10,
+    "resourceId": 1008,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 2126,
+    "resourceQuantity": 1,
+    "resourceId": 10022,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "custom_profile_collection_resource"
+  },
+  {
+    "resourceBoxId": 2126,
+    "resourceQuantity": 1,
+    "resourceId": 5003,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 2127,
+    "resourceQuantity": 10,
+    "resourceId": 1008,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 2127,
+    "resourceQuantity": 1,
+    "resourceId": 10065,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "stamp"
+  },
+  {
+    "resourceBoxId": 2128,
+    "resourceQuantity": 10,
+    "resourceId": 1008,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 2129,
+    "resourceQuantity": 1,
+    "resourceId": 5003,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 2130,
+    "resourceQuantity": 10,
+    "resourceId": 5003,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 2131,
+    "resourceQuantity": 100000,
+    "resourceId": null,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "coin"
+  },
+  {
+    "resourceBoxId": 2132,
+    "resourceQuantity": 30,
+    "resourceId": 2,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "practice_ticket"
+  },
+  {
+    "resourceBoxId": 2133,
+    "resourceQuantity": 100,
+    "resourceId": 15,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
     "resourceBoxId": 5001,
     "resourceQuantity": 1,
     "resourceId": 3000,
@@ -732448,6 +732536,38 @@
     "resourceType": "stamp"
   },
   {
+    "resourceBoxId": 100092,
+    "resourceQuantity": 1,
+    "resourceId": 10070,
+    "resourceBoxPurpose": "shop_item",
+    "resourceLevel": null,
+    "resourceType": "stamp"
+  },
+  {
+    "resourceBoxId": 100093,
+    "resourceQuantity": 1,
+    "resourceId": 10071,
+    "resourceBoxPurpose": "shop_item",
+    "resourceLevel": null,
+    "resourceType": "stamp"
+  },
+  {
+    "resourceBoxId": 100094,
+    "resourceQuantity": 1,
+    "resourceId": 10072,
+    "resourceBoxPurpose": "shop_item",
+    "resourceLevel": null,
+    "resourceType": "stamp"
+  },
+  {
+    "resourceBoxId": 100095,
+    "resourceQuantity": 1,
+    "resourceId": 10073,
+    "resourceBoxPurpose": "shop_item",
+    "resourceLevel": null,
+    "resourceType": "stamp"
+  },
+  {
     "resourceBoxId": 1,
     "resourceQuantity": 100,
     "resourceId": null,
@@ -740536,6 +740656,1398 @@
     "resourceType": "honor"
   },
   {
+    "resourceBoxId": 541,
+    "resourceQuantity": 1,
+    "resourceId": 44,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 542,
+    "resourceQuantity": 3,
+    "resourceId": 5003,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 542,
+    "resourceQuantity": 1,
+    "resourceId": 20036,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 2,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 543,
+    "resourceQuantity": 50,
+    "resourceId": 15,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 544,
+    "resourceQuantity": 30,
+    "resourceId": 12,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 544,
+    "resourceQuantity": 1,
+    "resourceId": 20036,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 3,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 545,
+    "resourceQuantity": 300,
+    "resourceId": 11,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 546,
+    "resourceQuantity": 30,
+    "resourceId": 17,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 546,
+    "resourceQuantity": 1,
+    "resourceId": 20036,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 4,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 547,
+    "resourceQuantity": 5,
+    "resourceId": 3,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "practice_ticket"
+  },
+  {
+    "resourceBoxId": 548,
+    "resourceQuantity": 10,
+    "resourceId": 1008,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 548,
+    "resourceQuantity": 1,
+    "resourceId": 20036,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 5,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 549,
+    "resourceQuantity": 5,
+    "resourceId": 2,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "skill_practice_ticket"
+  },
+  {
+    "resourceBoxId": 550,
+    "resourceQuantity": 1,
+    "resourceId": 12,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "mysekai_material"
+  },
+  {
+    "resourceBoxId": 551,
+    "resourceQuantity": 600,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 551,
+    "resourceQuantity": 1,
+    "resourceId": 20037,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 552,
+    "resourceQuantity": 1,
+    "resourceId": 20037,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 2,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 552,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 553,
+    "resourceQuantity": 1,
+    "resourceId": 20037,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 3,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 553,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 554,
+    "resourceQuantity": 1,
+    "resourceId": 20037,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 4,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 554,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 555,
+    "resourceQuantity": 1,
+    "resourceId": 20037,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 5,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 555,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 556,
+    "resourceQuantity": 1,
+    "resourceId": 20038,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 556,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 557,
+    "resourceQuantity": 1,
+    "resourceId": 20039,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 557,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 558,
+    "resourceQuantity": 1,
+    "resourceId": 44,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 559,
+    "resourceQuantity": 3,
+    "resourceId": 5003,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 559,
+    "resourceQuantity": 1,
+    "resourceId": 20028,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 2,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 560,
+    "resourceQuantity": 50,
+    "resourceId": 15,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 561,
+    "resourceQuantity": 30,
+    "resourceId": 12,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 561,
+    "resourceQuantity": 1,
+    "resourceId": 20028,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 3,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 562,
+    "resourceQuantity": 300,
+    "resourceId": 11,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 563,
+    "resourceQuantity": 30,
+    "resourceId": 17,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 563,
+    "resourceQuantity": 1,
+    "resourceId": 20028,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 4,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 564,
+    "resourceQuantity": 5,
+    "resourceId": 3,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "practice_ticket"
+  },
+  {
+    "resourceBoxId": 565,
+    "resourceQuantity": 10,
+    "resourceId": 1008,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 565,
+    "resourceQuantity": 1,
+    "resourceId": 20028,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 5,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 566,
+    "resourceQuantity": 5,
+    "resourceId": 2,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "skill_practice_ticket"
+  },
+  {
+    "resourceBoxId": 567,
+    "resourceQuantity": 1,
+    "resourceId": 12,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "mysekai_material"
+  },
+  {
+    "resourceBoxId": 568,
+    "resourceQuantity": 600,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 568,
+    "resourceQuantity": 1,
+    "resourceId": 20029,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 569,
+    "resourceQuantity": 1,
+    "resourceId": 20029,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 2,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 569,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 570,
+    "resourceQuantity": 1,
+    "resourceId": 20029,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 3,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 570,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 571,
+    "resourceQuantity": 1,
+    "resourceId": 20029,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 4,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 571,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 572,
+    "resourceQuantity": 1,
+    "resourceId": 20029,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 5,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 572,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 573,
+    "resourceQuantity": 1,
+    "resourceId": 20030,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 573,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 574,
+    "resourceQuantity": 1,
+    "resourceId": 20031,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 574,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 575,
+    "resourceQuantity": 1,
+    "resourceId": 44,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 576,
+    "resourceQuantity": 3,
+    "resourceId": 5003,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 576,
+    "resourceQuantity": 1,
+    "resourceId": 20020,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 2,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 577,
+    "resourceQuantity": 50,
+    "resourceId": 15,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 578,
+    "resourceQuantity": 30,
+    "resourceId": 12,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 578,
+    "resourceQuantity": 1,
+    "resourceId": 20020,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 3,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 579,
+    "resourceQuantity": 300,
+    "resourceId": 11,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 580,
+    "resourceQuantity": 30,
+    "resourceId": 17,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 580,
+    "resourceQuantity": 1,
+    "resourceId": 20020,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 4,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 581,
+    "resourceQuantity": 5,
+    "resourceId": 3,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "practice_ticket"
+  },
+  {
+    "resourceBoxId": 582,
+    "resourceQuantity": 10,
+    "resourceId": 1008,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 582,
+    "resourceQuantity": 1,
+    "resourceId": 20020,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 5,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 583,
+    "resourceQuantity": 5,
+    "resourceId": 2,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "skill_practice_ticket"
+  },
+  {
+    "resourceBoxId": 584,
+    "resourceQuantity": 1,
+    "resourceId": 12,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "mysekai_material"
+  },
+  {
+    "resourceBoxId": 585,
+    "resourceQuantity": 600,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 585,
+    "resourceQuantity": 1,
+    "resourceId": 20021,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 586,
+    "resourceQuantity": 1,
+    "resourceId": 20021,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 2,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 586,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 587,
+    "resourceQuantity": 1,
+    "resourceId": 20021,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 3,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 587,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 588,
+    "resourceQuantity": 1,
+    "resourceId": 20021,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 4,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 588,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 589,
+    "resourceQuantity": 1,
+    "resourceId": 20021,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 5,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 589,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 590,
+    "resourceQuantity": 1,
+    "resourceId": 20022,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 590,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 591,
+    "resourceQuantity": 1,
+    "resourceId": 20023,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 591,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 592,
+    "resourceQuantity": 1,
+    "resourceId": 44,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 593,
+    "resourceQuantity": 3,
+    "resourceId": 5003,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 593,
+    "resourceQuantity": 1,
+    "resourceId": 20024,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 2,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 594,
+    "resourceQuantity": 50,
+    "resourceId": 15,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 595,
+    "resourceQuantity": 30,
+    "resourceId": 12,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 595,
+    "resourceQuantity": 1,
+    "resourceId": 20024,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 3,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 596,
+    "resourceQuantity": 300,
+    "resourceId": 11,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 597,
+    "resourceQuantity": 30,
+    "resourceId": 17,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 597,
+    "resourceQuantity": 1,
+    "resourceId": 20024,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 4,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 598,
+    "resourceQuantity": 5,
+    "resourceId": 3,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "practice_ticket"
+  },
+  {
+    "resourceBoxId": 599,
+    "resourceQuantity": 10,
+    "resourceId": 1008,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 599,
+    "resourceQuantity": 1,
+    "resourceId": 20024,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 5,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 600,
+    "resourceQuantity": 5,
+    "resourceId": 2,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "skill_practice_ticket"
+  },
+  {
+    "resourceBoxId": 601,
+    "resourceQuantity": 1,
+    "resourceId": 12,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "mysekai_material"
+  },
+  {
+    "resourceBoxId": 602,
+    "resourceQuantity": 600,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 602,
+    "resourceQuantity": 1,
+    "resourceId": 20025,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 603,
+    "resourceQuantity": 1,
+    "resourceId": 20025,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 2,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 603,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 604,
+    "resourceQuantity": 1,
+    "resourceId": 20025,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 3,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 604,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 605,
+    "resourceQuantity": 1,
+    "resourceId": 20025,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 4,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 605,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 606,
+    "resourceQuantity": 1,
+    "resourceId": 20025,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 5,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 606,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 607,
+    "resourceQuantity": 1,
+    "resourceId": 20026,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 607,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 608,
+    "resourceQuantity": 1,
+    "resourceId": 20027,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 608,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 609,
+    "resourceQuantity": 1,
+    "resourceId": 44,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 610,
+    "resourceQuantity": 3,
+    "resourceId": 5003,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 610,
+    "resourceQuantity": 1,
+    "resourceId": 20016,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 2,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 611,
+    "resourceQuantity": 50,
+    "resourceId": 15,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 612,
+    "resourceQuantity": 30,
+    "resourceId": 12,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 612,
+    "resourceQuantity": 1,
+    "resourceId": 20016,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 3,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 613,
+    "resourceQuantity": 300,
+    "resourceId": 11,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 614,
+    "resourceQuantity": 30,
+    "resourceId": 17,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 614,
+    "resourceQuantity": 1,
+    "resourceId": 20016,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 4,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 615,
+    "resourceQuantity": 5,
+    "resourceId": 3,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "practice_ticket"
+  },
+  {
+    "resourceBoxId": 616,
+    "resourceQuantity": 10,
+    "resourceId": 1008,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 616,
+    "resourceQuantity": 1,
+    "resourceId": 20016,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 5,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 617,
+    "resourceQuantity": 5,
+    "resourceId": 2,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "skill_practice_ticket"
+  },
+  {
+    "resourceBoxId": 618,
+    "resourceQuantity": 1,
+    "resourceId": 12,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "mysekai_material"
+  },
+  {
+    "resourceBoxId": 619,
+    "resourceQuantity": 600,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 619,
+    "resourceQuantity": 1,
+    "resourceId": 20017,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 620,
+    "resourceQuantity": 1,
+    "resourceId": 20017,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 2,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 620,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 621,
+    "resourceQuantity": 1,
+    "resourceId": 20017,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 3,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 621,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 622,
+    "resourceQuantity": 1,
+    "resourceId": 20017,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 4,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 622,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 623,
+    "resourceQuantity": 1,
+    "resourceId": 20017,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 5,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 623,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 624,
+    "resourceQuantity": 1,
+    "resourceId": 20018,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 624,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 625,
+    "resourceQuantity": 1,
+    "resourceId": 20019,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 625,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 626,
+    "resourceQuantity": 1,
+    "resourceId": 44,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 627,
+    "resourceQuantity": 3,
+    "resourceId": 5003,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 627,
+    "resourceQuantity": 1,
+    "resourceId": 20032,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 2,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 628,
+    "resourceQuantity": 50,
+    "resourceId": 15,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 629,
+    "resourceQuantity": 30,
+    "resourceId": 12,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 629,
+    "resourceQuantity": 1,
+    "resourceId": 20032,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 3,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 630,
+    "resourceQuantity": 300,
+    "resourceId": 11,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 631,
+    "resourceQuantity": 30,
+    "resourceId": 17,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 631,
+    "resourceQuantity": 1,
+    "resourceId": 20032,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 4,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 632,
+    "resourceQuantity": 5,
+    "resourceId": 3,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "practice_ticket"
+  },
+  {
+    "resourceBoxId": 633,
+    "resourceQuantity": 10,
+    "resourceId": 1008,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 633,
+    "resourceQuantity": 1,
+    "resourceId": 20032,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 5,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 634,
+    "resourceQuantity": 5,
+    "resourceId": 2,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "skill_practice_ticket"
+  },
+  {
+    "resourceBoxId": 635,
+    "resourceQuantity": 1,
+    "resourceId": 12,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "mysekai_material"
+  },
+  {
+    "resourceBoxId": 636,
+    "resourceQuantity": 600,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 636,
+    "resourceQuantity": 1,
+    "resourceId": 20033,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 637,
+    "resourceQuantity": 1,
+    "resourceId": 20033,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 2,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 637,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 638,
+    "resourceQuantity": 1,
+    "resourceId": 20033,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 3,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 638,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 639,
+    "resourceQuantity": 1,
+    "resourceId": 20033,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 4,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 639,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 640,
+    "resourceQuantity": 1,
+    "resourceId": 20033,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 5,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 640,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 641,
+    "resourceQuantity": 1,
+    "resourceId": 20034,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 641,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 642,
+    "resourceQuantity": 1,
+    "resourceId": 20035,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 642,
+    "resourceQuantity": 50,
+    "resourceId": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 643,
+    "resourceQuantity": 1,
+    "resourceId": 20036,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 644,
+    "resourceQuantity": 1,
+    "resourceId": 20028,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 645,
+    "resourceQuantity": 1,
+    "resourceId": 20020,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 646,
+    "resourceQuantity": 1,
+    "resourceId": 20024,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 647,
+    "resourceQuantity": 1,
+    "resourceId": 20016,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 648,
+    "resourceQuantity": 1,
+    "resourceId": 20032,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
     "resourceBoxId": 1,
     "resourceQuantity": 1,
     "resourceId": 49,
@@ -740979,6 +742491,22 @@
     "resourceBoxId": 56,
     "resourceQuantity": 1,
     "resourceId": 19,
+    "resourceBoxPurpose": "support_event_total_reward",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 57,
+    "resourceQuantity": 1,
+    "resourceId": 10006,
+    "resourceBoxPurpose": "support_event_total_reward",
+    "resourceLevel": null,
+    "resourceType": "stamp"
+  },
+  {
+    "resourceBoxId": 58,
+    "resourceQuantity": 10,
+    "resourceId": 1008,
     "resourceBoxPurpose": "support_event_total_reward",
     "resourceLevel": null,
     "resourceType": "gacha_ticket"

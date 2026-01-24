@@ -122143,6 +122143,62 @@
     "resourceBoxType": "expand"
   },
   {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "新春登录活动第1天奖励。",
+    "id": 2126,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "新春登录活动第2天奖励。",
+    "id": 2127,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "新春登录活动第3天奖励。",
+    "id": 2128,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "新春登录活动第4天奖励。",
+    "id": 2129,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "新春登录活动第5天奖励。",
+    "id": 2130,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "新春登录活动第6天奖励。",
+    "id": 2131,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "新春登录活动第7天奖励。",
+    "id": 2132,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "新春登录活动第8天奖励。",
+    "id": 2133,
+    "resourceBoxType": "expand"
+  },
+  {
     "assetbundleName": null,
     "resourceBoxPurpose": "login_bonus",
     "name": "「生日快乐，一歌！」登录活动",
@@ -183716,6 +183772,34 @@
   },
   {
     "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 100092,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 100093,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 100094,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 100095,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
     "resourceBoxPurpose": "special_reward",
     "name": null,
     "id": 1,
@@ -188469,6 +188553,762 @@
   },
   {
     "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 541,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 542,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 543,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 544,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 545,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 546,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 547,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 548,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 549,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 550,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 551,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 552,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 553,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 554,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 555,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 556,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 557,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 558,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 559,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 560,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 561,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 562,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 563,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 564,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 565,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 566,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 567,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 568,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 569,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 570,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 571,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 572,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 573,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 574,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 575,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 576,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 577,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 578,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 579,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 580,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 581,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 582,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 583,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 584,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 585,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 586,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 587,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 588,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 589,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 590,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 591,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 592,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 593,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 594,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 595,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 596,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 597,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 598,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 599,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 600,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 601,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 602,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 603,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 604,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 605,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 606,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 607,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 608,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 609,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 610,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 611,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 612,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 613,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 614,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 615,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 616,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 617,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 618,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 619,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 620,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 621,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 622,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 623,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 624,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 625,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 626,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 627,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 628,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 629,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 630,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 631,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 632,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 633,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 634,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 635,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 636,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 637,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 638,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 639,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 640,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 641,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 642,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 643,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 644,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 645,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 646,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 647,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_personal_reward",
+    "name": null,
+    "id": 648,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
     "resourceBoxPurpose": "support_event_total_reward",
     "name": null,
     "id": 1,
@@ -188857,6 +189697,20 @@
     "resourceBoxPurpose": "support_event_total_reward",
     "name": null,
     "id": 56,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_total_reward",
+    "name": null,
+    "id": 57,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "support_event_total_reward",
+    "name": null,
+    "id": 58,
     "resourceBoxType": "expand"
   },
   {

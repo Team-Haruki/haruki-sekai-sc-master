@@ -10555,8 +10555,8 @@
     "characterId1": 21,
     "gameCharacterUnitId": 21,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 4078526400000,
-    "description": "在表情商店购买"
+    "archivePublishedAt": 1771041600000,
+    "description": "应援！新春的世界2026 活动奖励"
   },
   {
     "id": 10007,
@@ -11307,6 +11307,17 @@
     "description": "舞萌|中二联动限时任务获得"
   },
   {
+    "id": 10065,
+    "stampType": "text",
+    "seq": 100650,
+    "name": "[文字表情]马到成功",
+    "assetbundleName": "stamp10065",
+    "balloonAssetbundleName": "balloon_stamp_02",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1770955200000,
+    "description": "登录活动奖励"
+  },
+  {
     "id": 10066,
     "stampType": "illustration",
     "seq": 100660,
@@ -11356,6 +11367,58 @@
     "gameCharacterUnitId": 12,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1766732400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10070,
+    "stampType": "illustration",
+    "seq": 100700,
+    "name": "[表情]司：龙！马！精！神！",
+    "assetbundleName": "stamp10070",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 13,
+    "gameCharacterUnitId": 13,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1770955200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10071,
+    "stampType": "illustration",
+    "seq": 100710,
+    "name": "[表情]笑梦：要团团圆圆一直在一起！！",
+    "assetbundleName": "stamp10071",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 14,
+    "gameCharacterUnitId": 14,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1770955200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10072,
+    "stampType": "illustration",
+    "seq": 100720,
+    "name": "[表情]宁宁：好吃！爱吃！多吃！",
+    "assetbundleName": "stamp10072",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 15,
+    "gameCharacterUnitId": 15,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1770955200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10073,
+    "stampType": "illustration",
+    "seq": 100730,
+    "name": "[表情]类：准备好了吗",
+    "assetbundleName": "stamp10073",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 16,
+    "gameCharacterUnitId": 16,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1770955200000,
     "description": "在表情商店购买"
   },
   {

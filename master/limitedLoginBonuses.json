@@ -1,5 +1,19 @@
 [
   {
+    "id": 79,
+    "startAt": 1770436800000,
+    "endAt": 1771603199000,
+    "assetbundleName": "sanrio_collab_2023",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 177,
+        "limitedLoginBonusId": 79,
+        "day": 1,
+        "resourceBoxId": 104
+      }
+    ]
+  },
+  {
     "id": 96,
     "startAt": 1758643200000,
     "endAt": 1758729599000,
@@ -2560,6 +2574,62 @@
         "limitedLoginBonusId": 1163,
         "day": 7,
         "resourceBoxId": 2125
+      }
+    ]
+  },
+  {
+    "id": 1164,
+    "startAt": 1771171200000,
+    "endAt": 1772294399000,
+    "assetbundleName": "newyear_26_1",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1392,
+        "limitedLoginBonusId": 1164,
+        "day": 1,
+        "resourceBoxId": 2126
+      },
+      {
+        "id": 1393,
+        "limitedLoginBonusId": 1164,
+        "day": 2,
+        "resourceBoxId": 2127
+      },
+      {
+        "id": 1394,
+        "limitedLoginBonusId": 1164,
+        "day": 3,
+        "resourceBoxId": 2128
+      },
+      {
+        "id": 1395,
+        "limitedLoginBonusId": 1164,
+        "day": 4,
+        "resourceBoxId": 2129
+      },
+      {
+        "id": 1396,
+        "limitedLoginBonusId": 1164,
+        "day": 5,
+        "resourceBoxId": 2130
+      },
+      {
+        "id": 1397,
+        "limitedLoginBonusId": 1164,
+        "day": 6,
+        "resourceBoxId": 2131
+      },
+      {
+        "id": 1398,
+        "limitedLoginBonusId": 1164,
+        "day": 7,
+        "resourceBoxId": 2132
+      },
+      {
+        "id": 1399,
+        "limitedLoginBonusId": 1164,
+        "day": 8,
+        "resourceBoxId": 2133
       }
     ]
   }
