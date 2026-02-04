@@ -18897,35 +18897,35 @@
   },
   {
     "id": 61960,
-    "sentence": "获得“[吃点馒头放松一下♪] 日野森雫”",
+    "sentence": "获得“[吃豆沙包放松一下♪] 日野森雫”",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 512,
     "releaseConditionTypeLevel": 0
   },
   {
     "id": 61961,
-    "sentence": "“[吃点馒头放松一下♪] 日野森雫”专家等级达到1级时解锁",
+    "sentence": "“[吃豆沙包放松一下♪] 日野森雫”专家等级达到1级时解锁",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 512,
     "releaseConditionTypeLevel": 1
   },
   {
     "id": 61962,
-    "sentence": "“[吃点馒头放松一下♪] 日野森雫”专家等级达到2级时解锁",
+    "sentence": "“[吃豆沙包放松一下♪] 日野森雫”专家等级达到2级时解锁",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 512,
     "releaseConditionTypeLevel": 2
   },
   {
     "id": 61963,
-    "sentence": "“[吃点馒头放松一下♪] 日野森雫”专家等级达到3级时解锁",
+    "sentence": "“[吃豆沙包放松一下♪] 日野森雫”专家等级达到3级时解锁",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 512,
     "releaseConditionTypeLevel": 3
   },
   {
     "id": 61964,
-    "sentence": "“[吃点馒头放松一下♪] 日野森雫”专家等级达到5级时解锁",
+    "sentence": "“[吃豆沙包放松一下♪] 日野森雫”专家等级达到5级时解锁",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 512,
     "releaseConditionTypeLevel": 5
@@ -38589,6 +38589,20 @@
     "sentence": "购买歌曲后，通关EXPERT并且GOOD及以下\n评价不超过7个",
     "releaseConditionType": "music_difficulty_better_play",
     "releaseConditionTypeId": 490044,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 490011,
+    "sentence": "购买歌曲后，通关EXPERT并且GOOD及以下\n评价不超过7个",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 490054,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 490012,
+    "sentence": "购买歌曲后，通关EXPERT并且GOOD及以下\n评价不超过7个",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 490059,
     "releaseConditionTypeQuantity": 7
   },
   {

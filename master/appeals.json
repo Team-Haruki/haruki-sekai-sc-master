@@ -1378,5 +1378,55 @@
     "endAt": 1769961599000,
     "appealReadConditionType": "transition",
     "text": "冬日服装"
+  },
+  {
+    "id": 446,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1770436800000,
+    "endAt": 1771603199000,
+    "appealReadConditionType": "transition",
+    "text": "三丽鸥家族联动登场"
+  },
+  {
+    "id": 447,
+    "seq": 3,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1771171200000,
+    "endAt": 1771862399000,
+    "appealReadConditionType": "transition",
+    "text": "新春优惠礼包"
+  },
+  {
+    "id": 448,
+    "seq": 3,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1771171200000,
+    "endAt": 1771862399000,
+    "appealReadConditionType": "transition",
+    "text": "新春服装"
+  },
+  {
+    "id": 449,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1771214400000,
+    "endAt": 1771862399000,
+    "appealReadConditionType": "transition",
+    "text": "★4出率10%"
+  },
+  {
+    "id": 450,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1771214400000,
+    "endAt": 1771862399000,
+    "appealReadConditionType": "transition",
+    "text": "马年限定服装"
   }
 ]
