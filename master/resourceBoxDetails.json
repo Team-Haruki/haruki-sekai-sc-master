@@ -196768,6 +196768,62 @@
     "resourceType": "coin"
   },
   {
+    "resourceBoxId": 91062,
+    "resourceQuantity": 6,
+    "resourceId": 1,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 91062,
+    "resourceQuantity": 6,
+    "resourceId": 3,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "skill_practice_ticket"
+  },
+  {
+    "resourceBoxId": 91063,
+    "resourceQuantity": 8,
+    "resourceId": 1,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 91063,
+    "resourceQuantity": 888888,
+    "resourceId": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "coin"
+  },
+  {
+    "resourceBoxId": 91064,
+    "resourceQuantity": 9,
+    "resourceId": 1,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 91064,
+    "resourceQuantity": 9,
+    "resourceId": 5003,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 91064,
+    "resourceQuantity": 9,
+    "resourceId": 168,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
     "resourceBoxId": 1,
     "resourceQuantity": 50,
     "resourceId": 15,
@@ -732680,6 +732736,78 @@
     "resourceType": "music"
   },
   {
+    "resourceBoxId": 11019,
+    "resourceQuantity": 1,
+    "resourceId": 611,
+    "resourceBoxPurpose": "shop_item",
+    "resourceLevel": null,
+    "resourceType": "music"
+  },
+  {
+    "resourceBoxId": 11020,
+    "resourceQuantity": 1,
+    "resourceId": 612,
+    "resourceBoxPurpose": "shop_item",
+    "resourceLevel": null,
+    "resourceType": "music"
+  },
+  {
+    "resourceBoxId": 11021,
+    "resourceQuantity": 1,
+    "resourceId": 613,
+    "resourceBoxPurpose": "shop_item",
+    "resourceLevel": null,
+    "resourceType": "music"
+  },
+  {
+    "resourceBoxId": 11022,
+    "resourceQuantity": 1,
+    "resourceId": 614,
+    "resourceBoxPurpose": "shop_item",
+    "resourceLevel": null,
+    "resourceType": "music"
+  },
+  {
+    "resourceBoxId": 11023,
+    "resourceQuantity": 1,
+    "resourceId": 615,
+    "resourceBoxPurpose": "shop_item",
+    "resourceLevel": null,
+    "resourceType": "music"
+  },
+  {
+    "resourceBoxId": 11024,
+    "resourceQuantity": 1,
+    "resourceId": 616,
+    "resourceBoxPurpose": "shop_item",
+    "resourceLevel": null,
+    "resourceType": "music"
+  },
+  {
+    "resourceBoxId": 11025,
+    "resourceQuantity": 1,
+    "resourceId": 617,
+    "resourceBoxPurpose": "shop_item",
+    "resourceLevel": null,
+    "resourceType": "music"
+  },
+  {
+    "resourceBoxId": 11026,
+    "resourceQuantity": 1,
+    "resourceId": 618,
+    "resourceBoxPurpose": "shop_item",
+    "resourceLevel": null,
+    "resourceType": "music"
+  },
+  {
+    "resourceBoxId": 11027,
+    "resourceQuantity": 1,
+    "resourceId": 719,
+    "resourceBoxPurpose": "shop_item",
+    "resourceLevel": null,
+    "resourceType": "music"
+  },
+  {
     "resourceBoxId": 20000,
     "resourceQuantity": 1,
     "resourceId": 1000,
@@ -735379,6 +735507,22 @@
     "resourceBoxId": 90106,
     "resourceQuantity": 1,
     "resourceId": 11007,
+    "resourceBoxPurpose": "shop_item",
+    "resourceLevel": null,
+    "resourceType": "music"
+  },
+  {
+    "resourceBoxId": 90107,
+    "resourceQuantity": 1,
+    "resourceId": 11011,
+    "resourceBoxPurpose": "shop_item",
+    "resourceLevel": null,
+    "resourceType": "music"
+  },
+  {
+    "resourceBoxId": 90108,
+    "resourceQuantity": 1,
+    "resourceId": 11012,
     "resourceBoxPurpose": "shop_item",
     "resourceLevel": null,
     "resourceType": "music"

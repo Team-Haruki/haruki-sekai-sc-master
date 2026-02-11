@@ -12849,6 +12849,13 @@
     "releaseConditionTypeQuantity": 7
   },
   {
+    "id": 40719,
+    "sentence": "购买歌曲后，通关EXPERT并且GOOD及以下\n评价不超过7个",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 3594,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
     "id": 50002,
     "sentence": "观看Leo/need的主线剧情第1话",
     "releaseConditionType": "unit_story",
