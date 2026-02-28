@@ -50,21 +50,12 @@
     "distributionEndAt": 1767747599000
   },
   {
-    "id": 25,
-    "keyMissionId": 158,
-    "startAt": 1764820800000,
-    "endAt": 1765555199000,
-    "assetbundleName": "limitmission_miku_25",
-    "iconAssetbundleName": "limitmission_miku_25",
-    "distributionEndAt": 1765598399000
-  },
-  {
     "id": 26,
     "keyMissionId": 164,
     "startAt": 1769486400000,
     "endAt": 1770469199000,
     "assetbundleName": "limitmission_miku_25",
-    "iconAssetbundleName": "limitmission_miku_26",
+    "iconAssetbundleName": "limitmission_luka_26",
     "distributionEndAt": 1770512399000
   },
   {
@@ -73,7 +64,15 @@
     "startAt": 1771041600000,
     "endAt": 1772024399000,
     "assetbundleName": "limitmission_miku_25",
-    "iconAssetbundleName": "limitmission_miku_26",
+    "iconAssetbundleName": "limitmission_luka_26",
     "distributionEndAt": 1772067599000
+  },
+  {
+    "id": 28,
+    "keyMissionId": 176,
+    "startAt": 1772337600000,
+    "endAt": 1772899199000,
+    "assetbundleName": "limit_15s_2022",
+    "distributionEndAt": 1772942399000
   }
 ]

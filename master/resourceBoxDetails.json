@@ -190312,6 +190312,86 @@
     "resourceType": "material"
   },
   {
+    "resourceBoxId": 51099,
+    "resourceQuantity": 1,
+    "resourceId": 1,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 51099,
+    "resourceQuantity": 100,
+    "resourceId": 14,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 51099,
+    "resourceQuantity": 10,
+    "resourceId": 2,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "practice_ticket"
+  },
+  {
+    "resourceBoxId": 51100,
+    "resourceQuantity": 5,
+    "resourceId": 1,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 51100,
+    "resourceQuantity": 3,
+    "resourceId": 44,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 51100,
+    "resourceQuantity": 300,
+    "resourceId": 11,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 51100,
+    "resourceQuantity": 30,
+    "resourceId": 12,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 51101,
+    "resourceQuantity": 15,
+    "resourceId": 1,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 51101,
+    "resourceQuantity": 1,
+    "resourceId": 16,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 51101,
+    "resourceQuantity": 5,
+    "resourceId": 57,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
     "resourceBoxId": 90001,
     "resourceQuantity": 2010,
     "resourceId": null,
@@ -508422,6 +508502,14 @@
     "resourceBoxPurpose": "gift_detail",
     "resourceLevel": null,
     "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 50015,
+    "resourceQuantity": 500,
+    "resourceId": null,
+    "resourceBoxPurpose": "gift_detail",
+    "resourceLevel": null,
+    "resourceType": "jewel"
   },
   {
     "resourceBoxId": 9999999,

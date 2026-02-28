@@ -247,7 +247,7 @@
     "requirement": 5,
     "sentence": "完成以上所有任务。",
     "resourceBoxId": 400081,
-    "selectableRewardGroupId": 0
+    "selectableRewardGroupId": 1
   },
   {
     "limitMissionGroupId": 23,
@@ -400,76 +400,6 @@
     "selectableRewardGroupId": 0
   },
   {
-    "limitMissionGroupId": 25,
-    "id": 152,
-    "seq": 1,
-    "limitMissionType": "login",
-    "requirement": 1,
-    "sentence": "登录1次游戏。",
-    "resourceBoxId": 400089,
-    "selectableRewardGroupId": 0
-  },
-  {
-    "limitMissionGroupId": 25,
-    "id": 153,
-    "seq": 1,
-    "limitMissionType": "master_piece_exchange",
-    "requirement": 1,
-    "sentence": "在心愿碎片兑换所进行一次交换。",
-    "resourceBoxId": 100307,
-    "selectableRewardGroupId": 0
-  },
-  {
-    "limitMissionGroupId": 25,
-    "id": 154,
-    "seq": 1,
-    "limitMissionType": "buy_music",
-    "requirement": 1,
-    "sentence": "在音乐商店交换一次歌曲。",
-    "resourceBoxId": 400090,
-    "selectableRewardGroupId": 0
-  },
-  {
-    "limitMissionGroupId": 25,
-    "id": 155,
-    "seq": 1,
-    "limitMissionType": "clear_maimai_music",
-    "requirement": 10,
-    "sentence": "完成含舞萌|中二联动标签的歌曲10次",
-    "resourceBoxId": 400091,
-    "selectableRewardGroupId": 0
-  },
-  {
-    "limitMissionGroupId": 25,
-    "id": 156,
-    "seq": 1,
-    "limitMissionType": "clear_solo_challenge_live",
-    "requirement": 3,
-    "sentence": "完成3次挑战演出。",
-    "resourceBoxId": 400092,
-    "selectableRewardGroupId": 0
-  },
-  {
-    "limitMissionGroupId": 25,
-    "id": 157,
-    "seq": 1,
-    "limitMissionType": "collect_event_point",
-    "requirement": 200000,
-    "sentence": "累计获得200,000活动积分。",
-    "resourceBoxId": 400093,
-    "selectableRewardGroupId": 0
-  },
-  {
-    "limitMissionGroupId": 25,
-    "id": 158,
-    "seq": 1,
-    "limitMissionType": "clear_all_limit_mission",
-    "requirement": 6,
-    "sentence": "完成以上所有任务。",
-    "resourceBoxId": 400094,
-    "selectableRewardGroupId": 0
-  },
-  {
     "limitMissionGroupId": 26,
     "id": 159,
     "seq": 1,
@@ -587,6 +517,66 @@
     "requirement": 5,
     "sentence": "完成所有的KAITO纪念日限时任务。",
     "resourceBoxId": 400099,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 28,
+    "id": 171,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live",
+    "requirement": 5,
+    "sentence": "完成5次「挑战演出」。",
+    "resourceBoxId": 100319,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 28,
+    "id": 172,
+    "seq": 1,
+    "limitMissionType": "clear_multi_live",
+    "requirement": 10,
+    "sentence": "完成10次多人演出。",
+    "resourceBoxId": 100320,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 28,
+    "id": 173,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "在活动兑换所完成3次兑换。",
+    "resourceBoxId": 100309,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 28,
+    "id": 174,
+    "seq": 1,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 30,
+    "sentence": "累计消耗30点演出能量。",
+    "resourceBoxId": 100307,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 28,
+    "id": 175,
+    "seq": 1,
+    "limitMissionType": "master_rank",
+    "requirement": 1,
+    "sentence": "提升1次成员的专精等级。",
+    "resourceBoxId": 100321,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 28,
+    "id": 176,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "完成以上所有任务。",
+    "resourceBoxId": 400081,
     "selectableRewardGroupId": 0
   }
 ]

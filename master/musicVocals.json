@@ -36814,32 +36814,7 @@
     "seq": 601,
     "releaseConditionId": 11,
     "caption": "连线演唱会（DAY1昼）ver.",
-    "characters": [
-      {
-        "id": 2913,
-        "musicId": 555,
-        "musicVocalId": 1556,
-        "characterType": "outside_character",
-        "characterId": 35,
-        "seq": 5553
-      },
-      {
-        "id": 3005,
-        "musicId": 555,
-        "musicVocalId": 1556,
-        "characterType": "game_character",
-        "characterId": 23,
-        "seq": 5557
-      },
-      {
-        "id": 3006,
-        "musicId": 555,
-        "musicVocalId": 1556,
-        "characterType": "game_character",
-        "characterId": 26,
-        "seq": 5558
-      }
-    ],
+    "characters": [],
     "assetbundleName": "cl_0555_01",
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1766127600000
@@ -36851,32 +36826,7 @@
     "seq": 602,
     "releaseConditionId": 11,
     "caption": "连线演唱会（DAY1夜）ver.",
-    "characters": [
-      {
-        "id": 2914,
-        "musicId": 555,
-        "musicVocalId": 1557,
-        "characterType": "outside_character",
-        "characterId": 35,
-        "seq": 5554
-      },
-      {
-        "id": 3007,
-        "musicId": 555,
-        "musicVocalId": 1557,
-        "characterType": "game_character",
-        "characterId": 23,
-        "seq": 5559
-      },
-      {
-        "id": 3008,
-        "musicId": 555,
-        "musicVocalId": 1557,
-        "characterType": "game_character",
-        "characterId": 26,
-        "seq": 5560
-      }
-    ],
+    "characters": [],
     "assetbundleName": "cl_0555_02",
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1766127600000
@@ -36888,32 +36838,7 @@
     "seq": 603,
     "releaseConditionId": 11,
     "caption": "连线演唱会（DAY2昼）ver.",
-    "characters": [
-      {
-        "id": 2915,
-        "musicId": 555,
-        "musicVocalId": 1558,
-        "characterType": "outside_character",
-        "characterId": 35,
-        "seq": 5555
-      },
-      {
-        "id": 3009,
-        "musicId": 555,
-        "musicVocalId": 1558,
-        "characterType": "game_character",
-        "characterId": 23,
-        "seq": 5561
-      },
-      {
-        "id": 3010,
-        "musicId": 555,
-        "musicVocalId": 1558,
-        "characterType": "game_character",
-        "characterId": 26,
-        "seq": 5562
-      }
-    ],
+    "characters": [],
     "assetbundleName": "cl_0555_03",
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1766127600000
@@ -36925,32 +36850,7 @@
     "seq": 604,
     "releaseConditionId": 11,
     "caption": "连线演唱会（DAY2夜）ver.",
-    "characters": [
-      {
-        "id": 2916,
-        "musicId": 555,
-        "musicVocalId": 1559,
-        "characterType": "outside_character",
-        "characterId": 35,
-        "seq": 5556
-      },
-      {
-        "id": 3011,
-        "musicId": 555,
-        "musicVocalId": 1559,
-        "characterType": "game_character",
-        "characterId": 23,
-        "seq": 5563
-      },
-      {
-        "id": 3012,
-        "musicId": 555,
-        "musicVocalId": 1559,
-        "characterType": "game_character",
-        "characterId": 26,
-        "seq": 5564
-      }
-    ],
+    "characters": [],
     "assetbundleName": "cl_0555_04",
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1766127600000
@@ -38519,7 +38419,7 @@
     "musicVocalType": "virtual_singer",
     "seq": 101,
     "releaseConditionId": 5,
-    "caption": "虛擬歌手ver.",
+    "caption": "虚拟歌手ver.",
     "characters": [
       {
         "id": 110012,
@@ -38527,6 +38427,14 @@
         "musicVocalId": 110012,
         "characterType": "game_character",
         "characterId": 21,
+        "seq": 110012
+      },
+      {
+        "id": 110013,
+        "musicId": 11012,
+        "musicVocalId": 110012,
+        "characterType": "outside_character",
+        "characterId": 24,
         "seq": 110012
       }
     ],
