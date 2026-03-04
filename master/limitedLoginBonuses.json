@@ -386,6 +386,34 @@
     ]
   },
   {
+    "id": 120,
+    "startAt": 1772985600000,
+    "endAt": 1773071999000,
+    "assetbundleName": "mikusday_2025",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 250,
+        "limitedLoginBonusId": 120,
+        "day": 1,
+        "resourceBoxId": 157
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "startAt": 1773417600000,
+    "endAt": 1773590399000,
+    "assetbundleName": "whiteday_2025",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 251,
+        "limitedLoginBonusId": 121,
+        "day": 1,
+        "resourceBoxId": 158
+      }
+    ]
+  },
+  {
     "id": 131,
     "startAt": 1754280000000,
     "endAt": 1755100799000,
@@ -2727,6 +2755,56 @@
         "id": 1406,
         "limitedLoginBonusId": 1171,
         "day": 1,
+        "resourceBoxId": 2091
+      }
+    ]
+  },
+  {
+    "id": 1172,
+    "startAt": 1773936000000,
+    "endAt": 1773676799000,
+    "assetbundleName": "4-5th_pre_anniversary",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1407,
+        "limitedLoginBonusId": 1172,
+        "day": 1,
+        "resourceBoxId": 2091
+      },
+      {
+        "id": 1408,
+        "limitedLoginBonusId": 1172,
+        "day": 2,
+        "resourceBoxId": 2091
+      },
+      {
+        "id": 1409,
+        "limitedLoginBonusId": 1172,
+        "day": 3,
+        "resourceBoxId": 2091
+      },
+      {
+        "id": 1410,
+        "limitedLoginBonusId": 1172,
+        "day": 4,
+        "resourceBoxId": 2091
+      },
+      {
+        "id": 1411,
+        "limitedLoginBonusId": 1172,
+        "day": 5,
+        "resourceBoxId": 2091
+      },
+      {
+        "id": 1412,
+        "limitedLoginBonusId": 1172,
+        "day": 6,
+        "resourceBoxId": 2091
+      },
+      {
+        "id": 1413,
+        "limitedLoginBonusId": 1172,
+        "day": 7,
         "resourceBoxId": 2091
       }
     ]

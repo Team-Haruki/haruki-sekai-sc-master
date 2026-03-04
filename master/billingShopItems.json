@@ -3574,6 +3574,38 @@
     "billingShopTabChildId": 2000
   },
   {
+    "id": 51102,
+    "seq": 46088,
+    "billingShopItemType": "value_set",
+    "name": "春天的植物服装（女装）",
+    "description": "拇指国的玫瑰公主（女装）20着×全色",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_51102",
+    "resourceBoxId": 51102,
+    "startAt": 1772769600000,
+    "endAt": 1773590399000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
+  },
+  {
+    "id": 51103,
+    "seq": 46088,
+    "billingShopItemType": "value_set",
+    "name": "春天的植物服装（男装）",
+    "description": "绽放的圆舞曲（男装）6着×全色",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_51103",
+    "resourceBoxId": 51103,
+    "startAt": 1772769600000,
+    "endAt": 1773590399000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
+  },
+  {
     "id": 60000,
     "seq": 1,
     "billingShopItemType": "live_mission_pass_lite",
