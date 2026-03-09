@@ -145,15 +145,33 @@
   },
   {
     "id": 25,
-    "name": "[4.5周年纪念]★4成员必出招募券",
+    "name": "[1周年纪念]★4成员必出招募券",
     "assetbundleName": "gacha_ticket_star4",
     "gachaDisplayType": "having"
   },
   {
     "id": 26,
-    "name": "[4.5周年纪念]免费招募券",
-    "assetbundleName": "gacha_ticket",
+    "name": "[1周年纪念]免费招募券",
+    "assetbundleName": "gacha_ticket_cn_free",
     "gachaDisplayType": "always"
+  },
+  {
+    "id": 27,
+    "name": "[1.5周年纪念]绚烂节日招募专用券",
+    "assetbundleName": "anniversary_fes_gacha_ticket",
+    "gachaDisplayType": "always"
+  },
+  {
+    "id": 28,
+    "name": "[1.5周年纪念]免费招募券",
+    "assetbundleName": "gacha_ticket_cn_free",
+    "gachaDisplayType": "always"
+  },
+  {
+    "id": 29,
+    "name": "[邀请朋友]★4成员必出招募券",
+    "assetbundleName": "gacha_ticket_star4",
+    "gachaDisplayType": "having"
   },
   {
     "id": 1000,

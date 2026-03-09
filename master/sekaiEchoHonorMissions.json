@@ -47,5 +47,26 @@
     "seq": 2,
     "requirement": 30,
     "sentence": "完成原创歌曲30次。"
+  },
+  {
+    "sekaiLevel": 4,
+    "sekaiEchoHonorMissionType": "echo_point",
+    "seq": 3,
+    "requirement": 250000,
+    "sentence": "在本次活动中累计使用250000回响点数。"
+  },
+  {
+    "sekaiLevel": 4,
+    "sekaiEchoHonorMissionType": "event_card_strengthen_max",
+    "seq": 1,
+    "requirement": 5,
+    "sentence": "获得对应活动的活动卡五张且全强化"
+  },
+  {
+    "sekaiLevel": 4,
+    "sekaiEchoHonorMissionType": "event_music_pass",
+    "seq": 2,
+    "requirement": 100,
+    "sentence": "完成原创歌曲100次。"
   }
 ]

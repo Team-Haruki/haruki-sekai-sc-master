@@ -1420,6 +1420,102 @@
     "materialType": "common"
   },
   {
+    "id": 172,
+    "seq": 20002,
+    "name": "“连线演唱会 Dreamscape”连线演唱会ver. Vocal兑换卡",
+    "flavorText": "可兑换“连线演唱会 25点，Nightcord见。× 虚拟歌手 Dreamscape”公演内所展示歌曲的连线演唱会ver. Vocal。",
+    "canUse": false,
+    "materialType": "auto_exchange_music_vocal_ticket"
+  },
+  {
+    "id": 173,
+    "seq": 10617,
+    "name": "拓麻歌子碎片",
+    "flavorText": "可在拓麻歌子碎片兑换所里兑换奖励。\n使用期限：2026/10/12 23:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 176,
+    "seq": 30003,
+    "name": "庆典甘露（虞美人红）",
+    "flavorText": "用来培育庆祝穗波生日所使用花朵的甘露。\n*仅限2027年生日活动使用。",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
+    "id": 179,
+    "seq": 30006,
+    "name": "庆典甘露（冷峻蓝）",
+    "flavorText": "用来培育庆祝遥生日所使用花朵的甘露。\n*仅限2027年生日活动使用。",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
+    "id": 200,
+    "seq": 10618,
+    "name": "绯红旋律水滴",
+    "flavorText": "可在Bright Memories 活动兑换所里兑换奖励。\n使用期限：2026/10/31 23:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 201,
+    "seq": 10619,
+    "name": "苍蓝旋律水滴",
+    "flavorText": "可在Bright Memories 活动兑换所里兑换奖励。\n使用期限：2026/10/31 23:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 202,
+    "seq": 10620,
+    "name": "堇紫旋律水滴",
+    "flavorText": "可在Bright Memories 活动兑换所里兑换奖励。\n使用期限：2026/10/31 23:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 203,
+    "seq": 10621,
+    "name": "彩虹旋律水珠",
+    "flavorText": "可在Bright Memories 活动兑换所里兑换奖励。\n使用期限：2026/10/31 23:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 204,
+    "seq": 10622,
+    "name": "彩虹旋律",
+    "flavorText": "特定期间可在我的「世界」的“转换器”使用。\n使用期限：2026/10/25 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 211,
+    "seq": 10623,
+    "name": "金牌",
+    "flavorText": "可在金牌兑换所里兑换奖励。\n使用期限：2026/10/31 23:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 214,
+    "seq": 214,
+    "name": "纪念★4成员券",
+    "flavorText": "可在纪念★4成员券兑换所里兑换喜欢的★4成员。",
+    "canUse": false,
+    "materialType": "card_ticket"
+  },
+  {
+    "id": 215,
+    "seq": 10625,
+    "name": "纪念礼物券",
+    "flavorText": "可在纪念礼物券兑换所里兑换奖励。\n使用期限：2026/11/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
     "id": 1000,
     "seq": 88,
     "name": "闪耀徽章",
@@ -1512,6 +1608,22 @@
     "seq": 90,
     "name": "回响点数",
     "flavorText": "可用于升级回响称号",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 3003,
+    "seq": 1010,
+    "name": "愚人节票券",
+    "flavorText": "愚人节票券",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 3004,
+    "seq": 1010,
+    "name": "联动兑换用道具",
+    "flavorText": "联动兑换用道具",
     "canUse": false,
     "materialType": "common"
   },

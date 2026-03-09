@@ -295,7 +295,7 @@
   {
     "id": 46,
     "ruleSlideType": "STAMP_MISSION",
-    "assetbundleName": "tutorial/slide/stamp_mission"
+    "assetbundleName": "stamp_mission/slide/{0}"
   },
   {
     "id": 47,
@@ -376,6 +376,16 @@
     "id": 62,
     "ruleSlideType": "MYSEKAI_FIXTURE_BONUS",
     "assetbundleName": "mysekai/rule_slide/tutorial_fixture_bonus"
+  },
+  {
+    "id": 63,
+    "ruleSlideType": "PLAYER_FRAME",
+    "assetbundleName": "tutorial/slide/player_frame"
+  },
+  {
+    "id": 64,
+    "ruleSlideType": "MYSEKAI_DELIVERY",
+    "assetbundleName": "mysekai/rule_slide/tutorial_birthday"
   },
   {
     "id": 1000,
@@ -465,5 +475,10 @@
     "id": 10000016,
     "ruleSlideType": "STORY_TOP",
     "assetbundleName": "tutorial/slide/story_top"
+  },
+  {
+    "id": 20000000,
+    "ruleSlideType": "GACHA_SETUP",
+    "assetbundleName": "tutorial/slide/gacha_setup"
   }
 ]

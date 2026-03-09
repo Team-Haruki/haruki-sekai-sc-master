@@ -6,12 +6,6 @@
     "channels": "taptap,bsdk,App Store"
   },
   {
-    "id": 6,
-    "type": "mini_program",
-    "funcId": 9999,
-    "channels": "bilibili"
-  },
-  {
     "id": 7,
     "type": "home_banner",
     "funcId": 20017,
@@ -58,5 +52,11 @@
     "type": "information",
     "funcId": 10300,
     "channels": "taptap,bsdk,App Store"
+  },
+  {
+    "id": 20,
+    "type": "mini_program",
+    "funcId": 9999,
+    "channels": "提审关闭用"
   }
 ]

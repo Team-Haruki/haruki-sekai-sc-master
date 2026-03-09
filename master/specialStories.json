@@ -217,7 +217,7 @@
     "id": 10,
     "assetbundleName": "aprilfool-story-2022",
     "startAt": 1680278400000,
-    "endAt": 1680364799000,
+    "endAt": 4078742399000,
     "episodes": [
       {
         "id": 15,
@@ -238,7 +238,7 @@
     "id": 11,
     "assetbundleName": "aprilfool-story-2022",
     "startAt": 1680364800000,
-    "endAt": 1680451199000,
+    "endAt": 4078742399000,
     "episodes": [
       {
         "id": 16,
@@ -385,7 +385,7 @@
     "id": 22,
     "assetbundleName": "aprilfool-story-2024",
     "startAt": 1711900800000,
-    "endAt": 1711987199000,
+    "endAt": 4078742399000,
     "episodes": [
       {
         "id": 27,
@@ -406,7 +406,7 @@
     "id": 23,
     "assetbundleName": "aprilfool-story-2024",
     "startAt": 1711987200000,
-    "endAt": 1712073599000,
+    "endAt": 4078742399000,
     "episodes": [
       {
         "id": 28,
@@ -947,6 +947,50 @@
         "isAbleSkip": true,
         "isActionSetRefresh": true,
         "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "assetbundleName": "5th-anniversary-login-story",
+    "startAt": 1790697600000,
+    "endAt": 1791734399000,
+    "episodes": [
+      {
+        "id": 63,
+        "specialStoryId": 58,
+        "episodeNo": 1,
+        "title": "1.5周年登录剧情",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_5th_anniversary",
+        "scenarioId": "story_5th_anniversary",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "assetbundleName": "5th-anniversary-special_login-message",
+    "startAt": 1791734400000,
+    "endAt": 1793462399000,
+    "episodes": [
+      {
+        "id": 64,
+        "specialStoryId": 59,
+        "episodeNo": 1,
+        "title": "1.5周年特别寄语前导登录剧情",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_5th_anniversary_special_message",
+        "scenarioId": "story_5th_anniversary_special_message",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": [
+          134
+        ]
       }
     ]
   }

@@ -20308,5 +20308,2408 @@
         ]
       }
     ]
+  },
+  {
+    "id": 165,
+    "eventId": 165,
+    "outline": "真冬下定决心，准备向母亲表达自己真实的想法。与此同时，她的母亲也默默发誓，“一定要把真冬的感受放在第一位。”终于在重逢的这一天，母女两人敞开心扉，诉说着自己的想法和心声——",
+    "bannerGameCharacterUnitId": 18,
+    "assetbundleName": "event_needlemoving_2025",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001342,
+        "eventStoryId": 165,
+        "episodeNo": 1,
+        "title": "昨天",
+        "assetbundleName": "event_needlemoving_2025_01",
+        "scenarioId": "event_165_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001343,
+        "eventStoryId": 165,
+        "episodeNo": 2,
+        "title": "谈话",
+        "assetbundleName": "event_needlemoving_2025_02",
+        "scenarioId": "event_165_02",
+        "releaseConditionId": 116401,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001344,
+        "eventStoryId": 165,
+        "episodeNo": 3,
+        "title": "指针开始转动",
+        "assetbundleName": "event_needlemoving_2025_03",
+        "scenarioId": "event_165_03",
+        "releaseConditionId": 116402,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001345,
+        "eventStoryId": 165,
+        "episodeNo": 4,
+        "title": "母女",
+        "assetbundleName": "event_needlemoving_2025_04",
+        "scenarioId": "event_165_04",
+        "releaseConditionId": 116403,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001346,
+        "eventStoryId": 165,
+        "episodeNo": 5,
+        "title": "迟滞，沉重",
+        "assetbundleName": "event_needlemoving_2025_05",
+        "scenarioId": "event_165_05",
+        "releaseConditionId": 116404,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001347,
+        "eventStoryId": 165,
+        "episodeNo": 6,
+        "title": "“体谅”",
+        "assetbundleName": "event_needlemoving_2025_06",
+        "scenarioId": "event_165_06",
+        "releaseConditionId": 116405,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001348,
+        "eventStoryId": 165,
+        "episodeNo": 7,
+        "title": "违和感",
+        "assetbundleName": "event_needlemoving_2025_07",
+        "scenarioId": "event_165_07",
+        "releaseConditionId": 116406,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001349,
+        "eventStoryId": 165,
+        "episodeNo": 8,
+        "title": "指针，再次开始转动",
+        "assetbundleName": "event_needlemoving_2025_08",
+        "scenarioId": "event_165_08",
+        "releaseConditionId": 116407,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 118
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "eventId": 167,
+    "outline": "Wonderlands×Showtime完成了在三个剧团的修行。感受到自己成长的成员们，在寻找「世界」和以往的不同点时，注意到小树出现了某种变化。而这一变化令他们体验到了“大家各自追逐着梦想”的梦境——",
+    "bannerGameCharacterUnitId": 13,
+    "assetbundleName": "event_wl_2nd_themepark_2025",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001350,
+        "eventStoryId": 167,
+        "episodeNo": 1,
+        "title": "成长的征兆？",
+        "assetbundleName": "event_wl_2nd_themepark_2025_01",
+        "scenarioId": "wl_wonder_02_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001351,
+        "eventStoryId": 167,
+        "gameCharacterId": 16,
+        "episodeNo": 2,
+        "title": "启程",
+        "assetbundleName": "event_wl_2nd_themepark_2025_02",
+        "scenarioId": "wl_wonder_02_02",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001352,
+        "eventStoryId": 167,
+        "gameCharacterId": 16,
+        "episodeNo": 3,
+        "title": "责任",
+        "assetbundleName": "event_wl_2nd_themepark_2025_03",
+        "scenarioId": "wl_wonder_02_03",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001353,
+        "eventStoryId": 167,
+        "gameCharacterId": 13,
+        "episodeNo": 4,
+        "title": "新的环境",
+        "assetbundleName": "event_wl_2nd_themepark_2025_04",
+        "scenarioId": "wl_wonder_02_04",
+        "releaseConditionId": 116602,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001354,
+        "eventStoryId": 167,
+        "gameCharacterId": 13,
+        "episodeNo": 5,
+        "title": "再次坚定决心",
+        "assetbundleName": "event_wl_2nd_themepark_2025_05",
+        "scenarioId": "wl_wonder_02_05",
+        "releaseConditionId": 116602,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001355,
+        "eventStoryId": 167,
+        "gameCharacterId": 15,
+        "episodeNo": 6,
+        "title": "焦虑的内心",
+        "assetbundleName": "event_wl_2nd_themepark_2025_06",
+        "scenarioId": "wl_wonder_02_06",
+        "releaseConditionId": 116603,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001356,
+        "eventStoryId": 167,
+        "gameCharacterId": 15,
+        "episodeNo": 7,
+        "title": "大家的话，一定会",
+        "assetbundleName": "event_wl_2nd_themepark_2025_07",
+        "scenarioId": "wl_wonder_02_07",
+        "releaseConditionId": 116603,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001357,
+        "eventStoryId": 167,
+        "gameCharacterId": 14,
+        "episodeNo": 8,
+        "title": "让舞台绽放笑容",
+        "assetbundleName": "event_wl_2nd_themepark_2025_08",
+        "scenarioId": "wl_wonder_02_08",
+        "releaseConditionId": 116604,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001358,
+        "eventStoryId": 167,
+        "gameCharacterId": 14,
+        "episodeNo": 9,
+        "title": "那时的感受也",
+        "assetbundleName": "event_wl_2nd_themepark_2025_09",
+        "scenarioId": "wl_wonder_02_09",
+        "releaseConditionId": 116604,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001359,
+        "eventStoryId": 167,
+        "episodeNo": 10,
+        "title": "献上让人绽放笑容的演出",
+        "assetbundleName": "event_wl_2nd_themepark_2025_10",
+        "scenarioId": "wl_wonder_02_10",
+        "releaseConditionId": 116605,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001360,
+        "eventStoryId": 167,
+        "episodeNo": 11,
+        "title": "因为是我们四个",
+        "assetbundleName": "event_wl_2nd_themepark_2025_11",
+        "scenarioId": "wl_wonder_02_11",
+        "releaseConditionId": 116605,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 119
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "eventId": 168,
+    "outline": "MORE MORE JUMP！收到了有泽主办的偶像节目《LUMINA大奖赛》的邀请函。在大赛的说明会上，曾经的传奇偶像有泽描述的“真正的偶像”，让爱莉深感共鸣——",
+    "bannerGameCharacterUnitId": 7,
+    "assetbundleName": "event_cheerheart_2025",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001361,
+        "eventStoryId": 168,
+        "episodeNo": 1,
+        "title": "聚集的偶像们",
+        "assetbundleName": "event_cheerheart_2025_01",
+        "scenarioId": "event_168_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001362,
+        "eventStoryId": 168,
+        "episodeNo": 2,
+        "title": "真正的偶像",
+        "assetbundleName": "event_cheerheart_2025_02",
+        "scenarioId": "event_168_02",
+        "releaseConditionId": 116701,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001363,
+        "eventStoryId": 168,
+        "episodeNo": 3,
+        "title": "真心的梦想",
+        "assetbundleName": "event_cheerheart_2025_03",
+        "scenarioId": "event_168_03",
+        "releaseConditionId": 116702,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001364,
+        "eventStoryId": 168,
+        "episodeNo": 4,
+        "title": "为了闪耀",
+        "assetbundleName": "event_cheerheart_2025_04",
+        "scenarioId": "event_168_04",
+        "releaseConditionId": 116703,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001365,
+        "eventStoryId": 168,
+        "episodeNo": 5,
+        "title": "努力的身影",
+        "assetbundleName": "event_cheerheart_2025_05",
+        "scenarioId": "event_168_05",
+        "releaseConditionId": 116704,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001366,
+        "eventStoryId": 168,
+        "episodeNo": 6,
+        "title": "闪耀的秘诀",
+        "assetbundleName": "event_cheerheart_2025_06",
+        "scenarioId": "event_168_06",
+        "releaseConditionId": 116705,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001367,
+        "eventStoryId": 168,
+        "episodeNo": 7,
+        "title": "挺起胸膛",
+        "assetbundleName": "event_cheerheart_2025_07",
+        "scenarioId": "event_168_07",
+        "releaseConditionId": 116706,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001368,
+        "eventStoryId": 168,
+        "episodeNo": 8,
+        "title": "继承的炽热爱心",
+        "assetbundleName": "event_cheerheart_2025_08",
+        "scenarioId": "event_168_08",
+        "releaseConditionId": 116707,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 120
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "eventId": 169,
+    "outline": "大河和谦参加的演出终于要开始了。Vivid BAD SQUAD对这场世界级的演出充满了期待。然而在演出前，因为某个意外的事件，他们和意想不到的人重逢了——",
+    "bannerGameCharacterUnitId": 9,
+    "assetbundleName": "event_higher_2025",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001369,
+        "eventStoryId": 169,
+        "episodeNo": 1,
+        "title": "终于等到今天",
+        "assetbundleName": "event_higher_2025_01",
+        "scenarioId": "event_169_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001370,
+        "eventStoryId": 169,
+        "episodeNo": 2,
+        "title": "异国的邂逅",
+        "assetbundleName": "event_higher_2025_02",
+        "scenarioId": "event_169_02",
+        "releaseConditionId": 116801,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001371,
+        "eventStoryId": 169,
+        "episodeNo": 3,
+        "title": "混乱中的重逢",
+        "assetbundleName": "event_higher_2025_03",
+        "scenarioId": "event_169_03",
+        "releaseConditionId": 116802,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001372,
+        "eventStoryId": 169,
+        "episodeNo": 4,
+        "title": "因为同样的心愿",
+        "assetbundleName": "event_higher_2025_04",
+        "scenarioId": "event_169_04",
+        "releaseConditionId": 116803,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001373,
+        "eventStoryId": 169,
+        "episodeNo": 5,
+        "title": "一起逛跳蚤市场！",
+        "assetbundleName": "event_higher_2025_05",
+        "scenarioId": "event_169_05",
+        "releaseConditionId": 116804,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001374,
+        "eventStoryId": 169,
+        "episodeNo": 6,
+        "title": "激昂",
+        "assetbundleName": "event_higher_2025_06",
+        "scenarioId": "event_169_06",
+        "releaseConditionId": 116805,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001375,
+        "eventStoryId": 169,
+        "episodeNo": 7,
+        "title": "“世界”",
+        "assetbundleName": "event_higher_2025_07",
+        "scenarioId": "event_169_07",
+        "releaseConditionId": 116806,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001376,
+        "eventStoryId": 169,
+        "episodeNo": 8,
+        "title": "着眼的目标",
+        "assetbundleName": "event_higher_2025_08",
+        "scenarioId": "event_169_08",
+        "releaseConditionId": 116807,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 121
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "eventId": 170,
+    "outline": "离去朝比奈家谈话还有几天，奏一行人来到「世界」，无意中发现小树的状态有些反常。因为这个发现，大家做了一场梦，在梦中，大家的生活和现在截然不同——",
+    "bannerGameCharacterUnitId": 17,
+    "assetbundleName": "event_wl_2nd_schoolrefusal_2025",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001377,
+        "eventStoryId": 170,
+        "episodeNo": 1,
+        "title": "过去的梦与小憩",
+        "assetbundleName": "event_wl_2nd_schoolrefusal_2025_01",
+        "scenarioId": "wl_night_02_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001378,
+        "eventStoryId": 170,
+        "gameCharacterId": 17,
+        "episodeNo": 2,
+        "title": "日常",
+        "assetbundleName": "event_wl_2nd_schoolrefusal_2025_02",
+        "scenarioId": "wl_night_02_02",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001379,
+        "eventStoryId": 170,
+        "gameCharacterId": 17,
+        "episodeNo": 3,
+        "title": "朋友",
+        "assetbundleName": "event_wl_2nd_schoolrefusal_2025_03",
+        "scenarioId": "wl_night_02_03",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001380,
+        "eventStoryId": 170,
+        "gameCharacterId": 19,
+        "episodeNo": 4,
+        "title": "从黑暗中迈出一步",
+        "assetbundleName": "event_wl_2nd_schoolrefusal_2025_04",
+        "scenarioId": "wl_night_02_04",
+        "releaseConditionId": 116901,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001381,
+        "eventStoryId": 170,
+        "gameCharacterId": 19,
+        "episodeNo": 5,
+        "title": "总是一个人",
+        "assetbundleName": "event_wl_2nd_schoolrefusal_2025_05",
+        "scenarioId": "wl_night_02_05",
+        "releaseConditionId": 116901,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001382,
+        "eventStoryId": 170,
+        "gameCharacterId": 20,
+        "episodeNo": 6,
+        "title": "开心的每一天",
+        "assetbundleName": "event_wl_2nd_schoolrefusal_2025_06",
+        "scenarioId": "wl_night_02_06",
+        "releaseConditionId": 116902,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001383,
+        "eventStoryId": 170,
+        "gameCharacterId": 20,
+        "episodeNo": 7,
+        "title": "为了保持自我",
+        "assetbundleName": "event_wl_2nd_schoolrefusal_2025_07",
+        "scenarioId": "wl_night_02_07",
+        "releaseConditionId": 116902,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001384,
+        "eventStoryId": 170,
+        "gameCharacterId": 18,
+        "episodeNo": 8,
+        "title": "寻踪觅影",
+        "assetbundleName": "event_wl_2nd_schoolrefusal_2025_08",
+        "scenarioId": "wl_night_02_08",
+        "releaseConditionId": 116903,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001385,
+        "eventStoryId": 170,
+        "gameCharacterId": 18,
+        "episodeNo": 9,
+        "title": "一起",
+        "assetbundleName": "event_wl_2nd_schoolrefusal_2025_09",
+        "scenarioId": "wl_night_02_09",
+        "releaseConditionId": 116903,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001386,
+        "eventStoryId": 170,
+        "episodeNo": 10,
+        "title": "泡沫中回响的旋律",
+        "assetbundleName": "event_wl_2nd_schoolrefusal_2025_10",
+        "scenarioId": "wl_night_02_10",
+        "releaseConditionId": 116904,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001387,
+        "eventStoryId": 170,
+        "episodeNo": 11,
+        "title": "拥抱每个人的心愿",
+        "assetbundleName": "event_wl_2nd_schoolrefusal_2025_11",
+        "scenarioId": "wl_night_02_11",
+        "releaseConditionId": 116904,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 122
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "eventId": 171,
+    "outline": "成为职业乐队后Leo/need的音乐活动进行得十分顺利，每一天都过得非常充实。然而某天，由于小树引发的异变，她们四个被带入了一场梦境。在梦里，她们始终在一起，“没有分离，没有渐行渐远”。",
+    "bannerGameCharacterUnitId": 1,
+    "assetbundleName": "event_wl_2nd_lightsound_2025",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001388,
+        "eventStoryId": 171,
+        "episodeNo": 1,
+        "title": "过去的另一种可能",
+        "assetbundleName": "event_wl_2nd_lightsound_2025_01",
+        "scenarioId": "wl_band_02_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001389,
+        "eventStoryId": 171,
+        "gameCharacterId": 4,
+        "episodeNo": 2,
+        "title": "STANDOUT",
+        "assetbundleName": "event_wl_2nd_lightsound_2025_02",
+        "scenarioId": "wl_band_02_02",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001390,
+        "eventStoryId": 171,
+        "gameCharacterId": 4,
+        "episodeNo": 3,
+        "title": "和儿时玩伴们的距离",
+        "assetbundleName": "event_wl_2nd_lightsound_2025_03",
+        "scenarioId": "wl_band_02_03",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001391,
+        "eventStoryId": 171,
+        "gameCharacterId": 2,
+        "episodeNo": 4,
+        "title": "充实的每一天",
+        "assetbundleName": "event_wl_2nd_lightsound_2025_04",
+        "scenarioId": "wl_band_02_04",
+        "releaseConditionId": 117001,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001392,
+        "eventStoryId": 171,
+        "gameCharacterId": 2,
+        "episodeNo": 5,
+        "title": "王牌的决定",
+        "assetbundleName": "event_wl_2nd_lightsound_2025_05",
+        "scenarioId": "wl_band_02_05",
+        "releaseConditionId": 117001,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001393,
+        "eventStoryId": 171,
+        "gameCharacterId": 3,
+        "episodeNo": 6,
+        "title": "着眼未来",
+        "assetbundleName": "event_wl_2nd_lightsound_2025_06",
+        "scenarioId": "wl_band_02_06",
+        "releaseConditionId": 117002,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001394,
+        "eventStoryId": 171,
+        "gameCharacterId": 3,
+        "episodeNo": 7,
+        "title": "初中时遗忘的事物",
+        "assetbundleName": "event_wl_2nd_lightsound_2025_07",
+        "scenarioId": "wl_band_02_07",
+        "releaseConditionId": 117002,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001395,
+        "eventStoryId": 171,
+        "gameCharacterId": 1,
+        "episodeNo": 8,
+        "title": "咫尺天涯",
+        "assetbundleName": "event_wl_2nd_lightsound_2025_08",
+        "scenarioId": "wl_band_02_08",
+        "releaseConditionId": 117003,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001396,
+        "eventStoryId": 171,
+        "gameCharacterId": 1,
+        "episodeNo": 9,
+        "title": "听到的“声音”",
+        "assetbundleName": "event_wl_2nd_lightsound_2025_09",
+        "scenarioId": "wl_band_02_09",
+        "releaseConditionId": 117003,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001397,
+        "eventStoryId": 171,
+        "episodeNo": 10,
+        "title": "星星永远都会",
+        "assetbundleName": "event_wl_2nd_lightsound_2025_10",
+        "scenarioId": "wl_band_02_10",
+        "releaseConditionId": 117004,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001398,
+        "eventStoryId": 171,
+        "episodeNo": 11,
+        "title": "永恒不变的心愿",
+        "assetbundleName": "event_wl_2nd_lightsound_2025_11",
+        "scenarioId": "wl_band_02_11",
+        "releaseConditionId": 117004,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 123
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "eventId": 172,
+    "outline": "Wonderlands×Showtime前去参加弧光乐园主办的交流会。其中类参加了针对导演的课程，开始面对过去从未意识到的课题——",
+    "bannerGameCharacterUnitId": 16,
+    "assetbundleName": "event_deeper_2025",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001399,
+        "eventStoryId": 172,
+        "episodeNo": 1,
+        "title": "意料之外的机会",
+        "assetbundleName": "event_deeper_2025_01",
+        "scenarioId": "event_172_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001400,
+        "eventStoryId": 172,
+        "episodeNo": 2,
+        "title": "憧憬之人",
+        "assetbundleName": "event_deeper_2025_02",
+        "scenarioId": "event_172_02",
+        "releaseConditionId": 117101,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001401,
+        "eventStoryId": 172,
+        "episodeNo": 3,
+        "title": "“无聊”",
+        "assetbundleName": "event_deeper_2025_03",
+        "scenarioId": "event_172_03",
+        "releaseConditionId": 117102,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001402,
+        "eventStoryId": 172,
+        "episodeNo": 4,
+        "title": "无法跨越的差距",
+        "assetbundleName": "event_deeper_2025_04",
+        "scenarioId": "event_172_04",
+        "releaseConditionId": 117103,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001403,
+        "eventStoryId": 172,
+        "episodeNo": 5,
+        "title": "噩梦",
+        "assetbundleName": "event_deeper_2025_05",
+        "scenarioId": "event_172_05",
+        "releaseConditionId": 117104,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001404,
+        "eventStoryId": 172,
+        "episodeNo": 6,
+        "title": "自我",
+        "assetbundleName": "event_deeper_2025_06",
+        "scenarioId": "event_172_06",
+        "releaseConditionId": 117105,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001405,
+        "eventStoryId": 172,
+        "episodeNo": 7,
+        "title": "开幕",
+        "assetbundleName": "event_deeper_2025_07",
+        "scenarioId": "event_172_07",
+        "releaseConditionId": 117106,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001406,
+        "eventStoryId": 172,
+        "episodeNo": 8,
+        "title": "抓住手中之物",
+        "assetbundleName": "event_deeper_2025_08",
+        "scenarioId": "event_172_08",
+        "releaseConditionId": 117107,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 124
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "eventId": 173,
+    "outline": "Leo/need的音乐活动进行得十分顺利，杂志采访接连不断。成为职业乐队后的首次专场演出也定了下来，正当大家为此做准备时，却突然收到了一则消息——",
+    "bannerGameCharacterUnitId": 3,
+    "assetbundleName": "event_unsteady_2025",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001407,
+        "eventStoryId": 173,
+        "episodeNo": 1,
+        "title": "令人振奋的消息",
+        "assetbundleName": "event_unsteady_2025_01",
+        "scenarioId": "event_173_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001408,
+        "eventStoryId": 173,
+        "episodeNo": 2,
+        "title": "庆祝派对",
+        "assetbundleName": "event_unsteady_2025_02",
+        "scenarioId": "event_173_02",
+        "releaseConditionId": 117201,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001409,
+        "eventStoryId": 173,
+        "episodeNo": 3,
+        "title": "新的消息",
+        "assetbundleName": "event_unsteady_2025_03",
+        "scenarioId": "event_173_03",
+        "releaseConditionId": 117202,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001410,
+        "eventStoryId": 173,
+        "episodeNo": 4,
+        "title": "天平",
+        "assetbundleName": "event_unsteady_2025_04",
+        "scenarioId": "event_173_04",
+        "releaseConditionId": 117203,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001411,
+        "eventStoryId": 173,
+        "episodeNo": 5,
+        "title": "为了不后悔",
+        "assetbundleName": "event_unsteady_2025_05",
+        "scenarioId": "event_173_05",
+        "releaseConditionId": 117204,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001412,
+        "eventStoryId": 173,
+        "episodeNo": 6,
+        "title": "行动，了解",
+        "assetbundleName": "event_unsteady_2025_06",
+        "scenarioId": "event_173_06",
+        "releaseConditionId": 117205,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001413,
+        "eventStoryId": 173,
+        "episodeNo": 7,
+        "title": "热情与迷惘",
+        "assetbundleName": "event_unsteady_2025_07",
+        "scenarioId": "event_173_07",
+        "releaseConditionId": 117206,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001414,
+        "eventStoryId": 173,
+        "episodeNo": 8,
+        "title": "决心",
+        "assetbundleName": "event_unsteady_2025_08",
+        "scenarioId": "event_173_08",
+        "releaseConditionId": 117207,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 125
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "eventId": 174,
+    "outline": "LUMINA大奖赛终于开幕。预选赛的舞台是节目组安排的集训所？！实乃理虽然紧张，但也和个性鲜明的对手们一起开始了节目的拍摄——",
+    "bannerGameCharacterUnitId": 5,
+    "assetbundleName": "event_crossing_2025",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001415,
+        "eventStoryId": 174,
+        "episodeNo": 1,
+        "title": "LUMINA FORUM",
+        "assetbundleName": "event_crossing_2025_01",
+        "scenarioId": "event_174_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001416,
+        "eventStoryId": 174,
+        "episodeNo": 2,
+        "title": "大奖赛开幕！",
+        "assetbundleName": "event_crossing_2025_02",
+        "scenarioId": "event_174_02",
+        "releaseConditionId": 117301,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001417,
+        "eventStoryId": 174,
+        "episodeNo": 3,
+        "title": "史无前例的新星",
+        "assetbundleName": "event_crossing_2025_03",
+        "scenarioId": "event_174_03",
+        "releaseConditionId": 117302,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001418,
+        "eventStoryId": 174,
+        "episodeNo": 4,
+        "title": "以不加修饰的姿态",
+        "assetbundleName": "event_crossing_2025_04",
+        "scenarioId": "event_174_04",
+        "releaseConditionId": 117303,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001419,
+        "eventStoryId": 174,
+        "episodeNo": 5,
+        "title": "开启的舞台",
+        "assetbundleName": "event_crossing_2025_05",
+        "scenarioId": "event_174_05",
+        "releaseConditionId": 117304,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001420,
+        "eventStoryId": 174,
+        "episodeNo": 6,
+        "title": "纯粹地、真诚地",
+        "assetbundleName": "event_crossing_2025_06",
+        "scenarioId": "event_174_06",
+        "releaseConditionId": 117305,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001421,
+        "eventStoryId": 174,
+        "episodeNo": 7,
+        "title": "各自的信念",
+        "assetbundleName": "event_crossing_2025_07",
+        "scenarioId": "event_174_07",
+        "releaseConditionId": 117306,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001422,
+        "eventStoryId": 174,
+        "episodeNo": 8,
+        "title": "交相辉映的光芒",
+        "assetbundleName": "event_crossing_2025_08",
+        "scenarioId": "event_174_08",
+        "releaseConditionId": 117307,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 126
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "eventId": 175,
+    "outline": "在回国的前一天，Vivid BAD SQUAD决定和谦他们一起吃饭。就在那时他们偶然遇到了一个人。正是这次重逢，让杏的内心燃起了新的“热情”——",
+    "bannerGameCharacterUnitId": 10,
+    "assetbundleName": "event_competitive_2025",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001423,
+        "eventStoryId": 175,
+        "episodeNo": 1,
+        "title": "余热",
+        "assetbundleName": "event_competitive_2025_01",
+        "scenarioId": "event_175_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001424,
+        "eventStoryId": 175,
+        "episodeNo": 2,
+        "title": "意料之外的关系",
+        "assetbundleName": "event_competitive_2025_02",
+        "scenarioId": "event_175_02",
+        "releaseConditionId": 117401,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001425,
+        "eventStoryId": 175,
+        "episodeNo": 3,
+        "title": "还没做的事",
+        "assetbundleName": "event_competitive_2025_03",
+        "scenarioId": "event_175_03",
+        "releaseConditionId": 117402,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001426,
+        "eventStoryId": 175,
+        "episodeNo": 4,
+        "title": "紧张的气氛",
+        "assetbundleName": "event_competitive_2025_04",
+        "scenarioId": "event_175_04",
+        "releaseConditionId": 117403,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001427,
+        "eventStoryId": 175,
+        "episodeNo": 5,
+        "title": "实力",
+        "assetbundleName": "event_competitive_2025_05",
+        "scenarioId": "event_175_05",
+        "releaseConditionId": 117404,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001428,
+        "eventStoryId": 175,
+        "episodeNo": 6,
+        "title": "心中在意的事",
+        "assetbundleName": "event_competitive_2025_06",
+        "scenarioId": "event_175_06",
+        "releaseConditionId": 117405,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001429,
+        "eventStoryId": 175,
+        "episodeNo": 7,
+        "title": "作为对手",
+        "assetbundleName": "event_competitive_2025_07",
+        "scenarioId": "event_175_07",
+        "releaseConditionId": 117406,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001430,
+        "eventStoryId": 175,
+        "episodeNo": 8,
+        "title": "再会的约定",
+        "assetbundleName": "event_competitive_2025_08",
+        "scenarioId": "event_175_08",
+        "releaseConditionId": 117407,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 127
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "eventId": 176,
+    "outline": "在逐渐习惯《LUMINA大奖赛》拍摄后的某一天，实乃理一行人来到「世界」的花田，发现了小树出现了异变。因为这个发现，大家做了一场以“那一天大家没有相遇”为前提的梦——",
+    "bannerGameCharacterUnitId": 5,
+    "assetbundleName": "event_wl_2nd_idol_2025",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001431,
+        "eventStoryId": 176,
+        "episodeNo": 1,
+        "title": "保持我们的风格向梦想前进",
+        "assetbundleName": "event_wl_2nd_idol_2025_01",
+        "scenarioId": "wl_idol_02_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001432,
+        "eventStoryId": 176,
+        "gameCharacterId": 5,
+        "episodeNo": 2,
+        "title": "向憧憬的目标",
+        "assetbundleName": "event_wl_2nd_idol_2025_02",
+        "scenarioId": "wl_idol_02_02",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001433,
+        "eventStoryId": 176,
+        "gameCharacterId": 5,
+        "episodeNo": 3,
+        "title": "明天一定",
+        "assetbundleName": "event_wl_2nd_idol_2025_03",
+        "scenarioId": "wl_idol_02_03",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001434,
+        "eventStoryId": 176,
+        "gameCharacterId": 6,
+        "episodeNo": 4,
+        "title": "遥远的青空",
+        "assetbundleName": "event_wl_2nd_idol_2025_04",
+        "scenarioId": "wl_idol_02_04",
+        "releaseConditionId": 117501,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001435,
+        "eventStoryId": 176,
+        "gameCharacterId": 6,
+        "episodeNo": 5,
+        "title": "回转的希望",
+        "assetbundleName": "event_wl_2nd_idol_2025_05",
+        "scenarioId": "wl_idol_02_05",
+        "releaseConditionId": 117501,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001436,
+        "eventStoryId": 176,
+        "gameCharacterId": 7,
+        "episodeNo": 6,
+        "title": "无法放弃的梦想",
+        "assetbundleName": "event_wl_2nd_idol_2025_06",
+        "scenarioId": "wl_idol_02_06",
+        "releaseConditionId": 117502,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001437,
+        "eventStoryId": 176,
+        "gameCharacterId": 7,
+        "episodeNo": 7,
+        "title": "传递不到，就直到传递到为止",
+        "assetbundleName": "event_wl_2nd_idol_2025_07",
+        "scenarioId": "wl_idol_02_07",
+        "releaseConditionId": 117502,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001438,
+        "eventStoryId": 176,
+        "gameCharacterId": 8,
+        "episodeNo": 8,
+        "title": "大家期望的我",
+        "assetbundleName": "event_wl_2nd_idol_2025_08",
+        "scenarioId": "wl_idol_02_08",
+        "releaseConditionId": 117503,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001439,
+        "eventStoryId": 176,
+        "gameCharacterId": 8,
+        "episodeNo": 9,
+        "title": "可以放松的地方",
+        "assetbundleName": "event_wl_2nd_idol_2025_09",
+        "scenarioId": "wl_idol_02_09",
+        "releaseConditionId": 117503,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001440,
+        "eventStoryId": 176,
+        "episodeNo": 10,
+        "title": "再一次握住那只手",
+        "assetbundleName": "event_wl_2nd_idol_2025_10",
+        "scenarioId": "wl_idol_02_10",
+        "releaseConditionId": 117504,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001441,
+        "eventStoryId": 176,
+        "episodeNo": 11,
+        "title": "今后也作为偶像",
+        "assetbundleName": "event_wl_2nd_idol_2025_11",
+        "scenarioId": "wl_idol_02_11",
+        "releaseConditionId": 117504,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 128
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "eventId": 177,
+    "outline": "朝比奈家的那件事经过一段时间后，25的成员们也逐渐回到了平静的日常。就在这时，瑞希的姐姐因为工作回国了。久别重逢的交谈中，瑞希得知了姐姐追逐梦想的契机，也开始思考起自己的未来——",
+    "bannerGameCharacterUnitId": 20,
+    "assetbundleName": "event_tomorrow_2025",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001442,
+        "eventStoryId": 177,
+        "episodeNo": 1,
+        "title": "令人高兴的消息",
+        "assetbundleName": "event_tomorrow_2025_01",
+        "scenarioId": "event_177_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001443,
+        "eventStoryId": 177,
+        "episodeNo": 2,
+        "title": "前进的身影",
+        "assetbundleName": "event_tomorrow_2025_02",
+        "scenarioId": "event_177_02",
+        "releaseConditionId": 117601,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001444,
+        "eventStoryId": 177,
+        "episodeNo": 3,
+        "title": "像大家那样",
+        "assetbundleName": "event_tomorrow_2025_03",
+        "scenarioId": "event_177_03",
+        "releaseConditionId": 117602,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001445,
+        "eventStoryId": 177,
+        "episodeNo": 4,
+        "title": "梦想的契机",
+        "assetbundleName": "event_tomorrow_2025_04",
+        "scenarioId": "event_177_04",
+        "releaseConditionId": 117603,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001446,
+        "eventStoryId": 177,
+        "episodeNo": 5,
+        "title": "内心的憧憬",
+        "assetbundleName": "event_tomorrow_2025_05",
+        "scenarioId": "event_177_05",
+        "releaseConditionId": 117604,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001447,
+        "eventStoryId": 177,
+        "episodeNo": 6,
+        "title": "介绍25！",
+        "assetbundleName": "event_tomorrow_2025_06",
+        "scenarioId": "event_177_06",
+        "releaseConditionId": 117605,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001448,
+        "eventStoryId": 177,
+        "episodeNo": 7,
+        "title": "耀眼的景色",
+        "assetbundleName": "event_tomorrow_2025_07",
+        "scenarioId": "event_177_07",
+        "releaseConditionId": 117606,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001449,
+        "eventStoryId": 177,
+        "episodeNo": 8,
+        "title": "心中描绘的未来",
+        "assetbundleName": "event_tomorrow_2025_08",
+        "scenarioId": "event_177_08",
+        "releaseConditionId": 117607,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 129
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "eventId": 178,
+    "outline": "交流会最后一天，司一行人得知近日会举办“弧光乐园表演大赛”。司确定要参加，但面对“绝望的王子”这一极难饰演的角色时，深深感受到了自己与旭的差距——",
+    "bannerGameCharacterUnitId": 13,
+    "assetbundleName": "event_forlight_2025",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001450,
+        "eventStoryId": 178,
+        "episodeNo": 1,
+        "title": "弧光乐园表演大赛",
+        "assetbundleName": "event_forlight_2025_01",
+        "scenarioId": "event_178_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001451,
+        "eventStoryId": 178,
+        "episodeNo": 2,
+        "title": "公主与诅咒之花",
+        "assetbundleName": "event_forlight_2025_02",
+        "scenarioId": "event_178_02",
+        "releaseConditionId": 117701,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001452,
+        "eventStoryId": 178,
+        "episodeNo": 3,
+        "title": "联合练习？！",
+        "assetbundleName": "event_forlight_2025_03",
+        "scenarioId": "event_178_03",
+        "releaseConditionId": 117702,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001453,
+        "eventStoryId": 178,
+        "episodeNo": 4,
+        "title": "实力差距",
+        "assetbundleName": "event_forlight_2025_04",
+        "scenarioId": "event_178_04",
+        "releaseConditionId": 117703,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001454,
+        "eventStoryId": 178,
+        "episodeNo": 5,
+        "title": "最大的绝望",
+        "assetbundleName": "event_forlight_2025_05",
+        "scenarioId": "event_178_05",
+        "releaseConditionId": 117704,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001455,
+        "eventStoryId": 178,
+        "episodeNo": 6,
+        "title": "相连的想象",
+        "assetbundleName": "event_forlight_2025_06",
+        "scenarioId": "event_178_06",
+        "releaseConditionId": 117705,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001456,
+        "eventStoryId": 178,
+        "episodeNo": 7,
+        "title": "改变的世界",
+        "assetbundleName": "event_forlight_2025_07",
+        "scenarioId": "event_178_07",
+        "releaseConditionId": 117706,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001457,
+        "eventStoryId": 178,
+        "episodeNo": 8,
+        "title": "作为对手",
+        "assetbundleName": "event_forlight_2025_08",
+        "scenarioId": "event_178_08",
+        "releaseConditionId": 117707,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 130
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "eventId": 179,
+    "outline": "虚拟歌手们正在各自的「世界」打理长大的树木。可是，他们突然被树上发出的光芒所笼罩，随即消失了。初音未来和其他人在「世界」的狭缝中目睹此事后，便前往「世界」追寻他们的行踪——",
+    "bannerGameCharacterUnitId": 21,
+    "assetbundleName": "event_wl_2nd_piapro_2025",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001458,
+        "eventStoryId": 179,
+        "episodeNo": 1,
+        "title": "「世界」的异变？！",
+        "assetbundleName": "event_wl_2nd_piapro_2025_01",
+        "scenarioId": "wl_piapro_02_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001459,
+        "eventStoryId": 179,
+        "gameCharacterId": 23,
+        "episodeNo": 2,
+        "title": "在星星的守护下",
+        "assetbundleName": "event_wl_2nd_piapro_2025_02",
+        "scenarioId": "wl_piapro_02_02",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001460,
+        "eventStoryId": 179,
+        "gameCharacterId": 23,
+        "episodeNo": 3,
+        "title": "即使彼此分离",
+        "assetbundleName": "event_wl_2nd_piapro_2025_03",
+        "scenarioId": "wl_piapro_02_03",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001461,
+        "eventStoryId": 179,
+        "gameCharacterId": 21,
+        "episodeNo": 4,
+        "title": "到处都是灰色的",
+        "assetbundleName": "event_wl_2nd_piapro_2025_04",
+        "scenarioId": "wl_piapro_02_04",
+        "releaseConditionId": 117802,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001462,
+        "eventStoryId": 179,
+        "gameCharacterId": 21,
+        "episodeNo": 5,
+        "title": "为了传递希望",
+        "assetbundleName": "event_wl_2nd_piapro_2025_05",
+        "scenarioId": "wl_piapro_02_05",
+        "releaseConditionId": 117802,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001463,
+        "eventStoryId": 179,
+        "gameCharacterId": 24,
+        "episodeNo": 6,
+        "title": "在花田的舞台上",
+        "assetbundleName": "event_wl_2nd_piapro_2025_06",
+        "scenarioId": "wl_piapro_02_06",
+        "releaseConditionId": 117803,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001464,
+        "eventStoryId": 179,
+        "gameCharacterId": 24,
+        "episodeNo": 7,
+        "title": "传递给全世界！",
+        "assetbundleName": "event_wl_2nd_piapro_2025_07",
+        "scenarioId": "wl_piapro_02_07",
+        "releaseConditionId": 117803,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001465,
+        "eventStoryId": 179,
+        "gameCharacterId": 25,
+        "episodeNo": 8,
+        "title": "尝尝美味的餐品吧♪",
+        "assetbundleName": "event_wl_2nd_piapro_2025_08",
+        "scenarioId": "wl_piapro_02_08",
+        "releaseConditionId": 117804,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001466,
+        "eventStoryId": 179,
+        "gameCharacterId": 25,
+        "episodeNo": 9,
+        "title": "看到崭新的景色",
+        "assetbundleName": "event_wl_2nd_piapro_2025_09",
+        "scenarioId": "wl_piapro_02_09",
+        "releaseConditionId": 117804,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001467,
+        "eventStoryId": 179,
+        "gameCharacterId": 26,
+        "episodeNo": 10,
+        "title": "好多奇妙的现象？！",
+        "assetbundleName": "event_wl_2nd_piapro_2025_10",
+        "scenarioId": "wl_piapro_02_10",
+        "releaseConditionId": 117805,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001468,
+        "eventStoryId": 179,
+        "gameCharacterId": 26,
+        "episodeNo": 11,
+        "title": "用音乐紧密相连",
+        "assetbundleName": "event_wl_2nd_piapro_2025_11",
+        "scenarioId": "wl_piapro_02_11",
+        "releaseConditionId": 117805,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001469,
+        "eventStoryId": 179,
+        "gameCharacterId": 22,
+        "episodeNo": 12,
+        "title": "充满快乐！",
+        "assetbundleName": "event_wl_2nd_piapro_2025_12",
+        "scenarioId": "wl_piapro_02_12",
+        "releaseConditionId": 117806,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001470,
+        "eventStoryId": 179,
+        "gameCharacterId": 22,
+        "episodeNo": 13,
+        "title": "大家融为一体",
+        "assetbundleName": "event_wl_2nd_piapro_2025_13",
+        "scenarioId": "wl_piapro_02_13",
+        "releaseConditionId": 117806,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001471,
+        "eventStoryId": 179,
+        "episodeNo": 14,
+        "title": "将相遇的奇迹珍藏于心",
+        "assetbundleName": "event_wl_2nd_piapro_2025_14",
+        "scenarioId": "wl_piapro_02_14",
+        "releaseConditionId": 117807,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001472,
+        "eventStoryId": 179,
+        "episodeNo": 15,
+        "title": "今后也要一直",
+        "assetbundleName": "event_wl_2nd_piapro_2025_15",
+        "scenarioId": "wl_piapro_02_15",
+        "releaseConditionId": 117807,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 131
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "eventId": 180,
+    "outline": "一歌和大家正朝着各自的梦想不断向前迈进，而未来他们则在「世界」的狭缝中温暖地守护着她们。就在这时，一道神奇的光芒突然出现，「世界」也随之发生了变化——",
+    "assetbundleName": "event_wl_2nd_finale_2025",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001473,
+        "eventStoryId": 180,
+        "episodeNo": 1,
+        "title": "成长，然后",
+        "assetbundleName": "event_wl_2nd_finale_2025_01",
+        "scenarioId": "wl_finale_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001474,
+        "eventStoryId": 180,
+        "episodeNo": 2,
+        "title": "愿大家前来「世界」",
+        "assetbundleName": "event_wl_2nd_finale_2025_02",
+        "scenarioId": "wl_finale_02",
+        "releaseConditionId": 117901,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 132
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "eventId": 181,
+    "outline": "在完成了赴美期间留下的补习和作业后，杏终于松了口气。就在这时，她收到了一个邀请——一场为高校生艺术家举办的离岛音乐节，正等待着他们的到来——",
+    "bannerGameCharacterUnitId": 10,
+    "assetbundleName": "event_golden_2025",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001475,
+        "eventStoryId": 181,
+        "episodeNo": 1,
+        "title": "邀请参加音乐节",
+        "assetbundleName": "event_golden_2025_01",
+        "scenarioId": "event_181_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001476,
+        "eventStoryId": 181,
+        "episodeNo": 2,
+        "title": "彩排之后",
+        "assetbundleName": "event_golden_2025_02",
+        "scenarioId": "event_181_02",
+        "releaseConditionId": 118001,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001477,
+        "eventStoryId": 181,
+        "episodeNo": 3,
+        "title": "集章巡礼",
+        "assetbundleName": "event_golden_2025_03",
+        "scenarioId": "event_181_03",
+        "releaseConditionId": 118002,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001478,
+        "eventStoryId": 181,
+        "episodeNo": 4,
+        "title": "满满一页的回忆",
+        "assetbundleName": "event_golden_2025_04",
+        "scenarioId": "event_181_04",
+        "releaseConditionId": 118003,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001479,
+        "eventStoryId": 181,
+        "episodeNo": 5,
+        "title": "现在这样，一定是最好的",
+        "assetbundleName": "event_golden_2025_05",
+        "scenarioId": "event_181_05",
+        "releaseConditionId": 118004,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001480,
+        "eventStoryId": 181,
+        "episodeNo": 6,
+        "title": "不断延续下去的事物",
+        "assetbundleName": "event_golden_2025_06",
+        "scenarioId": "event_181_06",
+        "releaseConditionId": 118005,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001481,
+        "eventStoryId": 181,
+        "episodeNo": 7,
+        "title": "将最热烈的气氛",
+        "assetbundleName": "event_golden_2025_07",
+        "scenarioId": "event_181_07",
+        "releaseConditionId": 118006,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001482,
+        "eventStoryId": 181,
+        "episodeNo": 8,
+        "title": "将全力以赴的“当下”",
+        "assetbundleName": "event_golden_2025_08",
+        "scenarioId": "event_181_08",
+        "releaseConditionId": 118007,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 133
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "eventId": 182,
+    "outline": "Leo/need为专场演出准备的新歌已经创作完成，大家正紧锣密鼓地做着各种准备。就在这时，一歌偶然看到了虚拟歌手粉丝节的宣传广告，内心中“想为未来写一首歌”的想法也越来越强烈——",
+    "bannerGameCharacterUnitId": 1,
+    "assetbundleName": "event_heartbeat_2025",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001483,
+        "eventStoryId": 182,
+        "episodeNo": 1,
+        "title": "新曲亮相！",
+        "assetbundleName": "event_heartbeat_2025_01",
+        "scenarioId": "event_182_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001484,
+        "eventStoryId": 182,
+        "episodeNo": 2,
+        "title": "萌生的想法",
+        "assetbundleName": "event_heartbeat_2025_02",
+        "scenarioId": "event_182_02",
+        "releaseConditionId": 118101,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001485,
+        "eventStoryId": 182,
+        "episodeNo": 3,
+        "title": "不断涌现的灵感",
+        "assetbundleName": "event_heartbeat_2025_03",
+        "scenarioId": "event_182_03",
+        "releaseConditionId": 118102,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001486,
+        "eventStoryId": 182,
+        "episodeNo": 4,
+        "title": "乐声中倾注的心愿",
+        "assetbundleName": "event_heartbeat_2025_04",
+        "scenarioId": "event_182_04",
+        "releaseConditionId": 118103,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001487,
+        "eventStoryId": 182,
+        "episodeNo": 5,
+        "title": "惊人的通知",
+        "assetbundleName": "event_heartbeat_2025_05",
+        "scenarioId": "event_182_05",
+        "releaseConditionId": 118104,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001488,
+        "eventStoryId": 182,
+        "episodeNo": 6,
+        "title": "传递，联系在一起",
+        "assetbundleName": "event_heartbeat_2025_06",
+        "scenarioId": "event_182_06",
+        "releaseConditionId": 118105,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001489,
+        "eventStoryId": 182,
+        "episodeNo": 7,
+        "title": "连锁",
+        "assetbundleName": "event_heartbeat_2025_07",
+        "scenarioId": "event_182_07",
+        "releaseConditionId": 118106,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001490,
+        "eventStoryId": 182,
+        "episodeNo": 8,
+        "title": "相连的中心",
+        "assetbundleName": "event_heartbeat_2025_08",
+        "scenarioId": "event_182_08",
+        "releaseConditionId": 118107,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 135
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "eventId": 183,
+    "outline": "由于LUMINA大奖赛的节目组的策划，MORE MORE JUMP！需要和其他组合举办联合演唱会。决心呈现最棒舞台的雫，抽签时却抽到了意想不到的组合——",
+    "bannerGameCharacterUnitId": 8,
+    "assetbundleName": "event_colorcross_2025",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001491,
+        "eventStoryId": 183,
+        "episodeNo": 1,
+        "title": "下一个题目是",
+        "assetbundleName": "event_colorcross_2025_01",
+        "scenarioId": "event_183_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001492,
+        "eventStoryId": 183,
+        "episodeNo": 2,
+        "title": "该做的事",
+        "assetbundleName": "event_colorcross_2025_02",
+        "scenarioId": "event_183_02",
+        "releaseConditionId": 118201,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001493,
+        "eventStoryId": 183,
+        "episodeNo": 3,
+        "title": "流言",
+        "assetbundleName": "event_colorcross_2025_03",
+        "scenarioId": "event_183_03",
+        "releaseConditionId": 118202,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001494,
+        "eventStoryId": 183,
+        "episodeNo": 4,
+        "title": "困难的含义",
+        "assetbundleName": "event_colorcross_2025_04",
+        "scenarioId": "event_183_04",
+        "releaseConditionId": 118203,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001495,
+        "eventStoryId": 183,
+        "episodeNo": 5,
+        "title": "各自的色彩",
+        "assetbundleName": "event_colorcross_2025_05",
+        "scenarioId": "event_183_05",
+        "releaseConditionId": 118204,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001496,
+        "eventStoryId": 183,
+        "episodeNo": 6,
+        "title": "无法抹去的想法",
+        "assetbundleName": "event_colorcross_2025_06",
+        "scenarioId": "event_183_06",
+        "releaseConditionId": 118205,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001497,
+        "eventStoryId": 183,
+        "episodeNo": 7,
+        "title": "不变的姿态",
+        "assetbundleName": "event_colorcross_2025_07",
+        "scenarioId": "event_183_07",
+        "releaseConditionId": 118206,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001498,
+        "eventStoryId": 183,
+        "episodeNo": 8,
+        "title": "一起呈现最棒的舞台",
+        "assetbundleName": "event_colorcross_2025_08",
+        "scenarioId": "event_183_08",
+        "releaseConditionId": 118207,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 136
+          }
+        ]
+      }
+    ]
   }
 ]
