@@ -3834,6 +3834,13 @@
     "backgroundAssetbundleName": "honor_bg_season_ranking2"
   },
   {
+    "id": 20002,
+    "name": "漫游心愿世界",
+    "pronunciation": "漫游心愿世界",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_season_ranking3"
+  },
+  {
     "id": 30000,
     "name": "未命名（Untitled）测试限定称号",
     "pronunciation": "fans",
@@ -3846,6 +3853,20 @@
     "pronunciation": "fans",
     "honorType": "achievement",
     "backgroundAssetbundleName": "honor_dailybake_obt"
+  },
+  {
+    "id": 30003,
+    "name": "游点好玩",
+    "pronunciation": "fans",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_obt_2025_tap"
+  },
+  {
+    "id": 30004,
+    "name": "(゜-゜)つロ 干杯~",
+    "pronunciation": "fans",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_obt_2025_bilibili"
   },
   {
     "id": 30005,
@@ -3923,6 +3944,34 @@
     "pronunciation": "fans",
     "honorType": "event",
     "backgroundAssetbundleName": "honor_newyear25"
+  },
+  {
+    "id": 30016,
+    "name": "一周年·纪念",
+    "pronunciation": "fans",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_cn1th"
+  },
+  {
+    "id": 30017,
+    "name": "愚人节2026",
+    "pronunciation": "fans",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_cn_aprilfool"
+  },
+  {
+    "id": 30018,
+    "name": "「世界」的一周年庆典",
+    "pronunciation": "fans",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_mysekai_1th"
+  },
+  {
+    "id": 30019,
+    "name": "心跳的回音",
+    "pronunciation": "fans",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_limited_gacha202601"
   },
   {
     "id": 100016,

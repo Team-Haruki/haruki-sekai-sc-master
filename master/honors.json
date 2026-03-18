@@ -117223,6 +117223,36 @@
     ]
   },
   {
+    "id": 10175,
+    "seq": 131643,
+    "groupId": 30003,
+    "honorRarity": "low",
+    "name": "游点好玩",
+    "assetbundleName": "honor_obt_2025_tap",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "参与TapTap一周年活动。"
+      }
+    ]
+  },
+  {
+    "id": 10176,
+    "seq": 131644,
+    "groupId": 30004,
+    "honorRarity": "low",
+    "name": "  (゜-゜)つロ 干杯~",
+    "assetbundleName": "honor_obt_2025_bilibili",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "参与哔哩哔哩一周年活动。"
+      }
+    ]
+  },
+  {
     "id": 10177,
     "seq": 131644,
     "groupId": 30005,
@@ -119018,6 +119048,246 @@
         "bonus": 0,
         "description": "参与2026新年SNS活动赠送。",
         "startAt": 1770955200000
+      }
+    ]
+  },
+  {
+    "id": 20045,
+    "seq": 2000046,
+    "groupId": 30016,
+    "honorRarity": "low",
+    "name": "一周年·纪念",
+    "assetbundleName": "honor_cn1th",
+    "startAt": 1774540800000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "参与1周年纪念登录活动活动赠送。"
+      }
+    ]
+  },
+  {
+    "id": 20046,
+    "seq": 2000047,
+    "groupId": 30017,
+    "honorRarity": "low",
+    "name": "愚人节2026",
+    "assetbundleName": "honor_cn_aprilfool",
+    "startAt": 1774540800000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "参与愚人节登录活动赠送。"
+      }
+    ]
+  },
+  {
+    "id": 20047,
+    "seq": 2000048,
+    "groupId": 30018,
+    "honorRarity": "middle",
+    "name": "「世界」的一周年庆典",
+    "assetbundleName": "honor_mysekai_1th",
+    "startAt": 1774540800000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "第二期我的「世界」百景奖励称号"
+      }
+    ]
+  },
+  {
+    "id": 20048,
+    "seq": 2000049,
+    "groupId": 30019,
+    "honorRarity": "low",
+    "name": "心跳的回音",
+    "assetbundleName": "honor_bg_limited_gacha202601",
+    "startAt": 1774540800000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "参与一周年限时累计充值活动。"
+      }
+    ]
+  },
+  {
+    "id": 20049,
+    "seq": 2000050,
+    "groupId": 30019,
+    "honorRarity": "middle",
+    "name": "心跳的回音",
+    "assetbundleName": "honor_bg_limited_gacha202601",
+    "startAt": 1774540800000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "参与一周年限时累计充值活动。"
+      }
+    ]
+  },
+  {
+    "id": 20050,
+    "seq": 2000051,
+    "groupId": 30019,
+    "honorRarity": "high",
+    "name": "心跳的回音",
+    "assetbundleName": "honor_bg_limited_gacha202601",
+    "startAt": 1774540800000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "参与一周年限时累计充值活动。"
+      }
+    ]
+  },
+  {
+    "id": 20051,
+    "seq": 2000052,
+    "groupId": 30019,
+    "honorRarity": "highest",
+    "name": "心跳的回音",
+    "assetbundleName": "honor_bg_limited_gacha202601",
+    "startAt": 1774540800000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "参与一周年限时累计充值活动。"
+      }
+    ]
+  },
+  {
+    "id": 20052,
+    "seq": 2000017,
+    "groupId": 20002,
+    "honorRarity": "highest",
+    "name": "第三期心愿榜称号「TOP1」",
+    "assetbundleName": "honor_top_000001",
+    "startAt": 1774800000000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "第三期心愿榜称号「TOP1」"
+      }
+    ]
+  },
+  {
+    "id": 20053,
+    "seq": 2000018,
+    "groupId": 20002,
+    "honorRarity": "highest",
+    "name": "第三期心愿榜称号「TOP2」",
+    "assetbundleName": "honor_top_000002",
+    "startAt": 1774800000000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "第三期心愿榜称号「TOP2」"
+      }
+    ]
+  },
+  {
+    "id": 20054,
+    "seq": 2000019,
+    "groupId": 20002,
+    "honorRarity": "highest",
+    "name": "第三期心愿榜称号「TOP3」",
+    "assetbundleName": "honor_top_000003",
+    "startAt": 1774800000000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "第三期心愿榜称号「TOP3」"
+      }
+    ]
+  },
+  {
+    "id": 20055,
+    "seq": 2000020,
+    "groupId": 20002,
+    "honorRarity": "highest",
+    "name": "第三期心愿榜称号「TOP10」",
+    "assetbundleName": "honor_top_000010",
+    "startAt": 1774800000000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "第三期心愿榜称号「TOP10」"
+      }
+    ]
+  },
+  {
+    "id": 20056,
+    "seq": 2000021,
+    "groupId": 20002,
+    "honorRarity": "highest",
+    "name": "第三期心愿榜称号「TOP100」",
+    "assetbundleName": "honor_top_000100",
+    "startAt": 1774800000000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "第三期心愿榜称号「TOP100」"
+      }
+    ]
+  },
+  {
+    "id": 20057,
+    "seq": 2000022,
+    "groupId": 20002,
+    "honorRarity": "highest",
+    "name": "第三期心愿榜称号「TOP500」",
+    "assetbundleName": "honor_top_000500",
+    "startAt": 1774800000000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "第三期心愿榜称号「TOP500」"
+      }
+    ]
+  },
+  {
+    "id": 20058,
+    "seq": 2000023,
+    "groupId": 20002,
+    "honorRarity": "middle",
+    "name": "第三期心愿榜称号「TOP10000」",
+    "assetbundleName": "honor_top_010000",
+    "startAt": 1774800000000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "第三期心愿榜称号「TOP10000」"
+      }
+    ]
+  },
+  {
+    "id": 20059,
+    "seq": 2000024,
+    "groupId": 20002,
+    "honorRarity": "low",
+    "name": "第三期心愿榜称号「TOP50000」",
+    "assetbundleName": "honor_top_050000",
+    "startAt": 1774800000000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "第三期心愿榜称号「TOP50000」"
       }
     ]
   },
