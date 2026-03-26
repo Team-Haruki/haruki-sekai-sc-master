@@ -15684,9 +15684,9 @@
       }
     ],
     "assetbundleName": "af_0093_01",
-    "specialSeasonId": 1,
+    "specialSeasonId": 4,
     "archiveDisplayType": "none",
-    "archivePublishedAt": 1634400000000
+    "archivePublishedAt": 1774972800000
   },
   {
     "id": 571,
@@ -15730,9 +15730,9 @@
       }
     ],
     "assetbundleName": "af_0010_01",
-    "specialSeasonId": 1,
+    "specialSeasonId": 4,
     "archiveDisplayType": "none",
-    "archivePublishedAt": 1735704000000
+    "archivePublishedAt": 1774972800000
   },
   {
     "id": 572,
@@ -15784,9 +15784,9 @@
       }
     ],
     "assetbundleName": "af_0095_01",
-    "specialSeasonId": 1,
+    "specialSeasonId": 4,
     "archiveDisplayType": "none",
-    "archivePublishedAt": 1647273600000
+    "archivePublishedAt": 1774972800000
   },
   {
     "id": 573,
@@ -15838,9 +15838,9 @@
       }
     ],
     "assetbundleName": "af_0122_01",
-    "specialSeasonId": 1,
+    "specialSeasonId": 4,
     "archiveDisplayType": "none",
-    "archivePublishedAt": 1645200000000
+    "archivePublishedAt": 1774972800000
   },
   {
     "id": 574,
@@ -15884,9 +15884,9 @@
       }
     ],
     "assetbundleName": "af_0145_01",
-    "specialSeasonId": 1,
+    "specialSeasonId": 4,
     "archiveDisplayType": "none",
-    "archivePublishedAt": 1664812800000
+    "archivePublishedAt": 1774972800000
   },
   {
     "id": 575,
@@ -35087,9 +35087,9 @@
       }
     ],
     "assetbundleName": "af_0354_01",
-    "specialSeasonId": 3,
+    "specialSeasonId": 4,
     "archiveDisplayType": "none",
-    "archivePublishedAt": 1715702400000
+    "archivePublishedAt": 1774972800000
   },
   {
     "id": 1470,
@@ -35133,9 +35133,9 @@
       }
     ],
     "assetbundleName": "af_0135_01",
-    "specialSeasonId": 3,
+    "specialSeasonId": 4,
     "archiveDisplayType": "none",
-    "archivePublishedAt": 1657555200000
+    "archivePublishedAt": 1774972800000
   },
   {
     "id": 1471,
@@ -35179,9 +35179,9 @@
       }
     ],
     "assetbundleName": "af_0320_01",
-    "specialSeasonId": 3,
+    "specialSeasonId": 4,
     "archiveDisplayType": "none",
-    "archivePublishedAt": 1709740800000
+    "archivePublishedAt": 1774972800000
   },
   {
     "id": 1472,
@@ -35225,9 +35225,9 @@
       }
     ],
     "assetbundleName": "af_0218_01",
-    "specialSeasonId": 3,
+    "specialSeasonId": 4,
     "archiveDisplayType": "none",
-    "archivePublishedAt": 1688400000000
+    "archivePublishedAt": 1774972800000
   },
   {
     "id": 1473,
@@ -35279,9 +35279,9 @@
       }
     ],
     "assetbundleName": "af_0246_01",
-    "specialSeasonId": 3,
+    "specialSeasonId": 4,
     "archiveDisplayType": "none",
-    "archivePublishedAt": 1689004800000
+    "archivePublishedAt": 1774972800000
   },
   {
     "id": 1474,
@@ -35325,9 +35325,9 @@
       }
     ],
     "assetbundleName": "af_0133_01",
-    "specialSeasonId": 3,
+    "specialSeasonId": 4,
     "archiveDisplayType": "none",
-    "archivePublishedAt": 1665158400000
+    "archivePublishedAt": 1774972800000
   },
   {
     "id": 1475,
@@ -41408,8 +41408,8 @@
         "id": 110010,
         "musicId": 11010,
         "musicVocalId": 110010,
-        "characterType": "game_character",
-        "characterId": 21,
+        "characterType": "outside_character",
+        "characterId": 10000,
         "seq": 110010
       }
     ],
@@ -41550,8 +41550,8 @@
         "id": 110018,
         "musicId": 11017,
         "musicVocalId": 110017,
-        "characterType": "game_character",
-        "characterId": 21,
+        "characterType": "outside_character",
+        "characterId": 10000,
         "seq": 110018
       }
     ],
