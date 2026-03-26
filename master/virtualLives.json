@@ -131599,6 +131599,483 @@
     "virtualLiveInformation": {}
   },
   {
+    "id": 374,
+    "virtualLiveType": "normal",
+    "virtualLivePlatform": "v2",
+    "seq": 120,
+    "name": "于是，指针开始转动 后日谈·演唱会",
+    "assetbundleName": "vlentrance_00374",
+    "screenMvMusicVocalId": 1482,
+    "startAt": 1777532400000,
+    "endAt": 1778327999000,
+    "rankingAnnounceAt": 4102415999000,
+    "archiveReleaseConditionId": 116408,
+    "virtualLiveSetlists": [
+      {
+        "id": 2019,
+        "virtualLiveId": 374,
+        "seq": 1,
+        "virtualLiveSetlistType": "mc_timeline",
+        "assetbundleName": "mc_ev_night_21_1",
+        "virtualLiveStageId": 23
+      },
+      {
+        "id": 2020,
+        "virtualLiveId": 374,
+        "seq": 2,
+        "virtualLiveSetlistType": "music",
+        "assetbundleName": "0540_001",
+        "virtualLiveStageId": 23,
+        "musicId": 540,
+        "musicVocalId": 1613,
+        "character3dId1": 1977,
+        "character3dId2": 1976,
+        "character3dId3": 1978,
+        "character3dId4": 1979,
+        "character3dId5": 1980
+      },
+      {
+        "id": 2021,
+        "virtualLiveId": 374,
+        "seq": 3,
+        "virtualLiveSetlistType": "mc_timeline",
+        "assetbundleName": "mc_ev_night_21_2",
+        "virtualLiveStageId": 23,
+        "musicId": 540,
+        "musicVocalId": 1613
+      }
+    ],
+    "virtualLiveBeginnerSchedules": [],
+    "virtualLiveSchedules": [
+      {
+        "id": 5502,
+        "virtualLiveId": 374,
+        "seq": 1,
+        "startAt": 1778076000000,
+        "endAt": 1778076401000,
+        "isAfterEvent": false
+      },
+      {
+        "id": 5503,
+        "virtualLiveId": 374,
+        "seq": 2,
+        "startAt": 1778079600000,
+        "endAt": 1778080001000,
+        "isAfterEvent": false
+      },
+      {
+        "id": 5504,
+        "virtualLiveId": 374,
+        "seq": 3,
+        "startAt": 1778083200000,
+        "endAt": 1778083601000,
+        "isAfterEvent": false
+      },
+      {
+        "id": 5505,
+        "virtualLiveId": 374,
+        "seq": 4,
+        "startAt": 1778086800000,
+        "endAt": 1778087201000,
+        "isAfterEvent": false
+      },
+      {
+        "id": 5506,
+        "virtualLiveId": 374,
+        "seq": 5,
+        "startAt": 1778090400000,
+        "endAt": 1778090801000,
+        "isAfterEvent": false
+      },
+      {
+        "id": 5507,
+        "virtualLiveId": 374,
+        "seq": 6,
+        "startAt": 1778094000000,
+        "endAt": 1778094401000,
+        "isAfterEvent": false
+      },
+      {
+        "id": 5508,
+        "virtualLiveId": 374,
+        "seq": 7,
+        "startAt": 1778097600000,
+        "endAt": 1778098001000,
+        "isAfterEvent": false
+      },
+      {
+        "id": 5509,
+        "virtualLiveId": 374,
+        "seq": 8,
+        "startAt": 1778101200000,
+        "endAt": 1778101601000,
+        "isAfterEvent": false
+      },
+      {
+        "id": 5510,
+        "virtualLiveId": 374,
+        "seq": 9,
+        "startAt": 1778104800000,
+        "endAt": 1778105201000,
+        "isAfterEvent": false
+      },
+      {
+        "id": 5511,
+        "virtualLiveId": 374,
+        "seq": 10,
+        "startAt": 1778108400000,
+        "endAt": 1778108801000,
+        "isAfterEvent": false
+      },
+      {
+        "id": 5512,
+        "virtualLiveId": 374,
+        "seq": 11,
+        "startAt": 1778112000000,
+        "endAt": 1778112401000,
+        "isAfterEvent": false
+      },
+      {
+        "id": 5513,
+        "virtualLiveId": 374,
+        "seq": 12,
+        "startAt": 1778115600000,
+        "endAt": 1778116001000,
+        "isAfterEvent": false
+      },
+      {
+        "id": 5514,
+        "virtualLiveId": 374,
+        "seq": 13,
+        "startAt": 1778119200000,
+        "endAt": 1778119601000,
+        "isAfterEvent": false
+      },
+      {
+        "id": 5515,
+        "virtualLiveId": 374,
+        "seq": 14,
+        "startAt": 1778122800000,
+        "endAt": 1778123201000,
+        "isAfterEvent": false
+      },
+      {
+        "id": 5516,
+        "virtualLiveId": 374,
+        "seq": 15,
+        "startAt": 1778126400000,
+        "endAt": 1778126801000,
+        "isAfterEvent": false
+      },
+      {
+        "id": 5517,
+        "virtualLiveId": 374,
+        "seq": 16,
+        "startAt": 1778130000000,
+        "endAt": 1778130401000,
+        "isAfterEvent": false
+      },
+      {
+        "id": 5518,
+        "virtualLiveId": 374,
+        "seq": 17,
+        "startAt": 1778133600000,
+        "endAt": 1778134001000,
+        "isAfterEvent": false
+      },
+      {
+        "id": 5519,
+        "virtualLiveId": 374,
+        "seq": 18,
+        "startAt": 1778137200000,
+        "endAt": 1778137601000,
+        "isAfterEvent": false
+      },
+      {
+        "id": 5520,
+        "virtualLiveId": 374,
+        "seq": 19,
+        "startAt": 1778140800000,
+        "endAt": 1778141201000,
+        "isAfterEvent": false
+      },
+      {
+        "id": 5521,
+        "virtualLiveId": 374,
+        "seq": 20,
+        "startAt": 1778144400000,
+        "endAt": 1778144801000,
+        "isAfterEvent": false
+      },
+      {
+        "id": 5522,
+        "virtualLiveId": 374,
+        "seq": 21,
+        "startAt": 1778148000000,
+        "endAt": 1778148401000,
+        "isAfterEvent": false
+      },
+      {
+        "id": 5523,
+        "virtualLiveId": 374,
+        "seq": 22,
+        "startAt": 1778151600000,
+        "endAt": 1778152001000,
+        "isAfterEvent": false
+      },
+      {
+        "id": 5524,
+        "virtualLiveId": 374,
+        "seq": 23,
+        "startAt": 1778155200000,
+        "endAt": 1778155601000,
+        "isAfterEvent": false
+      },
+      {
+        "id": 5525,
+        "virtualLiveId": 374,
+        "seq": 24,
+        "startAt": 1778158800000,
+        "endAt": 1778159201000,
+        "isAfterEvent": false
+      }
+    ],
+    "virtualLiveCharacters": [
+      {
+        "gameCharacterUnitId": 17,
+        "virtualLivePerformanceType": "main_only"
+      },
+      {
+        "gameCharacterUnitId": 18,
+        "virtualLivePerformanceType": "main_only"
+      },
+      {
+        "gameCharacterUnitId": 19,
+        "virtualLivePerformanceType": "main_only"
+      },
+      {
+        "gameCharacterUnitId": 20,
+        "virtualLivePerformanceType": "main_only"
+      },
+      {
+        "gameCharacterUnitId": 23,
+        "virtualLivePerformanceType": "main_only"
+      }
+    ],
+    "virtualLiveRewards": [
+      {
+        "virtualLiveType": "normal",
+        "resourceBoxId": 643
+      },
+      {
+        "virtualLiveType": "archive",
+        "resourceBoxId": 644
+      }
+    ],
+    "virtualLiveWaitingRoom": {
+      "id": 374,
+      "startAt": 1777532400000,
+      "endAt": 1778327999000
+    },
+    "virtualItems": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 18
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      },
+      {
+        "id": 33
+      },
+      {
+        "id": 34
+      },
+      {
+        "id": 35
+      },
+      {
+        "id": 36
+      },
+      {
+        "id": 37
+      },
+      {
+        "id": 38
+      },
+      {
+        "id": 39
+      },
+      {
+        "id": 40
+      },
+      {
+        "id": 41
+      },
+      {
+        "id": 42
+      },
+      {
+        "id": 43
+      },
+      {
+        "id": 44
+      },
+      {
+        "id": 46
+      },
+      {
+        "id": 47
+      },
+      {
+        "id": 50
+      },
+      {
+        "id": 53
+      },
+      {
+        "id": 54
+      },
+      {
+        "id": 56
+      },
+      {
+        "id": 68
+      },
+      {
+        "id": 69
+      },
+      {
+        "id": 72
+      },
+      {
+        "id": 76
+      },
+      {
+        "id": 78
+      },
+      {
+        "id": 79
+      },
+      {
+        "id": 82
+      },
+      {
+        "id": 83
+      },
+      {
+        "id": 84
+      },
+      {
+        "id": 86
+      },
+      {
+        "id": 88
+      },
+      {
+        "id": 90
+      },
+      {
+        "id": 92
+      },
+      {
+        "id": 94
+      },
+      {
+        "id": 95
+      },
+      {
+        "id": 96
+      },
+      {
+        "id": 98
+      },
+      {
+        "id": 100
+      }
+    ],
+    "virtualLiveAppeals": [],
+    "virtualLiveBackgroundMusics": [],
+    "virtualLiveInformation": {}
+  },
+  {
     "id": 375,
     "virtualLiveType": "normal",
     "virtualLivePlatform": "v2",

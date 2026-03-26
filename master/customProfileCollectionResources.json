@@ -9229,6 +9229,26 @@
   },
   {
     "customProfileResourceType": "collection",
+    "id": 10024,
+    "seq": 10150,
+    "name": "开服纪念贺图",
+    "pronunciation": "かり",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/collection/mk",
+    "fileName": "ruyue"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 10025,
+    "seq": 10160,
+    "name": "甜点心事",
+    "pronunciation": "かり",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/collection/mk",
+    "fileName": "limited_gacha202601"
+  },
+  {
+    "customProfileResourceType": "collection",
     "id": 50002,
     "seq": 50002,
     "name": "炒面面包（装饰品）",

@@ -414,6 +414,56 @@
     ]
   },
   {
+    "id": 125,
+    "startAt": 1774584000000,
+    "endAt": 1775768340000,
+    "assetbundleName": "4-5th_anniversary",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 255,
+        "limitedLoginBonusId": 125,
+        "day": 1,
+        "resourceBoxId": 162
+      },
+      {
+        "id": 256,
+        "limitedLoginBonusId": 125,
+        "day": 2,
+        "resourceBoxId": 163
+      },
+      {
+        "id": 257,
+        "limitedLoginBonusId": 125,
+        "day": 3,
+        "resourceBoxId": 163
+      },
+      {
+        "id": 258,
+        "limitedLoginBonusId": 125,
+        "day": 4,
+        "resourceBoxId": 164
+      },
+      {
+        "id": 259,
+        "limitedLoginBonusId": 125,
+        "day": 5,
+        "resourceBoxId": 163
+      },
+      {
+        "id": 260,
+        "limitedLoginBonusId": 125,
+        "day": 6,
+        "resourceBoxId": 163
+      },
+      {
+        "id": 261,
+        "limitedLoginBonusId": 125,
+        "day": 7,
+        "resourceBoxId": 164
+      }
+    ]
+  },
+  {
     "id": 131,
     "startAt": 1754280000000,
     "endAt": 1755100799000,
@@ -3646,6 +3696,20 @@
         "limitedLoginBonusId": 1172,
         "day": 7,
         "resourceBoxId": 2091
+      }
+    ]
+  },
+  {
+    "id": 1173,
+    "startAt": 1774972800000,
+    "endAt": 1775059140000,
+    "assetbundleName": "apirlfool_cn",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1414,
+        "limitedLoginBonusId": 1173,
+        "day": 1,
+        "resourceBoxId": 2134
       }
     ]
   }
