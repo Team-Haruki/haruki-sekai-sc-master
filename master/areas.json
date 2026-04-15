@@ -149,6 +149,21 @@
     "releaseConditionId": 1
   },
   {
+    "id": 14,
+    "assetbundleName": "area14",
+    "groupId": 130,
+    "isBaseArea": true,
+    "areaType": "spirit_world",
+    "viewType": "side_view",
+    "displayTimelineType": "next_grade",
+    "additionalAreaType": "collaboration",
+    "name": "恶之大罪系列「世界」",
+    "label": "联动中！",
+    "startAt": 1777608000000,
+    "endAt": 1778860799000,
+    "releaseConditionId": 1
+  },
+  {
     "id": 15,
     "assetbundleName": "area15",
     "groupId": 140,

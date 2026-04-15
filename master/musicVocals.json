@@ -41953,7 +41953,7 @@
         "id": 110016,
         "musicId": 11015,
         "musicVocalId": 110015,
-        "characterType": "outside_character",
+        "characterType": "game_character",
         "characterId": 21,
         "seq": 110016
       }
@@ -41961,6 +41961,27 @@
     "assetbundleName": "vs_11015_01",
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1776322800000
+  },
+  {
+    "id": 110016,
+    "musicId": 11016,
+    "musicVocalType": "virtual_singer",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "虛擬歌手ver.",
+    "characters": [
+      {
+        "id": 110017,
+        "musicId": 11016,
+        "musicVocalId": 110016,
+        "characterType": "outside_character",
+        "characterId": 10000,
+        "seq": 110017
+      }
+    ],
+    "assetbundleName": "vs_11016_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1777014000000
   },
   {
     "id": 110017,
