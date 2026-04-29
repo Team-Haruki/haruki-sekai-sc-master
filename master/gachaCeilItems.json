@@ -312,6 +312,14 @@
     "convertResourceBoxId": 2
   },
   {
+    "id": 53,
+    "gachaId": 159,
+    "name": "罪之回忆录招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1781409599000,
+    "convertResourceBoxId": 2
+  },
+  {
     "id": 58,
     "gachaId": 165,
     "name": "新年祈愿的少女招募贴纸",
@@ -1240,6 +1248,14 @@
     "convertResourceBoxId": 2
   },
   {
+    "id": 264,
+    "gachaId": 444,
+    "name": "[复刻]新春祈愿的少女招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1782100799000,
+    "convertResourceBoxId": 2
+  },
+  {
     "id": 265,
     "gachaId": 445,
     "name": "[回响]如梦似幻☆梦境般的乐园招募贴纸",
@@ -1469,6 +1485,14 @@
     "name": "[回响]Darkness Festa招募贴纸",
     "assetbundleName": "ceil_item_limited",
     "convertStartAt": 1774583999000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 331,
+    "gachaId": 526,
+    "name": "[复刻]Before the storm招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1783310399000,
     "convertResourceBoxId": 2
   },
   {
@@ -2000,11 +2024,19 @@
     "convertResourceBoxId": 2
   },
   {
+    "id": 425,
+    "gachaId": 726,
+    "name": "[Wonderlands×Showtime]支援招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1782100800000,
+    "convertResourceBoxId": 2
+  },
+  {
     "id": 426,
     "gachaId": 728,
     "name": "[天马咲希]HAPPY BIRTHDAY招募贴纸",
     "assetbundleName": "ceil_item_birthday",
-    "convertStartAt": 1782100800000,
+    "convertStartAt": 1781420400000,
     "convertResourceBoxId": 2
   },
   {
@@ -2012,7 +2044,7 @@
     "gachaId": 733,
     "name": "Dream a Wonder Dream招募贴纸",
     "assetbundleName": "ceil_item_limited",
-    "convertStartAt": 1781928000000,
+    "convertStartAt": 1782100800000,
     "convertResourceBoxId": 2
   },
   {
@@ -2020,7 +2052,7 @@
     "gachaId": 736,
     "name": "[天马司]HAPPY BIRTHDAY招募贴纸",
     "assetbundleName": "ceil_item_birthday",
-    "convertStartAt": 1782792000000,
+    "convertStartAt": 1782111600000,
     "convertResourceBoxId": 2
   },
   {
@@ -2309,6 +2341,14 @@
     "name": "仅限30次！★4双倍 · 自选招募贴纸",
     "assetbundleName": "ceil_item",
     "convertStartAt": 1776182399000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 3031,
+    "gachaId": 3031,
+    "name": "仅限30次！★4双倍 · 自选招募贴纸",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1783439999000,
     "convertResourceBoxId": 2
   }
 ]

@@ -5373,6 +5373,81 @@
     "isFullLength": false
   },
   {
+    "id": 190,
+    "seq": 1141901,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "悪ノ娘",
+    "pronunciation": "あくのむすめ",
+    "creatorArtistId": 105,
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "arranger": "mothy",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_190",
+    "publishedAt": 1777618800000,
+    "releasedAt": 1777618800000,
+    "fillerSec": 9.0,
+    "infos": [],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 191,
+    "seq": 1142001,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "悪ノ召使",
+    "pronunciation": "あくのめしつかい",
+    "creatorArtistId": 105,
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "arranger": "mothy",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_191",
+    "publishedAt": 1777705200000,
+    "releasedAt": 1777705200000,
+    "fillerSec": 7.5,
+    "infos": [],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 192,
+    "seq": 2142101,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "去り人達のワルツ",
+    "pronunciation": "さりびとたちのわるつ",
+    "creatorArtistId": 105,
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "arranger": "mothy",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_192",
+    "publishedAt": 1777791600000,
+    "releasedAt": 1777791600000,
+    "fillerSec": 9.0,
+    "infos": [],
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
     "id": 193,
     "seq": 2307401,
     "releaseConditionId": 10,
@@ -10439,6 +10514,106 @@
         "arranger": "Nem"
       }
     ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 347,
+    "seq": 1142401,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "円尾坂の仕立屋",
+    "pronunciation": "えんびざかのしたてや",
+    "creatorArtistId": 105,
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "arranger": "mothy",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_347",
+    "publishedAt": 1778050800000,
+    "releasedAt": 1778050800000,
+    "fillerSec": 9.0,
+    "infos": [],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 348,
+    "seq": 1142501,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "悪徳のジャッジメント",
+    "pronunciation": "あくとくのじゃっじめんと",
+    "creatorArtistId": 105,
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "arranger": "mothy",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_348",
+    "publishedAt": 1778137200000,
+    "releasedAt": 1778137200000,
+    "fillerSec": 9.0,
+    "infos": [],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 349,
+    "seq": 1142201,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "悪食娘コンチータ",
+    "pronunciation": "あくじきむすめこんちーた",
+    "creatorArtistId": 105,
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "arranger": "mothy",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_349",
+    "publishedAt": 1777878000000,
+    "releasedAt": 1777878000000,
+    "fillerSec": 9.006699562072754,
+    "infos": [],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 350,
+    "seq": 1142301,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "眠らせ姫からの贈り物",
+    "pronunciation": "ねむらせひめからのおくりもの",
+    "creatorArtistId": 105,
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "arranger": "mothy",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_350",
+    "publishedAt": 1777964400000,
+    "releasedAt": 1777964400000,
+    "fillerSec": 9.476200103759766,
+    "infos": [],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -16334,8 +16509,8 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_539",
-    "publishedAt": 1780063500000,
-    "releasedAt": 1780063500000,
+    "publishedAt": 1779260400000,
+    "releasedAt": 1779260400000,
     "fillerSec": 9.0,
     "infos": [
       {
@@ -16370,8 +16545,8 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_540",
-    "publishedAt": 1778076300000,
-    "releasedAt": 1778076300000,
+    "publishedAt": 1778162700000,
+    "releasedAt": 1778162700000,
     "fillerSec": 9.0,
     "infos": [
       {
@@ -17613,6 +17788,31 @@
     "isFullLength": false
   },
   {
+    "id": 585,
+    "seq": 2755501,
+    "releaseConditionId": 10,
+    "categories": [
+      {
+        "musicCategoryName": "mv"
+      }
+    ],
+    "title": "ペンタトニック",
+    "pronunciation": "ぺんたとにっく",
+    "creatorArtistId": 299,
+    "lyricist": "syudou・バルーン",
+    "composer": "syudou・バルーン",
+    "arranger": "syudou・バルーン",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_585",
+    "publishedAt": 1790697600000,
+    "releasedAt": 1790697600000,
+    "fillerSec": 8.25469970703125,
+    "infos": [],
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
     "id": 587,
     "seq": 1149101,
     "releaseConditionId": 5,
@@ -17873,6 +18073,31 @@
         "arranger": "沫尾"
       }
     ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 595,
+    "seq": 1252201,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "エンヴィキャットウォーク",
+    "pronunciation": "えんヴぃきゃっとうぉーく",
+    "creatorArtistId": 281,
+    "lyricist": "トーマ",
+    "composer": "トーマ",
+    "arranger": "トーマ",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_595",
+    "publishedAt": 1778742000000,
+    "releasedAt": 1778742000000,
+    "fillerSec": 9.0,
+    "infos": [],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -18372,6 +18597,31 @@
     "isFullLength": false
   },
   {
+    "id": 619,
+    "seq": 1152101,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "Connecting",
+    "pronunciation": "こねくてぃんぐ",
+    "creatorArtistId": 141,
+    "lyricist": "halyosy",
+    "composer": "halyosy",
+    "arranger": "halyosy",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_619",
+    "publishedAt": 1778482800000,
+    "releasedAt": 1778482800000,
+    "fillerSec": 7.681399822235107,
+    "infos": [],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 620,
     "seq": 1451801,
     "releaseConditionId": 5,
@@ -18405,6 +18655,31 @@
     "isFullLength": false
   },
   {
+    "id": 625,
+    "seq": 1552601,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "このふざけた素晴らしき世界は、僕の為にある",
+    "pronunciation": "このふざけたすばらしきせかいはぼくのためにある",
+    "creatorArtistId": 282,
+    "lyricist": "n.k",
+    "composer": "n.k",
+    "arranger": "n.k",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_625",
+    "publishedAt": 1779433200000,
+    "releasedAt": 1779433200000,
+    "fillerSec": 8.605299949645996,
+    "infos": [],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 626,
     "seq": 1152001,
     "releaseConditionId": 5,
@@ -18434,6 +18709,81 @@
         "arranger": "ど～ぱみん"
       }
     ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 627,
+    "seq": 1152501,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "テトリス",
+    "pronunciation": "てとりす",
+    "creatorArtistId": 188,
+    "lyricist": "柊マグネタイト",
+    "composer": "ロシア民謡",
+    "arranger": "柊マグネタイト",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_627",
+    "publishedAt": 1779087600000,
+    "releasedAt": 1779087600000,
+    "fillerSec": 9.0,
+    "infos": [],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 628,
+    "seq": 1152701,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "モニタリング",
+    "pronunciation": "もにたりんぐ",
+    "creatorArtistId": 4,
+    "lyricist": "DECO*27",
+    "composer": "DECO*27",
+    "arranger": "DECO*27 & Hayato Yamamoto",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_628",
+    "publishedAt": 1779692400000,
+    "releasedAt": 1779692400000,
+    "fillerSec": 8.090900421142578,
+    "infos": [],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 633,
+    "seq": 1152801,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "庭師のおはなしによると",
+    "pronunciation": "にわしのおはなしによると",
+    "creatorArtistId": 283,
+    "lyricist": "いのうつはSA",
+    "composer": "いのうつはSA",
+    "arranger": "いのうつはSA",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_633",
+    "publishedAt": 1779951600000,
+    "releasedAt": 1779951600000,
+    "fillerSec": 9.0,
+    "infos": [],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -18638,7 +18988,7 @@
   },
   {
     "id": 659,
-    "seq": 9999938,
+    "seq": 9999941,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -18908,7 +19258,7 @@
   },
   {
     "id": 11007,
-    "seq": 1145302,
+    "seq": 1145301,
     "releaseConditionId": 5,
     "categories": [
       {

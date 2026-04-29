@@ -32176,7 +32176,7 @@
     "mysekaiFixtureType": "normal",
     "name": "迪拉熊",
     "pronunciation": "舞萌|中二联动",
-    "flavorText": "迪拉熊",
+    "flavorText": "舞萌|中二联动",
     "seq": 91001003,
     "gridSize": {
       "width": 2,
@@ -32207,7 +32207,7 @@
     "mysekaiFixtureType": "normal",
     "name": "中二企鹅",
     "pronunciation": "舞萌|中二联动",
-    "flavorText": "中二企鹅",
+    "flavorText": "舞萌|中二联动",
     "seq": 91001004,
     "gridSize": {
       "width": 2,
@@ -32461,6 +32461,192 @@
     "mysekaiFixturePlayerActionType": "no_action",
     "isGameCharacterAction": false,
     "assetbundleName": "mdl_cn_fixture_1thbus"
+  },
+  {
+    "id": 90011,
+    "mysekaiFixtureType": "normal",
+    "name": "冰淇淋之窗",
+    "pronunciation": "冰淇淋之窗",
+    "flavorText": "冰淇淋之窗",
+    "seq": 91001012,
+    "gridSize": {
+      "width": 3,
+      "depth": 1,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 4,
+    "mysekaiFixtureSubGenreId": 14,
+    "mysekaiFixtureHandleType": "windowpane",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 90011,
+      "mysekaiFixtureTagId1": 90011,
+      "mysekaiFixtureTagId2": 90000
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_cncollect_window_ice1"
+  },
+  {
+    "id": 90012,
+    "mysekaiFixtureType": "normal",
+    "name": "苏打夜灯",
+    "pronunciation": "苏打夜灯",
+    "flavorText": "苏打夜灯",
+    "seq": 91001013,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 12,
+    "mysekaiFixtureHandleType": "light",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 90012,
+      "mysekaiFixtureTagId1": 90012,
+      "mysekaiFixtureTagId2": 90000
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_cncollect_fixture_ice2"
+  },
+  {
+    "id": 90013,
+    "mysekaiFixtureType": "normal",
+    "name": "冰淇淋长椅",
+    "pronunciation": "冰淇淋长椅",
+    "flavorText": "冰淇淋长椅",
+    "seq": 91001014,
+    "gridSize": {
+      "width": 4,
+      "depth": 2,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 4,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 90013,
+      "mysekaiFixtureTagId1": 90013,
+      "mysekaiFixtureTagId2": 90000
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_cncollect_fixture_ice3"
+  },
+  {
+    "id": 90014,
+    "mysekaiFixtureType": "normal",
+    "name": "盛夏的石桌",
+    "pronunciation": "盛夏的石桌",
+    "flavorText": "盛夏的石桌",
+    "seq": 91001015,
+    "gridSize": {
+      "width": 4,
+      "depth": 4,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 3,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 90014,
+      "mysekaiFixtureTagId1": 90014,
+      "mysekaiFixtureTagId2": 90000
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_cncollect_fixture_summer1"
+  },
+  {
+    "id": 90015,
+    "mysekaiFixtureType": "normal",
+    "name": "盛夏的竹板凳",
+    "pronunciation": "盛夏的竹板凳",
+    "flavorText": "盛夏的竹板凳",
+    "seq": 91001016,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 4,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 90015,
+      "mysekaiFixtureTagId1": 90015,
+      "mysekaiFixtureTagId2": 90000
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_cncollect_fixture_summer2"
+  },
+  {
+    "id": 90016,
+    "mysekaiFixtureType": "normal",
+    "name": "盛夏的荷花鱼缸",
+    "pronunciation": "盛夏的荷花鱼缸",
+    "flavorText": "盛夏的荷花鱼缸",
+    "seq": 91001017,
+    "gridSize": {
+      "width": 3,
+      "depth": 3,
+      "height": 4
+    },
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 90016,
+      "mysekaiFixtureTagId1": 90016,
+      "mysekaiFixtureTagId2": 90000
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_cncollect_fixture_summer3"
   },
   {
     "id": 900002,

@@ -1,5 +1,19 @@
 [
   {
+    "id": 33,
+    "startAt": 1777608000000,
+    "endAt": 1778860799000,
+    "assetbundleName": "collaboration_akuno",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 84,
+        "limitedLoginBonusId": 33,
+        "day": 1,
+        "resourceBoxId": 56
+      }
+    ]
+  },
+  {
     "id": 79,
     "startAt": 1770436800000,
     "endAt": 1771603199000,
@@ -3736,6 +3750,62 @@
         "limitedLoginBonusId": 1174,
         "day": 3,
         "resourceBoxId": 2135
+      }
+    ]
+  },
+  {
+    "id": 1175,
+    "startAt": 1777608000000,
+    "endAt": 1779047999000,
+    "assetbundleName": "gw_2025",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1418,
+        "limitedLoginBonusId": 1175,
+        "day": 1,
+        "resourceBoxId": 2136
+      },
+      {
+        "id": 1419,
+        "limitedLoginBonusId": 1175,
+        "day": 2,
+        "resourceBoxId": 2137
+      },
+      {
+        "id": 1420,
+        "limitedLoginBonusId": 1175,
+        "day": 3,
+        "resourceBoxId": 2138
+      },
+      {
+        "id": 1421,
+        "limitedLoginBonusId": 1175,
+        "day": 4,
+        "resourceBoxId": 2139
+      },
+      {
+        "id": 1422,
+        "limitedLoginBonusId": 1175,
+        "day": 5,
+        "resourceBoxId": 2140
+      },
+      {
+        "id": 1423,
+        "limitedLoginBonusId": 1175,
+        "day": 6,
+        "resourceBoxId": 2141
+      },
+      {
+        "id": 1424,
+        "limitedLoginBonusId": 1175,
+        "day": 7,
+        "resourceBoxId": 2142
+      },
+      {
+        "id": 1425,
+        "limitedLoginBonusId": 1175,
+        "day": 8,
+        "resourceBoxId": 2143
       }
     ]
   },
