@@ -2696,6 +2696,18 @@
           "resourceId": 53
         },
         "substituteCosts": []
+      },
+      {
+        "id": 1000116,
+        "gachaCeilExchangeSummaryId": 53,
+        "seq": 7,
+        "resourceBoxId": 9999,
+        "gachaCeilExchangeCost": {
+          "quantity": 1,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 53
+        },
+        "substituteCosts": []
       }
     ],
     "gachaCeilItemId": 53

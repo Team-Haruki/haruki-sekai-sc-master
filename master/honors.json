@@ -119292,6 +119292,23 @@
     ]
   },
   {
+    "id": 20060,
+    "seq": 2000053,
+    "groupId": 30020,
+    "honorRarity": "low",
+    "name": "「世界」的创作者",
+    "assetbundleName": "honor_creator",
+    "startAt": 1779811200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "参与sns创作征集活动赠送",
+        "startAt": 1779811200000
+      }
+    ]
+  },
+  {
     "id": 3001001,
     "seq": 30010010,
     "groupId": 71,
