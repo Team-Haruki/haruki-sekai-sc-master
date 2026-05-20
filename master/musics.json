@@ -18854,6 +18854,56 @@
     "isFullLength": false
   },
   {
+    "id": 636,
+    "seq": 1153701,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "エクスプロウル",
+    "pronunciation": "えくすぷろうる",
+    "creatorArtistId": 288,
+    "lyricist": "晴いちばん",
+    "composer": "晴いちばん",
+    "arranger": "晴いちばん",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_636",
+    "publishedAt": 1780470000000,
+    "releasedAt": 1780470000000,
+    "fillerSec": 9.0,
+    "infos": [],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 645,
+    "seq": 1255201,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "深海シティアンダーグラウンド",
+    "pronunciation": "しんかいしてぃあんだーぐらうんど",
+    "creatorArtistId": 294,
+    "lyricist": "田中B",
+    "composer": "田中B",
+    "arranger": "田中B",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_645",
+    "publishedAt": 1780902000000,
+    "releasedAt": 1780902000000,
+    "fillerSec": 7.941199779510498,
+    "infos": [],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 646,
     "seq": 2253601,
     "releaseConditionId": 10,
@@ -18884,6 +18934,31 @@
       }
     ],
     "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 647,
+    "seq": 1154601,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "SAN値直葬",
+    "pronunciation": "さんちちょくそう",
+    "creatorArtistId": 293,
+    "lyricist": "STEAKA",
+    "composer": "STEAKA",
+    "arranger": "STEAKA",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_647",
+    "publishedAt": 1781679600000,
+    "releasedAt": 1781679600000,
+    "fillerSec": 9.0,
+    "infos": [],
+    "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
@@ -18983,6 +19058,56 @@
         "arranger": "-"
       }
     ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 655,
+    "seq": 1143701,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "リリィララ",
+    "pronunciation": "りりぃらら",
+    "creatorArtistId": 292,
+    "lyricist": "ざんぎ",
+    "composer": "ざんぎ",
+    "arranger": "ざんぎ",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_655",
+    "publishedAt": 1781247600000,
+    "releasedAt": 1781247600000,
+    "fillerSec": 7.999899864196777,
+    "infos": [],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 656,
+    "seq": 1143901,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "ブラッドドール",
+    "pronunciation": "ぶらっどどーる",
+    "creatorArtistId": 295,
+    "lyricist": "フユウ",
+    "composer": "フユウ",
+    "arranger": "フユウ",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_656",
+    "publishedAt": 1782802800000,
+    "releasedAt": 1782802800000,
+    "fillerSec": 8.199999809265137,
+    "infos": [],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -19564,7 +19689,7 @@
     ],
     "title": "Mag1c",
     "pronunciation": "Magens",
-    "creatorArtistId": 11014,
+    "creatorArtistId": 11016,
     "lyricist": "然倉桃果",
     "composer": "Magens",
     "arranger": "Magens",

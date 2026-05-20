@@ -126387,6 +126387,20 @@
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "gacha_extra",
+    "name": "[西部风格]服装",
+    "id": 30006,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_extra",
+    "name": "[祈星]服装",
+    "id": 30007,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_extra",
     "name": "10000硬币",
     "id": 200001,
     "resourceBoxType": "expand"
@@ -133922,6 +133936,27 @@
     "name": "五一黄金周登录活动第8天奖励。",
     "id": 2143,
     "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "「世界」童趣日登录活动第1天奖励。",
+    "id": 2144,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "「世界」童趣日登录活动第2天奖励。",
+    "id": 2145,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "「世界」童趣日登录活动第3天奖励。",
+    "id": 2146,
+    "resourceBoxType": "list"
   },
   {
     "assetbundleName": null,
@@ -183334,6 +183369,41 @@
     "resourceBoxPurpose": "mysekai_housing_competition_back_number_reward",
     "name": null,
     "id": 100,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mysekai_housing_competition_back_number_reward",
+    "name": null,
+    "id": 101,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mysekai_housing_competition_back_number_reward",
+    "name": null,
+    "id": 102,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mysekai_housing_competition_back_number_reward",
+    "name": null,
+    "id": 103,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mysekai_housing_competition_back_number_reward",
+    "name": null,
+    "id": 104,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mysekai_housing_competition_back_number_reward",
+    "name": null,
+    "id": 105,
     "resourceBoxType": "expand"
   },
   {

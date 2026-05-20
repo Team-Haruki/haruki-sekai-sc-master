@@ -3810,6 +3810,32 @@
     ]
   },
   {
+    "id": 1176,
+    "startAt": 1780027200000,
+    "endAt": 1780862340000,
+    "assetbundleName": "cn61_26",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1426,
+        "limitedLoginBonusId": 1176,
+        "day": 1,
+        "resourceBoxId": 2144
+      },
+      {
+        "id": 1427,
+        "limitedLoginBonusId": 1176,
+        "day": 2,
+        "resourceBoxId": 2145
+      },
+      {
+        "id": 1428,
+        "limitedLoginBonusId": 1176,
+        "day": 3,
+        "resourceBoxId": 2146
+      }
+    ]
+  },
+  {
     "id": 26001,
     "startAt": 1786377600000,
     "endAt": 1786463999000,
