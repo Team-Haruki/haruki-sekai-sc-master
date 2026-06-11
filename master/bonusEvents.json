@@ -148,5 +148,53 @@
       20
     ],
     "limitMissionGroupId": 28
+  },
+  {
+    "id": 8,
+    "startAt": 1783137600000,
+    "endAt": 1783958399000,
+    "url": "https://lf3-cdn-tos.draftstatic.com/obj/ies-hotsoon-draft/pjsk/27462911-d990-4685-85a4-5cee119b7db0.html",
+    "bonusAssetbundleName": "event_bonus",
+    "bonuses": [
+      {
+        "bonusType": "rate",
+        "resourceType": "material",
+        "resourceId": 14,
+        "value": 3.0
+      },
+      {
+        "bonusType": "rate",
+        "resourceType": "material",
+        "resourceId": 17,
+        "value": 3.0
+      },
+      {
+        "bonusType": "exp_card",
+        "value": 2.0
+      }
+    ],
+    "normalBoxDailyLimit": 6,
+    "exBoxDailyLimit": 2,
+    "normalBoxResourceBoxIds": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "exBoxResourceBoxIds": [
+      27,
+      28,
+      9,
+      4,
+      5,
+      12,
+      18,
+      17,
+      19,
+      20
+    ],
+    "limitMissionGroupId": 29
   }
 ]

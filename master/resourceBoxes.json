@@ -181734,6 +181734,13 @@
     "resourceBoxType": "list"
   },
   {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "mission_reward",
+    "name": "招募券×1+合奏徽章×50",
+    "id": 400100,
+    "resourceBoxType": "list"
+  },
+  {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
     "name": "闪耀徽章*10",
@@ -182081,6 +182088,27 @@
     "resourceBoxPurpose": "mission_reward",
     "name": null,
     "id": 20260601,
+    "resourceBoxType": "costume_3d"
+  },
+  {
+    "assetbundleName": "live_mission_20250801",
+    "resourceBoxPurpose": "mission_reward",
+    "name": null,
+    "id": 20260801,
+    "resourceBoxType": "costume_3d"
+  },
+  {
+    "assetbundleName": "live_mission_20251001",
+    "resourceBoxPurpose": "mission_reward",
+    "name": null,
+    "id": 20261001,
+    "resourceBoxType": "costume_3d"
+  },
+  {
+    "assetbundleName": "live_mission_20251201",
+    "resourceBoxPurpose": "mission_reward",
+    "name": null,
+    "id": 20261201,
     "resourceBoxType": "costume_3d"
   },
   {
@@ -206753,6 +206781,48 @@
   },
   {
     "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 100100,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 100101,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 100102,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 100103,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 100104,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 100105,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
     "resourceBoxPurpose": "special_reward",
     "name": null,
     "id": 1,
@@ -206889,6 +206959,62 @@
     "resourceBoxPurpose": "special_reward",
     "name": null,
     "id": 20,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "special_reward",
+    "name": null,
+    "id": 21,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "special_reward",
+    "name": null,
+    "id": 22,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "special_reward",
+    "name": null,
+    "id": 23,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "special_reward",
+    "name": null,
+    "id": 24,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "special_reward",
+    "name": null,
+    "id": 25,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "special_reward",
+    "name": null,
+    "id": 26,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "special_reward",
+    "name": null,
+    "id": 27,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "special_reward",
+    "name": null,
+    "id": 28,
     "resourceBoxType": "expand"
   },
   {

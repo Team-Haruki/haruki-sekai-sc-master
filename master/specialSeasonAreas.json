@@ -352,6 +352,22 @@
     "specialSeasonAreaUseType": "bgm"
   },
   {
+    "id": 45,
+    "specialSeasonId": 3,
+    "areaId": 19,
+    "assetbundleName": "bgm_area_aprilfool_2022",
+    "fileName": "bgm_area_aprilfool_2022",
+    "specialSeasonAreaUseType": "bgm"
+  },
+  {
+    "id": 46,
+    "specialSeasonId": 3,
+    "areaId": 21,
+    "assetbundleName": "bgm_area_aprilfool_2022",
+    "fileName": "bgm_area_aprilfool_2022",
+    "specialSeasonAreaUseType": "bgm"
+  },
+  {
     "id": 47,
     "specialSeasonId": 3,
     "areaId": 23,
@@ -461,6 +477,22 @@
     "areaId": 13,
     "assetbundleName": "area13_af",
     "fileName": "area13_af",
+    "specialSeasonAreaUseType": "area"
+  },
+  {
+    "id": 61,
+    "specialSeasonId": 3,
+    "areaId": 19,
+    "assetbundleName": "area19_af",
+    "fileName": "area19_af",
+    "specialSeasonAreaUseType": "area"
+  },
+  {
+    "id": 62,
+    "specialSeasonId": 3,
+    "areaId": 21,
+    "assetbundleName": "area21_af",
+    "fileName": "area21_af",
     "specialSeasonAreaUseType": "area"
   },
   {
