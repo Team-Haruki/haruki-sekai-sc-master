@@ -162,6 +162,18 @@
     "flavorText": "恢复10演出能量。"
   },
   {
+    "id": 28,
+    "name": "钢琴翻糖蛋糕",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 29,
+    "name": "蓝花饮品",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
     "id": 1001,
     "name": "月饼",
     "recoveryValue": 10,
@@ -560,6 +572,12 @@
   {
     "id": 5003,
     "name": "饺子",
+    "recoveryValue": 10,
+    "flavorText": "恢复10演出能量。"
+  },
+  {
+    "id": 5004,
+    "name": "夏日合奏气泡水",
     "recoveryValue": 10,
     "flavorText": "恢复10演出能量。"
   }

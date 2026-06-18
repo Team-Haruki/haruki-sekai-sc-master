@@ -8,9 +8,9 @@
     "requirement1": 6,
     "sentence": "1天完成1次演出累计达到6天。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -22,9 +22,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -36,9 +36,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -51,9 +51,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -65,9 +65,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Hello·Good·Day!”的活动剧情第8话。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -79,9 +79,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Hello·Good·Day!”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -93,9 +93,9 @@
     "requirement1": 1,
     "sentence": "参加“Hello·Good·Day! 后日谈·演唱会”。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -107,9 +107,9 @@
     "requirement1": 7,
     "sentence": "完成所有7个任务。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -121,9 +121,9 @@
     "requirement1": 8,
     "sentence": "1天完成1次演出累计达到8天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -135,9 +135,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -149,9 +149,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -164,9 +164,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -178,9 +178,9 @@
     "requirement1": 1,
     "sentence": "观看活动“水底寻影”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -192,9 +192,9 @@
     "requirement1": 20000,
     "sentence": "在活动“水底寻影”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -206,9 +206,9 @@
     "requirement1": 1,
     "sentence": "参加“水底寻影 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -221,9 +221,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "完成所有7个任务。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -235,9 +235,9 @@
     "requirement1": 8,
     "sentence": "1天完成1次演出累计达到8天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -249,9 +249,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -263,9 +263,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -278,9 +278,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -292,9 +292,9 @@
     "requirement1": 1,
     "sentence": "观看活动“BREAK DOWN THE WALL”的结局。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -306,9 +306,9 @@
     "requirement1": 20000,
     "sentence": "在活动“BREAK DOWN THE WALL”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -320,9 +320,9 @@
     "requirement1": 1,
     "sentence": "参加“BREAK DOWN THE WALL 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -345,9 +345,9 @@
     "requirement1": 8,
     "sentence": "1天完成1次演出累计达到8天。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -359,9 +359,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -373,9 +373,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -388,9 +388,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -402,9 +402,9 @@
     "requirement1": 1,
     "sentence": "观看活动“向着星星，启航！”的结局。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -416,9 +416,9 @@
     "requirement1": 20000,
     "sentence": "在活动“向着星星，启航！”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -430,9 +430,9 @@
     "requirement1": 1,
     "sentence": "参加“向着星星，启航！ 后日谈·演唱会”。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -444,9 +444,9 @@
     "requirement1": 7,
     "sentence": "完成所有7个任务。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -458,9 +458,9 @@
     "requirement1": 6,
     "sentence": "1天完成1次演出累计达到6天。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -472,9 +472,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -486,9 +486,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -501,9 +501,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -515,9 +515,9 @@
     "requirement1": 1,
     "sentence": "观看活动“The first concerto”的活动剧情第8话。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -529,9 +529,9 @@
     "requirement1": 20000,
     "sentence": "在活动“The first concerto”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -543,9 +543,9 @@
     "requirement1": 1,
     "sentence": "参加“The first concerto 后日谈·演唱会”。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -557,9 +557,9 @@
     "requirement1": 7,
     "sentence": "完成所有7个任务。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -571,9 +571,9 @@
     "requirement1": 6,
     "sentence": "1天完成1次演出累计达到6天。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -585,9 +585,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -599,9 +599,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -614,9 +614,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -628,9 +628,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Rise as ONE！”的活动剧情第8话。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -642,9 +642,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Rise as ONE！”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -656,9 +656,9 @@
     "requirement1": 1,
     "sentence": "参加“Rise as ONE！ 后日谈·演唱会”。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -670,9 +670,9 @@
     "requirement1": 7,
     "sentence": "完成所有7个任务。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -684,9 +684,9 @@
     "requirement1": 6,
     "sentence": "1天完成1次演出累计达到6天。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -698,9 +698,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -712,9 +712,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -727,9 +727,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -741,9 +741,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Knowing the Unseen”的活动剧情第8话。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -755,9 +755,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Knowing the Unseen”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -769,9 +769,9 @@
     "requirement1": 1,
     "sentence": "参加“Knowing the Unseen 后日谈·演唱会”。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -783,9 +783,9 @@
     "requirement1": 7,
     "sentence": "完成所有7个任务。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -797,9 +797,9 @@
     "requirement1": 6,
     "sentence": "1天完成1次演出累计达到6天。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -811,9 +811,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -825,9 +825,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -840,9 +840,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -854,9 +854,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Parallel Harmonies”的活动剧情第8话。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -868,9 +868,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Parallel Harmonies”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -882,9 +882,9 @@
     "requirement1": 1,
     "sentence": "参加“Parallel Harmonies 后日谈·演唱会”。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -896,9 +896,9 @@
     "requirement1": 7,
     "sentence": "完成所有7个任务。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -910,9 +910,9 @@
     "requirement1": 6,
     "sentence": "1天完成1次演出累计达到6天。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -924,9 +924,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -938,9 +938,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -953,9 +953,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -967,9 +967,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Whip the wimp girl!!”的活动剧情第8话。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -981,9 +981,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Whip the wimp girl!!”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -995,9 +995,9 @@
     "requirement1": 1,
     "sentence": "参加“Whip the wimp girl!! 后日谈·演唱会”。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1009,9 +1009,9 @@
     "requirement1": 7,
     "sentence": "完成所有7个任务。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -1023,9 +1023,9 @@
     "requirement1": 8,
     "sentence": "1天完成1次演出累计达到8天。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1037,9 +1037,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1051,9 +1051,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1066,9 +1066,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1080,9 +1080,9 @@
     "requirement1": 1,
     "sentence": "观看活动“总有一日，登上鲜花盛放的舞台”的结局。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1094,9 +1094,9 @@
     "requirement1": 20000,
     "sentence": "在活动“总有一日，登上鲜花盛放的舞台”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1108,9 +1108,9 @@
     "requirement1": 1,
     "sentence": "参加“总有一日，登上鲜花盛放的舞台 后日谈·演唱会”。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1122,9 +1122,9 @@
     "requirement1": 7,
     "sentence": "完成所有7个任务。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -1136,9 +1136,9 @@
     "requirement1": 6,
     "sentence": "1天完成1次演出累计达到6天。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1150,9 +1150,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1164,9 +1164,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1179,9 +1179,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1193,9 +1193,9 @@
     "requirement1": 1,
     "sentence": "观看活动“perspective for smile”的活动剧情第8话。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1207,9 +1207,9 @@
     "requirement1": 20000,
     "sentence": "在活动“perspective for smile”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1221,9 +1221,9 @@
     "requirement1": 1,
     "sentence": "参加“perspective for smile 后日谈·演唱会”。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1235,9 +1235,9 @@
     "requirement1": 7,
     "sentence": "完成所有7个任务。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -1249,9 +1249,9 @@
     "requirement1": 6,
     "sentence": "1天完成1次演出累计达到6天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1263,9 +1263,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1277,9 +1277,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1292,9 +1292,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1306,9 +1306,9 @@
     "requirement1": 1,
     "sentence": "观看活动“大家来直播♡WEDDING LIVE！”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1320,9 +1320,9 @@
     "requirement1": 20000,
     "sentence": "在活动“大家来直播♡WEDDING LIVE！”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1334,9 +1334,9 @@
     "requirement1": 1,
     "sentence": "参加“大家来直播♡WEDDING LIVE！ 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1359,9 +1359,9 @@
     "requirement1": 6,
     "sentence": "1天完成1次演出累计达到6天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1373,9 +1373,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1387,9 +1387,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1402,9 +1402,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1416,9 +1416,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Lead to shine more”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1430,9 +1430,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Lead to shine more”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1444,9 +1444,9 @@
     "requirement1": 1,
     "sentence": "参加“Lead to shine more 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1469,9 +1469,9 @@
     "requirement1": 6,
     "sentence": "1天完成1次演出累计达到6天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1483,9 +1483,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1497,9 +1497,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1512,9 +1512,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1526,9 +1526,9 @@
     "requirement1": 1,
     "sentence": "观看活动“揽灯近前”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1540,9 +1540,9 @@
     "requirement1": 20000,
     "sentence": "在活动“揽灯近前”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1554,9 +1554,9 @@
     "requirement1": 1,
     "sentence": "参加“揽灯近前 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1579,9 +1579,9 @@
     "requirement1": 6,
     "sentence": "1天完成1次演出累计达到6天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1593,9 +1593,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1607,9 +1607,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1622,9 +1622,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1636,9 +1636,9 @@
     "requirement1": 1,
     "sentence": "观看活动“OVER RAD SQUAD!!”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1650,9 +1650,9 @@
     "requirement1": 20000,
     "sentence": "在活动“OVER RAD SQUAD!!”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1664,9 +1664,9 @@
     "requirement1": 1,
     "sentence": "参加“OVER RAD SQUAD!! 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1689,9 +1689,9 @@
     "requirement1": 6,
     "sentence": "1天完成1次演出累计达到6天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1703,9 +1703,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1717,9 +1717,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1732,9 +1732,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1746,9 +1746,9 @@
     "requirement1": 1,
     "sentence": "观看活动“捉拿归案？！天马捕物帐”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1760,9 +1760,9 @@
     "requirement1": 20000,
     "sentence": "在活动“捉拿归案？！天马捕物帐”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1774,9 +1774,9 @@
     "requirement1": 1,
     "sentence": "参加“捉拿归案？！天马捕物帐 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1799,9 +1799,9 @@
     "requirement1": 8,
     "sentence": "1天完成1次演出累计达到8天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1813,9 +1813,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1827,9 +1827,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1842,9 +1842,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1856,9 +1856,9 @@
     "requirement1": 1,
     "sentence": "观看活动“那天仰望的夜空，将通向我们的未来”的结局。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1870,9 +1870,9 @@
     "requirement1": 20000,
     "sentence": "在活动“那天仰望的夜空，将通向我们的未来”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1884,9 +1884,9 @@
     "requirement1": 1,
     "sentence": "参加“那天仰望的夜空，将通向我们的未来 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1909,9 +1909,9 @@
     "requirement1": 6,
     "sentence": "1天完成1次演出累计达到6天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1923,9 +1923,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1937,9 +1937,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1952,9 +1952,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1966,9 +1966,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Chase my IDEAL IDOL！”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1980,9 +1980,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Chase my IDEAL IDOL！”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -1994,9 +1994,9 @@
     "requirement1": 1,
     "sentence": "参加“Chase my IDEAL IDOL！ 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2019,9 +2019,9 @@
     "requirement1": 6,
     "sentence": "1天完成1次演出累计达到6天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2033,9 +2033,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2047,9 +2047,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2062,9 +2062,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2076,9 +2076,9 @@
     "requirement1": 1,
     "sentence": "观看活动“奏响美妙乐音！”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2090,9 +2090,9 @@
     "requirement1": 20000,
     "sentence": "在活动“奏响美妙乐音！”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2104,9 +2104,9 @@
     "requirement1": 1,
     "sentence": "参加“奏响美妙乐音！ 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2129,9 +2129,9 @@
     "requirement1": 12,
     "sentence": "1天完成1次演出累计达到12天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2143,9 +2143,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2157,9 +2157,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2172,9 +2172,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2186,9 +2186,9 @@
     "requirement1": 1,
     "sentence": "观看活动“和你在「世界」的起点”的结局。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2200,9 +2200,9 @@
     "requirement1": 20000,
     "sentence": "在活动“和你在「世界」的起点”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2214,9 +2214,9 @@
     "requirement1": 1,
     "sentence": "参加“和你在「世界」的起点 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2239,9 +2239,9 @@
     "requirement1": 7,
     "sentence": "1天完成1次演出累计达到7天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2253,9 +2253,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2267,9 +2267,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2282,9 +2282,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2296,9 +2296,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Wonderhorror～？！的试胆！”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2310,9 +2310,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Wonderhorror～？！的试胆！”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2324,9 +2324,9 @@
     "requirement1": 1,
     "sentence": "参加“Wonderhorror～？！的试胆！ 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2349,9 +2349,9 @@
     "requirement1": 7,
     "sentence": "1天完成1次演出累计达到7天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2363,9 +2363,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2377,9 +2377,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2392,9 +2392,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2406,9 +2406,9 @@
     "requirement1": 1,
     "sentence": "观看活动“锻炼后FLY！Muscle Training！”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2420,9 +2420,9 @@
     "requirement1": 20000,
     "sentence": "在活动“锻炼后FLY！Muscle Training！”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2434,9 +2434,9 @@
     "requirement1": 1,
     "sentence": "参加“锻炼后FLY！Muscle Training！ 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2459,9 +2459,9 @@
     "requirement1": 7,
     "sentence": "1天完成1次演出累计达到7天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2473,9 +2473,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2487,9 +2487,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2502,9 +2502,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2516,9 +2516,9 @@
     "requirement1": 1,
     "sentence": "观看活动“This moment with you！”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2530,9 +2530,9 @@
     "requirement1": 20000,
     "sentence": "在活动“This moment with you！”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2544,9 +2544,9 @@
     "requirement1": 1,
     "sentence": "参加“This moment with you！ 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2569,9 +2569,9 @@
     "requirement1": 10,
     "sentence": "1天完成1次演出累计达到10天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2583,9 +2583,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2597,9 +2597,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2612,9 +2612,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2626,9 +2626,9 @@
     "requirement1": 1,
     "sentence": "观看活动“承载心愿！Dream Stage",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2640,9 +2640,9 @@
     "requirement1": 20000,
     "sentence": "在活动“承载心愿！Dream Stage”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2654,9 +2654,9 @@
     "requirement1": 1,
     "sentence": "参加“承载心愿！Dream Stage 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2679,9 +2679,9 @@
     "requirement1": 8,
     "sentence": "1天完成1次演出累计达到8天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2693,9 +2693,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2707,9 +2707,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2722,9 +2722,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2736,9 +2736,9 @@
     "requirement1": 1,
     "sentence": "观看活动“荆棘之路通往何处”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2750,9 +2750,9 @@
     "requirement1": 20000,
     "sentence": "在活动“荆棘之路通往何处”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2764,9 +2764,9 @@
     "requirement1": 1,
     "sentence": "参加“荆棘之路通往何处 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2789,9 +2789,9 @@
     "requirement1": 9,
     "sentence": "1天完成1次演出累计达到9天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2803,9 +2803,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2817,9 +2817,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2832,9 +2832,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2846,9 +2846,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Rekindle the flame”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2860,9 +2860,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Rekindle the flame”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2874,9 +2874,9 @@
     "requirement1": 1,
     "sentence": "参加“Rekindle the flame 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2899,9 +2899,9 @@
     "requirement1": 9,
     "sentence": "1天完成1次演出累计达到9天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2913,9 +2913,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2927,9 +2927,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2942,9 +2942,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2956,9 +2956,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Happy Enjoy Music！”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2970,9 +2970,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Happy Enjoy Music！”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -2984,9 +2984,9 @@
     "requirement1": 1,
     "sentence": "参加“Happy Enjoy Music！ 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3009,9 +3009,9 @@
     "requirement1": 9,
     "sentence": "1天完成1次演出累计达到9天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3023,9 +3023,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3037,9 +3037,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3052,9 +3052,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3066,9 +3066,9 @@
     "requirement1": 1,
     "sentence": "观看活动“又到秋叶染色之时”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3080,9 +3080,9 @@
     "requirement1": 20000,
     "sentence": "在活动“又到秋叶染色之时”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3094,9 +3094,9 @@
     "requirement1": 1,
     "sentence": "参加“又到秋叶染色之时 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3119,9 +3119,9 @@
     "requirement1": 9,
     "sentence": "1天完成1次演出累计达到9天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3133,9 +3133,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3147,9 +3147,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3162,9 +3162,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3176,9 +3176,9 @@
     "requirement1": 1,
     "sentence": "观看活动“The Power Of Regret”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3190,9 +3190,9 @@
     "requirement1": 20000,
     "sentence": "在活动“The Power Of Regret”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3204,9 +3204,9 @@
     "requirement1": 1,
     "sentence": "参加“The Power Of Regret 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3229,9 +3229,9 @@
     "requirement1": 10,
     "sentence": "1天完成1次演出累计达到10天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3243,9 +3243,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3257,9 +3257,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3272,9 +3272,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3286,9 +3286,9 @@
     "requirement1": 1,
     "sentence": "观看活动“用我们，布满伤痕的双手”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3300,9 +3300,9 @@
     "requirement1": 20000,
     "sentence": "在活动“用我们，布满伤痕的双手”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3314,9 +3314,9 @@
     "requirement1": 1,
     "sentence": "参加“用我们，布满伤痕的双手 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3339,9 +3339,9 @@
     "requirement1": 9,
     "sentence": "1天完成1次演出累计达到9天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3353,9 +3353,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3367,9 +3367,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3382,9 +3382,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3396,9 +3396,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Grow glorious glow”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3410,9 +3410,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Grow glorious glow”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3424,9 +3424,9 @@
     "requirement1": 1,
     "sentence": "参加“Grow glorious glow 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3449,9 +3449,9 @@
     "requirement1": 9,
     "sentence": "1天完成1次演出累计达到9天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3463,9 +3463,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3477,9 +3477,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3492,9 +3492,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3506,9 +3506,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Special present for YOU！”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3520,9 +3520,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Special present for YOU！”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3534,9 +3534,9 @@
     "requirement1": 1,
     "sentence": "参加“Special present for YOU！ 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3559,9 +3559,9 @@
     "requirement1": 10,
     "sentence": "1天完成1次演出累计达到10天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3573,9 +3573,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3587,9 +3587,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3602,9 +3602,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3616,9 +3616,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Unfading wishing”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3630,9 +3630,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Unfading wishing”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3644,9 +3644,9 @@
     "requirement1": 1,
     "sentence": "参加“Unfading wishing 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3669,9 +3669,9 @@
     "requirement1": 9,
     "sentence": "1天完成1次演出累计达到9天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3683,9 +3683,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3697,9 +3697,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3712,9 +3712,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3726,9 +3726,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Time to take off！”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3740,9 +3740,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Time to take off！”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3754,9 +3754,9 @@
     "requirement1": 1,
     "sentence": "参加“Time to take off！ 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3779,9 +3779,9 @@
     "requirement1": 9,
     "sentence": "1天完成1次演出累计达到9天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3793,9 +3793,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3807,9 +3807,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3822,9 +3822,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3836,9 +3836,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Show your shine”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3850,9 +3850,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Show your shine”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3864,9 +3864,9 @@
     "requirement1": 1,
     "sentence": "参加“Show your shine 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3889,9 +3889,9 @@
     "requirement1": 9,
     "sentence": "1天完成1次演出累计达到9天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3903,9 +3903,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3917,9 +3917,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3932,9 +3932,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3946,9 +3946,9 @@
     "requirement1": 1,
     "sentence": "观看活动“在这针线中寄托心意”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3960,9 +3960,9 @@
     "requirement1": 20000,
     "sentence": "在活动“在这针线中寄托心意”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3974,9 +3974,9 @@
     "requirement1": 1,
     "sentence": "参加“在这针线中寄托心意 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -3999,9 +3999,9 @@
     "requirement1": 9,
     "sentence": "1天完成1次演出累计达到9天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4013,9 +4013,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4027,9 +4027,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4042,9 +4042,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4056,9 +4056,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Rise and Strive”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4070,9 +4070,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Rise and Strive”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4084,9 +4084,9 @@
     "requirement1": 1,
     "sentence": "参加“Rise and Strive 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4109,9 +4109,9 @@
     "requirement1": 7,
     "sentence": "1天完成1次演出累计达到7天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4123,9 +4123,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4137,9 +4137,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4152,9 +4152,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4166,9 +4166,9 @@
     "requirement1": 1,
     "sentence": "观看活动“昔日的Read-aloud”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4180,9 +4180,9 @@
     "requirement1": 20000,
     "sentence": "在活动“昔日的Read-aloud”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4194,9 +4194,9 @@
     "requirement1": 1,
     "sentence": "参加“昔日的Read-aloud 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4219,9 +4219,9 @@
     "requirement1": 9,
     "sentence": "1天完成1次演出累计达到9天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4233,9 +4233,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4247,9 +4247,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4262,9 +4262,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4276,9 +4276,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Connect hearts message”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4290,9 +4290,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Connect hearts message”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4304,9 +4304,9 @@
     "requirement1": 1,
     "sentence": "参加“Connect hearts message 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4329,9 +4329,9 @@
     "requirement1": 9,
     "sentence": "1天完成1次演出累计达到9天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4343,9 +4343,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4357,9 +4357,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4372,9 +4372,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4386,9 +4386,9 @@
     "requirement1": 1,
     "sentence": "观看活动“You are my HERO!!”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4400,9 +4400,9 @@
     "requirement1": 20000,
     "sentence": "在活动“You are my HERO!!”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4414,9 +4414,9 @@
     "requirement1": 1,
     "sentence": "参加“You are my HERO!! 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4439,9 +4439,9 @@
     "requirement1": 9,
     "sentence": "1天完成1次演出累计达到9天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4453,9 +4453,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4467,9 +4467,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4482,9 +4482,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4496,9 +4496,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Unreliable Notes”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4510,9 +4510,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Unreliable Notes”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4524,9 +4524,9 @@
     "requirement1": 1,
     "sentence": "参加“Unreliable Notes 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4549,9 +4549,9 @@
     "requirement1": 8,
     "sentence": "1天完成1次演出累计达到8天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4563,9 +4563,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4577,9 +4577,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4592,9 +4592,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4606,9 +4606,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Find the dream view”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4620,9 +4620,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Find the dream view”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4634,9 +4634,9 @@
     "requirement1": 1,
     "sentence": "参加“Find the dream view 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4659,9 +4659,9 @@
     "requirement1": 13,
     "sentence": "1天完成1次演出累计达到13天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4673,9 +4673,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4687,9 +4687,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4702,9 +4702,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4716,9 +4716,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Turning Pain into Drive”的结局。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4730,9 +4730,9 @@
     "requirement1": 10,
     "sentence": "在活动“Turning Pain into Drive”的兑换所消耗10个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4744,9 +4744,9 @@
     "requirement1": 1,
     "sentence": "参加“Turning Pain into Drive 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4769,9 +4769,9 @@
     "requirement1": 7,
     "sentence": "1天完成1次演出累计达到7天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4783,9 +4783,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4797,9 +4797,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4812,9 +4812,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4826,9 +4826,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Choices for the future”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4840,9 +4840,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Choices for the future”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4854,9 +4854,9 @@
     "requirement1": 1,
     "sentence": "参加“Choices for the future 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4879,9 +4879,9 @@
     "requirement1": 7,
     "sentence": "1天完成1次演出累计达到7天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4893,9 +4893,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4907,9 +4907,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4922,9 +4922,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4936,9 +4936,9 @@
     "requirement1": 1,
     "sentence": "观看活动“于是，指针开始转动”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4950,9 +4950,9 @@
     "requirement1": 20000,
     "sentence": "在活动“于是，指针开始转动”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4964,9 +4964,9 @@
     "requirement1": 1,
     "sentence": "参加“于是，指针开始转动 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -4989,9 +4989,9 @@
     "requirement1": 13,
     "sentence": "1天完成1次演出累计达到13天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5003,9 +5003,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5017,9 +5017,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5032,9 +5032,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5046,9 +5046,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Dear my fellows”的结局。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5060,9 +5060,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Dear my fellows”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5074,9 +5074,9 @@
     "requirement1": 1,
     "sentence": "参加“Dear my fellows 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5099,9 +5099,9 @@
     "requirement1": 7,
     "sentence": "1天完成1次演出累计达到7天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5113,9 +5113,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5127,9 +5127,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5142,9 +5142,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5156,9 +5156,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Cheer with my Heart!”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5170,9 +5170,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Cheer with my Heart!”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5184,9 +5184,9 @@
     "requirement1": 1,
     "sentence": "参加“Cheer with my Heart! 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5209,9 +5209,9 @@
     "requirement1": 8,
     "sentence": "1天完成1次演出累计达到8天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5223,9 +5223,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5237,9 +5237,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5252,9 +5252,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5266,9 +5266,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Aim higher and higher！”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5280,9 +5280,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Aim higher and higher！”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5294,9 +5294,9 @@
     "requirement1": 1,
     "sentence": "参加“Aim higher and higher！ 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5319,9 +5319,9 @@
     "requirement1": 13,
     "sentence": "1天完成1次演出累计达到13天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5333,9 +5333,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5347,9 +5347,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5362,9 +5362,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5376,9 +5376,9 @@
     "requirement1": 1,
     "sentence": "观看活动“置身于泡沫的环绕”的结局。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5390,9 +5390,9 @@
     "requirement1": 20000,
     "sentence": "在活动“置身于泡沫的环绕”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5404,9 +5404,9 @@
     "requirement1": 1,
     "sentence": "参加“置身于泡沫的环绕 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5429,9 +5429,9 @@
     "requirement1": 13,
     "sentence": "1天完成1次演出累计达到13天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5443,9 +5443,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5457,9 +5457,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5472,9 +5472,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5486,9 +5486,9 @@
     "requirement1": 1,
     "sentence": "观看活动“ordinary,yet special us”的结局。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5500,9 +5500,9 @@
     "requirement1": 20000,
     "sentence": "在活动“ordinary,yet special us”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5514,9 +5514,9 @@
     "requirement1": 1,
     "sentence": "参加“ordinary,yet special us 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5539,9 +5539,9 @@
     "requirement1": 7,
     "sentence": "1天完成1次演出累计达到7天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5553,9 +5553,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5567,9 +5567,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5582,9 +5582,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5596,9 +5596,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Deeper and deeper”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5610,9 +5610,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Deeper and deeper”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5624,9 +5624,9 @@
     "requirement1": 1,
     "sentence": "参加“Deeper and deeper 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5649,9 +5649,9 @@
     "requirement1": 7,
     "sentence": "1天完成1次演出累计达到7天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5663,9 +5663,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5677,9 +5677,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5692,9 +5692,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5706,9 +5706,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Unsteady, still steady step”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5720,9 +5720,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Unsteady, still steady step”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5734,9 +5734,9 @@
     "requirement1": 1,
     "sentence": "参加“Unsteady, still steady step 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5759,9 +5759,9 @@
     "requirement1": 7,
     "sentence": "1天完成1次演出累计达到7天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5773,9 +5773,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5787,9 +5787,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5802,9 +5802,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5816,9 +5816,9 @@
     "requirement1": 1,
     "sentence": "观看活动“start rolling! stars' crossing”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5830,9 +5830,9 @@
     "requirement1": 20000,
     "sentence": "在活动“start rolling! stars' crossing”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5844,9 +5844,9 @@
     "requirement1": 1,
     "sentence": "参加“start rolling! stars' crossing 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5869,9 +5869,9 @@
     "requirement1": 7,
     "sentence": "1天完成1次演出累计达到7天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5883,9 +5883,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5897,9 +5897,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5912,9 +5912,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5926,9 +5926,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Competitive fire！”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5940,9 +5940,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Competitive fire！”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5954,9 +5954,9 @@
     "requirement1": 1,
     "sentence": "参加“Competitive fire！ 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5979,9 +5979,9 @@
     "requirement1": 13,
     "sentence": "1天完成1次演出累计达到13天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5993,9 +5993,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6007,9 +6007,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6022,9 +6022,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6036,9 +6036,9 @@
     "requirement1": 1,
     "sentence": "观看活动“All ways Jump! with you”的结局。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6050,9 +6050,9 @@
     "requirement1": 20000,
     "sentence": "在活动“All ways Jump! with you”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6064,9 +6064,9 @@
     "requirement1": 1,
     "sentence": "参加“All ways Jump! with you 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6089,9 +6089,9 @@
     "requirement1": 7,
     "sentence": "1天完成1次演出累计达到7天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6103,9 +6103,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6117,9 +6117,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6132,9 +6132,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6146,9 +6146,9 @@
     "requirement1": 1,
     "sentence": "观看活动“向无法解开的明天伸手”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6160,9 +6160,9 @@
     "requirement1": 20000,
     "sentence": "在活动“向无法解开的明天伸手”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6174,9 +6174,9 @@
     "requirement1": 1,
     "sentence": "参加“向无法解开的明天伸手 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6199,9 +6199,9 @@
     "requirement1": 6,
     "sentence": "1天完成1次演出累计达到6天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6213,9 +6213,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6227,9 +6227,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6242,9 +6242,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6256,9 +6256,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Deep Dark For Light”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6270,9 +6270,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Deep Dark For Light”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6284,9 +6284,9 @@
     "requirement1": 1,
     "sentence": "参加“Deep Dark For Light 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6309,9 +6309,9 @@
     "requirement1": 13,
     "sentence": "1天完成1次演出累计达到13天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6323,9 +6323,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6337,9 +6337,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6352,9 +6352,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6366,9 +6366,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Link the Beats！”的结局。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6380,9 +6380,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Link the Beats！”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6394,9 +6394,9 @@
     "requirement1": 1,
     "sentence": "参加“Link the Beats！ 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6419,9 +6419,9 @@
     "requirement1": 1,
     "sentence": "完成1次多人演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6433,9 +6433,9 @@
     "requirement1": 2,
     "sentence": "完成2次多人演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6447,9 +6447,9 @@
     "requirement1": 3,
     "sentence": "完成3次多人演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6461,9 +6461,9 @@
     "requirement1": 4,
     "sentence": "完成4次多人演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6475,9 +6475,9 @@
     "requirement1": 5,
     "sentence": "完成5次多人演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6489,9 +6489,9 @@
     "requirement1": 7,
     "sentence": "完成7次多人演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6503,9 +6503,9 @@
     "requirement1": 10,
     "sentence": "完成10次多人演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6528,9 +6528,9 @@
     "requirement1": 10,
     "sentence": "1天完成1次演出累计达到10天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6542,9 +6542,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6556,9 +6556,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6571,9 +6571,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6585,9 +6585,9 @@
     "requirement1": 1,
     "sentence": "观看活动“Our Golden Days”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6599,9 +6599,9 @@
     "requirement1": 20000,
     "sentence": "在活动“Our Golden Days”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6613,9 +6613,9 @@
     "requirement1": 1,
     "sentence": "参加“Our Golden Days 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6638,9 +6638,9 @@
     "requirement1": 9,
     "sentence": "1天完成1次演出累计达到9天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6652,9 +6652,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6666,9 +6666,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6681,9 +6681,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6695,9 +6695,9 @@
     "requirement1": 1,
     "sentence": "观看活动“与你相连的Heart Beat”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6709,9 +6709,9 @@
     "requirement1": 20000,
     "sentence": "在活动“与你相连的Heart Beat”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6723,9 +6723,9 @@
     "requirement1": 1,
     "sentence": "参加“与你相连的Heart Beat 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6748,9 +6748,9 @@
     "requirement1": 9,
     "sentence": "1天完成1次演出累计达到9天。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6762,9 +6762,9 @@
     "requirement1": 50,
     "sentence": "完成50次演出。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6776,9 +6776,9 @@
     "requirement1": 10,
     "sentence": "在演出中以FULL COMBO完成歌曲达到10次。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6791,9 +6791,9 @@
     "requirement2": 1,
     "sentence": "在演出中完成10首歌曲。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6805,9 +6805,9 @@
     "requirement1": 1,
     "sentence": "观看活动“交织的色彩一如当初”的活动剧情第8话。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6819,9 +6819,9 @@
     "requirement1": 20000,
     "sentence": "在活动“交织的色彩一如当初”的兑换所消耗20000个徽章。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6833,9 +6833,9 @@
     "requirement1": 1,
     "sentence": "参加“交织的色彩一如当初 后日谈·演唱会”。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {

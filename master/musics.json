@@ -6914,7 +6914,7 @@
     "infos": [
       {
         "title": "Voices",
-        "creator": "ゆよゆっぺ　",
+        "creator": "ゆよゆっぺ",
         "lyricist": "ゆよゆっぺ",
         "composer": "ゆよゆっぺ",
         "arranger": "ゆよゆっぺ"
@@ -8546,7 +8546,7 @@
     "infos": [
       {
         "title": "Hello, Worker",
-        "creator": "KEI ",
+        "creator": "KEI",
         "lyricist": "ハヤシケイ",
         "composer": "ハヤシケイ",
         "arranger": "ハヤシケイ"
@@ -10842,7 +10842,7 @@
         "creator": "DECO*27",
         "lyricist": "DECO*27",
         "composer": "DECO*27",
-        "arranger": "Rockwell "
+        "arranger": "Rockwell"
       }
     ],
     "isNewlyWrittenMusic": false,
@@ -19088,7 +19088,7 @@
   },
   {
     "id": 656,
-    "seq": 1143901,
+    "seq": 1144501,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -19113,7 +19113,7 @@
   },
   {
     "id": 659,
-    "seq": 9999941,
+    "seq": 9999942,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -19178,6 +19178,210 @@
     "isFullLength": false
   },
   {
+    "id": 744,
+    "seq": 3744001,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "CHAOS",
+    "pronunciation": "かおす",
+    "creatorArtistId": 323,
+    "lyricist": "-",
+    "composer": "Æsir",
+    "arranger": "KIVΛ",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_744",
+    "publishedAt": 1782025200000,
+    "releasedAt": 1516204800000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "CHAOS",
+        "creator": "Æsir",
+        "lyricist": "-",
+        "composer": "Æsir",
+        "arranger": "KIVΛ"
+      }
+    ],
+    "musicCollaborationId": 14,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 745,
+    "seq": 3744301,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "ANiMA",
+    "pronunciation": "あにま",
+    "creatorArtistId": 324,
+    "lyricist": "-",
+    "composer": "xi",
+    "arranger": "xi",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_745",
+    "publishedAt": 1782284400000,
+    "releasedAt": 1432656000000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "ANiMA",
+        "creator": "xi",
+        "lyricist": "-",
+        "composer": "xi",
+        "arranger": "xi"
+      }
+    ],
+    "musicCollaborationId": 14,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 746,
+    "seq": 3744401,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "Masquerade",
+    "pronunciation": "ますかれーど",
+    "creatorArtistId": 325,
+    "lyricist": "-",
+    "composer": "M2U",
+    "arranger": "M2U",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_746",
+    "publishedAt": 1782370800000,
+    "releasedAt": 1376409600000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "Masquerade",
+        "creator": "M2U",
+        "lyricist": "-",
+        "composer": "M2U",
+        "arranger": "M2U"
+      }
+    ],
+    "musicCollaborationId": 14,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 747,
+    "seq": 3743901,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "SAIRAI",
+    "pronunciation": "さいらい",
+    "creatorArtistId": 326,
+    "lyricist": "-",
+    "composer": "Shinichi Kobayashi",
+    "arranger": "Yoshikatsu Fukuhara",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_747",
+    "publishedAt": 1781938800000,
+    "releasedAt": 1390752000000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "SAIRAI",
+        "creator": "Shinichi Kobayashi",
+        "lyricist": "-",
+        "composer": "Shinichi Kobayashi",
+        "arranger": "Yoshikatsu Fukuhara"
+      }
+    ],
+    "musicCollaborationId": 14,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 748,
+    "seq": 3744101,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "Saika",
+    "pronunciation": "さいか",
+    "creatorArtistId": 327,
+    "lyricist": "-",
+    "composer": "RABPIT",
+    "arranger": "RABPIT",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_748",
+    "publishedAt": 1782111600000,
+    "releasedAt": 1384272000000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "Saika",
+        "creator": "RABPIT",
+        "lyricist": "-",
+        "composer": "RABPIT",
+        "arranger": "RABPIT"
+      }
+    ],
+    "musicCollaborationId": 14,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 749,
+    "seq": 3744201,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "99 Glooms",
+    "pronunciation": "ないんてぃないんぐるーむず",
+    "creatorArtistId": 328,
+    "lyricist": "-",
+    "composer": "Sta",
+    "arranger": "Sta",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_749",
+    "publishedAt": 1782198000000,
+    "releasedAt": 1547222400000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "99 Glooms",
+        "creator": "Sta",
+        "lyricist": "-",
+        "composer": "Sta",
+        "arranger": "Sta"
+      }
+    ],
+    "musicCollaborationId": 14,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 11001,
     "seq": 1124302,
     "releaseConditionId": 5,
@@ -19207,7 +19411,7 @@
         "arranger": "敌门"
       }
     ],
-    "musicCollaborationId": 16,
+    "musicCollaborationId": 11001,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -19241,7 +19445,7 @@
         "arranger": "cannibaltim"
       }
     ],
-    "musicCollaborationId": 18,
+    "musicCollaborationId": 11002,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -19275,7 +19479,7 @@
         "arranger": "MACHWOLF"
       }
     ],
-    "musicCollaborationId": 17,
+    "musicCollaborationId": 11003,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -19309,7 +19513,7 @@
         "arranger": "DECO*27"
       }
     ],
-    "musicCollaborationId": 13,
+    "musicCollaborationId": 11004,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -19343,7 +19547,7 @@
         "arranger": "A-39"
       }
     ],
-    "musicCollaborationId": 15,
+    "musicCollaborationId": 11005,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -19377,7 +19581,7 @@
         "arranger": "A殿下/胧音Long"
       }
     ],
-    "musicCollaborationId": 14,
+    "musicCollaborationId": 11006,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -19411,7 +19615,7 @@
         "arranger": "AzureHead"
       }
     ],
-    "musicCollaborationId": 19,
+    "musicCollaborationId": 11007,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -19445,7 +19649,7 @@
         "arranger": "mikitoP/駄菓子O型"
       }
     ],
-    "musicCollaborationId": 20,
+    "musicCollaborationId": 11008,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -19479,7 +19683,7 @@
         "arranger": "Magens"
       }
     ],
-    "musicCollaborationId": 21,
+    "musicCollaborationId": 11009,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },

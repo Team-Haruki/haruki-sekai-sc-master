@@ -3931,6 +3931,38 @@
     "billingShopTabChildId": 2000
   },
   {
+    "id": 51128,
+    "seq": 46194,
+    "billingShopItemType": "value_set",
+    "name": "变身为Deemo的服装",
+    "description": "变身为Deemo的服装",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_deemo_01",
+    "resourceBoxId": 51128,
+    "startAt": 1781938800000,
+    "endAt": 1783007999000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
+  },
+  {
+    "id": 51129,
+    "seq": 46194,
+    "billingShopItemType": "value_set",
+    "name": "变身为Vanessa的服装",
+    "description": "变身为Vanessa的服装",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_deemo_02",
+    "resourceBoxId": 51129,
+    "startAt": 1781938800000,
+    "endAt": 1783007999000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
+  },
+  {
     "id": 60000,
     "seq": 1,
     "billingShopItemType": "live_mission_pass_lite",

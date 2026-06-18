@@ -112541,6 +112541,36 @@
     ]
   },
   {
+    "id": 8036,
+    "seq": 900010,
+    "groupId": 646,
+    "honorRarity": "low",
+    "name": "被遗忘的沙漏",
+    "assetbundleName": "honor_8036",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "完成[DEEMO×Cytus系列]联动纪念印章任务。"
+      }
+    ]
+  },
+  {
+    "id": 8037,
+    "seq": 900020,
+    "groupId": 647,
+    "honorRarity": "low",
+    "name": "#ΦωΦ",
+    "assetbundleName": "honor_8037",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "完成[DEEMO×Cytus系列]联动纪念印章任务。"
+      }
+    ]
+  },
+  {
     "id": 10001,
     "seq": 118525,
     "groupId": 10001,
@@ -119561,6 +119591,21 @@
         "level": 1,
         "bonus": 0,
         "description": "第五期心愿榜称号「TOP50000」"
+      }
+    ]
+  },
+  {
+    "id": 20082,
+    "seq": 2000047,
+    "groupId": 30052,
+    "honorRarity": "low",
+    "name": "粽享端午2026",
+    "assetbundleName": "honor_duanwu_26",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "参与端午节登录活动赠送"
       }
     ]
   },

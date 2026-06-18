@@ -6,9 +6,9 @@
     "requirement": 1,
     "sentence": "在服装商店制作1套稀有服装。",
     "rewards": [
-      [
-        5
-      ]
+      {
+        "resourceBoxId": 5
+      }
     ]
   },
   {
@@ -18,9 +18,9 @@
     "requirement": 1,
     "sentence": "提升1次成员的技能等级。",
     "rewards": [
-      [
-        5
-      ]
+      {
+        "resourceBoxId": 5
+      }
     ]
   },
   {
@@ -30,9 +30,9 @@
     "requirement": 1,
     "sentence": "提升1次成员的专家等级。",
     "rewards": [
-      [
-        5
-      ]
+      {
+        "resourceBoxId": 5
+      }
     ]
   },
   {
@@ -42,9 +42,9 @@
     "requirement": 1,
     "sentence": "在服装商店制作1套其他颜色的服装。",
     "rewards": [
-      [
-        5
-      ]
+      {
+        "resourceBoxId": 5
+      }
     ]
   },
   {
@@ -54,9 +54,9 @@
     "requirement": 1,
     "sentence": "将1名角色的角色收藏等级提升至3级。",
     "rewards": [
-      [
-        6
-      ]
+      {
+        "resourceBoxId": 6
+      }
     ]
   },
   {
@@ -66,9 +66,9 @@
     "requirement": 1,
     "sentence": "总计设置3个称号。",
     "rewards": [
-      [
-        5
-      ]
+      {
+        "resourceBoxId": 5
+      }
     ]
   },
   {
@@ -78,9 +78,9 @@
     "requirement": 1,
     "sentence": "选择Another Vocal完成1次演出。",
     "rewards": [
-      [
-        5
-      ]
+      {
+        "resourceBoxId": 5
+      }
     ]
   },
   {
@@ -90,9 +90,9 @@
     "requirement": 1,
     "sentence": "游玩1次挑战演出。",
     "rewards": [
-      [
-        5
-      ]
+      {
+        "resourceBoxId": 5
+      }
     ]
   },
   {
@@ -102,9 +102,9 @@
     "requirement": 1,
     "sentence": "在角色介绍中观看1名角色的自我介绍。",
     "rewards": [
-      [
-        5
-      ]
+      {
+        "resourceBoxId": 5
+      }
     ]
   },
   {
@@ -114,9 +114,9 @@
     "requirement": 1,
     "sentence": "观看1篇成员的卡牌剧情[上篇]。",
     "rewards": [
-      [
-        5
-      ]
+      {
+        "resourceBoxId": 5
+      }
     ]
   },
   {
@@ -126,9 +126,9 @@
     "requirement": 1,
     "sentence": "观看1篇成员的卡牌剧情[下篇]。",
     "rewards": [
-      [
-        5
-      ]
+      {
+        "resourceBoxId": 5
+      }
     ]
   },
   {
@@ -138,9 +138,9 @@
     "requirement": 1,
     "sentence": "使用1次虚拟道具。",
     "rewards": [
-      [
-        5
-      ]
+      {
+        "resourceBoxId": 5
+      }
     ]
   },
   {
@@ -150,9 +150,9 @@
     "requirement": 1,
     "sentence": "兑换1次虚拟演唱会上虚拟形象的服装。",
     "rewards": [
-      [
-        5
-      ]
+      {
+        "resourceBoxId": 5
+      }
     ]
   },
   {
@@ -162,9 +162,9 @@
     "requirement": 1,
     "sentence": "参加1场虚拟演唱会。",
     "rewards": [
-      [
-        5
-      ]
+      {
+        "resourceBoxId": 5
+      }
     ]
   },
   {
@@ -174,9 +174,9 @@
     "requirement": 3,
     "sentence": "完成3次演出。",
     "rewards": [
-      [
-        13
-      ]
+      {
+        "resourceBoxId": 13
+      }
     ]
   },
   {
@@ -186,9 +186,9 @@
     "requirement": 8,
     "sentence": "完成8次演出。",
     "rewards": [
-      [
-        13
-      ]
+      {
+        "resourceBoxId": 13
+      }
     ]
   },
   {
@@ -198,9 +198,9 @@
     "requirement": 15,
     "sentence": "完成15次演出。",
     "rewards": [
-      [
-        13
-      ]
+      {
+        "resourceBoxId": 13
+      }
     ]
   },
   {
@@ -210,9 +210,9 @@
     "requirement": 25,
     "sentence": "完成25次演出。",
     "rewards": [
-      [
-        13
-      ]
+      {
+        "resourceBoxId": 13
+      }
     ]
   },
   {
@@ -222,9 +222,9 @@
     "requirement": 35,
     "sentence": "完成35次演出。",
     "rewards": [
-      [
-        13
-      ]
+      {
+        "resourceBoxId": 13
+      }
     ]
   },
   {
@@ -234,9 +234,9 @@
     "requirement": 45,
     "sentence": "完成45次演出。",
     "rewards": [
-      [
-        13
-      ]
+      {
+        "resourceBoxId": 13
+      }
     ]
   },
   {
@@ -246,9 +246,9 @@
     "requirement": 60,
     "sentence": "完成60次演出。",
     "rewards": [
-      [
-        13
-      ]
+      {
+        "resourceBoxId": 13
+      }
     ]
   },
   {
@@ -258,9 +258,9 @@
     "requirement": 75,
     "sentence": "完成75次演出。",
     "rewards": [
-      [
-        13
-      ]
+      {
+        "resourceBoxId": 13
+      }
     ]
   },
   {
@@ -270,9 +270,9 @@
     "requirement": 90,
     "sentence": "完成90次演出。",
     "rewards": [
-      [
-        13
-      ]
+      {
+        "resourceBoxId": 13
+      }
     ]
   },
   {
@@ -282,9 +282,9 @@
     "requirement": 110,
     "sentence": "完成110次演出。",
     "rewards": [
-      [
-        13
-      ]
+      {
+        "resourceBoxId": 13
+      }
     ]
   },
   {
@@ -294,9 +294,9 @@
     "requirement": 130,
     "sentence": "完成130次演出。",
     "rewards": [
-      [
-        13
-      ]
+      {
+        "resourceBoxId": 13
+      }
     ]
   },
   {
@@ -306,9 +306,9 @@
     "requirement": 150,
     "sentence": "完成150次演出。",
     "rewards": [
-      [
-        13
-      ]
+      {
+        "resourceBoxId": 13
+      }
     ]
   },
   {
@@ -318,9 +318,9 @@
     "requirement": 1,
     "sentence": "添加1名好友。",
     "rewards": [
-      [
-        5
-      ]
+      {
+        "resourceBoxId": 5
+      }
     ]
   },
   {
@@ -330,9 +330,9 @@
     "requirement": 1,
     "sentence": "进行1次好友分享吧。",
     "rewards": [
-      [
-        10000
-      ]
+      {
+        "resourceBoxId": 10000
+      }
     ]
   },
   {
@@ -342,9 +342,9 @@
     "requirement": 180,
     "sentence": "完成180次演出。",
     "rewards": [
-      [
-        900001
-      ]
+      {
+        "resourceBoxId": 900001
+      }
     ]
   },
   {
@@ -354,9 +354,9 @@
     "requirement": 210,
     "sentence": "完成210次演出。",
     "rewards": [
-      [
-        900002
-      ]
+      {
+        "resourceBoxId": 900002
+      }
     ]
   },
   {
@@ -366,9 +366,9 @@
     "requirement": 250,
     "sentence": "完成250次演出。",
     "rewards": [
-      [
-        900003
-      ]
+      {
+        "resourceBoxId": 900003
+      }
     ]
   },
   {
@@ -378,9 +378,9 @@
     "requirement": 300,
     "sentence": "完成300次演出。",
     "rewards": [
-      [
-        900004
-      ]
+      {
+        "resourceBoxId": 900004
+      }
     ]
   },
   {
@@ -390,9 +390,9 @@
     "requirement": 5,
     "sentence": "进行5次特训。",
     "rewards": [
-      [
-        900005
-      ]
+      {
+        "resourceBoxId": 900005
+      }
     ]
   },
   {
@@ -402,9 +402,9 @@
     "requirement": 10,
     "sentence": "进行10次特训。",
     "rewards": [
-      [
-        900006
-      ]
+      {
+        "resourceBoxId": 900006
+      }
     ]
   },
   {
@@ -414,9 +414,9 @@
     "requirement": 20,
     "sentence": "进行20次特训。",
     "rewards": [
-      [
-        900007
-      ]
+      {
+        "resourceBoxId": 900007
+      }
     ]
   },
   {
@@ -426,9 +426,9 @@
     "requirement": 30,
     "sentence": "进行30次特训。",
     "rewards": [
-      [
-        900008
-      ]
+      {
+        "resourceBoxId": 900008
+      }
     ]
   },
   {
@@ -438,9 +438,9 @@
     "requirement": 40,
     "sentence": "进行40次特训。",
     "rewards": [
-      [
-        900009
-      ]
+      {
+        "resourceBoxId": 900009
+      }
     ]
   },
   {
@@ -450,9 +450,9 @@
     "requirement": 50,
     "sentence": "进行50次特训。",
     "rewards": [
-      [
-        900010
-      ]
+      {
+        "resourceBoxId": 900010
+      }
     ]
   },
   {
@@ -462,9 +462,9 @@
     "requirement": 60,
     "sentence": "进行60次特训。",
     "rewards": [
-      [
-        900011
-      ]
+      {
+        "resourceBoxId": 900011
+      }
     ]
   },
   {
@@ -474,9 +474,9 @@
     "requirement": 70,
     "sentence": "进行70次特训。",
     "rewards": [
-      [
-        900012
-      ]
+      {
+        "resourceBoxId": 900012
+      }
     ]
   },
   {
@@ -486,9 +486,9 @@
     "requirement": 80,
     "sentence": "进行80次特训。",
     "rewards": [
-      [
-        900013
-      ]
+      {
+        "resourceBoxId": 900013
+      }
     ]
   },
   {
@@ -498,9 +498,9 @@
     "requirement": 90,
     "sentence": "进行90次特训。",
     "rewards": [
-      [
-        900014
-      ]
+      {
+        "resourceBoxId": 900014
+      }
     ]
   },
   {
@@ -510,9 +510,9 @@
     "requirement": 100,
     "sentence": "进行100次特训。",
     "rewards": [
-      [
-        900015
-      ]
+      {
+        "resourceBoxId": 900015
+      }
     ]
   },
   {
@@ -522,9 +522,9 @@
     "requirement": 50000,
     "sentence": "编成综合力大于50000的组合并进行1次任意类型的演出。",
     "rewards": [
-      [
-        900016
-      ]
+      {
+        "resourceBoxId": 900016
+      }
     ]
   },
   {
@@ -534,9 +534,9 @@
     "requirement": 90000,
     "sentence": "编成综合力大于90000的组合并进行1次任意类型的演出。",
     "rewards": [
-      [
-        900017
-      ]
+      {
+        "resourceBoxId": 900017
+      }
     ]
   },
   {
@@ -546,9 +546,9 @@
     "requirement": 120000,
     "sentence": "编成综合力大于120000的组合并进行1次任意类型的演出。",
     "rewards": [
-      [
-        900018
-      ]
+      {
+        "resourceBoxId": 900018
+      }
     ]
   },
   {
@@ -558,9 +558,9 @@
     "requirement": 150000,
     "sentence": "编成综合力大于150000的组合并进行1次任意类型的演出。",
     "rewards": [
-      [
-        900019
-      ]
+      {
+        "resourceBoxId": 900019
+      }
     ]
   },
   {
@@ -570,9 +570,9 @@
     "requirement": 180000,
     "sentence": "编成综合力大于180000的组合并进行1次任意类型的演出。",
     "rewards": [
-      [
-        900020
-      ]
+      {
+        "resourceBoxId": 900020
+      }
     ]
   },
   {
@@ -582,9 +582,9 @@
     "requirement": 200000,
     "sentence": "编成综合力大于200000的组合并进行1次任意类型的演出。",
     "rewards": [
-      [
-        900021
-      ]
+      {
+        "resourceBoxId": 900021
+      }
     ]
   },
   {
@@ -594,9 +594,9 @@
     "requirement": 220000,
     "sentence": "编成综合力大于220000的组合并进行1次任意类型的演出。",
     "rewards": [
-      [
-        900022
-      ]
+      {
+        "resourceBoxId": 900022
+      }
     ]
   },
   {
@@ -606,9 +606,9 @@
     "requirement": 240000,
     "sentence": "编成综合力大于240000的组合并进行1次任意类型的演出。",
     "rewards": [
-      [
-        900023
-      ]
+      {
+        "resourceBoxId": 900023
+      }
     ]
   },
   {
@@ -618,9 +618,9 @@
     "requirement": 260000,
     "sentence": "编成综合力大于260000的组合并进行1次任意类型的演出。",
     "rewards": [
-      [
-        900024
-      ]
+      {
+        "resourceBoxId": 900024
+      }
     ]
   },
   {
@@ -630,9 +630,9 @@
     "requirement": 280000,
     "sentence": "编成综合力大于280000的组合并进行1次任意类型的演出。",
     "rewards": [
-      [
-        900025
-      ]
+      {
+        "resourceBoxId": 900025
+      }
     ]
   },
   {
@@ -642,9 +642,9 @@
     "requirement": 250000,
     "sentence": "在任意类型的演出中个人得分超过250000分。",
     "rewards": [
-      [
-        900026
-      ]
+      {
+        "resourceBoxId": 900026
+      }
     ]
   },
   {
@@ -654,9 +654,9 @@
     "requirement": 500000,
     "sentence": "在任意类型的演出中个人得分超过500000分。",
     "rewards": [
-      [
-        900027
-      ]
+      {
+        "resourceBoxId": 900027
+      }
     ]
   },
   {
@@ -666,9 +666,9 @@
     "requirement": 750000,
     "sentence": "在任意类型的演出中个人得分超过750000分。",
     "rewards": [
-      [
-        900028
-      ]
+      {
+        "resourceBoxId": 900028
+      }
     ]
   },
   {
@@ -678,9 +678,9 @@
     "requirement": 1000000,
     "sentence": "在任意类型的演出中个人得分超过1000000分。",
     "rewards": [
-      [
-        900029
-      ]
+      {
+        "resourceBoxId": 900029
+      }
     ]
   },
   {
@@ -690,9 +690,9 @@
     "requirement": 1250000,
     "sentence": "在任意类型的演出中个人得分超过1250000分。",
     "rewards": [
-      [
-        900030
-      ]
+      {
+        "resourceBoxId": 900030
+      }
     ]
   },
   {
@@ -702,9 +702,9 @@
     "requirement": 1500000,
     "sentence": "在任意类型的演出中个人得分超过1500000分。",
     "rewards": [
-      [
-        900031
-      ]
+      {
+        "resourceBoxId": 900031
+      }
     ]
   },
   {
@@ -714,9 +714,9 @@
     "requirement": 1750000,
     "sentence": "在任意类型的演出中个人得分超过1750000分。",
     "rewards": [
-      [
-        900032
-      ]
+      {
+        "resourceBoxId": 900032
+      }
     ]
   },
   {
@@ -726,9 +726,9 @@
     "requirement": 2000000,
     "sentence": "在任意类型的演出中个人得分超过2000000分。",
     "rewards": [
-      [
-        900033
-      ]
+      {
+        "resourceBoxId": 900033
+      }
     ]
   },
   {
@@ -738,9 +738,9 @@
     "requirement": 2250000,
     "sentence": "在任意类型的演出中个人得分超过2250000分。",
     "rewards": [
-      [
-        900034
-      ]
+      {
+        "resourceBoxId": 900034
+      }
     ]
   },
   {
@@ -750,9 +750,9 @@
     "requirement": 2500000,
     "sentence": "在任意类型的演出中个人得分超过2500000分。",
     "rewards": [
-      [
-        900035
-      ]
+      {
+        "resourceBoxId": 900035
+      }
     ]
   }
 ]
