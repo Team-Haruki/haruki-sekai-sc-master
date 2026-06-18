@@ -1,35 +1,35 @@
 [
   {
-    "id": 1,
-    "cardSupplyType": "normal"
+    "cardSupplyType": "normal",
+    "id": 1
   },
   {
-    "id": 2,
-    "cardSupplyType": "birthday"
+    "cardSupplyType": "birthday",
+    "id": 2
   },
   {
-    "id": 3,
+    "assetbundleName": "label_select_timeLimited",
     "cardSupplyType": "term_limited",
-    "assetbundleName": "label_select_timeLimited"
+    "id": 3
   },
   {
-    "id": 4,
+    "assetbundleName": "label_select_colorfulfesLimited",
     "cardSupplyType": "colorful_festival_limited",
-    "assetbundleName": "label_select_colorfulfesLimited"
+    "id": 4
   },
   {
-    "id": 5,
+    "assetbundleName": "label_select_bloomfesLimited",
     "cardSupplyType": "bloom_festival_limited",
-    "assetbundleName": "label_select_bloomfesLimited"
+    "id": 5
   },
   {
-    "id": 6,
+    "assetbundleName": "label_select_uniteventLimited",
     "cardSupplyType": "unit_event_limited",
-    "assetbundleName": "label_select_uniteventLimited"
+    "id": 6
   },
   {
-    "id": 7,
+    "assetbundleName": "label_select_collabLimited",
     "cardSupplyType": "collaboration_limited",
-    "assetbundleName": "label_select_collabLimited"
+    "id": 7
   }
 ]

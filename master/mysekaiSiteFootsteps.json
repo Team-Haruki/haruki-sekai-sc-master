@@ -1,66 +1,66 @@
 [
   {
+    "blue": 0,
+    "green": 0,
     "id": 1,
     "red": 255,
-    "green": 0,
-    "blue": 0,
-    "walkCue": "soil",
-    "runCue": "soil"
+    "runCue": "soil",
+    "walkCue": "soil"
   },
   {
+    "blue": 255,
+    "green": 0,
     "id": 2,
     "red": 0,
-    "green": 0,
-    "blue": 255,
-    "walkCue": "grass",
-    "runCue": "grass"
+    "runCue": "grass",
+    "walkCue": "grass"
   },
   {
+    "blue": 0,
+    "green": 255,
     "id": 3,
     "red": 0,
-    "green": 255,
-    "blue": 0,
-    "walkCue": "default",
-    "runCue": "default"
+    "runCue": "default",
+    "walkCue": "default"
   },
   {
+    "blue": 0,
+    "green": 255,
     "id": 4,
     "red": 255,
-    "green": 255,
-    "blue": 0,
-    "walkCue": "water",
-    "runCue": "water"
+    "runCue": "water",
+    "walkCue": "water"
   },
   {
+    "blue": 255,
+    "green": 255,
     "id": 5,
     "red": 255,
-    "green": 255,
-    "blue": 255,
-    "walkCue": "mat",
-    "runCue": "mat"
+    "runCue": "mat",
+    "walkCue": "mat"
   },
   {
+    "blue": 255,
+    "green": 255,
     "id": 6,
     "red": 0,
-    "green": 255,
-    "blue": 255,
-    "walkCue": "wood",
-    "runCue": "wood"
+    "runCue": "wood",
+    "walkCue": "wood"
   },
   {
+    "blue": 255,
+    "green": 0,
     "id": 7,
     "red": 255,
-    "green": 0,
-    "blue": 255,
-    "walkCue": "stone",
-    "runCue": "stone"
+    "runCue": "stone",
+    "walkCue": "stone"
   },
   {
+    "blue": 255,
+    "green": 0,
     "id": 9,
     "red": 255,
-    "green": 0,
-    "blue": 255,
-    "walkCue": "stone",
-    "runCue": "stone"
+    "runCue": "stone",
+    "walkCue": "stone"
   }
 ]

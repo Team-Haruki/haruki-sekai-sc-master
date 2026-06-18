@@ -1,1262 +1,1262 @@
 [
   {
-    "id": 1,
     "areaId": 17,
-    "seq": 1,
-    "worldTreeType": "bud",
     "displayAssetbundleName": "bud_leo",
+    "id": 1,
     "releaseConditionId1": 1,
-    "releaseConditionId2": 1
+    "releaseConditionId2": 1,
+    "seq": 1,
+    "worldTreeType": "bud"
   },
   {
-    "id": 2,
     "areaId": 18,
-    "seq": 1,
-    "worldTreeType": "bud",
     "displayAssetbundleName": "bud_mmj",
+    "id": 2,
     "releaseConditionId1": 1,
-    "releaseConditionId2": 1
+    "releaseConditionId2": 1,
+    "seq": 1,
+    "worldTreeType": "bud"
   },
   {
-    "id": 3,
     "areaId": 19,
-    "seq": 1,
-    "worldTreeType": "bud",
     "displayAssetbundleName": "bud_vbs",
+    "id": 3,
     "releaseConditionId1": 1,
-    "releaseConditionId2": 1
+    "releaseConditionId2": 1,
+    "seq": 1,
+    "worldTreeType": "bud"
   },
   {
-    "id": 4,
     "areaId": 20,
-    "seq": 1,
-    "worldTreeType": "bud",
     "displayAssetbundleName": "bud_wnd",
+    "id": 4,
     "releaseConditionId1": 1,
-    "releaseConditionId2": 1
-  },
-  {
-    "id": 5,
-    "areaId": 21,
+    "releaseConditionId2": 1,
     "seq": 1,
-    "worldTreeType": "bud",
-    "displayAssetbundleName": "bud_nig",
-    "releaseConditionId1": 1,
-    "releaseConditionId2": 1
+    "worldTreeType": "bud"
   },
   {
-    "id": 6,
-    "areaId": 17,
-    "seq": 2,
-    "worldTreeType": "seedling",
-    "displayAssetbundleName": "seedling_leo",
-    "releaseConditionId1": 113908,
-    "releaseConditionId2": 116200,
-    "areaSpiritWorldTreeReactionLotteries": [
-      {
-        "id": 101,
-        "areaSpiritWorldTreeId": 6,
-        "flavorText": "随风摇曳着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 102,
-        "areaSpiritWorldTreeId": 6,
-        "flavorText": "静静伫立着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 103,
-        "areaSpiritWorldTreeId": 6,
-        "flavorText": "好像很精神",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 104,
-        "areaSpiritWorldTreeId": 6,
-        "flavorText": "能听到欢呼声",
-        "weight": 25,
-        "assetbundleName": "seedling_mmj",
-        "cueName": "SE_PLA_MOREMORE"
-      },
-      {
-        "id": 105,
-        "areaSpiritWorldTreeId": 6,
-        "flavorText": "能听到震撼的乐音",
-        "weight": 25,
-        "assetbundleName": "seedling_vbs",
-        "cueName": "SE_PLA_VIVIDBAD"
-      },
-      {
-        "id": 106,
-        "areaSpiritWorldTreeId": 6,
-        "flavorText": "能听到喧闹的声音",
-        "weight": 25,
-        "assetbundleName": "seedling_wnd",
-        "cueName": "SE_PLA_WONDERLANDS"
-      },
-      {
-        "id": 107,
-        "areaSpiritWorldTreeId": 6,
-        "flavorText": "能听到有些落寞的声音",
-        "weight": 25,
-        "assetbundleName": "seedling_nig",
-        "cueName": "SE_PLA_NIGHTCODE"
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "areaId": 18,
-    "seq": 2,
-    "worldTreeType": "seedling",
-    "displayAssetbundleName": "seedling_mmj",
-    "releaseConditionId1": 113908,
-    "releaseConditionId2": 116200,
-    "areaSpiritWorldTreeReactionLotteries": [
-      {
-        "id": 201,
-        "areaSpiritWorldTreeId": 7,
-        "flavorText": "随风摇曳着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 202,
-        "areaSpiritWorldTreeId": 7,
-        "flavorText": "静静伫立着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 203,
-        "areaSpiritWorldTreeId": 7,
-        "flavorText": "好像很精神",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 204,
-        "areaSpiritWorldTreeId": 7,
-        "flavorText": "能听到乐器的演奏声",
-        "weight": 25,
-        "assetbundleName": "seedling_leo",
-        "cueName": "SE_PLA_LEONEED"
-      },
-      {
-        "id": 205,
-        "areaSpiritWorldTreeId": 7,
-        "flavorText": "能听到震撼的乐音",
-        "weight": 25,
-        "assetbundleName": "seedling_vbs",
-        "cueName": "SE_PLA_VIVIDBAD"
-      },
-      {
-        "id": 206,
-        "areaSpiritWorldTreeId": 7,
-        "flavorText": "能听到喧闹的声音",
-        "weight": 25,
-        "assetbundleName": "seedling_wnd",
-        "cueName": "SE_PLA_WONDERLANDS"
-      },
-      {
-        "id": 207,
-        "areaSpiritWorldTreeId": 7,
-        "flavorText": "能听到有些落寞的声音",
-        "weight": 25,
-        "assetbundleName": "seedling_nig",
-        "cueName": "SE_PLA_NIGHTCODE"
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "areaId": 19,
-    "seq": 2,
-    "worldTreeType": "seedling",
-    "displayAssetbundleName": "seedling_vbs",
-    "releaseConditionId1": 113908,
-    "releaseConditionId2": 116200,
-    "areaSpiritWorldTreeReactionLotteries": [
-      {
-        "id": 301,
-        "areaSpiritWorldTreeId": 8,
-        "flavorText": "随风摇曳着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 302,
-        "areaSpiritWorldTreeId": 8,
-        "flavorText": "静静伫立着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 303,
-        "areaSpiritWorldTreeId": 8,
-        "flavorText": "好像很精神",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 304,
-        "areaSpiritWorldTreeId": 8,
-        "flavorText": "能听到乐器的演奏声",
-        "weight": 25,
-        "assetbundleName": "seedling_leo",
-        "cueName": "SE_PLA_LEONEED"
-      },
-      {
-        "id": 305,
-        "areaSpiritWorldTreeId": 8,
-        "flavorText": "能听到欢呼声",
-        "weight": 25,
-        "assetbundleName": "seedling_mmj",
-        "cueName": "SE_PLA_MOREMORE"
-      },
-      {
-        "id": 306,
-        "areaSpiritWorldTreeId": 8,
-        "flavorText": "能听到喧闹的声音",
-        "weight": 25,
-        "assetbundleName": "seedling_wnd",
-        "cueName": "SE_PLA_WONDERLANDS"
-      },
-      {
-        "id": 307,
-        "areaSpiritWorldTreeId": 8,
-        "flavorText": "能听到有些落寞的声音",
-        "weight": 25,
-        "assetbundleName": "seedling_nig",
-        "cueName": "SE_PLA_NIGHTCODE"
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "areaId": 20,
-    "seq": 2,
-    "worldTreeType": "seedling",
-    "displayAssetbundleName": "seedling_wnd",
-    "releaseConditionId1": 113908,
-    "releaseConditionId2": 116200,
-    "areaSpiritWorldTreeReactionLotteries": [
-      {
-        "id": 401,
-        "areaSpiritWorldTreeId": 9,
-        "flavorText": "随风摇曳着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 402,
-        "areaSpiritWorldTreeId": 9,
-        "flavorText": "静静伫立着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 403,
-        "areaSpiritWorldTreeId": 9,
-        "flavorText": "好像很精神",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 404,
-        "areaSpiritWorldTreeId": 9,
-        "flavorText": "能听到乐器的演奏声",
-        "weight": 25,
-        "assetbundleName": "seedling_leo",
-        "cueName": "SE_PLA_LEONEED"
-      },
-      {
-        "id": 405,
-        "areaSpiritWorldTreeId": 9,
-        "flavorText": "能听到欢呼声",
-        "weight": 25,
-        "assetbundleName": "seedling_mmj",
-        "cueName": "SE_PLA_MOREMORE"
-      },
-      {
-        "id": 406,
-        "areaSpiritWorldTreeId": 9,
-        "flavorText": "能听到震撼的乐音",
-        "weight": 25,
-        "assetbundleName": "seedling_vbs",
-        "cueName": "SE_PLA_VIVIDBAD"
-      },
-      {
-        "id": 407,
-        "areaSpiritWorldTreeId": 9,
-        "flavorText": "能听到有些落寞的声音",
-        "weight": 25,
-        "assetbundleName": "seedling_nig",
-        "cueName": "SE_PLA_NIGHTCODE"
-      }
-    ]
-  },
-  {
-    "id": 10,
     "areaId": 21,
-    "seq": 2,
-    "worldTreeType": "seedling",
-    "displayAssetbundleName": "seedling_nig",
-    "releaseConditionId1": 113908,
-    "releaseConditionId2": 116200,
-    "areaSpiritWorldTreeReactionLotteries": [
-      {
-        "id": 501,
-        "areaSpiritWorldTreeId": 10,
-        "flavorText": "随风摇曳着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 502,
-        "areaSpiritWorldTreeId": 10,
-        "flavorText": "静静伫立着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 503,
-        "areaSpiritWorldTreeId": 10,
-        "flavorText": "好像很精神",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 504,
-        "areaSpiritWorldTreeId": 10,
-        "flavorText": "能听到乐器的演奏声",
-        "weight": 25,
-        "assetbundleName": "seedling_leo",
-        "cueName": "SE_PLA_LEONEED"
-      },
-      {
-        "id": 505,
-        "areaSpiritWorldTreeId": 10,
-        "flavorText": "能听到欢呼声",
-        "weight": 25,
-        "assetbundleName": "seedling_mmj",
-        "cueName": "SE_PLA_MOREMORE"
-      },
-      {
-        "id": 506,
-        "areaSpiritWorldTreeId": 10,
-        "flavorText": "能听到震撼的乐音",
-        "weight": 25,
-        "assetbundleName": "seedling_vbs",
-        "cueName": "SE_PLA_VIVIDBAD"
-      },
-      {
-        "id": 507,
-        "areaSpiritWorldTreeId": 10,
-        "flavorText": "能听到喧闹的声音",
-        "weight": 25,
-        "assetbundleName": "seedling_wnd",
-        "cueName": "SE_PLA_WONDERLANDS"
-      }
-    ]
+    "displayAssetbundleName": "bud_nig",
+    "id": 5,
+    "releaseConditionId1": 1,
+    "releaseConditionId2": 1,
+    "seq": 1,
+    "worldTreeType": "bud"
   },
   {
-    "id": 11,
     "areaId": 17,
-    "seq": 3,
-    "worldTreeType": "sapling",
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "areaSpiritWorldTreeId": 6,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "随风摇曳着",
+        "id": 101,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 6,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "静静伫立着",
+        "id": 102,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 6,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "好像很精神",
+        "id": 103,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 6,
+        "assetbundleName": "seedling_mmj",
+        "cueName": "SE_PLA_MOREMORE",
+        "flavorText": "能听到欢呼声",
+        "id": 104,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 6,
+        "assetbundleName": "seedling_vbs",
+        "cueName": "SE_PLA_VIVIDBAD",
+        "flavorText": "能听到震撼的乐音",
+        "id": 105,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 6,
+        "assetbundleName": "seedling_wnd",
+        "cueName": "SE_PLA_WONDERLANDS",
+        "flavorText": "能听到喧闹的声音",
+        "id": 106,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 6,
+        "assetbundleName": "seedling_nig",
+        "cueName": "SE_PLA_NIGHTCODE",
+        "flavorText": "能听到有些落寞的声音",
+        "id": 107,
+        "weight": 25
+      }
+    ],
+    "displayAssetbundleName": "seedling_leo",
+    "id": 6,
+    "releaseConditionId1": 113908,
+    "releaseConditionId2": 116200,
+    "seq": 2,
+    "worldTreeType": "seedling"
+  },
+  {
+    "areaId": 18,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "areaSpiritWorldTreeId": 7,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "随风摇曳着",
+        "id": 201,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 7,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "静静伫立着",
+        "id": 202,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 7,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "好像很精神",
+        "id": 203,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 7,
+        "assetbundleName": "seedling_leo",
+        "cueName": "SE_PLA_LEONEED",
+        "flavorText": "能听到乐器的演奏声",
+        "id": 204,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 7,
+        "assetbundleName": "seedling_vbs",
+        "cueName": "SE_PLA_VIVIDBAD",
+        "flavorText": "能听到震撼的乐音",
+        "id": 205,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 7,
+        "assetbundleName": "seedling_wnd",
+        "cueName": "SE_PLA_WONDERLANDS",
+        "flavorText": "能听到喧闹的声音",
+        "id": 206,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 7,
+        "assetbundleName": "seedling_nig",
+        "cueName": "SE_PLA_NIGHTCODE",
+        "flavorText": "能听到有些落寞的声音",
+        "id": 207,
+        "weight": 25
+      }
+    ],
+    "displayAssetbundleName": "seedling_mmj",
+    "id": 7,
+    "releaseConditionId1": 113908,
+    "releaseConditionId2": 116200,
+    "seq": 2,
+    "worldTreeType": "seedling"
+  },
+  {
+    "areaId": 19,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "areaSpiritWorldTreeId": 8,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "随风摇曳着",
+        "id": 301,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 8,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "静静伫立着",
+        "id": 302,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 8,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "好像很精神",
+        "id": 303,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 8,
+        "assetbundleName": "seedling_leo",
+        "cueName": "SE_PLA_LEONEED",
+        "flavorText": "能听到乐器的演奏声",
+        "id": 304,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 8,
+        "assetbundleName": "seedling_mmj",
+        "cueName": "SE_PLA_MOREMORE",
+        "flavorText": "能听到欢呼声",
+        "id": 305,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 8,
+        "assetbundleName": "seedling_wnd",
+        "cueName": "SE_PLA_WONDERLANDS",
+        "flavorText": "能听到喧闹的声音",
+        "id": 306,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 8,
+        "assetbundleName": "seedling_nig",
+        "cueName": "SE_PLA_NIGHTCODE",
+        "flavorText": "能听到有些落寞的声音",
+        "id": 307,
+        "weight": 25
+      }
+    ],
+    "displayAssetbundleName": "seedling_vbs",
+    "id": 8,
+    "releaseConditionId1": 113908,
+    "releaseConditionId2": 116200,
+    "seq": 2,
+    "worldTreeType": "seedling"
+  },
+  {
+    "areaId": 20,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "areaSpiritWorldTreeId": 9,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "随风摇曳着",
+        "id": 401,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 9,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "静静伫立着",
+        "id": 402,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 9,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "好像很精神",
+        "id": 403,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 9,
+        "assetbundleName": "seedling_leo",
+        "cueName": "SE_PLA_LEONEED",
+        "flavorText": "能听到乐器的演奏声",
+        "id": 404,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 9,
+        "assetbundleName": "seedling_mmj",
+        "cueName": "SE_PLA_MOREMORE",
+        "flavorText": "能听到欢呼声",
+        "id": 405,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 9,
+        "assetbundleName": "seedling_vbs",
+        "cueName": "SE_PLA_VIVIDBAD",
+        "flavorText": "能听到震撼的乐音",
+        "id": 406,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 9,
+        "assetbundleName": "seedling_nig",
+        "cueName": "SE_PLA_NIGHTCODE",
+        "flavorText": "能听到有些落寞的声音",
+        "id": 407,
+        "weight": 25
+      }
+    ],
+    "displayAssetbundleName": "seedling_wnd",
+    "id": 9,
+    "releaseConditionId1": 113908,
+    "releaseConditionId2": 116200,
+    "seq": 2,
+    "worldTreeType": "seedling"
+  },
+  {
+    "areaId": 21,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "areaSpiritWorldTreeId": 10,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "随风摇曳着",
+        "id": 501,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 10,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "静静伫立着",
+        "id": 502,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 10,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "好像很精神",
+        "id": 503,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 10,
+        "assetbundleName": "seedling_leo",
+        "cueName": "SE_PLA_LEONEED",
+        "flavorText": "能听到乐器的演奏声",
+        "id": 504,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 10,
+        "assetbundleName": "seedling_mmj",
+        "cueName": "SE_PLA_MOREMORE",
+        "flavorText": "能听到欢呼声",
+        "id": 505,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 10,
+        "assetbundleName": "seedling_vbs",
+        "cueName": "SE_PLA_VIVIDBAD",
+        "flavorText": "能听到震撼的乐音",
+        "id": 506,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 10,
+        "assetbundleName": "seedling_wnd",
+        "cueName": "SE_PLA_WONDERLANDS",
+        "flavorText": "能听到喧闹的声音",
+        "id": 507,
+        "weight": 25
+      }
+    ],
+    "displayAssetbundleName": "seedling_nig",
+    "id": 10,
+    "releaseConditionId1": 113908,
+    "releaseConditionId2": 116200,
+    "seq": 2,
+    "worldTreeType": "seedling"
+  },
+  {
+    "areaId": 17,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "areaSpiritWorldTreeId": 11,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "随风摇曳着",
+        "id": 601,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 11,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "静静伫立着",
+        "id": 602,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 11,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "好像很精神",
+        "id": 603,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 11,
+        "assetbundleName": "sapling_mmj",
+        "cueName": "SE_PLA_MOREMORE",
+        "flavorText": "能听到欢呼声",
+        "id": 604,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 11,
+        "assetbundleName": "sapling_vbs",
+        "cueName": "SE_PLA_VIVIDBAD",
+        "flavorText": "能听到震撼的乐音",
+        "id": 605,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 11,
+        "assetbundleName": "sapling_wnd",
+        "cueName": "SE_PLA_WONDERLANDS",
+        "flavorText": "能听到喧闹的声音",
+        "id": 606,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 11,
+        "assetbundleName": "sapling_nig",
+        "cueName": "SE_PLA_NIGHTCODE",
+        "flavorText": "能听到有些落寞的声音",
+        "id": 607,
+        "weight": 25
+      }
+    ],
     "displayAssetbundleName": "sapling_leo",
+    "id": 11,
     "releaseConditionId1": 117005,
     "releaseConditionId2": 9999999,
-    "areaSpiritWorldTreeReactionLotteries": [
-      {
-        "id": 601,
-        "areaSpiritWorldTreeId": 11,
-        "flavorText": "随风摇曳着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 602,
-        "areaSpiritWorldTreeId": 11,
-        "flavorText": "静静伫立着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 603,
-        "areaSpiritWorldTreeId": 11,
-        "flavorText": "好像很精神",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 604,
-        "areaSpiritWorldTreeId": 11,
-        "flavorText": "能听到欢呼声",
-        "weight": 25,
-        "assetbundleName": "sapling_mmj",
-        "cueName": "SE_PLA_MOREMORE"
-      },
-      {
-        "id": 605,
-        "areaSpiritWorldTreeId": 11,
-        "flavorText": "能听到震撼的乐音",
-        "weight": 25,
-        "assetbundleName": "sapling_vbs",
-        "cueName": "SE_PLA_VIVIDBAD"
-      },
-      {
-        "id": 606,
-        "areaSpiritWorldTreeId": 11,
-        "flavorText": "能听到喧闹的声音",
-        "weight": 25,
-        "assetbundleName": "sapling_wnd",
-        "cueName": "SE_PLA_WONDERLANDS"
-      },
-      {
-        "id": 607,
-        "areaSpiritWorldTreeId": 11,
-        "flavorText": "能听到有些落寞的声音",
-        "weight": 25,
-        "assetbundleName": "sapling_nig",
-        "cueName": "SE_PLA_NIGHTCODE"
-      }
-    ]
+    "seq": 3,
+    "worldTreeType": "sapling"
   },
   {
-    "id": 12,
     "areaId": 18,
-    "seq": 3,
-    "worldTreeType": "sapling",
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "areaSpiritWorldTreeId": 12,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "随风摇曳着",
+        "id": 701,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 12,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "静静伫立着",
+        "id": 702,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 12,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "好像很精神",
+        "id": 703,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 12,
+        "assetbundleName": "sapling_leo",
+        "cueName": "SE_PLA_LEONEED",
+        "flavorText": "能听到乐器的演奏声",
+        "id": 704,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 12,
+        "assetbundleName": "sapling_vbs",
+        "cueName": "SE_PLA_VIVIDBAD",
+        "flavorText": "能听到震撼的乐音",
+        "id": 705,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 12,
+        "assetbundleName": "sapling_wnd",
+        "cueName": "SE_PLA_WONDERLANDS",
+        "flavorText": "能听到喧闹的声音",
+        "id": 706,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 12,
+        "assetbundleName": "sapling_nig",
+        "cueName": "SE_PLA_NIGHTCODE",
+        "flavorText": "能听到有些落寞的声音",
+        "id": 707,
+        "weight": 25
+      }
+    ],
     "displayAssetbundleName": "sapling_mmj",
+    "id": 12,
     "releaseConditionId1": 117505,
     "releaseConditionId2": 9999999,
-    "areaSpiritWorldTreeReactionLotteries": [
-      {
-        "id": 701,
-        "areaSpiritWorldTreeId": 12,
-        "flavorText": "随风摇曳着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 702,
-        "areaSpiritWorldTreeId": 12,
-        "flavorText": "静静伫立着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 703,
-        "areaSpiritWorldTreeId": 12,
-        "flavorText": "好像很精神",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 704,
-        "areaSpiritWorldTreeId": 12,
-        "flavorText": "能听到乐器的演奏声",
-        "weight": 25,
-        "assetbundleName": "sapling_leo",
-        "cueName": "SE_PLA_LEONEED"
-      },
-      {
-        "id": 705,
-        "areaSpiritWorldTreeId": 12,
-        "flavorText": "能听到震撼的乐音",
-        "weight": 25,
-        "assetbundleName": "sapling_vbs",
-        "cueName": "SE_PLA_VIVIDBAD"
-      },
-      {
-        "id": 706,
-        "areaSpiritWorldTreeId": 12,
-        "flavorText": "能听到喧闹的声音",
-        "weight": 25,
-        "assetbundleName": "sapling_wnd",
-        "cueName": "SE_PLA_WONDERLANDS"
-      },
-      {
-        "id": 707,
-        "areaSpiritWorldTreeId": 12,
-        "flavorText": "能听到有些落寞的声音",
-        "weight": 25,
-        "assetbundleName": "sapling_nig",
-        "cueName": "SE_PLA_NIGHTCODE"
-      }
-    ]
+    "seq": 3,
+    "worldTreeType": "sapling"
   },
   {
-    "id": 13,
     "areaId": 19,
-    "seq": 3,
-    "worldTreeType": "sapling",
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "areaSpiritWorldTreeId": 13,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "随风摇曳着",
+        "id": 801,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 13,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "静静伫立着",
+        "id": 802,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 13,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "好像很精神",
+        "id": 803,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 13,
+        "assetbundleName": "sapling_leo",
+        "cueName": "SE_PLA_LEONEED",
+        "flavorText": "能听到乐器的演奏声",
+        "id": 804,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 13,
+        "assetbundleName": "sapling_mmj",
+        "cueName": "SE_PLA_MOREMORE",
+        "flavorText": "能听到欢呼声",
+        "id": 805,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 13,
+        "assetbundleName": "sapling_wnd",
+        "cueName": "SE_PLA_WONDERLANDS",
+        "flavorText": "能听到喧闹的声音",
+        "id": 806,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 13,
+        "assetbundleName": "sapling_nig",
+        "cueName": "SE_PLA_NIGHTCODE",
+        "flavorText": "能听到有些落寞的声音",
+        "id": 807,
+        "weight": 25
+      }
+    ],
     "displayAssetbundleName": "sapling_vbs",
+    "id": 13,
     "releaseConditionId1": 116206,
     "releaseConditionId2": 9999999,
-    "areaSpiritWorldTreeReactionLotteries": [
-      {
-        "id": 801,
-        "areaSpiritWorldTreeId": 13,
-        "flavorText": "随风摇曳着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 802,
-        "areaSpiritWorldTreeId": 13,
-        "flavorText": "静静伫立着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 803,
-        "areaSpiritWorldTreeId": 13,
-        "flavorText": "好像很精神",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 804,
-        "areaSpiritWorldTreeId": 13,
-        "flavorText": "能听到乐器的演奏声",
-        "weight": 25,
-        "assetbundleName": "sapling_leo",
-        "cueName": "SE_PLA_LEONEED"
-      },
-      {
-        "id": 805,
-        "areaSpiritWorldTreeId": 13,
-        "flavorText": "能听到欢呼声",
-        "weight": 25,
-        "assetbundleName": "sapling_mmj",
-        "cueName": "SE_PLA_MOREMORE"
-      },
-      {
-        "id": 806,
-        "areaSpiritWorldTreeId": 13,
-        "flavorText": "能听到喧闹的声音",
-        "weight": 25,
-        "assetbundleName": "sapling_wnd",
-        "cueName": "SE_PLA_WONDERLANDS"
-      },
-      {
-        "id": 807,
-        "areaSpiritWorldTreeId": 13,
-        "flavorText": "能听到有些落寞的声音",
-        "weight": 25,
-        "assetbundleName": "sapling_nig",
-        "cueName": "SE_PLA_NIGHTCODE"
-      }
-    ]
+    "seq": 3,
+    "worldTreeType": "sapling"
   },
   {
-    "id": 14,
     "areaId": 20,
-    "seq": 3,
-    "worldTreeType": "sapling",
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "areaSpiritWorldTreeId": 14,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "随风摇曳着",
+        "id": 901,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 14,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "静静伫立着",
+        "id": 902,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 14,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "好像很精神",
+        "id": 903,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 14,
+        "assetbundleName": "sapling_leo",
+        "cueName": "SE_PLA_LEONEED",
+        "flavorText": "能听到乐器的演奏声",
+        "id": 904,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 14,
+        "assetbundleName": "sapling_mmj",
+        "cueName": "SE_PLA_MOREMORE",
+        "flavorText": "能听到欢呼声",
+        "id": 905,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 14,
+        "assetbundleName": "sapling_vbs",
+        "cueName": "SE_PLA_VIVIDBAD",
+        "flavorText": "能听到震撼的乐音",
+        "id": 906,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 14,
+        "assetbundleName": "sapling_nig",
+        "cueName": "SE_PLA_NIGHTCODE",
+        "flavorText": "能听到有些落寞的声音",
+        "id": 907,
+        "weight": 25
+      }
+    ],
     "displayAssetbundleName": "sapling_wnd",
+    "id": 14,
     "releaseConditionId1": 116606,
     "releaseConditionId2": 9999999,
-    "areaSpiritWorldTreeReactionLotteries": [
-      {
-        "id": 901,
-        "areaSpiritWorldTreeId": 14,
-        "flavorText": "随风摇曳着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 902,
-        "areaSpiritWorldTreeId": 14,
-        "flavorText": "静静伫立着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 903,
-        "areaSpiritWorldTreeId": 14,
-        "flavorText": "好像很精神",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 904,
-        "areaSpiritWorldTreeId": 14,
-        "flavorText": "能听到乐器的演奏声",
-        "weight": 25,
-        "assetbundleName": "sapling_leo",
-        "cueName": "SE_PLA_LEONEED"
-      },
-      {
-        "id": 905,
-        "areaSpiritWorldTreeId": 14,
-        "flavorText": "能听到欢呼声",
-        "weight": 25,
-        "assetbundleName": "sapling_mmj",
-        "cueName": "SE_PLA_MOREMORE"
-      },
-      {
-        "id": 906,
-        "areaSpiritWorldTreeId": 14,
-        "flavorText": "能听到震撼的乐音",
-        "weight": 25,
-        "assetbundleName": "sapling_vbs",
-        "cueName": "SE_PLA_VIVIDBAD"
-      },
-      {
-        "id": 907,
-        "areaSpiritWorldTreeId": 14,
-        "flavorText": "能听到有些落寞的声音",
-        "weight": 25,
-        "assetbundleName": "sapling_nig",
-        "cueName": "SE_PLA_NIGHTCODE"
-      }
-    ]
+    "seq": 3,
+    "worldTreeType": "sapling"
   },
   {
-    "id": 15,
     "areaId": 21,
-    "seq": 3,
-    "worldTreeType": "sapling",
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "areaSpiritWorldTreeId": 15,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "随风摇曳着",
+        "id": 1001,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 15,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "静静伫立着",
+        "id": 1002,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 15,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA",
+        "flavorText": "好像很精神",
+        "id": 1003,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 15,
+        "assetbundleName": "sapling_leo",
+        "cueName": "SE_PLA_LEONEED",
+        "flavorText": "能听到乐器的演奏声",
+        "id": 1004,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 15,
+        "assetbundleName": "sapling_mmj",
+        "cueName": "SE_PLA_MOREMORE",
+        "flavorText": "能听到欢呼声",
+        "id": 1005,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 15,
+        "assetbundleName": "sapling_vbs",
+        "cueName": "SE_PLA_VIVIDBAD",
+        "flavorText": "能听到震撼的乐音",
+        "id": 1006,
+        "weight": 25
+      },
+      {
+        "areaSpiritWorldTreeId": 15,
+        "assetbundleName": "sapling_wnd",
+        "cueName": "SE_PLA_WONDERLANDS",
+        "flavorText": "能听到喧闹的声音",
+        "id": 1007,
+        "weight": 25
+      }
+    ],
     "displayAssetbundleName": "sapling_nig",
+    "id": 15,
     "releaseConditionId1": 116905,
     "releaseConditionId2": 9999999,
-    "areaSpiritWorldTreeReactionLotteries": [
-      {
-        "id": 1001,
-        "areaSpiritWorldTreeId": 15,
-        "flavorText": "随风摇曳着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 1002,
-        "areaSpiritWorldTreeId": 15,
-        "flavorText": "静静伫立着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 1003,
-        "areaSpiritWorldTreeId": 15,
-        "flavorText": "好像很精神",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA"
-      },
-      {
-        "id": 1004,
-        "areaSpiritWorldTreeId": 15,
-        "flavorText": "能听到乐器的演奏声",
-        "weight": 25,
-        "assetbundleName": "sapling_leo",
-        "cueName": "SE_PLA_LEONEED"
-      },
-      {
-        "id": 1005,
-        "areaSpiritWorldTreeId": 15,
-        "flavorText": "能听到欢呼声",
-        "weight": 25,
-        "assetbundleName": "sapling_mmj",
-        "cueName": "SE_PLA_MOREMORE"
-      },
-      {
-        "id": 1006,
-        "areaSpiritWorldTreeId": 15,
-        "flavorText": "能听到震撼的乐音",
-        "weight": 25,
-        "assetbundleName": "sapling_vbs",
-        "cueName": "SE_PLA_VIVIDBAD"
-      },
-      {
-        "id": 1007,
-        "areaSpiritWorldTreeId": 15,
-        "flavorText": "能听到喧闹的声音",
-        "weight": 25,
-        "assetbundleName": "sapling_wnd",
-        "cueName": "SE_PLA_WONDERLANDS"
-      }
-    ]
+    "seq": 3,
+    "worldTreeType": "sapling"
   },
   {
-    "id": 16,
     "areaId": 17,
-    "seq": 4,
-    "worldTreeType": "sapling_before",
-    "displayAssetbundleName": "sapling_leo",
-    "releaseConditionId1": 117808,
-    "releaseConditionId2": 117809,
     "areaSpiritWorldTreeReactionLotteries": [
       {
-        "id": 1101,
         "areaSpiritWorldTreeId": 16,
-        "flavorText": "散发着神奇的光芒",
-        "weight": 1,
         "assetbundleName": "sapling",
-        "cueName": "SE_PLA_02"
+        "cueName": "SE_PLA_02",
+        "flavorText": "散发着神奇的光芒",
+        "id": 1101,
+        "weight": 1
       }
-    ]
-  },
-  {
-    "id": 17,
-    "areaId": 18,
-    "seq": 4,
-    "worldTreeType": "sapling_before",
-    "displayAssetbundleName": "sapling_mmj",
+    ],
+    "displayAssetbundleName": "sapling_leo",
+    "id": 16,
     "releaseConditionId1": 117808,
     "releaseConditionId2": 117809,
+    "seq": 4,
+    "worldTreeType": "sapling_before"
+  },
+  {
+    "areaId": 18,
     "areaSpiritWorldTreeReactionLotteries": [
       {
-        "id": 1102,
         "areaSpiritWorldTreeId": 17,
-        "flavorText": "散发着神奇的光芒",
-        "weight": 1,
         "assetbundleName": "sapling",
-        "cueName": "SE_PLA_02"
+        "cueName": "SE_PLA_02",
+        "flavorText": "散发着神奇的光芒",
+        "id": 1102,
+        "weight": 1
       }
-    ]
-  },
-  {
-    "id": 18,
-    "areaId": 19,
-    "seq": 4,
-    "worldTreeType": "sapling_before",
-    "displayAssetbundleName": "sapling_vbs",
+    ],
+    "displayAssetbundleName": "sapling_mmj",
+    "id": 17,
     "releaseConditionId1": 117808,
     "releaseConditionId2": 117809,
+    "seq": 4,
+    "worldTreeType": "sapling_before"
+  },
+  {
+    "areaId": 19,
     "areaSpiritWorldTreeReactionLotteries": [
       {
-        "id": 1103,
         "areaSpiritWorldTreeId": 18,
-        "flavorText": "散发着神奇的光芒",
-        "weight": 1,
         "assetbundleName": "sapling",
-        "cueName": "SE_PLA_02"
+        "cueName": "SE_PLA_02",
+        "flavorText": "散发着神奇的光芒",
+        "id": 1103,
+        "weight": 1
       }
-    ]
-  },
-  {
-    "id": 19,
-    "areaId": 20,
-    "seq": 4,
-    "worldTreeType": "sapling_before",
-    "displayAssetbundleName": "sapling_wnd",
+    ],
+    "displayAssetbundleName": "sapling_vbs",
+    "id": 18,
     "releaseConditionId1": 117808,
     "releaseConditionId2": 117809,
+    "seq": 4,
+    "worldTreeType": "sapling_before"
+  },
+  {
+    "areaId": 20,
     "areaSpiritWorldTreeReactionLotteries": [
       {
-        "id": 1104,
         "areaSpiritWorldTreeId": 19,
-        "flavorText": "散发着神奇的光芒",
-        "weight": 1,
         "assetbundleName": "sapling",
-        "cueName": "SE_PLA_02"
+        "cueName": "SE_PLA_02",
+        "flavorText": "散发着神奇的光芒",
+        "id": 1104,
+        "weight": 1
       }
-    ]
-  },
-  {
-    "id": 20,
-    "areaId": 21,
-    "seq": 4,
-    "worldTreeType": "sapling_before",
-    "displayAssetbundleName": "sapling_nig",
+    ],
+    "displayAssetbundleName": "sapling_wnd",
+    "id": 19,
     "releaseConditionId1": 117808,
     "releaseConditionId2": 117809,
-    "areaSpiritWorldTreeReactionLotteries": [
-      {
-        "id": 1105,
-        "areaSpiritWorldTreeId": 20,
-        "flavorText": "散发着神奇的光芒",
-        "weight": 1,
-        "assetbundleName": "sapling",
-        "cueName": "SE_PLA_02"
-      }
-    ]
+    "seq": 4,
+    "worldTreeType": "sapling_before"
   },
   {
-    "id": 21,
-    "areaId": 17,
-    "seq": 5,
-    "worldTreeType": "sapling_after",
-    "displayAssetbundleName": "sapling_after_leo",
-    "releaseConditionId1": 117902,
-    "releaseConditionId2": 117903,
-    "areaSpiritWorldTreeReactionLotteries": [
-      {
-        "id": 1201,
-        "areaSpiritWorldTreeId": 21,
-        "flavorText": "娇小的花朵摇曳着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA_02"
-      },
-      {
-        "id": 1202,
-        "areaSpiritWorldTreeId": 21,
-        "flavorText": "静静伫立着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA_02"
-      },
-      {
-        "id": 1203,
-        "areaSpiritWorldTreeId": 21,
-        "flavorText": "娇小的花朵绽放着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA_02"
-      },
-      {
-        "id": 1204,
-        "areaSpiritWorldTreeId": 21,
-        "flavorText": "能听到欢呼声",
-        "weight": 20,
-        "assetbundleName": "sapling_after_mmj",
-        "cueName": "SE_PLA_MOREMORE"
-      },
-      {
-        "id": 1205,
-        "areaSpiritWorldTreeId": 21,
-        "flavorText": "能听到震撼的乐音",
-        "weight": 20,
-        "assetbundleName": "sapling_after_vbs",
-        "cueName": "SE_PLA_VIVIDBAD"
-      },
-      {
-        "id": 1206,
-        "areaSpiritWorldTreeId": 21,
-        "flavorText": "能听到喧闹的声音",
-        "weight": 20,
-        "assetbundleName": "sapling_after_wnd",
-        "cueName": "SE_PLA_WONDERLANDS"
-      },
-      {
-        "id": 1207,
-        "areaSpiritWorldTreeId": 21,
-        "flavorText": "能听到有些落寞的声音",
-        "weight": 20,
-        "assetbundleName": "sapling_after_nig",
-        "cueName": "SE_PLA_NIGHTCODE"
-      },
-      {
-        "id": 1208,
-        "areaSpiritWorldTreeId": 21,
-        "flavorText": "能听到\n温柔呵护般的歌声",
-        "weight": 20,
-        "assetbundleName": "wish_tree_ppr",
-        "cueName": "SE_PLA_VS"
-      }
-    ]
-  },
-  {
-    "id": 22,
-    "areaId": 18,
-    "seq": 5,
-    "worldTreeType": "sapling_after",
-    "displayAssetbundleName": "sapling_after_mmj",
-    "releaseConditionId1": 117902,
-    "releaseConditionId2": 117903,
-    "areaSpiritWorldTreeReactionLotteries": [
-      {
-        "id": 1301,
-        "areaSpiritWorldTreeId": 22,
-        "flavorText": "娇小的花朵摇曳着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA_02"
-      },
-      {
-        "id": 1302,
-        "areaSpiritWorldTreeId": 22,
-        "flavorText": "静静伫立着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA_02"
-      },
-      {
-        "id": 1303,
-        "areaSpiritWorldTreeId": 22,
-        "flavorText": "娇小的花朵绽放着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA_02"
-      },
-      {
-        "id": 1304,
-        "areaSpiritWorldTreeId": 22,
-        "flavorText": "能听到乐器的演奏声",
-        "weight": 20,
-        "assetbundleName": "sapling_after_leo",
-        "cueName": "SE_PLA_LEONEED"
-      },
-      {
-        "id": 1305,
-        "areaSpiritWorldTreeId": 22,
-        "flavorText": "能听到震撼的乐音",
-        "weight": 20,
-        "assetbundleName": "sapling_after_vbs",
-        "cueName": "SE_PLA_VIVIDBAD"
-      },
-      {
-        "id": 1306,
-        "areaSpiritWorldTreeId": 22,
-        "flavorText": "能听到喧闹的声音",
-        "weight": 20,
-        "assetbundleName": "sapling_after_wnd",
-        "cueName": "SE_PLA_WONDERLANDS"
-      },
-      {
-        "id": 1307,
-        "areaSpiritWorldTreeId": 22,
-        "flavorText": "能听到喧闹的声音",
-        "weight": 20,
-        "assetbundleName": "sapling_after_nig",
-        "cueName": "SE_PLA_NIGHTCODE"
-      },
-      {
-        "id": 1308,
-        "areaSpiritWorldTreeId": 22,
-        "flavorText": "能听到\n温柔呵护般的歌声",
-        "weight": 20,
-        "assetbundleName": "wish_tree_ppr",
-        "cueName": "SE_PLA_VS"
-      }
-    ]
-  },
-  {
-    "id": 23,
-    "areaId": 19,
-    "seq": 5,
-    "worldTreeType": "sapling_after",
-    "displayAssetbundleName": "sapling_after_vbs",
-    "releaseConditionId1": 117902,
-    "releaseConditionId2": 117903,
-    "areaSpiritWorldTreeReactionLotteries": [
-      {
-        "id": 1401,
-        "areaSpiritWorldTreeId": 23,
-        "flavorText": "娇小的花朵摇曳着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA_02"
-      },
-      {
-        "id": 1402,
-        "areaSpiritWorldTreeId": 23,
-        "flavorText": "静静伫立着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA_02"
-      },
-      {
-        "id": 1403,
-        "areaSpiritWorldTreeId": 23,
-        "flavorText": "娇小的花朵绽放着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA_02"
-      },
-      {
-        "id": 1404,
-        "areaSpiritWorldTreeId": 23,
-        "flavorText": "能听到乐器的演奏声",
-        "weight": 20,
-        "assetbundleName": "sapling_after_leo",
-        "cueName": "SE_PLA_LEONEED"
-      },
-      {
-        "id": 1405,
-        "areaSpiritWorldTreeId": 23,
-        "flavorText": "能听到欢呼声",
-        "weight": 20,
-        "assetbundleName": "sapling_after_mmj",
-        "cueName": "SE_PLA_MOREMORE"
-      },
-      {
-        "id": 1406,
-        "areaSpiritWorldTreeId": 23,
-        "flavorText": "能听到喧闹的声音",
-        "weight": 20,
-        "assetbundleName": "sapling_after_wnd",
-        "cueName": "SE_PLA_WONDERLANDS"
-      },
-      {
-        "id": 1407,
-        "areaSpiritWorldTreeId": 23,
-        "flavorText": "能听到有些落寞的声音",
-        "weight": 20,
-        "assetbundleName": "sapling_after_nig",
-        "cueName": "SE_PLA_NIGHTCODE"
-      },
-      {
-        "id": 1408,
-        "areaSpiritWorldTreeId": 23,
-        "flavorText": "能听到\n温柔呵护般的歌声",
-        "weight": 20,
-        "assetbundleName": "wish_tree_ppr",
-        "cueName": "SE_PLA_VS"
-      }
-    ]
-  },
-  {
-    "id": 24,
-    "areaId": 20,
-    "seq": 5,
-    "worldTreeType": "sapling_after",
-    "displayAssetbundleName": "sapling_after_wnd",
-    "releaseConditionId1": 117902,
-    "releaseConditionId2": 117903,
-    "areaSpiritWorldTreeReactionLotteries": [
-      {
-        "id": 1501,
-        "areaSpiritWorldTreeId": 24,
-        "flavorText": "娇小的花朵摇曳着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA_02"
-      },
-      {
-        "id": 1502,
-        "areaSpiritWorldTreeId": 24,
-        "flavorText": "静静伫立着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA_02"
-      },
-      {
-        "id": 1503,
-        "areaSpiritWorldTreeId": 24,
-        "flavorText": "娇小的花朵绽放着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA_02"
-      },
-      {
-        "id": 1504,
-        "areaSpiritWorldTreeId": 24,
-        "flavorText": "能听到乐器的演奏声",
-        "weight": 20,
-        "assetbundleName": "sapling_after_leo",
-        "cueName": "SE_PLA_LEONEED"
-      },
-      {
-        "id": 1505,
-        "areaSpiritWorldTreeId": 24,
-        "flavorText": "能听到欢呼声",
-        "weight": 20,
-        "assetbundleName": "sapling_after_mmj",
-        "cueName": "SE_PLA_MOREMORE"
-      },
-      {
-        "id": 1506,
-        "areaSpiritWorldTreeId": 24,
-        "flavorText": "能听到震撼的乐音",
-        "weight": 20,
-        "assetbundleName": "sapling_after_vbs",
-        "cueName": "SE_PLA_VIVIDBAD"
-      },
-      {
-        "id": 1507,
-        "areaSpiritWorldTreeId": 24,
-        "flavorText": "能听到有些落寞的声音",
-        "weight": 20,
-        "assetbundleName": "sapling_after_nig",
-        "cueName": "SE_PLA_NIGHTCODE"
-      },
-      {
-        "id": 1508,
-        "areaSpiritWorldTreeId": 24,
-        "flavorText": "能听到\n温柔呵护般的歌声",
-        "weight": 20,
-        "assetbundleName": "wish_tree_ppr",
-        "cueName": "SE_PLA_VS"
-      }
-    ]
-  },
-  {
-    "id": 25,
     "areaId": 21,
-    "seq": 5,
-    "worldTreeType": "sapling_after",
-    "displayAssetbundleName": "sapling_after_nig",
-    "releaseConditionId1": 117902,
-    "releaseConditionId2": 117903,
     "areaSpiritWorldTreeReactionLotteries": [
       {
-        "id": 1601,
-        "areaSpiritWorldTreeId": 25,
-        "flavorText": "娇小的花朵摇曳着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA_02"
-      },
-      {
-        "id": 1602,
-        "areaSpiritWorldTreeId": 25,
-        "flavorText": "静静伫立着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA_02"
-      },
-      {
-        "id": 1603,
-        "areaSpiritWorldTreeId": 25,
-        "flavorText": "娇小的花朵绽放着",
-        "weight": 300,
-        "assetbundleName": "none",
-        "cueName": "SE_PLA_02"
-      },
-      {
-        "id": 1604,
-        "areaSpiritWorldTreeId": 25,
-        "flavorText": "能听到乐器的演奏声",
-        "weight": 20,
-        "assetbundleName": "sapling_after_leo",
-        "cueName": "SE_PLA_LEONEED"
-      },
-      {
-        "id": 1605,
-        "areaSpiritWorldTreeId": 25,
-        "flavorText": "能听到欢呼声",
-        "weight": 20,
-        "assetbundleName": "sapling_after_mmj",
-        "cueName": "SE_PLA_MOREMORE"
-      },
-      {
-        "id": 1606,
-        "areaSpiritWorldTreeId": 25,
-        "flavorText": "能听到震撼的乐音",
-        "weight": 20,
-        "assetbundleName": "sapling_after_vbs",
-        "cueName": "SE_PLA_VIVIDBAD"
-      },
-      {
-        "id": 1607,
-        "areaSpiritWorldTreeId": 25,
-        "flavorText": "能听到喧闹的声音",
-        "weight": 20,
-        "assetbundleName": "sapling_after_wnd",
-        "cueName": "SE_PLA_WONDERLANDS"
-      },
-      {
-        "id": 1608,
-        "areaSpiritWorldTreeId": 25,
-        "flavorText": "能听到\n温柔呵护般的歌声",
-        "weight": 20,
-        "assetbundleName": "wish_tree_ppr",
-        "cueName": "SE_PLA_VS"
+        "areaSpiritWorldTreeId": 20,
+        "assetbundleName": "sapling",
+        "cueName": "SE_PLA_02",
+        "flavorText": "散发着神奇的光芒",
+        "id": 1105,
+        "weight": 1
       }
-    ]
+    ],
+    "displayAssetbundleName": "sapling_nig",
+    "id": 20,
+    "releaseConditionId1": 117808,
+    "releaseConditionId2": 117809,
+    "seq": 4,
+    "worldTreeType": "sapling_before"
   },
   {
-    "id": 26,
-    "areaId": 27,
-    "seq": 1,
-    "worldTreeType": "wish_tree",
-    "displayAssetbundleName": "wish_tree_ppr",
-    "releaseConditionId1": 117902,
-    "releaseConditionId2": 117903,
+    "areaId": 17,
     "areaSpiritWorldTreeReactionLotteries": [
       {
-        "id": 1701,
-        "areaSpiritWorldTreeId": 26,
-        "flavorText": "果实闪烁着点点光芒",
-        "weight": 300,
+        "areaSpiritWorldTreeId": 21,
         "assetbundleName": "none",
-        "cueName": "SE_PLA_02"
+        "cueName": "SE_PLA_02",
+        "flavorText": "娇小的花朵摇曳着",
+        "id": 1201,
+        "weight": 300
       },
       {
-        "id": 1702,
-        "areaSpiritWorldTreeId": 26,
-        "flavorText": "叶子轻轻摇曳着",
-        "weight": 300,
+        "areaSpiritWorldTreeId": 21,
         "assetbundleName": "none",
-        "cueName": "SE_PLA_02"
+        "cueName": "SE_PLA_02",
+        "flavorText": "静静伫立着",
+        "id": 1202,
+        "weight": 300
       },
       {
-        "id": 1703,
-        "areaSpiritWorldTreeId": 26,
-        "flavorText": "吹拂着惬意的风",
-        "weight": 300,
+        "areaSpiritWorldTreeId": 21,
         "assetbundleName": "none",
-        "cueName": "SE_PLA_02"
+        "cueName": "SE_PLA_02",
+        "flavorText": "娇小的花朵绽放着",
+        "id": 1203,
+        "weight": 300
       },
       {
-        "id": 1704,
-        "areaSpiritWorldTreeId": 26,
-        "flavorText": "能听到乐器的演奏声",
-        "weight": 20,
-        "assetbundleName": "wish_tree_leo",
-        "cueName": "SE_PLA_LEONEED"
-      },
-      {
-        "id": 1705,
-        "areaSpiritWorldTreeId": 26,
+        "areaSpiritWorldTreeId": 21,
+        "assetbundleName": "sapling_after_mmj",
+        "cueName": "SE_PLA_MOREMORE",
         "flavorText": "能听到欢呼声",
-        "weight": 20,
-        "assetbundleName": "wish_tree_mmj",
-        "cueName": "SE_PLA_MOREMORE"
+        "id": 1204,
+        "weight": 20
       },
       {
-        "id": 1706,
-        "areaSpiritWorldTreeId": 26,
+        "areaSpiritWorldTreeId": 21,
+        "assetbundleName": "sapling_after_vbs",
+        "cueName": "SE_PLA_VIVIDBAD",
         "flavorText": "能听到震撼的乐音",
-        "weight": 20,
-        "assetbundleName": "wish_tree_vbs",
-        "cueName": "SE_PLA_VIVIDBAD"
+        "id": 1205,
+        "weight": 20
       },
       {
-        "id": 1707,
-        "areaSpiritWorldTreeId": 26,
+        "areaSpiritWorldTreeId": 21,
+        "assetbundleName": "sapling_after_wnd",
+        "cueName": "SE_PLA_WONDERLANDS",
         "flavorText": "能听到喧闹的声音",
-        "weight": 20,
-        "assetbundleName": "wish_tree_wnd",
-        "cueName": "SE_PLA_WONDERLANDS"
+        "id": 1206,
+        "weight": 20
       },
       {
-        "id": 1708,
-        "areaSpiritWorldTreeId": 26,
+        "areaSpiritWorldTreeId": 21,
+        "assetbundleName": "sapling_after_nig",
+        "cueName": "SE_PLA_NIGHTCODE",
         "flavorText": "能听到有些落寞的声音",
-        "weight": 20,
-        "assetbundleName": "wish_tree_nig",
-        "cueName": "SE_PLA_NIGHTCODE"
+        "id": 1207,
+        "weight": 20
+      },
+      {
+        "areaSpiritWorldTreeId": 21,
+        "assetbundleName": "wish_tree_ppr",
+        "cueName": "SE_PLA_VS",
+        "flavorText": "能听到\n温柔呵护般的歌声",
+        "id": 1208,
+        "weight": 20
       }
-    ]
+    ],
+    "displayAssetbundleName": "sapling_after_leo",
+    "id": 21,
+    "releaseConditionId1": 117902,
+    "releaseConditionId2": 117903,
+    "seq": 5,
+    "worldTreeType": "sapling_after"
+  },
+  {
+    "areaId": 18,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "areaSpiritWorldTreeId": 22,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02",
+        "flavorText": "娇小的花朵摇曳着",
+        "id": 1301,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 22,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02",
+        "flavorText": "静静伫立着",
+        "id": 1302,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 22,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02",
+        "flavorText": "娇小的花朵绽放着",
+        "id": 1303,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 22,
+        "assetbundleName": "sapling_after_leo",
+        "cueName": "SE_PLA_LEONEED",
+        "flavorText": "能听到乐器的演奏声",
+        "id": 1304,
+        "weight": 20
+      },
+      {
+        "areaSpiritWorldTreeId": 22,
+        "assetbundleName": "sapling_after_vbs",
+        "cueName": "SE_PLA_VIVIDBAD",
+        "flavorText": "能听到震撼的乐音",
+        "id": 1305,
+        "weight": 20
+      },
+      {
+        "areaSpiritWorldTreeId": 22,
+        "assetbundleName": "sapling_after_wnd",
+        "cueName": "SE_PLA_WONDERLANDS",
+        "flavorText": "能听到喧闹的声音",
+        "id": 1306,
+        "weight": 20
+      },
+      {
+        "areaSpiritWorldTreeId": 22,
+        "assetbundleName": "sapling_after_nig",
+        "cueName": "SE_PLA_NIGHTCODE",
+        "flavorText": "能听到喧闹的声音",
+        "id": 1307,
+        "weight": 20
+      },
+      {
+        "areaSpiritWorldTreeId": 22,
+        "assetbundleName": "wish_tree_ppr",
+        "cueName": "SE_PLA_VS",
+        "flavorText": "能听到\n温柔呵护般的歌声",
+        "id": 1308,
+        "weight": 20
+      }
+    ],
+    "displayAssetbundleName": "sapling_after_mmj",
+    "id": 22,
+    "releaseConditionId1": 117902,
+    "releaseConditionId2": 117903,
+    "seq": 5,
+    "worldTreeType": "sapling_after"
+  },
+  {
+    "areaId": 19,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "areaSpiritWorldTreeId": 23,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02",
+        "flavorText": "娇小的花朵摇曳着",
+        "id": 1401,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 23,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02",
+        "flavorText": "静静伫立着",
+        "id": 1402,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 23,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02",
+        "flavorText": "娇小的花朵绽放着",
+        "id": 1403,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 23,
+        "assetbundleName": "sapling_after_leo",
+        "cueName": "SE_PLA_LEONEED",
+        "flavorText": "能听到乐器的演奏声",
+        "id": 1404,
+        "weight": 20
+      },
+      {
+        "areaSpiritWorldTreeId": 23,
+        "assetbundleName": "sapling_after_mmj",
+        "cueName": "SE_PLA_MOREMORE",
+        "flavorText": "能听到欢呼声",
+        "id": 1405,
+        "weight": 20
+      },
+      {
+        "areaSpiritWorldTreeId": 23,
+        "assetbundleName": "sapling_after_wnd",
+        "cueName": "SE_PLA_WONDERLANDS",
+        "flavorText": "能听到喧闹的声音",
+        "id": 1406,
+        "weight": 20
+      },
+      {
+        "areaSpiritWorldTreeId": 23,
+        "assetbundleName": "sapling_after_nig",
+        "cueName": "SE_PLA_NIGHTCODE",
+        "flavorText": "能听到有些落寞的声音",
+        "id": 1407,
+        "weight": 20
+      },
+      {
+        "areaSpiritWorldTreeId": 23,
+        "assetbundleName": "wish_tree_ppr",
+        "cueName": "SE_PLA_VS",
+        "flavorText": "能听到\n温柔呵护般的歌声",
+        "id": 1408,
+        "weight": 20
+      }
+    ],
+    "displayAssetbundleName": "sapling_after_vbs",
+    "id": 23,
+    "releaseConditionId1": 117902,
+    "releaseConditionId2": 117903,
+    "seq": 5,
+    "worldTreeType": "sapling_after"
+  },
+  {
+    "areaId": 20,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "areaSpiritWorldTreeId": 24,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02",
+        "flavorText": "娇小的花朵摇曳着",
+        "id": 1501,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 24,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02",
+        "flavorText": "静静伫立着",
+        "id": 1502,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 24,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02",
+        "flavorText": "娇小的花朵绽放着",
+        "id": 1503,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 24,
+        "assetbundleName": "sapling_after_leo",
+        "cueName": "SE_PLA_LEONEED",
+        "flavorText": "能听到乐器的演奏声",
+        "id": 1504,
+        "weight": 20
+      },
+      {
+        "areaSpiritWorldTreeId": 24,
+        "assetbundleName": "sapling_after_mmj",
+        "cueName": "SE_PLA_MOREMORE",
+        "flavorText": "能听到欢呼声",
+        "id": 1505,
+        "weight": 20
+      },
+      {
+        "areaSpiritWorldTreeId": 24,
+        "assetbundleName": "sapling_after_vbs",
+        "cueName": "SE_PLA_VIVIDBAD",
+        "flavorText": "能听到震撼的乐音",
+        "id": 1506,
+        "weight": 20
+      },
+      {
+        "areaSpiritWorldTreeId": 24,
+        "assetbundleName": "sapling_after_nig",
+        "cueName": "SE_PLA_NIGHTCODE",
+        "flavorText": "能听到有些落寞的声音",
+        "id": 1507,
+        "weight": 20
+      },
+      {
+        "areaSpiritWorldTreeId": 24,
+        "assetbundleName": "wish_tree_ppr",
+        "cueName": "SE_PLA_VS",
+        "flavorText": "能听到\n温柔呵护般的歌声",
+        "id": 1508,
+        "weight": 20
+      }
+    ],
+    "displayAssetbundleName": "sapling_after_wnd",
+    "id": 24,
+    "releaseConditionId1": 117902,
+    "releaseConditionId2": 117903,
+    "seq": 5,
+    "worldTreeType": "sapling_after"
+  },
+  {
+    "areaId": 21,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "areaSpiritWorldTreeId": 25,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02",
+        "flavorText": "娇小的花朵摇曳着",
+        "id": 1601,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 25,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02",
+        "flavorText": "静静伫立着",
+        "id": 1602,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 25,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02",
+        "flavorText": "娇小的花朵绽放着",
+        "id": 1603,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 25,
+        "assetbundleName": "sapling_after_leo",
+        "cueName": "SE_PLA_LEONEED",
+        "flavorText": "能听到乐器的演奏声",
+        "id": 1604,
+        "weight": 20
+      },
+      {
+        "areaSpiritWorldTreeId": 25,
+        "assetbundleName": "sapling_after_mmj",
+        "cueName": "SE_PLA_MOREMORE",
+        "flavorText": "能听到欢呼声",
+        "id": 1605,
+        "weight": 20
+      },
+      {
+        "areaSpiritWorldTreeId": 25,
+        "assetbundleName": "sapling_after_vbs",
+        "cueName": "SE_PLA_VIVIDBAD",
+        "flavorText": "能听到震撼的乐音",
+        "id": 1606,
+        "weight": 20
+      },
+      {
+        "areaSpiritWorldTreeId": 25,
+        "assetbundleName": "sapling_after_wnd",
+        "cueName": "SE_PLA_WONDERLANDS",
+        "flavorText": "能听到喧闹的声音",
+        "id": 1607,
+        "weight": 20
+      },
+      {
+        "areaSpiritWorldTreeId": 25,
+        "assetbundleName": "wish_tree_ppr",
+        "cueName": "SE_PLA_VS",
+        "flavorText": "能听到\n温柔呵护般的歌声",
+        "id": 1608,
+        "weight": 20
+      }
+    ],
+    "displayAssetbundleName": "sapling_after_nig",
+    "id": 25,
+    "releaseConditionId1": 117902,
+    "releaseConditionId2": 117903,
+    "seq": 5,
+    "worldTreeType": "sapling_after"
+  },
+  {
+    "areaId": 27,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "areaSpiritWorldTreeId": 26,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02",
+        "flavorText": "果实闪烁着点点光芒",
+        "id": 1701,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 26,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02",
+        "flavorText": "叶子轻轻摇曳着",
+        "id": 1702,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 26,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02",
+        "flavorText": "吹拂着惬意的风",
+        "id": 1703,
+        "weight": 300
+      },
+      {
+        "areaSpiritWorldTreeId": 26,
+        "assetbundleName": "wish_tree_leo",
+        "cueName": "SE_PLA_LEONEED",
+        "flavorText": "能听到乐器的演奏声",
+        "id": 1704,
+        "weight": 20
+      },
+      {
+        "areaSpiritWorldTreeId": 26,
+        "assetbundleName": "wish_tree_mmj",
+        "cueName": "SE_PLA_MOREMORE",
+        "flavorText": "能听到欢呼声",
+        "id": 1705,
+        "weight": 20
+      },
+      {
+        "areaSpiritWorldTreeId": 26,
+        "assetbundleName": "wish_tree_vbs",
+        "cueName": "SE_PLA_VIVIDBAD",
+        "flavorText": "能听到震撼的乐音",
+        "id": 1706,
+        "weight": 20
+      },
+      {
+        "areaSpiritWorldTreeId": 26,
+        "assetbundleName": "wish_tree_wnd",
+        "cueName": "SE_PLA_WONDERLANDS",
+        "flavorText": "能听到喧闹的声音",
+        "id": 1707,
+        "weight": 20
+      },
+      {
+        "areaSpiritWorldTreeId": 26,
+        "assetbundleName": "wish_tree_nig",
+        "cueName": "SE_PLA_NIGHTCODE",
+        "flavorText": "能听到有些落寞的声音",
+        "id": 1708,
+        "weight": 20
+      }
+    ],
+    "displayAssetbundleName": "wish_tree_ppr",
+    "id": 26,
+    "releaseConditionId1": 117902,
+    "releaseConditionId2": 117903,
+    "seq": 1,
+    "worldTreeType": "wish_tree"
   }
 ]

@@ -1,38 +1,38 @@
 [
   {
+    "characterArchiveVoiceTagType": "live_cutin",
     "id": 1,
-    "seq": 10,
-    "characterArchiveVoiceTagType": "live_cutin",
-    "name": "互动"
+    "name": "互动",
+    "seq": 10
   },
   {
-    "id": 2,
-    "seq": 30,
     "characterArchiveVoiceTagType": "live_result",
-    "name": "结果"
+    "id": 2,
+    "name": "结果",
+    "seq": 30
   },
   {
-    "id": 3,
-    "seq": 40,
     "characterArchiveVoiceTagType": "birthday",
-    "name": "庆祝"
+    "id": 3,
+    "name": "庆祝",
+    "seq": 40
   },
   {
-    "id": 4,
-    "seq": 50,
     "characterArchiveVoiceTagType": "season",
-    "name": "季节活动"
+    "id": 4,
+    "name": "季节活动",
+    "seq": 50
   },
   {
-    "id": 5,
-    "seq": 60,
     "characterArchiveVoiceTagType": "normal",
-    "name": "普通"
+    "id": 5,
+    "name": "普通",
+    "seq": 60
   },
   {
-    "id": 6,
-    "seq": 20,
     "characterArchiveVoiceTagType": "live_cutin",
-    "name": "牵绊互动"
+    "id": 6,
+    "name": "牵绊互动",
+    "seq": 20
   }
 ]

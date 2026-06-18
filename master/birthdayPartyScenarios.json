@@ -1,38 +1,38 @@
 [
   {
+    "birthdayPartyId": 1,
     "id": 1,
-    "birthdayPartyId": 1,
-    "seq": 1,
-    "lua": "mysekai_talk_birthday2025_006_001"
+    "lua": "mysekai_talk_birthday2025_006_001",
+    "seq": 1
   },
   {
+    "birthdayPartyId": 1,
     "id": 2,
-    "birthdayPartyId": 1,
-    "seq": 2,
-    "lua": "mysekai_talk_birthday2025_006_002"
+    "lua": "mysekai_talk_birthday2025_006_002",
+    "seq": 2
   },
   {
+    "birthdayPartyId": 1,
     "id": 3,
-    "birthdayPartyId": 1,
-    "seq": 3,
-    "lua": "mysekai_talk_birthday2025_006_003"
+    "lua": "mysekai_talk_birthday2025_006_003",
+    "seq": 3
   },
   {
+    "birthdayPartyId": 2,
     "id": 4,
-    "birthdayPartyId": 2,
-    "seq": 1,
-    "lua": "mysekai_talk_birthday2025_003_001"
+    "lua": "mysekai_talk_birthday2025_003_001",
+    "seq": 1
   },
   {
+    "birthdayPartyId": 2,
     "id": 5,
-    "birthdayPartyId": 2,
-    "seq": 2,
-    "lua": "mysekai_talk_birthday2025_003_002"
+    "lua": "mysekai_talk_birthday2025_003_002",
+    "seq": 2
   },
   {
-    "id": 6,
     "birthdayPartyId": 2,
-    "seq": 3,
-    "lua": "mysekai_talk_birthday2025_003_003"
+    "id": 6,
+    "lua": "mysekai_talk_birthday2025_003_003",
+    "seq": 3
   }
 ]

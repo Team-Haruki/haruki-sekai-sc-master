@@ -3,68 +3,68 @@
     "cardRarityType": "rarity_1",
     "worldBloomSupportDeckCharacterBonuses": [
       {
+        "bonusRate": 5.5,
         "id": 10101,
-        "worldBloomSupportDeckCharacterType": "specific",
-        "bonusRate": 5.5
+        "worldBloomSupportDeckCharacterType": "specific"
       },
       {
+        "bonusRate": 0.5,
         "id": 10103,
-        "worldBloomSupportDeckCharacterType": "others",
-        "bonusRate": 0.5
+        "worldBloomSupportDeckCharacterType": "others"
       }
     ],
     "worldBloomSupportDeckMasterRankBonuses": [
       {
+        "bonusRate": 0.0,
         "id": 10101,
-        "masterRank": 0,
-        "bonusRate": 0.0
+        "masterRank": 0
       },
       {
+        "bonusRate": 0.10000000149011612,
         "id": 10102,
-        "masterRank": 1,
-        "bonusRate": 0.10000000149011612
+        "masterRank": 1
       },
       {
+        "bonusRate": 0.10000000149011612,
         "id": 10103,
-        "masterRank": 2,
-        "bonusRate": 0.10000000149011612
+        "masterRank": 2
       },
       {
+        "bonusRate": 0.20000000298023224,
         "id": 10104,
-        "masterRank": 3,
-        "bonusRate": 0.20000000298023224
+        "masterRank": 3
       },
       {
+        "bonusRate": 0.20000000298023224,
         "id": 10105,
-        "masterRank": 4,
-        "bonusRate": 0.20000000298023224
+        "masterRank": 4
       },
       {
+        "bonusRate": 0.30000001192092896,
         "id": 10106,
-        "masterRank": 5,
-        "bonusRate": 0.30000001192092896
+        "masterRank": 5
       }
     ],
     "worldBloomSupportDeckSkillLevelBonuses": [
       {
+        "bonusRate": 0.0,
         "id": 10101,
-        "skillLevel": 1,
-        "bonusRate": 0.0
+        "skillLevel": 1
       },
       {
+        "bonusRate": 0.05000000074505806,
         "id": 10102,
-        "skillLevel": 2,
-        "bonusRate": 0.05000000074505806
+        "skillLevel": 2
       },
       {
+        "bonusRate": 0.10000000149011612,
         "id": 10103,
-        "skillLevel": 3,
-        "bonusRate": 0.10000000149011612
+        "skillLevel": 3
       },
       {
+        "bonusRate": 0.30000001192092896,
         "id": 10104,
-        "skillLevel": 4,
-        "bonusRate": 0.30000001192092896
+        "skillLevel": 4
       }
     ]
   },
@@ -72,68 +72,68 @@
     "cardRarityType": "rarity_2",
     "worldBloomSupportDeckCharacterBonuses": [
       {
+        "bonusRate": 6.0,
         "id": 10201,
-        "worldBloomSupportDeckCharacterType": "specific",
-        "bonusRate": 6.0
+        "worldBloomSupportDeckCharacterType": "specific"
       },
       {
+        "bonusRate": 1.0,
         "id": 10203,
-        "worldBloomSupportDeckCharacterType": "others",
-        "bonusRate": 1.0
+        "worldBloomSupportDeckCharacterType": "others"
       }
     ],
     "worldBloomSupportDeckMasterRankBonuses": [
       {
+        "bonusRate": 0.0,
         "id": 10201,
-        "masterRank": 0,
-        "bonusRate": 0.0
+        "masterRank": 0
       },
       {
+        "bonusRate": 0.20000000298023224,
         "id": 10202,
-        "masterRank": 1,
-        "bonusRate": 0.20000000298023224
+        "masterRank": 1
       },
       {
+        "bonusRate": 0.20000000298023224,
         "id": 10203,
-        "masterRank": 2,
-        "bonusRate": 0.20000000298023224
+        "masterRank": 2
       },
       {
+        "bonusRate": 0.30000001192092896,
         "id": 10204,
-        "masterRank": 3,
-        "bonusRate": 0.30000001192092896
+        "masterRank": 3
       },
       {
+        "bonusRate": 0.4000000059604645,
         "id": 10205,
-        "masterRank": 4,
-        "bonusRate": 0.4000000059604645
+        "masterRank": 4
       },
       {
+        "bonusRate": 0.5,
         "id": 10206,
-        "masterRank": 5,
-        "bonusRate": 0.5
+        "masterRank": 5
       }
     ],
     "worldBloomSupportDeckSkillLevelBonuses": [
       {
+        "bonusRate": 0.0,
         "id": 10201,
-        "skillLevel": 1,
-        "bonusRate": 0.0
+        "skillLevel": 1
       },
       {
+        "bonusRate": 0.10000000149011612,
         "id": 10202,
-        "skillLevel": 2,
-        "bonusRate": 0.10000000149011612
+        "skillLevel": 2
       },
       {
+        "bonusRate": 0.20000000298023224,
         "id": 10203,
-        "skillLevel": 3,
-        "bonusRate": 0.20000000298023224
+        "skillLevel": 3
       },
       {
+        "bonusRate": 0.5,
         "id": 10204,
-        "skillLevel": 4,
-        "bonusRate": 0.5
+        "skillLevel": 4
       }
     ]
   },
@@ -141,68 +141,68 @@
     "cardRarityType": "rarity_3",
     "worldBloomSupportDeckCharacterBonuses": [
       {
+        "bonusRate": 7.0,
         "id": 10301,
-        "worldBloomSupportDeckCharacterType": "specific",
-        "bonusRate": 7.0
+        "worldBloomSupportDeckCharacterType": "specific"
       },
       {
+        "bonusRate": 2.0,
         "id": 10303,
-        "worldBloomSupportDeckCharacterType": "others",
-        "bonusRate": 2.0
+        "worldBloomSupportDeckCharacterType": "others"
       }
     ],
     "worldBloomSupportDeckMasterRankBonuses": [
       {
+        "bonusRate": 0.0,
         "id": 10301,
-        "masterRank": 0,
-        "bonusRate": 0.0
+        "masterRank": 0
       },
       {
+        "bonusRate": 0.30000001192092896,
         "id": 10302,
-        "masterRank": 1,
-        "bonusRate": 0.30000001192092896
+        "masterRank": 1
       },
       {
+        "bonusRate": 0.4000000059604645,
         "id": 10303,
-        "masterRank": 2,
-        "bonusRate": 0.4000000059604645
+        "masterRank": 2
       },
       {
+        "bonusRate": 0.6000000238418579,
         "id": 10304,
-        "masterRank": 3,
-        "bonusRate": 0.6000000238418579
+        "masterRank": 3
       },
       {
+        "bonusRate": 0.800000011920929,
         "id": 10305,
-        "masterRank": 4,
-        "bonusRate": 0.800000011920929
+        "masterRank": 4
       },
       {
+        "bonusRate": 1.0,
         "id": 10306,
-        "masterRank": 5,
-        "bonusRate": 1.0
+        "masterRank": 5
       }
     ],
     "worldBloomSupportDeckSkillLevelBonuses": [
       {
+        "bonusRate": 0.0,
         "id": 10301,
-        "skillLevel": 1,
-        "bonusRate": 0.0
+        "skillLevel": 1
       },
       {
+        "bonusRate": 0.15000000596046448,
         "id": 10302,
-        "skillLevel": 2,
-        "bonusRate": 0.15000000596046448
+        "skillLevel": 2
       },
       {
+        "bonusRate": 0.4000000059604645,
         "id": 10303,
-        "skillLevel": 3,
-        "bonusRate": 0.4000000059604645
+        "skillLevel": 3
       },
       {
+        "bonusRate": 1.0,
         "id": 10304,
-        "skillLevel": 4,
-        "bonusRate": 1.0
+        "skillLevel": 4
       }
     ]
   },
@@ -210,68 +210,68 @@
     "cardRarityType": "rarity_4",
     "worldBloomSupportDeckCharacterBonuses": [
       {
+        "bonusRate": 12.5,
         "id": 10401,
-        "worldBloomSupportDeckCharacterType": "specific",
-        "bonusRate": 12.5
+        "worldBloomSupportDeckCharacterType": "specific"
       },
       {
+        "bonusRate": 7.5,
         "id": 10403,
-        "worldBloomSupportDeckCharacterType": "others",
-        "bonusRate": 7.5
+        "worldBloomSupportDeckCharacterType": "others"
       }
     ],
     "worldBloomSupportDeckMasterRankBonuses": [
       {
+        "bonusRate": 0.0,
         "id": 10401,
-        "masterRank": 0,
-        "bonusRate": 0.0
+        "masterRank": 0
       },
       {
+        "bonusRate": 0.5,
         "id": 10402,
-        "masterRank": 1,
-        "bonusRate": 0.5
+        "masterRank": 1
       },
       {
+        "bonusRate": 1.0,
         "id": 10403,
-        "masterRank": 2,
-        "bonusRate": 1.0
+        "masterRank": 2
       },
       {
+        "bonusRate": 1.5,
         "id": 10404,
-        "masterRank": 3,
-        "bonusRate": 1.5
+        "masterRank": 3
       },
       {
+        "bonusRate": 2.0,
         "id": 10405,
-        "masterRank": 4,
-        "bonusRate": 2.0
+        "masterRank": 4
       },
       {
+        "bonusRate": 2.5,
         "id": 10406,
-        "masterRank": 5,
-        "bonusRate": 2.5
+        "masterRank": 5
       }
     ],
     "worldBloomSupportDeckSkillLevelBonuses": [
       {
+        "bonusRate": 0.0,
         "id": 10401,
-        "skillLevel": 1,
-        "bonusRate": 0.0
+        "skillLevel": 1
       },
       {
+        "bonusRate": 0.25,
         "id": 10402,
-        "skillLevel": 2,
-        "bonusRate": 0.25
+        "skillLevel": 2
       },
       {
+        "bonusRate": 1.0,
         "id": 10403,
-        "skillLevel": 3,
-        "bonusRate": 1.0
+        "skillLevel": 3
       },
       {
+        "bonusRate": 2.5,
         "id": 10404,
-        "skillLevel": 4,
-        "bonusRate": 2.5
+        "skillLevel": 4
       }
     ]
   },
@@ -279,68 +279,68 @@
     "cardRarityType": "rarity_birthday",
     "worldBloomSupportDeckCharacterBonuses": [
       {
+        "bonusRate": 10.0,
         "id": 10501,
-        "worldBloomSupportDeckCharacterType": "specific",
-        "bonusRate": 10.0
+        "worldBloomSupportDeckCharacterType": "specific"
       },
       {
+        "bonusRate": 5.0,
         "id": 10503,
-        "worldBloomSupportDeckCharacterType": "others",
-        "bonusRate": 5.0
+        "worldBloomSupportDeckCharacterType": "others"
       }
     ],
     "worldBloomSupportDeckMasterRankBonuses": [
       {
+        "bonusRate": 0.0,
         "id": 10501,
-        "masterRank": 0,
-        "bonusRate": 0.0
+        "masterRank": 0
       },
       {
+        "bonusRate": 0.4000000059604645,
         "id": 10502,
-        "masterRank": 1,
-        "bonusRate": 0.4000000059604645
+        "masterRank": 1
       },
       {
+        "bonusRate": 0.800000011920929,
         "id": 10503,
-        "masterRank": 2,
-        "bonusRate": 0.800000011920929
+        "masterRank": 2
       },
       {
+        "bonusRate": 1.2000000476837158,
         "id": 10504,
-        "masterRank": 3,
-        "bonusRate": 1.2000000476837158
+        "masterRank": 3
       },
       {
+        "bonusRate": 1.600000023841858,
         "id": 10505,
-        "masterRank": 4,
-        "bonusRate": 1.600000023841858
+        "masterRank": 4
       },
       {
+        "bonusRate": 2.0,
         "id": 10506,
-        "masterRank": 5,
-        "bonusRate": 2.0
+        "masterRank": 5
       }
     ],
     "worldBloomSupportDeckSkillLevelBonuses": [
       {
+        "bonusRate": 0.0,
         "id": 10501,
-        "skillLevel": 1,
-        "bonusRate": 0.0
+        "skillLevel": 1
       },
       {
+        "bonusRate": 0.20000000298023224,
         "id": 10502,
-        "skillLevel": 2,
-        "bonusRate": 0.20000000298023224
+        "skillLevel": 2
       },
       {
+        "bonusRate": 0.800000011920929,
         "id": 10503,
-        "skillLevel": 3,
-        "bonusRate": 0.800000011920929
+        "skillLevel": 3
       },
       {
+        "bonusRate": 2.0,
         "id": 10504,
-        "skillLevel": 4,
-        "bonusRate": 2.0
+        "skillLevel": 4
       }
     ]
   }

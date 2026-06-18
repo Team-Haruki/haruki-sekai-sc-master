@@ -1,42 +1,42 @@
 [
   {
+    "assetbundleName": "room1",
     "id": 1,
-    "seq": 1,
+    "matchingLogic": "random",
+    "multiLiveLobbyType": "normal",
     "name": "自由房间",
     "photonLobbyName": "publicFreeMultiLive",
-    "matchingLogic": "random",
-    "totalPower": 0,
-    "assetbundleName": "room1",
-    "multiLiveLobbyType": "normal"
+    "seq": 1,
+    "totalPower": 0
   },
   {
+    "assetbundleName": "room2",
     "id": 2,
-    "seq": 2,
+    "matchingLogic": "power",
+    "multiLiveLobbyType": "normal",
     "name": "高手房间",
     "photonLobbyName": "publicVeteranMultiLive_{SCALE_INDEX}",
-    "matchingLogic": "power",
-    "totalPower": 150000,
-    "assetbundleName": "room2",
-    "multiLiveLobbyType": "normal"
+    "seq": 2,
+    "totalPower": 150000
   },
   {
+    "assetbundleName": "room1",
     "id": 3,
-    "seq": 3,
+    "matchingLogic": "random",
+    "multiLiveLobbyType": "cheerful_carnival",
     "name": "自由匹配",
     "photonLobbyName": "publicFreeCheerfulParty",
-    "matchingLogic": "random",
-    "totalPower": 0,
-    "assetbundleName": "room1",
-    "multiLiveLobbyType": "cheerful_carnival"
+    "seq": 3,
+    "totalPower": 0
   },
   {
+    "assetbundleName": "room2",
     "id": 4,
-    "seq": 4,
+    "matchingLogic": "power",
+    "multiLiveLobbyType": "cheerful_carnival",
     "name": "高手匹配",
     "photonLobbyName": "publicVeteranCheerfulParty_{SCALE_INDEX}",
-    "matchingLogic": "power",
-    "totalPower": 150000,
-    "assetbundleName": "room2",
-    "multiLiveLobbyType": "cheerful_carnival"
+    "seq": 4,
+    "totalPower": 150000
   }
 ]

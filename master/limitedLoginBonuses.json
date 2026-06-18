@@ -1,4702 +1,4702 @@
 [
   {
-    "id": 33,
-    "startAt": 1777608000000,
-    "endAt": 1778860799000,
     "assetbundleName": "collaboration_akuno",
+    "endAt": 1778860799000,
+    "id": 33,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 84,
-        "limitedLoginBonusId": 33,
-        "day": 1,
-        "resourceBoxId": 56
+        "resourceBoxId": 56,
+        "limitedLoginBonusId": 33
       }
-    ]
+    ],
+    "startAt": 1777608000000
   },
   {
-    "id": 79,
-    "startAt": 1770436800000,
-    "endAt": 1771603199000,
     "assetbundleName": "sanrio_collab_2023",
+    "endAt": 1771603199000,
+    "id": 79,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 177,
-        "limitedLoginBonusId": 79,
-        "day": 1,
-        "resourceBoxId": 104
+        "resourceBoxId": 104,
+        "limitedLoginBonusId": 79
       }
-    ]
+    ],
+    "startAt": 1770436800000
   },
   {
-    "id": 96,
-    "startAt": 1758643200000,
-    "endAt": 1758729599000,
     "assetbundleName": "4th_anniversary_countdown_01",
+    "endAt": 1758729599000,
+    "id": 96,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 214,
-        "limitedLoginBonusId": 96,
-        "day": 1,
-        "resourceBoxId": 129
+        "resourceBoxId": 129,
+        "limitedLoginBonusId": 96
       }
-    ]
+    ],
+    "startAt": 1758643200000
   },
   {
-    "id": 97,
-    "startAt": 1758729600000,
-    "endAt": 1758815999000,
     "assetbundleName": "4th_anniversary_countdown_02",
+    "endAt": 1758815999000,
+    "id": 97,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 215,
-        "limitedLoginBonusId": 97,
-        "day": 1,
-        "resourceBoxId": 130
+        "resourceBoxId": 130,
+        "limitedLoginBonusId": 97
       }
-    ]
+    ],
+    "startAt": 1758729600000
   },
   {
-    "id": 98,
-    "startAt": 1758816000000,
-    "endAt": 1758902399000,
     "assetbundleName": "4th_anniversary_countdown_03",
+    "endAt": 1758902399000,
+    "id": 98,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 216,
-        "limitedLoginBonusId": 98,
-        "day": 1,
-        "resourceBoxId": 131
+        "resourceBoxId": 131,
+        "limitedLoginBonusId": 98
       }
-    ]
+    ],
+    "startAt": 1758816000000
   },
   {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1760299199000,
     "id": 99,
-    "startAt": 1758945600000,
-    "endAt": 1760299199000,
-    "assetbundleName": "0.5th_anniversary",
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 217,
-        "limitedLoginBonusId": 99,
-        "day": 1,
-        "resourceBoxId": 132
+        "resourceBoxId": 132,
+        "limitedLoginBonusId": 99
       },
       {
+        "day": 2,
         "id": 218,
-        "limitedLoginBonusId": 99,
-        "day": 2,
-        "resourceBoxId": 133
+        "resourceBoxId": 133,
+        "limitedLoginBonusId": 99
       },
       {
+        "day": 3,
         "id": 219,
-        "limitedLoginBonusId": 99,
-        "day": 3,
-        "resourceBoxId": 133
+        "resourceBoxId": 133,
+        "limitedLoginBonusId": 99
       },
       {
+        "day": 4,
         "id": 220,
-        "limitedLoginBonusId": 99,
-        "day": 4,
-        "resourceBoxId": 133
+        "resourceBoxId": 133,
+        "limitedLoginBonusId": 99
       },
       {
+        "day": 5,
         "id": 221,
-        "limitedLoginBonusId": 99,
-        "day": 5,
-        "resourceBoxId": 133
+        "resourceBoxId": 133,
+        "limitedLoginBonusId": 99
       },
       {
+        "day": 6,
         "id": 222,
-        "limitedLoginBonusId": 99,
-        "day": 6,
-        "resourceBoxId": 133
+        "resourceBoxId": 133,
+        "limitedLoginBonusId": 99
       },
       {
+        "day": 7,
         "id": 223,
-        "limitedLoginBonusId": 99,
-        "day": 7,
-        "resourceBoxId": 133
+        "resourceBoxId": 133,
+        "limitedLoginBonusId": 99
       }
-    ]
+    ],
+    "startAt": 1758945600000
   },
   {
-    "id": 100,
-    "startAt": 1758902400000,
-    "endAt": 1760371140000,
     "assetbundleName": "mysekai_musiccard",
+    "endAt": 1760371140000,
+    "id": 100,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 224,
-        "limitedLoginBonusId": 100,
-        "day": 1,
-        "resourceBoxId": 134
+        "resourceBoxId": 134,
+        "limitedLoginBonusId": 100
       }
-    ]
+    ],
+    "startAt": 1758902400000
   },
   {
-    "id": 105,
-    "startAt": 1761753600000,
+    "assetbundleName": "halloween_2024",
     "endAt": 1761839999000,
-    "assetbundleName": "halloween_2024",
+    "id": 105,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 229,
-        "limitedLoginBonusId": 105,
-        "day": 1,
-        "resourceBoxId": 141
+        "resourceBoxId": 141,
+        "limitedLoginBonusId": 105
       }
-    ]
+    ],
+    "startAt": 1761753600000
   },
   {
-    "id": 106,
-    "startAt": 1766505600000,
-    "endAt": 1766678399000,
     "assetbundleName": "christmas_2024",
+    "endAt": 1766678399000,
+    "id": 106,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 230,
-        "limitedLoginBonusId": 106,
-        "day": 1,
-        "resourceBoxId": 142
+        "resourceBoxId": 142,
+        "limitedLoginBonusId": 106
       }
-    ]
+    ],
+    "startAt": 1766505600000
   },
   {
-    "id": 107,
-    "startAt": 1766851200000,
-    "endAt": 1767110399000,
     "assetbundleName": "countdown_2025",
+    "endAt": 1767110399000,
+    "id": 107,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 231,
-        "limitedLoginBonusId": 107,
-        "day": 1,
-        "resourceBoxId": 143
+        "resourceBoxId": 143,
+        "limitedLoginBonusId": 107
       },
       {
+        "day": 2,
         "id": 232,
-        "limitedLoginBonusId": 107,
-        "day": 2,
-        "resourceBoxId": 144
+        "resourceBoxId": 144,
+        "limitedLoginBonusId": 107
       },
       {
+        "day": 3,
         "id": 233,
-        "limitedLoginBonusId": 107,
-        "day": 3,
-        "resourceBoxId": 145
+        "resourceBoxId": 145,
+        "limitedLoginBonusId": 107
       }
-    ]
+    ],
+    "startAt": 1766851200000
   },
   {
-    "id": 110,
-    "startAt": 1767153600000,
-    "endAt": 1768247999000,
     "assetbundleName": "newyear_2025",
+    "endAt": 1768247999000,
+    "id": 110,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 234,
-        "limitedLoginBonusId": 110,
-        "day": 1,
-        "resourceBoxId": 146
+        "resourceBoxId": 146,
+        "limitedLoginBonusId": 110
       },
       {
+        "day": 2,
         "id": 235,
-        "limitedLoginBonusId": 110,
-        "day": 2,
-        "resourceBoxId": 147
+        "resourceBoxId": 147,
+        "limitedLoginBonusId": 110
       },
       {
+        "day": 3,
         "id": 236,
-        "limitedLoginBonusId": 110,
-        "day": 3,
-        "resourceBoxId": 147
+        "resourceBoxId": 147,
+        "limitedLoginBonusId": 110
       },
       {
+        "day": 4,
         "id": 237,
-        "limitedLoginBonusId": 110,
-        "day": 4,
-        "resourceBoxId": 147
+        "resourceBoxId": 147,
+        "limitedLoginBonusId": 110
       },
       {
+        "day": 5,
         "id": 238,
-        "limitedLoginBonusId": 110,
-        "day": 5,
-        "resourceBoxId": 147
+        "resourceBoxId": 147,
+        "limitedLoginBonusId": 110
       },
       {
+        "day": 6,
         "id": 239,
-        "limitedLoginBonusId": 110,
-        "day": 6,
-        "resourceBoxId": 147
+        "resourceBoxId": 147,
+        "limitedLoginBonusId": 110
       },
       {
+        "day": 7,
         "id": 240,
-        "limitedLoginBonusId": 110,
-        "day": 7,
-        "resourceBoxId": 147
+        "resourceBoxId": 147,
+        "limitedLoginBonusId": 110
       }
-    ]
+    ],
+    "startAt": 1767153600000
   },
   {
-    "id": 111,
-    "startAt": 1760803200000,
-    "endAt": 1760889599000,
     "assetbundleName": "movie_countdown_01",
+    "endAt": 1760889599000,
+    "id": 111,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 241,
-        "limitedLoginBonusId": 111,
-        "day": 1,
-        "resourceBoxId": 148
+        "resourceBoxId": 148,
+        "limitedLoginBonusId": 111
       }
-    ]
+    ],
+    "startAt": 1760803200000
   },
   {
-    "id": 112,
-    "startAt": 1760889600000,
-    "endAt": 1760975999000,
     "assetbundleName": "movie_countdown_02",
+    "endAt": 1760975999000,
+    "id": 112,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 242,
-        "limitedLoginBonusId": 112,
-        "day": 1,
-        "resourceBoxId": 149
+        "resourceBoxId": 149,
+        "limitedLoginBonusId": 112
       }
-    ]
+    ],
+    "startAt": 1760889600000
   },
   {
-    "id": 113,
-    "startAt": 1760976000000,
-    "endAt": 1761062399000,
     "assetbundleName": "movie_countdown_03",
+    "endAt": 1761062399000,
+    "id": 113,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 243,
-        "limitedLoginBonusId": 113,
-        "day": 1,
-        "resourceBoxId": 150
+        "resourceBoxId": 150,
+        "limitedLoginBonusId": 113
       }
-    ]
+    ],
+    "startAt": 1760976000000
   },
   {
-    "id": 114,
-    "startAt": 1761062400000,
-    "endAt": 1761148799000,
     "assetbundleName": "movie_countdown_04",
+    "endAt": 1761148799000,
+    "id": 114,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 244,
-        "limitedLoginBonusId": 114,
-        "day": 1,
-        "resourceBoxId": 151
+        "resourceBoxId": 151,
+        "limitedLoginBonusId": 114
       }
-    ]
+    ],
+    "startAt": 1761062400000
   },
   {
-    "id": 115,
-    "startAt": 1761148800000,
-    "endAt": 1761235199000,
     "assetbundleName": "movie_countdown_05",
+    "endAt": 1761235199000,
+    "id": 115,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 245,
-        "limitedLoginBonusId": 115,
-        "day": 1,
-        "resourceBoxId": 152
+        "resourceBoxId": 152,
+        "limitedLoginBonusId": 115
       }
-    ]
+    ],
+    "startAt": 1761148800000
   },
   {
-    "id": 116,
-    "startAt": 1761235200000,
-    "endAt": 1761321599000,
     "assetbundleName": "movie_countdown_06",
+    "endAt": 1761321599000,
+    "id": 116,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 246,
-        "limitedLoginBonusId": 116,
-        "day": 1,
-        "resourceBoxId": 153
+        "resourceBoxId": 153,
+        "limitedLoginBonusId": 116
       }
-    ]
+    ],
+    "startAt": 1761235200000
   },
   {
-    "id": 117,
-    "startAt": 1761321600000,
-    "endAt": 1763999940000,
     "assetbundleName": "cinema_logincp_2025",
+    "endAt": 1763999940000,
+    "id": 117,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 247,
-        "limitedLoginBonusId": 117,
-        "day": 1,
-        "resourceBoxId": 154
+        "resourceBoxId": 154,
+        "limitedLoginBonusId": 117
       }
-    ]
+    ],
+    "startAt": 1761321600000
   },
   {
-    "id": 118,
-    "startAt": 1770998400000,
-    "endAt": 1771171199000,
     "assetbundleName": "valentine_2025",
+    "endAt": 1771171199000,
+    "id": 118,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 248,
-        "limitedLoginBonusId": 118,
-        "day": 1,
-        "resourceBoxId": 155
+        "resourceBoxId": 155,
+        "limitedLoginBonusId": 118
       }
-    ]
+    ],
+    "startAt": 1770998400000
   },
   {
-    "id": 119,
-    "startAt": 1766127600000,
-    "endAt": 1767455999000,
     "assetbundleName": "ensemble_collab_2025",
+    "endAt": 1767455999000,
+    "id": 119,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 249,
-        "limitedLoginBonusId": 119,
-        "day": 1,
-        "resourceBoxId": 156
+        "resourceBoxId": 156,
+        "limitedLoginBonusId": 119
       },
       {
+        "day": 2,
         "id": 1379,
-        "limitedLoginBonusId": 119,
-        "day": 2,
-        "resourceBoxId": 2060
+        "resourceBoxId": 2060,
+        "limitedLoginBonusId": 119
       },
       {
+        "day": 3,
         "id": 1380,
-        "limitedLoginBonusId": 119,
-        "day": 3,
-        "resourceBoxId": 2107
+        "resourceBoxId": 2107,
+        "limitedLoginBonusId": 119
       },
       {
+        "day": 4,
         "id": 1381,
-        "limitedLoginBonusId": 119,
-        "day": 4,
-        "resourceBoxId": 2108
+        "resourceBoxId": 2108,
+        "limitedLoginBonusId": 119
       },
       {
+        "day": 5,
         "id": 1382,
-        "limitedLoginBonusId": 119,
-        "day": 5,
-        "resourceBoxId": 2109
+        "resourceBoxId": 2109,
+        "limitedLoginBonusId": 119
       },
       {
+        "day": 6,
         "id": 1383,
-        "limitedLoginBonusId": 119,
-        "day": 6,
-        "resourceBoxId": 2110
+        "resourceBoxId": 2110,
+        "limitedLoginBonusId": 119
       },
       {
+        "day": 7,
         "id": 1384,
-        "limitedLoginBonusId": 119,
-        "day": 7,
-        "resourceBoxId": 2037
+        "resourceBoxId": 2037,
+        "limitedLoginBonusId": 119
       }
-    ]
+    ],
+    "startAt": 1766127600000
   },
   {
-    "id": 120,
-    "startAt": 1772985600000,
-    "endAt": 1773071999000,
     "assetbundleName": "mikusday_2025",
+    "endAt": 1773071999000,
+    "id": 120,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 250,
-        "limitedLoginBonusId": 120,
-        "day": 1,
-        "resourceBoxId": 157
+        "resourceBoxId": 157,
+        "limitedLoginBonusId": 120
       }
-    ]
+    ],
+    "startAt": 1772985600000
   },
   {
-    "id": 121,
-    "startAt": 1773417600000,
-    "endAt": 1773590399000,
     "assetbundleName": "whiteday_2025",
+    "endAt": 1773590399000,
+    "id": 121,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 251,
-        "limitedLoginBonusId": 121,
-        "day": 1,
-        "resourceBoxId": 158
+        "resourceBoxId": 158,
+        "limitedLoginBonusId": 121
       }
-    ]
+    ],
+    "startAt": 1773417600000
   },
   {
-    "id": 125,
-    "startAt": 1774584000000,
-    "endAt": 1775768340000,
     "assetbundleName": "4-5th_anniversary",
+    "endAt": 1775768340000,
+    "id": 125,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 255,
-        "limitedLoginBonusId": 125,
-        "day": 1,
-        "resourceBoxId": 162
+        "resourceBoxId": 162,
+        "limitedLoginBonusId": 125
       },
       {
+        "day": 2,
         "id": 256,
-        "limitedLoginBonusId": 125,
-        "day": 2,
-        "resourceBoxId": 163
+        "resourceBoxId": 163,
+        "limitedLoginBonusId": 125
       },
       {
+        "day": 3,
         "id": 257,
-        "limitedLoginBonusId": 125,
-        "day": 3,
-        "resourceBoxId": 163
+        "resourceBoxId": 163,
+        "limitedLoginBonusId": 125
       },
       {
+        "day": 4,
         "id": 258,
-        "limitedLoginBonusId": 125,
-        "day": 4,
-        "resourceBoxId": 164
+        "resourceBoxId": 164,
+        "limitedLoginBonusId": 125
       },
       {
+        "day": 5,
         "id": 259,
-        "limitedLoginBonusId": 125,
-        "day": 5,
-        "resourceBoxId": 163
+        "resourceBoxId": 163,
+        "limitedLoginBonusId": 125
       },
       {
+        "day": 6,
         "id": 260,
-        "limitedLoginBonusId": 125,
-        "day": 6,
-        "resourceBoxId": 163
+        "resourceBoxId": 163,
+        "limitedLoginBonusId": 125
       },
       {
+        "day": 7,
         "id": 261,
-        "limitedLoginBonusId": 125,
-        "day": 7,
-        "resourceBoxId": 164
+        "resourceBoxId": 164,
+        "limitedLoginBonusId": 125
       }
-    ]
+    ],
+    "startAt": 1774584000000
   },
   {
-    "id": 131,
-    "startAt": 1754280000000,
-    "endAt": 1755100799000,
     "assetbundleName": "persona5royal_collab_2025",
+    "endAt": 1755100799000,
+    "id": 131,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 274,
-        "limitedLoginBonusId": 131,
-        "day": 1,
-        "resourceBoxId": 171
+        "resourceBoxId": 171,
+        "limitedLoginBonusId": 131
       }
-    ]
+    ],
+    "startAt": 1754280000000
   },
   {
+    "additionalAssetbundleName": "add_5th_praise_login_01",
+    "assetbundleName": "5th_praise_login_01_03",
+    "endAt": 1790798399000,
     "id": 137,
-    "startAt": 1790697600000,
-    "endAt": 1790798399000,
-    "assetbundleName": "5th_praise_login_01_03",
-    "additionalAssetbundleName": "add_5th_praise_login_01",
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 280,
-        "limitedLoginBonusId": 137,
-        "day": 1,
-        "resourceBoxId": 177
+        "resourceBoxId": 177,
+        "limitedLoginBonusId": 137
       }
-    ]
+    ],
+    "startAt": 1790697600000
   },
   {
+    "additionalAssetbundleName": "add_5th_praise_login_01",
+    "assetbundleName": "5th_praise_login_01_02",
+    "endAt": 1790798399000,
     "id": 138,
-    "startAt": 1790697600000,
-    "endAt": 1790798399000,
-    "assetbundleName": "5th_praise_login_01_02",
-    "additionalAssetbundleName": "add_5th_praise_login_01",
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 281,
-        "limitedLoginBonusId": 138,
-        "day": 1,
-        "resourceBoxId": 178
+        "resourceBoxId": 178,
+        "limitedLoginBonusId": 138
       }
-    ]
+    ],
+    "startAt": 1790697600000
   },
   {
+    "additionalAssetbundleName": "add_5th_praise_login_01",
+    "assetbundleName": "5th_praise_login_01_01",
+    "endAt": 1790798399000,
     "id": 139,
-    "startAt": 1790697600000,
-    "endAt": 1790798399000,
-    "assetbundleName": "5th_praise_login_01_01",
-    "additionalAssetbundleName": "add_5th_praise_login_01",
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 282,
-        "limitedLoginBonusId": 139,
-        "day": 1,
-        "resourceBoxId": 179
+        "resourceBoxId": 179,
+        "limitedLoginBonusId": 139
       }
-    ]
+    ],
+    "startAt": 1790697600000
   },
   {
-    "id": 140,
-    "startAt": 1790697600000,
+    "additionalAssetbundleName": "add_5th_praise_login_01",
+    "assetbundleName": "5th_praise_login_01_00",
     "endAt": 1790798399000,
-    "assetbundleName": "5th_praise_login_01_00",
-    "additionalAssetbundleName": "add_5th_praise_login_01",
+    "id": 140,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 283,
-        "limitedLoginBonusId": 140,
-        "day": 1,
-        "resourceBoxId": 180
+        "resourceBoxId": 180,
+        "limitedLoginBonusId": 140
       }
-    ]
+    ],
+    "startAt": 1790697600000
   },
   {
+    "additionalAssetbundleName": "add_5th_praise_login_02",
+    "assetbundleName": "5th_praise_login_02_03",
+    "endAt": 1790884799000,
     "id": 141,
-    "startAt": 1790798400000,
-    "endAt": 1790884799000,
-    "assetbundleName": "5th_praise_login_02_03",
-    "additionalAssetbundleName": "add_5th_praise_login_02",
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 284,
-        "limitedLoginBonusId": 141,
-        "day": 1,
-        "resourceBoxId": 181
+        "resourceBoxId": 181,
+        "limitedLoginBonusId": 141
       }
-    ]
+    ],
+    "startAt": 1790798400000
   },
   {
+    "additionalAssetbundleName": "add_5th_praise_login_02",
+    "assetbundleName": "5th_praise_login_02_02",
+    "endAt": 1790884799000,
     "id": 142,
-    "startAt": 1790798400000,
-    "endAt": 1790884799000,
-    "assetbundleName": "5th_praise_login_02_02",
-    "additionalAssetbundleName": "add_5th_praise_login_02",
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 285,
-        "limitedLoginBonusId": 142,
-        "day": 1,
-        "resourceBoxId": 182
+        "resourceBoxId": 182,
+        "limitedLoginBonusId": 142
       }
-    ]
+    ],
+    "startAt": 1790798400000
   },
   {
+    "additionalAssetbundleName": "add_5th_praise_login_02",
+    "assetbundleName": "5th_praise_login_02_01",
+    "endAt": 1790884799000,
     "id": 143,
-    "startAt": 1790798400000,
-    "endAt": 1790884799000,
-    "assetbundleName": "5th_praise_login_02_01",
-    "additionalAssetbundleName": "add_5th_praise_login_02",
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 286,
-        "limitedLoginBonusId": 143,
-        "day": 1,
-        "resourceBoxId": 183
+        "resourceBoxId": 183,
+        "limitedLoginBonusId": 143
       }
-    ]
+    ],
+    "startAt": 1790798400000
   },
   {
-    "id": 144,
-    "startAt": 1790798400000,
+    "additionalAssetbundleName": "add_5th_praise_login_02",
+    "assetbundleName": "5th_praise_login_02_00",
     "endAt": 1790884799000,
-    "assetbundleName": "5th_praise_login_02_00",
-    "additionalAssetbundleName": "add_5th_praise_login_02",
+    "id": 144,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 287,
-        "limitedLoginBonusId": 144,
-        "day": 1,
-        "resourceBoxId": 184
+        "resourceBoxId": 184,
+        "limitedLoginBonusId": 144
       }
-    ]
+    ],
+    "startAt": 1790798400000
   },
   {
+    "additionalAssetbundleName": "add_5th_praise_login_03",
+    "assetbundleName": "5th_praise_login_03_03",
+    "endAt": 1790971199000,
     "id": 145,
-    "startAt": 1790884800000,
-    "endAt": 1790971199000,
-    "assetbundleName": "5th_praise_login_03_03",
-    "additionalAssetbundleName": "add_5th_praise_login_03",
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 288,
-        "limitedLoginBonusId": 145,
-        "day": 1,
-        "resourceBoxId": 185
+        "resourceBoxId": 185,
+        "limitedLoginBonusId": 145
       }
-    ]
+    ],
+    "startAt": 1790884800000
   },
   {
+    "additionalAssetbundleName": "add_5th_praise_login_03",
+    "assetbundleName": "5th_praise_login_03_02",
+    "endAt": 1790971199000,
     "id": 146,
-    "startAt": 1790884800000,
-    "endAt": 1790971199000,
-    "assetbundleName": "5th_praise_login_03_02",
-    "additionalAssetbundleName": "add_5th_praise_login_03",
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 289,
-        "limitedLoginBonusId": 146,
-        "day": 1,
-        "resourceBoxId": 186
+        "resourceBoxId": 186,
+        "limitedLoginBonusId": 146
       }
-    ]
+    ],
+    "startAt": 1790884800000
   },
   {
+    "additionalAssetbundleName": "add_5th_praise_login_03",
+    "assetbundleName": "5th_praise_login_03_01",
+    "endAt": 1790971199000,
     "id": 147,
-    "startAt": 1790884800000,
-    "endAt": 1790971199000,
-    "assetbundleName": "5th_praise_login_03_01",
-    "additionalAssetbundleName": "add_5th_praise_login_03",
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 290,
-        "limitedLoginBonusId": 147,
-        "day": 1,
-        "resourceBoxId": 187
+        "resourceBoxId": 187,
+        "limitedLoginBonusId": 147
       }
-    ]
+    ],
+    "startAt": 1790884800000
   },
   {
-    "id": 148,
-    "startAt": 1790884800000,
+    "additionalAssetbundleName": "add_5th_praise_login_03",
+    "assetbundleName": "5th_praise_login_03_00",
     "endAt": 1790971199000,
-    "assetbundleName": "5th_praise_login_03_00",
-    "additionalAssetbundleName": "add_5th_praise_login_03",
+    "id": 148,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 291,
-        "limitedLoginBonusId": 148,
-        "day": 1,
-        "resourceBoxId": 188
+        "resourceBoxId": 188,
+        "limitedLoginBonusId": 148
       }
-    ]
+    ],
+    "startAt": 1790884800000
   },
   {
+    "additionalAssetbundleName": "add_5th_praise_login_04",
+    "assetbundleName": "5th_praise_login_04_03",
+    "endAt": 1791057599000,
     "id": 149,
-    "startAt": 1790971200000,
-    "endAt": 1791057599000,
-    "assetbundleName": "5th_praise_login_04_03",
-    "additionalAssetbundleName": "add_5th_praise_login_04",
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 292,
-        "limitedLoginBonusId": 149,
-        "day": 1,
-        "resourceBoxId": 189
+        "resourceBoxId": 189,
+        "limitedLoginBonusId": 149
       }
-    ]
+    ],
+    "startAt": 1790971200000
   },
   {
+    "additionalAssetbundleName": "add_5th_praise_login_04",
+    "assetbundleName": "5th_praise_login_04_02",
+    "endAt": 1791057599000,
     "id": 150,
-    "startAt": 1790971200000,
-    "endAt": 1791057599000,
-    "assetbundleName": "5th_praise_login_04_02",
-    "additionalAssetbundleName": "add_5th_praise_login_04",
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 293,
-        "limitedLoginBonusId": 150,
-        "day": 1,
-        "resourceBoxId": 190
+        "resourceBoxId": 190,
+        "limitedLoginBonusId": 150
       }
-    ]
+    ],
+    "startAt": 1790971200000
   },
   {
+    "additionalAssetbundleName": "add_5th_praise_login_04",
+    "assetbundleName": "5th_praise_login_04_01",
+    "endAt": 1791057599000,
     "id": 151,
-    "startAt": 1790971200000,
-    "endAt": 1791057599000,
-    "assetbundleName": "5th_praise_login_04_01",
-    "additionalAssetbundleName": "add_5th_praise_login_04",
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 294,
-        "limitedLoginBonusId": 151,
-        "day": 1,
-        "resourceBoxId": 191
+        "resourceBoxId": 191,
+        "limitedLoginBonusId": 151
       }
-    ]
+    ],
+    "startAt": 1790971200000
   },
   {
-    "id": 152,
-    "startAt": 1790971200000,
+    "additionalAssetbundleName": "add_5th_praise_login_04",
+    "assetbundleName": "5th_praise_login_04_00",
     "endAt": 1791057599000,
-    "assetbundleName": "5th_praise_login_04_00",
-    "additionalAssetbundleName": "add_5th_praise_login_04",
+    "id": 152,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 295,
-        "limitedLoginBonusId": 152,
-        "day": 1,
-        "resourceBoxId": 192
+        "resourceBoxId": 192,
+        "limitedLoginBonusId": 152
       }
-    ]
+    ],
+    "startAt": 1790971200000
   },
   {
+    "additionalAssetbundleName": "add_5th_praise_login_05",
+    "assetbundleName": "5th_praise_login_05_03",
+    "endAt": 1791143999000,
     "id": 153,
-    "startAt": 1791057600000,
-    "endAt": 1791143999000,
-    "assetbundleName": "5th_praise_login_05_03",
-    "additionalAssetbundleName": "add_5th_praise_login_05",
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 296,
-        "limitedLoginBonusId": 153,
-        "day": 1,
-        "resourceBoxId": 193
+        "resourceBoxId": 193,
+        "limitedLoginBonusId": 153
       }
-    ]
+    ],
+    "startAt": 1791057600000
   },
   {
+    "additionalAssetbundleName": "add_5th_praise_login_05",
+    "assetbundleName": "5th_praise_login_05_02",
+    "endAt": 1791143999000,
     "id": 154,
-    "startAt": 1791057600000,
-    "endAt": 1791143999000,
-    "assetbundleName": "5th_praise_login_05_02",
-    "additionalAssetbundleName": "add_5th_praise_login_05",
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 297,
-        "limitedLoginBonusId": 154,
-        "day": 1,
-        "resourceBoxId": 194
+        "resourceBoxId": 194,
+        "limitedLoginBonusId": 154
       }
-    ]
+    ],
+    "startAt": 1791057600000
   },
   {
+    "additionalAssetbundleName": "add_5th_praise_login_05",
+    "assetbundleName": "5th_praise_login_05_01",
+    "endAt": 1791143999000,
     "id": 155,
-    "startAt": 1791057600000,
-    "endAt": 1791143999000,
-    "assetbundleName": "5th_praise_login_05_01",
-    "additionalAssetbundleName": "add_5th_praise_login_05",
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 298,
-        "limitedLoginBonusId": 155,
-        "day": 1,
-        "resourceBoxId": 195
+        "resourceBoxId": 195,
+        "limitedLoginBonusId": 155
       }
-    ]
+    ],
+    "startAt": 1791057600000
   },
   {
-    "id": 156,
-    "startAt": 1791057600000,
+    "additionalAssetbundleName": "add_5th_praise_login_05",
+    "assetbundleName": "5th_praise_login_05_00",
     "endAt": 1791143999000,
-    "assetbundleName": "5th_praise_login_05_00",
-    "additionalAssetbundleName": "add_5th_praise_login_05",
+    "id": 156,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 299,
-        "limitedLoginBonusId": 156,
-        "day": 1,
-        "resourceBoxId": 196
+        "resourceBoxId": 196,
+        "limitedLoginBonusId": 156
       }
-    ]
+    ],
+    "startAt": 1791057600000
   },
   {
+    "additionalAssetbundleName": "add_5th_praise_login_06",
+    "assetbundleName": "5th_praise_login_06_03",
+    "endAt": 1791230399000,
     "id": 157,
-    "startAt": 1791144000000,
-    "endAt": 1791230399000,
-    "assetbundleName": "5th_praise_login_06_03",
-    "additionalAssetbundleName": "add_5th_praise_login_06",
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 300,
-        "limitedLoginBonusId": 157,
-        "day": 1,
-        "resourceBoxId": 197
+        "resourceBoxId": 197,
+        "limitedLoginBonusId": 157
       }
-    ]
+    ],
+    "startAt": 1791144000000
   },
   {
+    "additionalAssetbundleName": "add_5th_praise_login_06",
+    "assetbundleName": "5th_praise_login_06_02",
+    "endAt": 1791230399000,
     "id": 158,
-    "startAt": 1791144000000,
-    "endAt": 1791230399000,
-    "assetbundleName": "5th_praise_login_06_02",
-    "additionalAssetbundleName": "add_5th_praise_login_06",
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 301,
-        "limitedLoginBonusId": 158,
-        "day": 1,
-        "resourceBoxId": 198
+        "resourceBoxId": 198,
+        "limitedLoginBonusId": 158
       }
-    ]
+    ],
+    "startAt": 1791144000000
   },
   {
+    "additionalAssetbundleName": "add_5th_praise_login_06",
+    "assetbundleName": "5th_praise_login_06_01",
+    "endAt": 1791230399000,
     "id": 159,
-    "startAt": 1791144000000,
-    "endAt": 1791230399000,
-    "assetbundleName": "5th_praise_login_06_01",
-    "additionalAssetbundleName": "add_5th_praise_login_06",
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 302,
-        "limitedLoginBonusId": 159,
-        "day": 1,
-        "resourceBoxId": 199
+        "resourceBoxId": 199,
+        "limitedLoginBonusId": 159
       }
-    ]
+    ],
+    "startAt": 1791144000000
   },
   {
-    "id": 160,
-    "startAt": 1791144000000,
+    "additionalAssetbundleName": "add_5th_praise_login_06",
+    "assetbundleName": "5th_praise_login_06_00",
     "endAt": 1791230399000,
-    "assetbundleName": "5th_praise_login_06_00",
-    "additionalAssetbundleName": "add_5th_praise_login_06",
+    "id": 160,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 303,
-        "limitedLoginBonusId": 160,
-        "day": 1,
-        "resourceBoxId": 200
+        "resourceBoxId": 200,
+        "limitedLoginBonusId": 160
       }
-    ]
+    ],
+    "startAt": 1791144000000
   },
   {
+    "additionalAssetbundleName": "add_5th_praise_login_07",
+    "assetbundleName": "5th_praise_login_07_03",
+    "endAt": 1791316799000,
     "id": 161,
-    "startAt": 1791230400000,
-    "endAt": 1791316799000,
-    "assetbundleName": "5th_praise_login_07_03",
-    "additionalAssetbundleName": "add_5th_praise_login_07",
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 304,
-        "limitedLoginBonusId": 161,
-        "day": 1,
-        "resourceBoxId": 201
+        "resourceBoxId": 201,
+        "limitedLoginBonusId": 161
       }
-    ]
+    ],
+    "startAt": 1791230400000
   },
   {
+    "additionalAssetbundleName": "add_5th_praise_login_07",
+    "assetbundleName": "5th_praise_login_07_02",
+    "endAt": 1791316799000,
     "id": 162,
-    "startAt": 1791230400000,
-    "endAt": 1791316799000,
-    "assetbundleName": "5th_praise_login_07_02",
-    "additionalAssetbundleName": "add_5th_praise_login_07",
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 305,
-        "limitedLoginBonusId": 162,
-        "day": 1,
-        "resourceBoxId": 202
+        "resourceBoxId": 202,
+        "limitedLoginBonusId": 162
       }
-    ]
+    ],
+    "startAt": 1791230400000
   },
   {
+    "additionalAssetbundleName": "add_5th_praise_login_07",
+    "assetbundleName": "5th_praise_login_07_01",
+    "endAt": 1791316799000,
     "id": 163,
-    "startAt": 1791230400000,
-    "endAt": 1791316799000,
-    "assetbundleName": "5th_praise_login_07_01",
-    "additionalAssetbundleName": "add_5th_praise_login_07",
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 306,
-        "limitedLoginBonusId": 163,
-        "day": 1,
-        "resourceBoxId": 203
+        "resourceBoxId": 203,
+        "limitedLoginBonusId": 163
       }
-    ]
+    ],
+    "startAt": 1791230400000
   },
   {
-    "id": 164,
-    "startAt": 1791230400000,
+    "additionalAssetbundleName": "add_5th_praise_login_07",
+    "assetbundleName": "5th_praise_login_07_00",
     "endAt": 1791316799000,
-    "assetbundleName": "5th_praise_login_07_00",
-    "additionalAssetbundleName": "add_5th_praise_login_07",
+    "id": 164,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 307,
-        "limitedLoginBonusId": 164,
-        "day": 1,
-        "resourceBoxId": 204
+        "resourceBoxId": 204,
+        "limitedLoginBonusId": 164
       }
-    ]
+    ],
+    "startAt": 1791230400000
   },
   {
-    "id": 167,
-    "startAt": 1791316800000,
-    "endAt": 1791403199000,
+    "additionalAssetbundleName": "add_5th_praise_login_01",
     "assetbundleName": "5th_praise_login_01_03",
-    "additionalAssetbundleName": "add_5th_praise_login_01",
+    "endAt": 1791403199000,
+    "id": 167,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 316,
-        "limitedLoginBonusId": 167,
-        "day": 1,
-        "resourceBoxId": 209
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 167
       }
-    ]
+    ],
+    "startAt": 1791316800000
   },
   {
-    "id": 168,
-    "startAt": 1791316800000,
-    "endAt": 1791403199000,
+    "additionalAssetbundleName": "add_5th_praise_login_01",
     "assetbundleName": "5th_praise_login_01_02",
-    "additionalAssetbundleName": "add_5th_praise_login_01",
+    "endAt": 1791403199000,
+    "id": 168,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 317,
-        "limitedLoginBonusId": 168,
-        "day": 1,
-        "resourceBoxId": 209
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 168
       }
-    ]
+    ],
+    "startAt": 1791316800000
   },
   {
-    "id": 169,
-    "startAt": 1791316800000,
-    "endAt": 1791403199000,
+    "additionalAssetbundleName": "add_5th_praise_login_01",
     "assetbundleName": "5th_praise_login_01_01",
-    "additionalAssetbundleName": "add_5th_praise_login_01",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 318,
-        "limitedLoginBonusId": 169,
-        "day": 1,
-        "resourceBoxId": 209
-      }
-    ]
-  },
-  {
-    "id": 170,
-    "startAt": 1791316800000,
     "endAt": 1791403199000,
-    "assetbundleName": "5th_praise_login_01_00",
+    "id": 169,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 318,
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 169
+      }
+    ],
+    "startAt": 1791316800000
+  },
+  {
     "additionalAssetbundleName": "add_5th_praise_login_01",
+    "assetbundleName": "5th_praise_login_01_00",
+    "endAt": 1791403199000,
+    "id": 170,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 319,
-        "limitedLoginBonusId": 170,
-        "day": 1,
-        "resourceBoxId": 209
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 170
       }
-    ]
+    ],
+    "startAt": 1791316800000
   },
   {
-    "id": 171,
-    "startAt": 1791403200000,
-    "endAt": 1791489599000,
+    "additionalAssetbundleName": "add_5th_praise_login_02",
     "assetbundleName": "5th_praise_login_02_03",
-    "additionalAssetbundleName": "add_5th_praise_login_02",
+    "endAt": 1791489599000,
+    "id": 171,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 320,
-        "limitedLoginBonusId": 171,
-        "day": 1,
-        "resourceBoxId": 209
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 171
       }
-    ]
+    ],
+    "startAt": 1791403200000
   },
   {
-    "id": 172,
-    "startAt": 1791403200000,
-    "endAt": 1791489599000,
+    "additionalAssetbundleName": "add_5th_praise_login_02",
     "assetbundleName": "5th_praise_login_02_02",
-    "additionalAssetbundleName": "add_5th_praise_login_02",
+    "endAt": 1791489599000,
+    "id": 172,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 321,
-        "limitedLoginBonusId": 172,
-        "day": 1,
-        "resourceBoxId": 209
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 172
       }
-    ]
+    ],
+    "startAt": 1791403200000
   },
   {
-    "id": 173,
-    "startAt": 1791403200000,
-    "endAt": 1791489599000,
+    "additionalAssetbundleName": "add_5th_praise_login_02",
     "assetbundleName": "5th_praise_login_02_01",
-    "additionalAssetbundleName": "add_5th_praise_login_02",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 322,
-        "limitedLoginBonusId": 173,
-        "day": 1,
-        "resourceBoxId": 209
-      }
-    ]
-  },
-  {
-    "id": 174,
-    "startAt": 1791403200000,
     "endAt": 1791489599000,
-    "assetbundleName": "5th_praise_login_02_00",
+    "id": 173,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 322,
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 173
+      }
+    ],
+    "startAt": 1791403200000
+  },
+  {
     "additionalAssetbundleName": "add_5th_praise_login_02",
+    "assetbundleName": "5th_praise_login_02_00",
+    "endAt": 1791489599000,
+    "id": 174,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 323,
-        "limitedLoginBonusId": 174,
-        "day": 1,
-        "resourceBoxId": 209
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 174
       }
-    ]
+    ],
+    "startAt": 1791403200000
   },
   {
-    "id": 175,
-    "startAt": 1791489600000,
-    "endAt": 1791575999000,
+    "additionalAssetbundleName": "add_5th_praise_login_03",
     "assetbundleName": "5th_praise_login_03_03",
-    "additionalAssetbundleName": "add_5th_praise_login_03",
+    "endAt": 1791575999000,
+    "id": 175,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 324,
-        "limitedLoginBonusId": 175,
-        "day": 1,
-        "resourceBoxId": 209
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 175
       }
-    ]
+    ],
+    "startAt": 1791489600000
   },
   {
-    "id": 176,
-    "startAt": 1791489600000,
-    "endAt": 1791575999000,
+    "additionalAssetbundleName": "add_5th_praise_login_03",
     "assetbundleName": "5th_praise_login_03_02",
-    "additionalAssetbundleName": "add_5th_praise_login_03",
+    "endAt": 1791575999000,
+    "id": 176,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 325,
-        "limitedLoginBonusId": 176,
-        "day": 1,
-        "resourceBoxId": 209
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 176
       }
-    ]
+    ],
+    "startAt": 1791489600000
   },
   {
-    "id": 177,
-    "startAt": 1791489600000,
-    "endAt": 1791575999000,
+    "additionalAssetbundleName": "add_5th_praise_login_03",
     "assetbundleName": "5th_praise_login_03_01",
-    "additionalAssetbundleName": "add_5th_praise_login_03",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 326,
-        "limitedLoginBonusId": 177,
-        "day": 1,
-        "resourceBoxId": 209
-      }
-    ]
-  },
-  {
-    "id": 178,
-    "startAt": 1791489600000,
     "endAt": 1791575999000,
-    "assetbundleName": "5th_praise_login_03_00",
+    "id": 177,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 326,
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 177
+      }
+    ],
+    "startAt": 1791489600000
+  },
+  {
     "additionalAssetbundleName": "add_5th_praise_login_03",
+    "assetbundleName": "5th_praise_login_03_00",
+    "endAt": 1791575999000,
+    "id": 178,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 327,
-        "limitedLoginBonusId": 178,
-        "day": 1,
-        "resourceBoxId": 209
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 178
       }
-    ]
+    ],
+    "startAt": 1791489600000
   },
   {
-    "id": 179,
-    "startAt": 1791576000000,
-    "endAt": 1791662399000,
+    "additionalAssetbundleName": "add_5th_praise_login_04",
     "assetbundleName": "5th_praise_login_04_03",
-    "additionalAssetbundleName": "add_5th_praise_login_04",
+    "endAt": 1791662399000,
+    "id": 179,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 328,
-        "limitedLoginBonusId": 179,
-        "day": 1,
-        "resourceBoxId": 209
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 179
       }
-    ]
+    ],
+    "startAt": 1791576000000
   },
   {
-    "id": 180,
-    "startAt": 1791576000000,
-    "endAt": 1791662399000,
+    "additionalAssetbundleName": "add_5th_praise_login_04",
     "assetbundleName": "5th_praise_login_04_02",
-    "additionalAssetbundleName": "add_5th_praise_login_04",
+    "endAt": 1791662399000,
+    "id": 180,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 329,
-        "limitedLoginBonusId": 180,
-        "day": 1,
-        "resourceBoxId": 209
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 180
       }
-    ]
+    ],
+    "startAt": 1791576000000
   },
   {
-    "id": 181,
-    "startAt": 1791576000000,
-    "endAt": 1791662399000,
+    "additionalAssetbundleName": "add_5th_praise_login_04",
     "assetbundleName": "5th_praise_login_04_01",
-    "additionalAssetbundleName": "add_5th_praise_login_04",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 330,
-        "limitedLoginBonusId": 181,
-        "day": 1,
-        "resourceBoxId": 209
-      }
-    ]
-  },
-  {
-    "id": 182,
-    "startAt": 1791576000000,
     "endAt": 1791662399000,
-    "assetbundleName": "5th_praise_login_04_00",
+    "id": 181,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 330,
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 181
+      }
+    ],
+    "startAt": 1791576000000
+  },
+  {
     "additionalAssetbundleName": "add_5th_praise_login_04",
+    "assetbundleName": "5th_praise_login_04_00",
+    "endAt": 1791662399000,
+    "id": 182,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 331,
-        "limitedLoginBonusId": 182,
-        "day": 1,
-        "resourceBoxId": 209
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 182
       }
-    ]
+    ],
+    "startAt": 1791576000000
   },
   {
-    "id": 183,
-    "startAt": 1791662400000,
-    "endAt": 1791748799000,
+    "additionalAssetbundleName": "add_5th_praise_login_05",
     "assetbundleName": "5th_praise_login_05_03",
-    "additionalAssetbundleName": "add_5th_praise_login_05",
+    "endAt": 1791748799000,
+    "id": 183,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 332,
-        "limitedLoginBonusId": 183,
-        "day": 1,
-        "resourceBoxId": 209
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 183
       }
-    ]
+    ],
+    "startAt": 1791662400000
   },
   {
-    "id": 184,
-    "startAt": 1791662400000,
-    "endAt": 1791748799000,
+    "additionalAssetbundleName": "add_5th_praise_login_05",
     "assetbundleName": "5th_praise_login_05_02",
-    "additionalAssetbundleName": "add_5th_praise_login_05",
+    "endAt": 1791748799000,
+    "id": 184,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 333,
-        "limitedLoginBonusId": 184,
-        "day": 1,
-        "resourceBoxId": 209
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 184
       }
-    ]
+    ],
+    "startAt": 1791662400000
   },
   {
-    "id": 185,
-    "startAt": 1791662400000,
-    "endAt": 1791748799000,
+    "additionalAssetbundleName": "add_5th_praise_login_05",
     "assetbundleName": "5th_praise_login_05_01",
-    "additionalAssetbundleName": "add_5th_praise_login_05",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 334,
-        "limitedLoginBonusId": 185,
-        "day": 1,
-        "resourceBoxId": 209
-      }
-    ]
-  },
-  {
-    "id": 186,
-    "startAt": 1791662400000,
     "endAt": 1791748799000,
-    "assetbundleName": "5th_praise_login_05_00",
+    "id": 185,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 334,
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 185
+      }
+    ],
+    "startAt": 1791662400000
+  },
+  {
     "additionalAssetbundleName": "add_5th_praise_login_05",
+    "assetbundleName": "5th_praise_login_05_00",
+    "endAt": 1791748799000,
+    "id": 186,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 335,
-        "limitedLoginBonusId": 186,
-        "day": 1,
-        "resourceBoxId": 209
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 186
       }
-    ]
+    ],
+    "startAt": 1791662400000
   },
   {
-    "id": 187,
-    "startAt": 1791748800000,
-    "endAt": 1791835199000,
+    "additionalAssetbundleName": "add_5th_praise_login_06",
     "assetbundleName": "5th_praise_login_06_03",
-    "additionalAssetbundleName": "add_5th_praise_login_06",
+    "endAt": 1791835199000,
+    "id": 187,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 336,
-        "limitedLoginBonusId": 187,
-        "day": 1,
-        "resourceBoxId": 209
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 187
       }
-    ]
+    ],
+    "startAt": 1791748800000
   },
   {
-    "id": 188,
-    "startAt": 1791748800000,
-    "endAt": 1791835199000,
+    "additionalAssetbundleName": "add_5th_praise_login_06",
     "assetbundleName": "5th_praise_login_06_02",
-    "additionalAssetbundleName": "add_5th_praise_login_06",
+    "endAt": 1791835199000,
+    "id": 188,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 337,
-        "limitedLoginBonusId": 188,
-        "day": 1,
-        "resourceBoxId": 209
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 188
       }
-    ]
+    ],
+    "startAt": 1791748800000
   },
   {
-    "id": 189,
-    "startAt": 1791748800000,
-    "endAt": 1791835199000,
+    "additionalAssetbundleName": "add_5th_praise_login_06",
     "assetbundleName": "5th_praise_login_06_01",
-    "additionalAssetbundleName": "add_5th_praise_login_06",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 338,
-        "limitedLoginBonusId": 189,
-        "day": 1,
-        "resourceBoxId": 209
-      }
-    ]
-  },
-  {
-    "id": 190,
-    "startAt": 1791748800000,
     "endAt": 1791835199000,
-    "assetbundleName": "5th_praise_login_06_00",
+    "id": 189,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 338,
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 189
+      }
+    ],
+    "startAt": 1791748800000
+  },
+  {
     "additionalAssetbundleName": "add_5th_praise_login_06",
+    "assetbundleName": "5th_praise_login_06_00",
+    "endAt": 1791835199000,
+    "id": 190,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 339,
-        "limitedLoginBonusId": 190,
-        "day": 1,
-        "resourceBoxId": 209
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 190
       }
-    ]
+    ],
+    "startAt": 1791748800000
   },
   {
-    "id": 191,
-    "startAt": 1791835200000,
-    "endAt": 1791921599000,
+    "additionalAssetbundleName": "add_5th_praise_login_07",
     "assetbundleName": "5th_praise_login_07_03",
-    "additionalAssetbundleName": "add_5th_praise_login_07",
+    "endAt": 1791921599000,
+    "id": 191,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 340,
-        "limitedLoginBonusId": 191,
-        "day": 1,
-        "resourceBoxId": 209
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 191
       }
-    ]
+    ],
+    "startAt": 1791835200000
   },
   {
-    "id": 192,
-    "startAt": 1791835200000,
-    "endAt": 1791921599000,
+    "additionalAssetbundleName": "add_5th_praise_login_07",
     "assetbundleName": "5th_praise_login_07_02",
-    "additionalAssetbundleName": "add_5th_praise_login_07",
+    "endAt": 1791921599000,
+    "id": 192,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 341,
-        "limitedLoginBonusId": 192,
-        "day": 1,
-        "resourceBoxId": 209
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 192
       }
-    ]
+    ],
+    "startAt": 1791835200000
   },
   {
-    "id": 193,
-    "startAt": 1791835200000,
-    "endAt": 1791921599000,
+    "additionalAssetbundleName": "add_5th_praise_login_07",
     "assetbundleName": "5th_praise_login_07_01",
-    "additionalAssetbundleName": "add_5th_praise_login_07",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 342,
-        "limitedLoginBonusId": 193,
-        "day": 1,
-        "resourceBoxId": 209
-      }
-    ]
-  },
-  {
-    "id": 194,
-    "startAt": 1791835200000,
     "endAt": 1791921599000,
-    "assetbundleName": "5th_praise_login_07_00",
+    "id": 193,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 342,
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 193
+      }
+    ],
+    "startAt": 1791835200000
+  },
+  {
     "additionalAssetbundleName": "add_5th_praise_login_07",
+    "assetbundleName": "5th_praise_login_07_00",
+    "endAt": 1791921599000,
+    "id": 194,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 343,
-        "limitedLoginBonusId": 194,
-        "day": 1,
-        "resourceBoxId": 209
+        "resourceBoxId": 209,
+        "limitedLoginBonusId": 194
       }
-    ]
+    ],
+    "startAt": 1791835200000
   },
   {
-    "id": 1058,
-    "startAt": 1740794400000,
-    "endAt": 1749931199000,
     "assetbundleName": "world_3900_anniversary",
+    "endAt": 1749931199000,
+    "id": 1058,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1160,
-        "limitedLoginBonusId": 1058,
-        "day": 1,
-        "resourceBoxId": 2032
+        "resourceBoxId": 2032,
+        "limitedLoginBonusId": 1058
       },
       {
+        "day": 2,
         "id": 1161,
-        "limitedLoginBonusId": 1058,
-        "day": 2,
-        "resourceBoxId": 2032
+        "resourceBoxId": 2032,
+        "limitedLoginBonusId": 1058
       },
       {
+        "day": 3,
         "id": 1162,
-        "limitedLoginBonusId": 1058,
-        "day": 3,
-        "resourceBoxId": 2032
+        "resourceBoxId": 2032,
+        "limitedLoginBonusId": 1058
       },
       {
+        "day": 4,
         "id": 1163,
-        "limitedLoginBonusId": 1058,
-        "day": 4,
-        "resourceBoxId": 2032
+        "resourceBoxId": 2032,
+        "limitedLoginBonusId": 1058
       },
       {
+        "day": 5,
         "id": 1164,
-        "limitedLoginBonusId": 1058,
-        "day": 5,
-        "resourceBoxId": 2032
+        "resourceBoxId": 2032,
+        "limitedLoginBonusId": 1058
       },
       {
+        "day": 6,
         "id": 1165,
-        "limitedLoginBonusId": 1058,
-        "day": 6,
-        "resourceBoxId": 2032
+        "resourceBoxId": 2032,
+        "limitedLoginBonusId": 1058
       },
       {
+        "day": 7,
         "id": 1166,
-        "limitedLoginBonusId": 1058,
-        "day": 7,
-        "resourceBoxId": 2032
+        "resourceBoxId": 2032,
+        "limitedLoginBonusId": 1058
       },
       {
+        "day": 8,
         "id": 1167,
-        "limitedLoginBonusId": 1058,
-        "day": 8,
-        "resourceBoxId": 2032
+        "resourceBoxId": 2032,
+        "limitedLoginBonusId": 1058
       },
       {
+        "day": 9,
         "id": 1168,
-        "limitedLoginBonusId": 1058,
-        "day": 9,
-        "resourceBoxId": 2032
+        "resourceBoxId": 2032,
+        "limitedLoginBonusId": 1058
       },
       {
+        "day": 10,
         "id": 1169,
-        "limitedLoginBonusId": 1058,
-        "day": 10,
-        "resourceBoxId": 2031
+        "resourceBoxId": 2031,
+        "limitedLoginBonusId": 1058
       }
-    ]
+    ],
+    "startAt": 1740794400000
   },
   {
-    "id": 1059,
-    "startAt": 1743710400000,
-    "endAt": 1744127999000,
     "assetbundleName": "outinginspring_cn",
+    "endAt": 1744127999000,
+    "id": 1059,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1170,
-        "limitedLoginBonusId": 1059,
-        "day": 1,
-        "resourceBoxId": 2033
+        "resourceBoxId": 2033,
+        "limitedLoginBonusId": 1059
       },
       {
+        "day": 2,
         "id": 1171,
-        "limitedLoginBonusId": 1059,
-        "day": 2,
-        "resourceBoxId": 2034
+        "resourceBoxId": 2034,
+        "limitedLoginBonusId": 1059
       },
       {
+        "day": 3,
         "id": 1172,
-        "limitedLoginBonusId": 1059,
-        "day": 3,
-        "resourceBoxId": 2035
+        "resourceBoxId": 2035,
+        "limitedLoginBonusId": 1059
       }
-    ]
+    ],
+    "startAt": 1743710400000
   },
   {
-    "id": 1060,
-    "startAt": 1744560000000,
-    "endAt": 1744646399000,
     "assetbundleName": "birthday2025_05",
+    "endAt": 1744646399000,
+    "id": 1060,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1173,
-        "limitedLoginBonusId": 1060,
-        "day": 1,
-        "resourceBoxId": 2036
+        "resourceBoxId": 2036,
+        "limitedLoginBonusId": 1060
       }
-    ]
+    ],
+    "startAt": 1744560000000
   },
   {
-    "id": 1061,
-    "startAt": 1744920000000,
-    "endAt": 1745179200000,
     "assetbundleName": "restday2025_0418",
+    "endAt": 1745179200000,
+    "id": 1061,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1174,
-        "limitedLoginBonusId": 1061,
-        "day": 1,
-        "resourceBoxId": 2037
+        "resourceBoxId": 2037,
+        "limitedLoginBonusId": 1061
       },
       {
+        "day": 2,
         "id": 1175,
-        "limitedLoginBonusId": 1061,
-        "day": 2,
-        "resourceBoxId": 2038
+        "resourceBoxId": 2038,
+        "limitedLoginBonusId": 1061
       },
       {
+        "day": 3,
         "id": 1176,
-        "limitedLoginBonusId": 1061,
-        "day": 3,
-        "resourceBoxId": 2039
+        "resourceBoxId": 2039,
+        "limitedLoginBonusId": 1061
       }
-    ]
+    ],
+    "startAt": 1744920000000
   },
   {
-    "id": 1062,
-    "startAt": 1745899200000,
-    "endAt": 1747339140000,
     "assetbundleName": "festival2025_0501",
+    "endAt": 1747339140000,
+    "id": 1062,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1177,
-        "limitedLoginBonusId": 1062,
-        "day": 1,
-        "resourceBoxId": 2040
+        "resourceBoxId": 2040,
+        "limitedLoginBonusId": 1062
       },
       {
+        "day": 2,
         "id": 1178,
-        "limitedLoginBonusId": 1062,
-        "day": 2,
-        "resourceBoxId": 2041
+        "resourceBoxId": 2041,
+        "limitedLoginBonusId": 1062
       },
       {
+        "day": 3,
         "id": 1179,
-        "limitedLoginBonusId": 1062,
-        "day": 3,
-        "resourceBoxId": 2042
+        "resourceBoxId": 2042,
+        "limitedLoginBonusId": 1062
       },
       {
+        "day": 4,
         "id": 1180,
-        "limitedLoginBonusId": 1062,
-        "day": 4,
-        "resourceBoxId": 2041
+        "resourceBoxId": 2041,
+        "limitedLoginBonusId": 1062
       },
       {
+        "day": 5,
         "id": 1181,
-        "limitedLoginBonusId": 1062,
-        "day": 5,
-        "resourceBoxId": 2041
+        "resourceBoxId": 2041,
+        "limitedLoginBonusId": 1062
       },
       {
+        "day": 6,
         "id": 1182,
-        "limitedLoginBonusId": 1062,
-        "day": 6,
-        "resourceBoxId": 2041
+        "resourceBoxId": 2041,
+        "limitedLoginBonusId": 1062
       },
       {
+        "day": 7,
         "id": 1183,
-        "limitedLoginBonusId": 1062,
-        "day": 7,
-        "resourceBoxId": 2041
+        "resourceBoxId": 2041,
+        "limitedLoginBonusId": 1062
       },
       {
+        "day": 8,
         "id": 1184,
-        "limitedLoginBonusId": 1062,
-        "day": 8,
-        "resourceBoxId": 2041
+        "resourceBoxId": 2041,
+        "limitedLoginBonusId": 1062
       },
       {
+        "day": 9,
         "id": 1185,
-        "limitedLoginBonusId": 1062,
-        "day": 9,
-        "resourceBoxId": 2041
+        "resourceBoxId": 2041,
+        "limitedLoginBonusId": 1062
       },
       {
+        "day": 10,
         "id": 1186,
-        "limitedLoginBonusId": 1062,
-        "day": 10,
-        "resourceBoxId": 2049
+        "resourceBoxId": 2049,
+        "limitedLoginBonusId": 1062
       }
-    ]
+    ],
+    "startAt": 1745899200000
   },
   {
-    "id": 1063,
-    "startAt": 1745524800000,
+    "assetbundleName": "restday2025_weekend",
     "endAt": 1745783940000,
-    "assetbundleName": "restday2025_weekend",
+    "id": 1063,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1187,
-        "limitedLoginBonusId": 1063,
-        "day": 1,
-        "resourceBoxId": 2050
+        "resourceBoxId": 2050,
+        "limitedLoginBonusId": 1063
       },
       {
+        "day": 2,
         "id": 1188,
-        "limitedLoginBonusId": 1063,
-        "day": 2,
-        "resourceBoxId": 2051
+        "resourceBoxId": 2051,
+        "limitedLoginBonusId": 1063
       },
       {
+        "day": 3,
         "id": 1189,
-        "limitedLoginBonusId": 1063,
-        "day": 3,
-        "resourceBoxId": 2052
+        "resourceBoxId": 2052,
+        "limitedLoginBonusId": 1063
       }
-    ]
+    ],
+    "startAt": 1745524800000
   },
   {
-    "id": 1064,
-    "startAt": 1746129600000,
+    "assetbundleName": "restday2025_weekend",
     "endAt": 1746388799000,
-    "assetbundleName": "restday2025_weekend",
+    "id": 1064,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1190,
-        "limitedLoginBonusId": 1064,
-        "day": 1,
-        "resourceBoxId": 2050
+        "resourceBoxId": 2050,
+        "limitedLoginBonusId": 1064
       },
       {
+        "day": 2,
         "id": 1191,
-        "limitedLoginBonusId": 1064,
-        "day": 2,
-        "resourceBoxId": 2051
+        "resourceBoxId": 2051,
+        "limitedLoginBonusId": 1064
       },
       {
+        "day": 3,
         "id": 1192,
-        "limitedLoginBonusId": 1064,
-        "day": 3,
-        "resourceBoxId": 2052
+        "resourceBoxId": 2052,
+        "limitedLoginBonusId": 1064
       }
-    ]
+    ],
+    "startAt": 1746129600000
   },
   {
-    "id": 1065,
-    "startAt": 1746734400000,
+    "assetbundleName": "restday2025_weekend",
     "endAt": 1746993599000,
-    "assetbundleName": "restday2025_weekend",
+    "id": 1065,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1193,
-        "limitedLoginBonusId": 1065,
-        "day": 1,
-        "resourceBoxId": 2050
+        "resourceBoxId": 2050,
+        "limitedLoginBonusId": 1065
       },
       {
+        "day": 2,
         "id": 1194,
-        "limitedLoginBonusId": 1065,
-        "day": 2,
-        "resourceBoxId": 2051
+        "resourceBoxId": 2051,
+        "limitedLoginBonusId": 1065
       },
       {
+        "day": 3,
         "id": 1195,
-        "limitedLoginBonusId": 1065,
-        "day": 3,
-        "resourceBoxId": 2052
+        "resourceBoxId": 2052,
+        "limitedLoginBonusId": 1065
       }
-    ]
+    ],
+    "startAt": 1746734400000
   },
   {
-    "id": 1066,
-    "startAt": 1747944000000,
+    "assetbundleName": "restday2025_weekend",
     "endAt": 1748203199000,
-    "assetbundleName": "restday2025_weekend",
+    "id": 1066,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1196,
-        "limitedLoginBonusId": 1066,
-        "day": 1,
-        "resourceBoxId": 2050
+        "resourceBoxId": 2050,
+        "limitedLoginBonusId": 1066
       },
       {
+        "day": 2,
         "id": 1197,
-        "limitedLoginBonusId": 1066,
-        "day": 2,
-        "resourceBoxId": 2051
+        "resourceBoxId": 2051,
+        "limitedLoginBonusId": 1066
       },
       {
+        "day": 3,
         "id": 1198,
-        "limitedLoginBonusId": 1066,
-        "day": 3,
-        "resourceBoxId": 2052
+        "resourceBoxId": 2052,
+        "limitedLoginBonusId": 1066
       }
-    ]
+    ],
+    "startAt": 1747944000000
   },
   {
-    "id": 1067,
-    "startAt": 1748548800000,
+    "assetbundleName": "restday2025_weekend",
     "endAt": 1748807999000,
-    "assetbundleName": "restday2025_weekend",
+    "id": 1067,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1199,
-        "limitedLoginBonusId": 1067,
-        "day": 1,
-        "resourceBoxId": 2050
+        "resourceBoxId": 2050,
+        "limitedLoginBonusId": 1067
       },
       {
+        "day": 2,
         "id": 1200,
-        "limitedLoginBonusId": 1067,
-        "day": 2,
-        "resourceBoxId": 2051
+        "resourceBoxId": 2051,
+        "limitedLoginBonusId": 1067
       },
       {
+        "day": 3,
         "id": 1201,
-        "limitedLoginBonusId": 1067,
-        "day": 3,
-        "resourceBoxId": 2052
+        "resourceBoxId": 2052,
+        "limitedLoginBonusId": 1067
       }
-    ]
+    ],
+    "startAt": 1748548800000
   },
   {
-    "id": 1068,
-    "startAt": 1749153600000,
+    "assetbundleName": "restday2025_weekend",
     "endAt": 1749412799000,
-    "assetbundleName": "restday2025_weekend",
+    "id": 1068,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1202,
-        "limitedLoginBonusId": 1068,
-        "day": 1,
-        "resourceBoxId": 2050
+        "resourceBoxId": 2050,
+        "limitedLoginBonusId": 1068
       },
       {
+        "day": 2,
         "id": 1203,
-        "limitedLoginBonusId": 1068,
-        "day": 2,
-        "resourceBoxId": 2051
+        "resourceBoxId": 2051,
+        "limitedLoginBonusId": 1068
       },
       {
+        "day": 3,
         "id": 1204,
-        "limitedLoginBonusId": 1068,
-        "day": 3,
-        "resourceBoxId": 2052
+        "resourceBoxId": 2052,
+        "limitedLoginBonusId": 1068
       }
-    ]
+    ],
+    "startAt": 1749153600000
   },
   {
-    "id": 1069,
-    "startAt": 1750363200000,
+    "assetbundleName": "restday2025_weekend",
     "endAt": 1750622399000,
-    "assetbundleName": "restday2025_weekend",
+    "id": 1069,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1205,
-        "limitedLoginBonusId": 1069,
-        "day": 1,
-        "resourceBoxId": 2050
+        "resourceBoxId": 2050,
+        "limitedLoginBonusId": 1069
       },
       {
+        "day": 2,
         "id": 1206,
-        "limitedLoginBonusId": 1069,
-        "day": 2,
-        "resourceBoxId": 2051
+        "resourceBoxId": 2051,
+        "limitedLoginBonusId": 1069
       },
       {
+        "day": 3,
         "id": 1207,
-        "limitedLoginBonusId": 1069,
-        "day": 3,
-        "resourceBoxId": 2052
+        "resourceBoxId": 2052,
+        "limitedLoginBonusId": 1069
       }
-    ]
+    ],
+    "startAt": 1750363200000
   },
   {
-    "id": 1070,
-    "startAt": 1750968000000,
+    "assetbundleName": "restday2025_weekend",
     "endAt": 1751227199000,
-    "assetbundleName": "restday2025_weekend",
+    "id": 1070,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1208,
-        "limitedLoginBonusId": 1070,
-        "day": 1,
-        "resourceBoxId": 2050
+        "resourceBoxId": 2050,
+        "limitedLoginBonusId": 1070
       },
       {
+        "day": 2,
         "id": 1209,
-        "limitedLoginBonusId": 1070,
-        "day": 2,
-        "resourceBoxId": 2051
+        "resourceBoxId": 2051,
+        "limitedLoginBonusId": 1070
       },
       {
+        "day": 3,
         "id": 1210,
-        "limitedLoginBonusId": 1070,
-        "day": 3,
-        "resourceBoxId": 2052
+        "resourceBoxId": 2052,
+        "limitedLoginBonusId": 1070
       }
-    ]
+    ],
+    "startAt": 1750968000000
   },
   {
-    "id": 1071,
-    "startAt": 1751572800000,
+    "assetbundleName": "restday2025_weekend",
     "endAt": 1751831999000,
-    "assetbundleName": "restday2025_weekend",
+    "id": 1071,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1211,
-        "limitedLoginBonusId": 1071,
-        "day": 1,
-        "resourceBoxId": 2050
+        "resourceBoxId": 2050,
+        "limitedLoginBonusId": 1071
       },
       {
+        "day": 2,
         "id": 1212,
-        "limitedLoginBonusId": 1071,
-        "day": 2,
-        "resourceBoxId": 2051
+        "resourceBoxId": 2051,
+        "limitedLoginBonusId": 1071
       },
       {
+        "day": 3,
         "id": 1213,
-        "limitedLoginBonusId": 1071,
-        "day": 3,
-        "resourceBoxId": 2052
+        "resourceBoxId": 2052,
+        "limitedLoginBonusId": 1071
       }
-    ]
+    ],
+    "startAt": 1751572800000
   },
   {
-    "id": 1072,
-    "startAt": 1752177600000,
+    "assetbundleName": "restday2025_weekend",
     "endAt": 1752436799000,
-    "assetbundleName": "restday2025_weekend",
+    "id": 1072,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1214,
-        "limitedLoginBonusId": 1072,
-        "day": 1,
-        "resourceBoxId": 2050
+        "resourceBoxId": 2050,
+        "limitedLoginBonusId": 1072
       },
       {
+        "day": 2,
         "id": 1215,
-        "limitedLoginBonusId": 1072,
-        "day": 2,
-        "resourceBoxId": 2051
+        "resourceBoxId": 2051,
+        "limitedLoginBonusId": 1072
       },
       {
+        "day": 3,
         "id": 1216,
-        "limitedLoginBonusId": 1072,
-        "day": 3,
-        "resourceBoxId": 2052
+        "resourceBoxId": 2052,
+        "limitedLoginBonusId": 1072
       }
-    ]
+    ],
+    "startAt": 1752177600000
   },
   {
-    "id": 1073,
-    "startAt": 1753387200000,
+    "assetbundleName": "restday2025_weekend",
     "endAt": 1753646399000,
-    "assetbundleName": "restday2025_weekend",
+    "id": 1073,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1217,
-        "limitedLoginBonusId": 1073,
-        "day": 1,
-        "resourceBoxId": 2050
+        "resourceBoxId": 2050,
+        "limitedLoginBonusId": 1073
       },
       {
+        "day": 2,
         "id": 1218,
-        "limitedLoginBonusId": 1073,
-        "day": 2,
-        "resourceBoxId": 2051
+        "resourceBoxId": 2051,
+        "limitedLoginBonusId": 1073
       },
       {
+        "day": 3,
         "id": 1219,
-        "limitedLoginBonusId": 1073,
-        "day": 3,
-        "resourceBoxId": 2052
+        "resourceBoxId": 2052,
+        "limitedLoginBonusId": 1073
       }
-    ]
+    ],
+    "startAt": 1753387200000
   },
   {
-    "id": 1074,
-    "startAt": 1753992000000,
+    "assetbundleName": "restday2025_weekend",
     "endAt": 1754251199000,
-    "assetbundleName": "restday2025_weekend",
+    "id": 1074,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1220,
-        "limitedLoginBonusId": 1074,
-        "day": 1,
-        "resourceBoxId": 2050
+        "resourceBoxId": 2050,
+        "limitedLoginBonusId": 1074
       },
       {
+        "day": 2,
         "id": 1221,
-        "limitedLoginBonusId": 1074,
-        "day": 2,
-        "resourceBoxId": 2051
+        "resourceBoxId": 2051,
+        "limitedLoginBonusId": 1074
       },
       {
+        "day": 3,
         "id": 1222,
-        "limitedLoginBonusId": 1074,
-        "day": 3,
-        "resourceBoxId": 2052
+        "resourceBoxId": 2052,
+        "limitedLoginBonusId": 1074
       }
-    ]
+    ],
+    "startAt": 1753992000000
   },
   {
-    "id": 1076,
-    "startAt": 1755806400000,
+    "assetbundleName": "restday2025_weekend",
     "endAt": 1756065599000,
-    "assetbundleName": "restday2025_weekend",
+    "id": 1076,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1226,
-        "limitedLoginBonusId": 1076,
-        "day": 1,
-        "resourceBoxId": 2050
+        "resourceBoxId": 2050,
+        "limitedLoginBonusId": 1076
       },
       {
+        "day": 2,
         "id": 1227,
-        "limitedLoginBonusId": 1076,
-        "day": 2,
-        "resourceBoxId": 2051
+        "resourceBoxId": 2051,
+        "limitedLoginBonusId": 1076
       },
       {
+        "day": 3,
         "id": 1228,
-        "limitedLoginBonusId": 1076,
-        "day": 3,
-        "resourceBoxId": 2052
+        "resourceBoxId": 2052,
+        "limitedLoginBonusId": 1076
       }
-    ]
+    ],
+    "startAt": 1755806400000
   },
   {
-    "id": 1077,
-    "startAt": 1756411200000,
+    "assetbundleName": "restday2025_weekend",
     "endAt": 1756670399000,
-    "assetbundleName": "restday2025_weekend",
+    "id": 1077,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1229,
-        "limitedLoginBonusId": 1077,
-        "day": 1,
-        "resourceBoxId": 2050
+        "resourceBoxId": 2050,
+        "limitedLoginBonusId": 1077
       },
       {
+        "day": 2,
         "id": 1230,
-        "limitedLoginBonusId": 1077,
-        "day": 2,
-        "resourceBoxId": 2051
+        "resourceBoxId": 2051,
+        "limitedLoginBonusId": 1077
       },
       {
+        "day": 3,
         "id": 1231,
-        "limitedLoginBonusId": 1077,
-        "day": 3,
-        "resourceBoxId": 2052
+        "resourceBoxId": 2052,
+        "limitedLoginBonusId": 1077
       }
-    ]
+    ],
+    "startAt": 1756411200000
   },
   {
-    "id": 1078,
-    "startAt": 1757016000000,
+    "assetbundleName": "restday2025_weekend",
     "endAt": 1757275199000,
-    "assetbundleName": "restday2025_weekend",
+    "id": 1078,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1232,
-        "limitedLoginBonusId": 1078,
-        "day": 1,
-        "resourceBoxId": 2050
+        "resourceBoxId": 2050,
+        "limitedLoginBonusId": 1078
       },
       {
+        "day": 2,
         "id": 1233,
-        "limitedLoginBonusId": 1078,
-        "day": 2,
-        "resourceBoxId": 2051
+        "resourceBoxId": 2051,
+        "limitedLoginBonusId": 1078
       },
       {
+        "day": 3,
         "id": 1234,
-        "limitedLoginBonusId": 1078,
-        "day": 3,
-        "resourceBoxId": 2052
+        "resourceBoxId": 2052,
+        "limitedLoginBonusId": 1078
       }
-    ]
+    ],
+    "startAt": 1757016000000
   },
   {
-    "id": 1079,
-    "startAt": 1758225600000,
+    "assetbundleName": "restday2025_weekend",
     "endAt": 1758484799000,
-    "assetbundleName": "restday2025_weekend",
+    "id": 1079,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1235,
-        "limitedLoginBonusId": 1079,
-        "day": 1,
-        "resourceBoxId": 2050
+        "resourceBoxId": 2050,
+        "limitedLoginBonusId": 1079
       },
       {
+        "day": 2,
         "id": 1236,
-        "limitedLoginBonusId": 1079,
-        "day": 2,
-        "resourceBoxId": 2051
+        "resourceBoxId": 2051,
+        "limitedLoginBonusId": 1079
       },
       {
+        "day": 3,
         "id": 1237,
-        "limitedLoginBonusId": 1079,
-        "day": 3,
-        "resourceBoxId": 2052
+        "resourceBoxId": 2052,
+        "limitedLoginBonusId": 1079
       }
-    ]
+    ],
+    "startAt": 1758225600000
   },
   {
+    "assetbundleName": "restday2025_weekend",
+    "endAt": 1759089599000,
     "id": 1080,
-    "startAt": 1758830400000,
-    "endAt": 1759089599000,
-    "assetbundleName": "restday2025_weekend",
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1238,
-        "limitedLoginBonusId": 1080,
-        "day": 1,
-        "resourceBoxId": 2050
+        "resourceBoxId": 2050,
+        "limitedLoginBonusId": 1080
       },
       {
+        "day": 2,
         "id": 1239,
-        "limitedLoginBonusId": 1080,
-        "day": 2,
-        "resourceBoxId": 2051
+        "resourceBoxId": 2051,
+        "limitedLoginBonusId": 1080
       },
       {
+        "day": 3,
         "id": 1240,
-        "limitedLoginBonusId": 1080,
-        "day": 3,
-        "resourceBoxId": 2052
+        "resourceBoxId": 2052,
+        "limitedLoginBonusId": 1080
       }
-    ]
+    ],
+    "startAt": 1758830400000
   },
   {
-    "id": 1081,
-    "startAt": 1745942400000,
-    "endAt": 1746028799000,
     "assetbundleName": "birthday2025_19",
+    "endAt": 1746028799000,
+    "id": 1081,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1241,
-        "limitedLoginBonusId": 1081,
-        "day": 1,
-        "resourceBoxId": 2036
+        "resourceBoxId": 2036,
+        "limitedLoginBonusId": 1081
       }
-    ]
+    ],
+    "startAt": 1745942400000
   },
   {
-    "id": 1082,
-    "startAt": 1746720000000,
-    "endAt": 1746806399000,
     "assetbundleName": "birthday2025_02",
+    "endAt": 1746806399000,
+    "id": 1082,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1242,
-        "limitedLoginBonusId": 1082,
-        "day": 1,
-        "resourceBoxId": 2036
+        "resourceBoxId": 2036,
+        "limitedLoginBonusId": 1082
       }
-    ]
+    ],
+    "startAt": 1746720000000
   },
   {
-    "id": 1083,
-    "startAt": 1747411200000,
-    "endAt": 1747497599000,
     "assetbundleName": "birthday2025_13",
+    "endAt": 1747497599000,
+    "id": 1083,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1243,
-        "limitedLoginBonusId": 1083,
-        "day": 1,
-        "resourceBoxId": 2036
+        "resourceBoxId": 2036,
+        "limitedLoginBonusId": 1083
       }
-    ]
+    ],
+    "startAt": 1747411200000
   },
   {
-    "id": 1084,
-    "startAt": 1748102400000,
-    "endAt": 1748188799000,
     "assetbundleName": "birthday2025_12",
+    "endAt": 1748188799000,
+    "id": 1084,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1244,
-        "limitedLoginBonusId": 1084,
-        "day": 1,
-        "resourceBoxId": 2036
+        "resourceBoxId": 2036,
+        "limitedLoginBonusId": 1084
       }
-    ]
+    ],
+    "startAt": 1748102400000
   },
   {
-    "id": 1085,
-    "startAt": 1747339200000,
-    "endAt": 1747598340000,
     "assetbundleName": "restday2025_0516",
+    "endAt": 1747598340000,
+    "id": 1085,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1245,
-        "limitedLoginBonusId": 1085,
-        "day": 1,
-        "resourceBoxId": 2053
+        "resourceBoxId": 2053,
+        "limitedLoginBonusId": 1085
       },
       {
+        "day": 2,
         "id": 1246,
-        "limitedLoginBonusId": 1085,
-        "day": 2,
-        "resourceBoxId": 2054
+        "resourceBoxId": 2054,
+        "limitedLoginBonusId": 1085
       },
       {
+        "day": 3,
         "id": 1247,
-        "limitedLoginBonusId": 1085,
-        "day": 3,
-        "resourceBoxId": 2055
+        "resourceBoxId": 2055,
+        "limitedLoginBonusId": 1085
       }
-    ]
+    ],
+    "startAt": 1747339200000
   },
   {
-    "id": 1086,
-    "startAt": 1747670400000,
+    "assetbundleName": "festival2025_0520",
     "endAt": 1747756740000,
-    "assetbundleName": "festival2025_0520",
+    "id": 1086,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1248,
-        "limitedLoginBonusId": 1086,
-        "day": 1,
-        "resourceBoxId": 2056
+        "resourceBoxId": 2056,
+        "limitedLoginBonusId": 1086
       }
-    ]
+    ],
+    "startAt": 1747670400000
   },
   {
-    "id": 1087,
-    "startAt": 1747756800000,
-    "endAt": 1747843140000,
     "assetbundleName": "festival2025_0520",
+    "endAt": 1747843140000,
+    "id": 1087,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1249,
-        "limitedLoginBonusId": 1087,
-        "day": 1,
-        "resourceBoxId": 2057
+        "resourceBoxId": 2057,
+        "limitedLoginBonusId": 1087
       }
-    ]
+    ],
+    "startAt": 1747756800000
   },
   {
-    "id": 1088,
-    "startAt": 1748491200000,
-    "endAt": 1748980799000,
     "assetbundleName": "festival2025_0531",
+    "endAt": 1748980799000,
+    "id": 1088,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1250,
-        "limitedLoginBonusId": 1088,
-        "day": 1,
-        "resourceBoxId": 2058
+        "resourceBoxId": 2058,
+        "limitedLoginBonusId": 1088
       },
       {
+        "day": 2,
         "id": 1251,
-        "limitedLoginBonusId": 1088,
-        "day": 2,
-        "resourceBoxId": 2059
+        "resourceBoxId": 2059,
+        "limitedLoginBonusId": 1088
       },
       {
+        "day": 3,
         "id": 1252,
-        "limitedLoginBonusId": 1088,
-        "day": 3,
-        "resourceBoxId": 2060
+        "resourceBoxId": 2060,
+        "limitedLoginBonusId": 1088
       }
-    ]
+    ],
+    "startAt": 1748491200000
   },
   {
-    "id": 1089,
-    "startAt": 1748707200000,
-    "endAt": 1748793599000,
     "assetbundleName": "festival2025_0601",
+    "endAt": 1748793599000,
+    "id": 1089,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1253,
-        "limitedLoginBonusId": 1089,
-        "day": 1,
-        "resourceBoxId": 2061
+        "resourceBoxId": 2061,
+        "limitedLoginBonusId": 1089
       }
-    ]
+    ],
+    "startAt": 1748707200000
   },
   {
-    "id": 1090,
-    "startAt": 1749758400000,
-    "endAt": 1750017540000,
     "assetbundleName": "restday2025_0613",
+    "endAt": 1750017540000,
+    "id": 1090,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1254,
-        "limitedLoginBonusId": 1090,
-        "day": 1,
-        "resourceBoxId": 2053
+        "resourceBoxId": 2053,
+        "limitedLoginBonusId": 1090
       },
       {
+        "day": 2,
         "id": 1255,
-        "limitedLoginBonusId": 1090,
-        "day": 2,
-        "resourceBoxId": 2054
+        "resourceBoxId": 2054,
+        "limitedLoginBonusId": 1090
       },
       {
+        "day": 3,
         "id": 1256,
-        "limitedLoginBonusId": 1090,
-        "day": 3,
-        "resourceBoxId": 2062
+        "resourceBoxId": 2062,
+        "limitedLoginBonusId": 1090
       }
-    ]
+    ],
+    "startAt": 1749758400000
   },
   {
-    "id": 1091,
-    "startAt": 1754841600000,
-    "endAt": 1754927999000,
     "assetbundleName": "birthday2025_01",
+    "endAt": 1754927999000,
+    "id": 1091,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1257,
-        "limitedLoginBonusId": 1091,
-        "day": 1,
-        "resourceBoxId": 5001
+        "resourceBoxId": 5001,
+        "limitedLoginBonusId": 1091
       }
-    ]
+    ],
+    "startAt": 1754841600000
   },
   {
-    "id": 1092,
-    "startAt": 1761494400000,
-    "endAt": 1761580799000,
     "assetbundleName": "birthday2025_03",
+    "endAt": 1761580799000,
+    "id": 1092,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1258,
-        "limitedLoginBonusId": 1092,
-        "day": 1,
-        "resourceBoxId": 5002
+        "resourceBoxId": 5002,
+        "limitedLoginBonusId": 1092
       }
-    ]
+    ],
+    "startAt": 1761494400000
   },
   {
-    "id": 1093,
-    "startAt": 1767801600000,
-    "endAt": 1767887999000,
     "assetbundleName": "birthday2026_04",
+    "endAt": 1767887999000,
+    "id": 1093,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1259,
-        "limitedLoginBonusId": 1093,
-        "day": 1,
-        "resourceBoxId": 5003
+        "resourceBoxId": 5003,
+        "limitedLoginBonusId": 1093
       }
-    ]
+    ],
+    "startAt": 1767801600000
   },
   {
-    "id": 1094,
-    "startAt": 1759593600000,
-    "endAt": 1759679999000,
     "assetbundleName": "birthday2025_06",
+    "endAt": 1759679999000,
+    "id": 1094,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1260,
-        "limitedLoginBonusId": 1094,
-        "day": 1,
-        "resourceBoxId": 5004
+        "resourceBoxId": 5004,
+        "limitedLoginBonusId": 1094
       }
-    ]
+    ],
+    "startAt": 1759593600000
   },
   {
-    "id": 1095,
-    "startAt": 1773849600000,
-    "endAt": 1773935999000,
     "assetbundleName": "birthday2026_07",
+    "endAt": 1773935999000,
+    "id": 1095,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1261,
-        "limitedLoginBonusId": 1095,
-        "day": 1,
-        "resourceBoxId": 5005
+        "resourceBoxId": 5005,
+        "limitedLoginBonusId": 1095
       }
-    ]
+    ],
+    "startAt": 1773849600000
   },
   {
-    "id": 1096,
-    "startAt": 1764950400000,
-    "endAt": 1765036799000,
     "assetbundleName": "birthday2025_08",
+    "endAt": 1765036799000,
+    "id": 1096,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1262,
-        "limitedLoginBonusId": 1096,
-        "day": 1,
-        "resourceBoxId": 5006
+        "resourceBoxId": 5006,
+        "limitedLoginBonusId": 1096
       }
-    ]
+    ],
+    "startAt": 1764950400000
   },
   {
-    "id": 1097,
-    "startAt": 1772380800000,
-    "endAt": 1772467199000,
     "assetbundleName": "birthday2026_09",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1263,
-        "limitedLoginBonusId": 1097,
-        "day": 1,
-        "resourceBoxId": 5007
-      }
-    ]
-  },
-  {
-    "id": 1098,
-    "startAt": 1753459200000,
-    "endAt": 1753545599000,
-    "assetbundleName": "birthday2025_10",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1264,
-        "limitedLoginBonusId": 1098,
-        "day": 1,
-        "resourceBoxId": 2036
-      }
-    ]
-  },
-  {
-    "id": 1099,
-    "startAt": 1762876800000,
-    "endAt": 1762963199000,
-    "assetbundleName": "birthday2025_11",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1265,
-        "limitedLoginBonusId": 1099,
-        "day": 1,
-        "resourceBoxId": 5008
-      }
-    ]
-  },
-  {
-    "id": 1100,
-    "startAt": 1757347200000,
-    "endAt": 1757433599000,
-    "assetbundleName": "birthday2025_14",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1266,
-        "limitedLoginBonusId": 1100,
-        "day": 1,
-        "resourceBoxId": 2036
-      }
-    ]
-  },
-  {
-    "id": 1101,
-    "startAt": 1752940800000,
-    "endAt": 1753027199000,
-    "assetbundleName": "birthday2025_15",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1267,
-        "limitedLoginBonusId": 1101,
-        "day": 1,
-        "resourceBoxId": 2036
-      }
-    ]
-  },
-  {
-    "id": 1102,
-    "startAt": 1750694400000,
-    "endAt": 1750780799000,
-    "assetbundleName": "birthday2025_16",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1268,
-        "limitedLoginBonusId": 1102,
-        "day": 1,
-        "resourceBoxId": 2036
-      }
-    ]
-  },
-  {
-    "id": 1103,
-    "startAt": 1770652800000,
-    "endAt": 1770739199000,
-    "assetbundleName": "birthday2026_17",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1269,
-        "limitedLoginBonusId": 1103,
-        "day": 1,
-        "resourceBoxId": 5009
-      }
-    ]
-  },
-  {
-    "id": 1104,
-    "startAt": 1769443200000,
-    "endAt": 1769529599000,
-    "assetbundleName": "birthday2026_18",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1270,
-        "limitedLoginBonusId": 1104,
-        "day": 1,
-        "resourceBoxId": 5010
-      }
-    ]
-  },
-  {
-    "id": 1105,
-    "startAt": 1756224000000,
-    "endAt": 1756310399000,
-    "assetbundleName": "birthday2025_20",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1271,
-        "limitedLoginBonusId": 1105,
-        "day": 1,
-        "resourceBoxId": 2036
-      }
-    ]
-  },
-  {
-    "id": 1106,
-    "startAt": 1756569600000,
-    "endAt": 1756655999000,
-    "assetbundleName": "birthday2025_21",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1272,
-        "limitedLoginBonusId": 1106,
-        "day": 1,
-        "resourceBoxId": 2079
-      }
-    ]
-  },
-  {
-    "id": 1107,
-    "startAt": 1766764800000,
-    "endAt": 1766851199000,
-    "assetbundleName": "birthday2025_25",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1273,
-        "limitedLoginBonusId": 1107,
-        "day": 1,
-        "resourceBoxId": 5011
-      }
-    ]
-  },
-  {
-    "id": 1108,
-    "startAt": 1766764800000,
-    "endAt": 1766851199000,
-    "assetbundleName": "birthday2025_23",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1274,
-        "limitedLoginBonusId": 1108,
-        "day": 1,
-        "resourceBoxId": 5012
-      }
-    ]
-  },
-  {
-    "id": 1109,
-    "startAt": 1769702400000,
-    "endAt": 1769788799000,
-    "assetbundleName": "birthday2026_24",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1275,
-        "limitedLoginBonusId": 1109,
-        "day": 1,
-        "resourceBoxId": 5013
-      }
-    ]
-  },
-  {
-    "id": 1110,
-    "startAt": 1762272000000,
-    "endAt": 1762358399000,
-    "assetbundleName": "birthday2025_22",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1276,
-        "limitedLoginBonusId": 1110,
-        "day": 1,
-        "resourceBoxId": 5014
-      }
-    ]
-  },
-  {
-    "id": 1111,
-    "startAt": 1771257600000,
-    "endAt": 1771343999000,
-    "assetbundleName": "birthday2026_26",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1277,
-        "limitedLoginBonusId": 1111,
-        "day": 1,
-        "resourceBoxId": 5015
-      }
-    ]
-  },
-  {
-    "id": 1112,
-    "startAt": 1750651200000,
-    "endAt": 1751659199000,
-    "assetbundleName": "100day_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1278,
-        "limitedLoginBonusId": 1112,
-        "day": 1,
-        "resourceBoxId": 2063
-      },
-      {
-        "id": 1279,
-        "limitedLoginBonusId": 1112,
-        "day": 2,
-        "resourceBoxId": 2063
-      },
-      {
-        "id": 1280,
-        "limitedLoginBonusId": 1112,
-        "day": 3,
-        "resourceBoxId": 2063
-      },
-      {
-        "id": 1281,
-        "limitedLoginBonusId": 1112,
-        "day": 4,
-        "resourceBoxId": 2063
-      },
-      {
-        "id": 1282,
-        "limitedLoginBonusId": 1112,
-        "day": 5,
-        "resourceBoxId": 2063
-      }
-    ]
-  },
-  {
-    "id": 1113,
-    "startAt": 1751688000000,
-    "endAt": 1753214399000,
-    "assetbundleName": "100day_anniversary_1",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1283,
-        "limitedLoginBonusId": 1113,
-        "day": 1,
-        "resourceBoxId": 2064
-      },
-      {
-        "id": 1284,
-        "limitedLoginBonusId": 1113,
-        "day": 2,
-        "resourceBoxId": 2064
-      },
-      {
-        "id": 1285,
-        "limitedLoginBonusId": 1113,
-        "day": 3,
-        "resourceBoxId": 2064
-      },
-      {
-        "id": 1286,
-        "limitedLoginBonusId": 1113,
-        "day": 4,
-        "resourceBoxId": 2065
-      },
-      {
-        "id": 1287,
-        "limitedLoginBonusId": 1113,
-        "day": 5,
-        "resourceBoxId": 2065
-      },
-      {
-        "id": 1288,
-        "limitedLoginBonusId": 1113,
-        "day": 6,
-        "resourceBoxId": 2065
-      },
-      {
-        "id": 1289,
-        "limitedLoginBonusId": 1113,
-        "day": 7,
-        "resourceBoxId": 2065
-      },
-      {
-        "id": 1290,
-        "limitedLoginBonusId": 1113,
-        "day": 8,
-        "resourceBoxId": 2065
-      },
-      {
-        "id": 1291,
-        "limitedLoginBonusId": 1113,
-        "day": 9,
-        "resourceBoxId": 2065
-      },
-      {
-        "id": 1292,
-        "limitedLoginBonusId": 1113,
-        "day": 10,
-        "resourceBoxId": 2065
-      }
-    ]
-  },
-  {
-    "id": 1114,
-    "startAt": 1752782400000,
-    "endAt": 1753041599000,
-    "assetbundleName": "restday2025_0718",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1293,
-        "limitedLoginBonusId": 1114,
-        "day": 1,
-        "resourceBoxId": 2053
-      },
-      {
-        "id": 1294,
-        "limitedLoginBonusId": 1114,
-        "day": 2,
-        "resourceBoxId": 2054
-      },
-      {
-        "id": 1295,
-        "limitedLoginBonusId": 1114,
-        "day": 3,
-        "resourceBoxId": 2076
-      }
-    ]
-  },
-  {
-    "id": 1115,
-    "startAt": 1753977600000,
-    "endAt": 1754063999000,
-    "assetbundleName": "chinajoy_2025",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1296,
-        "limitedLoginBonusId": 1115,
-        "day": 1,
-        "resourceBoxId": 2053
-      }
-    ]
-  },
-  {
-    "id": 1116,
-    "startAt": 1754064000000,
-    "endAt": 1754150399000,
-    "assetbundleName": "chinajoy_2025",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1297,
-        "limitedLoginBonusId": 1116,
-        "day": 1,
-        "resourceBoxId": 2053
-      }
-    ]
-  },
-  {
-    "id": 1117,
-    "startAt": 1754150400000,
-    "endAt": 1754236799000,
-    "assetbundleName": "chinajoy_2025",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1298,
-        "limitedLoginBonusId": 1117,
-        "day": 1,
-        "resourceBoxId": 2053
-      }
-    ]
-  },
-  {
-    "id": 1118,
-    "startAt": 1754236800000,
-    "endAt": 1754323199000,
-    "assetbundleName": "chinajoy_2025",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1299,
-        "limitedLoginBonusId": 1118,
-        "day": 1,
-        "resourceBoxId": 2077
-      }
-    ]
-  },
-  {
-    "id": 1119,
-    "startAt": 1754596800000,
-    "endAt": 1754855999000,
-    "assetbundleName": "restday2025_0808",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1300,
-        "limitedLoginBonusId": 1119,
-        "day": 1,
-        "resourceBoxId": 2053
-      },
-      {
-        "id": 1301,
-        "limitedLoginBonusId": 1119,
-        "day": 2,
-        "resourceBoxId": 2054
-      },
-      {
-        "id": 1302,
-        "limitedLoginBonusId": 1119,
-        "day": 3,
-        "resourceBoxId": 2078
-      }
-    ]
-  },
-  {
-    "id": 1120,
-    "startAt": 1756699200000,
-    "endAt": 1757519999000,
-    "assetbundleName": "sekai2025_0812",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1303,
-        "limitedLoginBonusId": 1120,
-        "day": 1,
-        "resourceBoxId": 2080
-      },
-      {
-        "id": 1304,
-        "limitedLoginBonusId": 1120,
-        "day": 2,
-        "resourceBoxId": 2081
-      },
-      {
-        "id": 1305,
-        "limitedLoginBonusId": 1120,
-        "day": 3,
-        "resourceBoxId": 2082
-      },
-      {
-        "id": 1306,
-        "limitedLoginBonusId": 1120,
-        "day": 4,
-        "resourceBoxId": 2083
-      },
-      {
-        "id": 1307,
-        "limitedLoginBonusId": 1120,
-        "day": 5,
-        "resourceBoxId": 2084
-      },
-      {
-        "id": 1308,
-        "limitedLoginBonusId": 1120,
-        "day": 6,
-        "resourceBoxId": 2085
-      },
-      {
-        "id": 1309,
-        "limitedLoginBonusId": 1120,
-        "day": 7,
-        "resourceBoxId": 2086
-      }
-    ]
-  },
-  {
-    "id": 1121,
-    "startAt": 1757620800000,
-    "endAt": 1757879999000,
-    "assetbundleName": "restday2025_0912",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1310,
-        "limitedLoginBonusId": 1121,
-        "day": 1,
-        "resourceBoxId": 2053
-      },
-      {
-        "id": 1311,
-        "limitedLoginBonusId": 1121,
-        "day": 2,
-        "resourceBoxId": 2054
-      },
-      {
-        "id": 1312,
-        "limitedLoginBonusId": 1121,
-        "day": 3,
-        "resourceBoxId": 2087
-      }
-    ]
-  },
-  {
-    "id": 1122,
-    "startAt": 1755748800000,
-    "endAt": 1756310340000,
-    "assetbundleName": "summer2025_0821",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1313,
-        "limitedLoginBonusId": 1122,
-        "day": 1,
-        "resourceBoxId": 2088
-      },
-      {
-        "id": 1314,
-        "limitedLoginBonusId": 1122,
-        "day": 2,
-        "resourceBoxId": 2089
-      },
-      {
-        "id": 1315,
-        "limitedLoginBonusId": 1122,
-        "day": 3,
-        "resourceBoxId": 2090
-      },
-      {
-        "id": 1316,
-        "limitedLoginBonusId": 1122,
-        "day": 4,
-        "resourceBoxId": 2091
-      },
-      {
-        "id": 1317,
-        "limitedLoginBonusId": 1122,
-        "day": 5,
-        "resourceBoxId": 2092
-      }
-    ]
-  },
-  {
-    "id": 1123,
-    "startAt": 1756440000000,
-    "endAt": 1756655999000,
-    "assetbundleName": "magicalmirai_2025",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1318,
-        "limitedLoginBonusId": 1123,
-        "day": 1,
-        "resourceBoxId": 2093
-      }
-    ]
-  },
-  {
-    "id": 1124,
-    "startAt": 1755201600000,
-    "endAt": 1755547199000,
-    "assetbundleName": "restday2025_weekend",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1319,
-        "limitedLoginBonusId": 1124,
-        "day": 1,
-        "resourceBoxId": 2050
-      },
-      {
-        "id": 1320,
-        "limitedLoginBonusId": 1124,
-        "day": 2,
-        "resourceBoxId": 2051
-      },
-      {
-        "id": 1321,
-        "limitedLoginBonusId": 1124,
-        "day": 3,
-        "resourceBoxId": 2052
-      }
-    ]
-  },
-  {
-    "id": 1125,
-    "startAt": 1758945600000,
-    "endAt": 1759003199000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1322,
-        "limitedLoginBonusId": 1125,
-        "day": 1,
-        "resourceBoxId": 2094
-      }
-    ]
-  },
-  {
-    "id": 1126,
-    "startAt": 1759003200000,
-    "endAt": 1759089599000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1323,
-        "limitedLoginBonusId": 1126,
-        "day": 1,
-        "resourceBoxId": 2095
-      }
-    ]
-  },
-  {
-    "id": 1127,
-    "startAt": 1759089600000,
-    "endAt": 1759175999000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1324,
-        "limitedLoginBonusId": 1127,
-        "day": 1,
-        "resourceBoxId": 2096
-      }
-    ]
-  },
-  {
-    "id": 1128,
-    "startAt": 1759176000000,
-    "endAt": 1759262399000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1325,
-        "limitedLoginBonusId": 1128,
-        "day": 1,
-        "resourceBoxId": 2097
-      }
-    ]
-  },
-  {
-    "id": 1129,
-    "startAt": 1759262400000,
-    "endAt": 1759348799000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1326,
-        "limitedLoginBonusId": 1129,
-        "day": 1,
-        "resourceBoxId": 2095
-      }
-    ]
-  },
-  {
-    "id": 1130,
-    "startAt": 1759348800000,
-    "endAt": 1759435199000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1327,
-        "limitedLoginBonusId": 1130,
-        "day": 1,
-        "resourceBoxId": 2096
-      }
-    ]
-  },
-  {
-    "id": 1131,
-    "startAt": 1759435200000,
-    "endAt": 1759521599000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1328,
-        "limitedLoginBonusId": 1131,
-        "day": 1,
-        "resourceBoxId": 2097
-      }
-    ]
-  },
-  {
-    "id": 1132,
-    "startAt": 1759521600000,
-    "endAt": 1759607999000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1329,
-        "limitedLoginBonusId": 1132,
-        "day": 1,
-        "resourceBoxId": 2098
-      }
-    ]
-  },
-  {
-    "id": 1133,
-    "startAt": 1759608000000,
-    "endAt": 1759694399000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1330,
-        "limitedLoginBonusId": 1133,
-        "day": 1,
-        "resourceBoxId": 2095
-      }
-    ]
-  },
-  {
-    "id": 1134,
-    "startAt": 1759694400000,
-    "endAt": 1759780799000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1331,
-        "limitedLoginBonusId": 1134,
-        "day": 1,
-        "resourceBoxId": 2096
-      }
-    ]
-  },
-  {
-    "id": 1135,
-    "startAt": 1759780800000,
-    "endAt": 1759867199000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1332,
-        "limitedLoginBonusId": 1135,
-        "day": 1,
-        "resourceBoxId": 2097
-      }
-    ]
-  },
-  {
-    "id": 1136,
-    "startAt": 1759867200000,
-    "endAt": 1759953599000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1333,
-        "limitedLoginBonusId": 1136,
-        "day": 1,
-        "resourceBoxId": 2095
-      }
-    ]
-  },
-  {
-    "id": 1137,
-    "startAt": 1759953600000,
-    "endAt": 1760039999000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1334,
-        "limitedLoginBonusId": 1137,
-        "day": 1,
-        "resourceBoxId": 2096
-      }
-    ]
-  },
-  {
-    "id": 1138,
-    "startAt": 1760040000000,
-    "endAt": 1760126399000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1335,
-        "limitedLoginBonusId": 1138,
-        "day": 1,
-        "resourceBoxId": 2097
-      }
-    ]
-  },
-  {
-    "id": 1139,
-    "startAt": 1760126400000,
-    "endAt": 1760212799000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1336,
-        "limitedLoginBonusId": 1139,
-        "day": 1,
-        "resourceBoxId": 2098
-      }
-    ]
-  },
-  {
-    "id": 1140,
-    "startAt": 1760212800000,
-    "endAt": 1760299199000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1337,
-        "limitedLoginBonusId": 1140,
-        "day": 1,
-        "resourceBoxId": 2095
-      }
-    ]
-  },
-  {
-    "id": 1141,
-    "startAt": 1760299200000,
-    "endAt": 1760385599000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1338,
-        "limitedLoginBonusId": 1141,
-        "day": 1,
-        "resourceBoxId": 2096
-      }
-    ]
-  },
-  {
-    "id": 1142,
-    "startAt": 1760385600000,
-    "endAt": 1760471999000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1339,
-        "limitedLoginBonusId": 1142,
-        "day": 1,
-        "resourceBoxId": 2097
-      }
-    ]
-  },
-  {
-    "id": 1143,
-    "startAt": 1760472000000,
-    "endAt": 1760558399000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1340,
-        "limitedLoginBonusId": 1143,
-        "day": 1,
-        "resourceBoxId": 2095
-      }
-    ]
-  },
-  {
-    "id": 1144,
-    "startAt": 1760558400000,
-    "endAt": 1760644799000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1341,
-        "limitedLoginBonusId": 1144,
-        "day": 1,
-        "resourceBoxId": 2096
-      }
-    ]
-  },
-  {
-    "id": 1145,
-    "startAt": 1760644800000,
-    "endAt": 1760731199000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1342,
-        "limitedLoginBonusId": 1145,
-        "day": 1,
-        "resourceBoxId": 2097
-      }
-    ]
-  },
-  {
-    "id": 1146,
-    "startAt": 1760731200000,
-    "endAt": 1760817599000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1343,
-        "limitedLoginBonusId": 1146,
-        "day": 1,
-        "resourceBoxId": 2098
-      }
-    ]
-  },
-  {
-    "id": 1147,
-    "startAt": 1760817600000,
-    "endAt": 1760903999000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1344,
-        "limitedLoginBonusId": 1147,
-        "day": 1,
-        "resourceBoxId": 2095
-      }
-    ]
-  },
-  {
-    "id": 1148,
-    "startAt": 1760904000000,
-    "endAt": 1760990399000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1345,
-        "limitedLoginBonusId": 1148,
-        "day": 1,
-        "resourceBoxId": 2096
-      }
-    ]
-  },
-  {
-    "id": 1149,
-    "startAt": 1760990400000,
-    "endAt": 1761076799000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1346,
-        "limitedLoginBonusId": 1149,
-        "day": 1,
-        "resourceBoxId": 2097
-      }
-    ]
-  },
-  {
-    "id": 1150,
-    "startAt": 1761076800000,
-    "endAt": 1761163199000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1347,
-        "limitedLoginBonusId": 1150,
-        "day": 1,
-        "resourceBoxId": 2095
-      }
-    ]
-  },
-  {
-    "id": 1151,
-    "startAt": 1761163200000,
-    "endAt": 1761249599000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1348,
-        "limitedLoginBonusId": 1151,
-        "day": 1,
-        "resourceBoxId": 2096
-      }
-    ]
-  },
-  {
-    "id": 1152,
-    "startAt": 1761249600000,
-    "endAt": 1761335999000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1349,
-        "limitedLoginBonusId": 1152,
-        "day": 1,
-        "resourceBoxId": 2097
-      }
-    ]
-  },
-  {
-    "id": 1153,
-    "startAt": 1761336000000,
-    "endAt": 1761422399000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1350,
-        "limitedLoginBonusId": 1153,
-        "day": 1,
-        "resourceBoxId": 2098
-      }
-    ]
-  },
-  {
-    "id": 1154,
-    "startAt": 1761422400000,
-    "endAt": 1761508799000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1351,
-        "limitedLoginBonusId": 1154,
-        "day": 1,
-        "resourceBoxId": 2095
-      }
-    ]
-  },
-  {
-    "id": 1155,
-    "startAt": 1761508800000,
-    "endAt": 1761595199000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1352,
-        "limitedLoginBonusId": 1155,
-        "day": 1,
-        "resourceBoxId": 2096
-      }
-    ]
-  },
-  {
-    "id": 1156,
-    "startAt": 1761595200000,
-    "endAt": 1761681599000,
-    "assetbundleName": "0.5th_anniversary",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1353,
-        "limitedLoginBonusId": 1156,
-        "day": 1,
-        "resourceBoxId": 2097
-      }
-    ]
-  },
-  {
-    "id": 1157,
-    "startAt": 1761840000000,
-    "endAt": 1761926399000,
-    "assetbundleName": "halloween_2024",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1354,
-        "limitedLoginBonusId": 1157,
-        "day": 1,
-        "resourceBoxId": 2060
-      }
-    ]
-  },
-  {
-    "id": 1158,
-    "startAt": 1757073600000,
-    "endAt": 1757692740000,
-    "assetbundleName": "school_2025",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1355,
-        "limitedLoginBonusId": 1158,
-        "day": 1,
-        "resourceBoxId": 2099
-      },
-      {
-        "id": 1356,
-        "limitedLoginBonusId": 1158,
-        "day": 2,
-        "resourceBoxId": 2099
-      },
-      {
-        "id": 1357,
-        "limitedLoginBonusId": 1158,
-        "day": 3,
-        "resourceBoxId": 2100
-      }
-    ]
-  },
-  {
-    "id": 1159,
-    "startAt": 1758110400000,
-    "endAt": 1758643199000,
-    "assetbundleName": "school_2025_1",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1358,
-        "limitedLoginBonusId": 1159,
-        "day": 1,
-        "resourceBoxId": 2101
-      },
-      {
-        "id": 1359,
-        "limitedLoginBonusId": 1159,
-        "day": 2,
-        "resourceBoxId": 2102
-      }
-    ]
-  },
-  {
-    "id": 1160,
-    "startAt": 1764820800000,
-    "endAt": 1767628799000,
-    "assetbundleName": "login_maimai",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1360,
-        "limitedLoginBonusId": 1160,
-        "day": 1,
-        "resourceBoxId": 2103
-      }
-    ]
-  },
-  {
-    "id": 1161,
-    "startAt": 1764907200000,
-    "endAt": 1766159999000,
-    "assetbundleName": "login_es2",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1361,
-        "limitedLoginBonusId": 1161,
-        "day": 1,
-        "resourceBoxId": 2104
-      },
-      {
-        "id": 1362,
-        "limitedLoginBonusId": 1161,
-        "day": 2,
-        "resourceBoxId": 2105
-      },
-      {
-        "id": 1363,
-        "limitedLoginBonusId": 1161,
-        "day": 3,
-        "resourceBoxId": 2105
-      },
-      {
-        "id": 1364,
-        "limitedLoginBonusId": 1161,
-        "day": 4,
-        "resourceBoxId": 2105
-      },
-      {
-        "id": 1365,
-        "limitedLoginBonusId": 1161,
-        "day": 5,
-        "resourceBoxId": 2105
-      },
-      {
-        "id": 1366,
-        "limitedLoginBonusId": 1161,
-        "day": 6,
-        "resourceBoxId": 2105
-      },
-      {
-        "id": 1367,
-        "limitedLoginBonusId": 1161,
-        "day": 7,
-        "resourceBoxId": 2105
-      },
-      {
-        "id": 1368,
-        "limitedLoginBonusId": 1161,
-        "day": 8,
-        "resourceBoxId": 2105
-      },
-      {
-        "id": 1369,
-        "limitedLoginBonusId": 1161,
-        "day": 9,
-        "resourceBoxId": 2105
-      },
-      {
-        "id": 1370,
-        "limitedLoginBonusId": 1161,
-        "day": 10,
-        "resourceBoxId": 2105
-      },
-      {
-        "id": 1371,
-        "limitedLoginBonusId": 1161,
-        "day": 11,
-        "resourceBoxId": 2105
-      },
-      {
-        "id": 1372,
-        "limitedLoginBonusId": 1161,
-        "day": 12,
-        "resourceBoxId": 2105
-      },
-      {
-        "id": 1373,
-        "limitedLoginBonusId": 1161,
-        "day": 13,
-        "resourceBoxId": 2105
-      },
-      {
-        "id": 1374,
-        "limitedLoginBonusId": 1161,
-        "day": 14,
-        "resourceBoxId": 2105
-      },
-      {
-        "id": 1375,
-        "limitedLoginBonusId": 1161,
-        "day": 15,
-        "resourceBoxId": 2105
-      }
-    ]
-  },
-  {
-    "id": 1162,
-    "startAt": 1764129600000,
-    "endAt": 1764518399000,
-    "assetbundleName": "thanksday_2025",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1376,
-        "limitedLoginBonusId": 1162,
-        "day": 1,
-        "resourceBoxId": 2106
-      },
-      {
-        "id": 1377,
-        "limitedLoginBonusId": 1162,
-        "day": 2,
-        "resourceBoxId": 2106
-      },
-      {
-        "id": 1378,
-        "limitedLoginBonusId": 1162,
-        "day": 3,
-        "resourceBoxId": 2060
-      }
-    ]
-  },
-  {
-    "id": 1163,
-    "startAt": 1770523200000,
-    "endAt": 1771775999000,
-    "assetbundleName": "xny_2026",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1385,
-        "limitedLoginBonusId": 1163,
-        "day": 1,
-        "resourceBoxId": 2119
-      },
-      {
-        "id": 1386,
-        "limitedLoginBonusId": 1163,
-        "day": 2,
-        "resourceBoxId": 2120
-      },
-      {
-        "id": 1387,
-        "limitedLoginBonusId": 1163,
-        "day": 3,
-        "resourceBoxId": 2121
-      },
-      {
-        "id": 1388,
-        "limitedLoginBonusId": 1163,
-        "day": 4,
-        "resourceBoxId": 2122
-      },
-      {
-        "id": 1389,
-        "limitedLoginBonusId": 1163,
-        "day": 5,
-        "resourceBoxId": 2123
-      },
-      {
-        "id": 1390,
-        "limitedLoginBonusId": 1163,
-        "day": 6,
-        "resourceBoxId": 2124
-      },
-      {
-        "id": 1391,
-        "limitedLoginBonusId": 1163,
-        "day": 7,
-        "resourceBoxId": 2125
-      }
-    ]
-  },
-  {
-    "id": 1164,
-    "startAt": 1771171200000,
-    "endAt": 1772294399000,
-    "assetbundleName": "newyear_26_1",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1392,
-        "limitedLoginBonusId": 1164,
-        "day": 1,
-        "resourceBoxId": 2126
-      },
-      {
-        "id": 1393,
-        "limitedLoginBonusId": 1164,
-        "day": 2,
-        "resourceBoxId": 2127
-      },
-      {
-        "id": 1394,
-        "limitedLoginBonusId": 1164,
-        "day": 3,
-        "resourceBoxId": 2128
-      },
-      {
-        "id": 1395,
-        "limitedLoginBonusId": 1164,
-        "day": 4,
-        "resourceBoxId": 2129
-      },
-      {
-        "id": 1396,
-        "limitedLoginBonusId": 1164,
-        "day": 5,
-        "resourceBoxId": 2130
-      },
-      {
-        "id": 1397,
-        "limitedLoginBonusId": 1164,
-        "day": 6,
-        "resourceBoxId": 2131
-      },
-      {
-        "id": 1398,
-        "limitedLoginBonusId": 1164,
-        "day": 7,
-        "resourceBoxId": 2132
-      },
-      {
-        "id": 1399,
-        "limitedLoginBonusId": 1164,
-        "day": 8,
-        "resourceBoxId": 2133
-      }
-    ]
-  },
-  {
-    "id": 1165,
-    "startAt": 1772294400000,
-    "endAt": 1772380799000,
-    "assetbundleName": "jianianhua_1",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1400,
-        "limitedLoginBonusId": 1165,
-        "day": 1,
-        "resourceBoxId": 2091
-      }
-    ]
-  },
-  {
-    "id": 1166,
-    "startAt": 1772380800000,
     "endAt": 1772467199000,
-    "assetbundleName": "jianianhua_1",
+    "id": 1097,
     "limitedLoginBonusDetails": [
       {
-        "id": 1401,
-        "limitedLoginBonusId": 1166,
         "day": 1,
-        "resourceBoxId": 2091
+        "id": 1263,
+        "resourceBoxId": 5007,
+        "limitedLoginBonusId": 1097
       }
-    ]
+    ],
+    "startAt": 1772380800000
   },
   {
-    "id": 1167,
-    "startAt": 1772467200000,
-    "endAt": 1772553599000,
-    "assetbundleName": "jianianhua_1",
+    "assetbundleName": "birthday2025_10",
+    "endAt": 1753545599000,
+    "id": 1098,
     "limitedLoginBonusDetails": [
       {
-        "id": 1402,
-        "limitedLoginBonusId": 1167,
         "day": 1,
-        "resourceBoxId": 2091
+        "id": 1264,
+        "resourceBoxId": 2036,
+        "limitedLoginBonusId": 1098
       }
-    ]
+    ],
+    "startAt": 1753459200000
   },
   {
-    "id": 1168,
-    "startAt": 1772553600000,
-    "endAt": 1772639999000,
-    "assetbundleName": "jianianhua_1",
+    "assetbundleName": "birthday2025_11",
+    "endAt": 1762963199000,
+    "id": 1099,
     "limitedLoginBonusDetails": [
       {
-        "id": 1403,
-        "limitedLoginBonusId": 1168,
         "day": 1,
-        "resourceBoxId": 2091
+        "id": 1265,
+        "resourceBoxId": 5008,
+        "limitedLoginBonusId": 1099
       }
-    ]
+    ],
+    "startAt": 1762876800000
   },
   {
-    "id": 1169,
-    "startAt": 1772640000000,
-    "endAt": 1772726399000,
-    "assetbundleName": "jianianhua_1",
+    "assetbundleName": "birthday2025_14",
+    "endAt": 1757433599000,
+    "id": 1100,
     "limitedLoginBonusDetails": [
       {
-        "id": 1404,
-        "limitedLoginBonusId": 1169,
         "day": 1,
-        "resourceBoxId": 2091
+        "id": 1266,
+        "resourceBoxId": 2036,
+        "limitedLoginBonusId": 1100
       }
-    ]
+    ],
+    "startAt": 1757347200000
   },
   {
-    "id": 1170,
-    "startAt": 1772726400000,
-    "endAt": 1772812799000,
-    "assetbundleName": "jianianhua_1",
+    "assetbundleName": "birthday2025_15",
+    "endAt": 1753027199000,
+    "id": 1101,
     "limitedLoginBonusDetails": [
       {
-        "id": 1405,
-        "limitedLoginBonusId": 1170,
         "day": 1,
-        "resourceBoxId": 2091
+        "id": 1267,
+        "resourceBoxId": 2036,
+        "limitedLoginBonusId": 1101
       }
-    ]
+    ],
+    "startAt": 1752940800000
   },
   {
-    "id": 1171,
-    "startAt": 1772812800000,
-    "endAt": 1772899199000,
-    "assetbundleName": "jianianhua_1",
+    "assetbundleName": "birthday2025_16",
+    "endAt": 1750780799000,
+    "id": 1102,
     "limitedLoginBonusDetails": [
       {
-        "id": 1406,
-        "limitedLoginBonusId": 1171,
         "day": 1,
-        "resourceBoxId": 2091
+        "id": 1268,
+        "resourceBoxId": 2036,
+        "limitedLoginBonusId": 1102
       }
-    ]
+    ],
+    "startAt": 1750694400000
   },
   {
-    "id": 1172,
-    "startAt": 1773936000000,
-    "endAt": 1774540799000,
-    "assetbundleName": "4-5th_pre_anniversary",
+    "assetbundleName": "birthday2026_17",
+    "endAt": 1770739199000,
+    "id": 1103,
     "limitedLoginBonusDetails": [
       {
-        "id": 1407,
-        "limitedLoginBonusId": 1172,
         "day": 1,
-        "resourceBoxId": 2091
+        "id": 1269,
+        "resourceBoxId": 5009,
+        "limitedLoginBonusId": 1103
+      }
+    ],
+    "startAt": 1770652800000
+  },
+  {
+    "assetbundleName": "birthday2026_18",
+    "endAt": 1769529599000,
+    "id": 1104,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1270,
+        "resourceBoxId": 5010,
+        "limitedLoginBonusId": 1104
+      }
+    ],
+    "startAt": 1769443200000
+  },
+  {
+    "assetbundleName": "birthday2025_20",
+    "endAt": 1756310399000,
+    "id": 1105,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1271,
+        "resourceBoxId": 2036,
+        "limitedLoginBonusId": 1105
+      }
+    ],
+    "startAt": 1756224000000
+  },
+  {
+    "assetbundleName": "birthday2025_21",
+    "endAt": 1756655999000,
+    "id": 1106,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1272,
+        "resourceBoxId": 2079,
+        "limitedLoginBonusId": 1106
+      }
+    ],
+    "startAt": 1756569600000
+  },
+  {
+    "assetbundleName": "birthday2025_25",
+    "endAt": 1766851199000,
+    "id": 1107,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1273,
+        "resourceBoxId": 5011,
+        "limitedLoginBonusId": 1107
+      }
+    ],
+    "startAt": 1766764800000
+  },
+  {
+    "assetbundleName": "birthday2025_23",
+    "endAt": 1766851199000,
+    "id": 1108,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1274,
+        "resourceBoxId": 5012,
+        "limitedLoginBonusId": 1108
+      }
+    ],
+    "startAt": 1766764800000
+  },
+  {
+    "assetbundleName": "birthday2026_24",
+    "endAt": 1769788799000,
+    "id": 1109,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1275,
+        "resourceBoxId": 5013,
+        "limitedLoginBonusId": 1109
+      }
+    ],
+    "startAt": 1769702400000
+  },
+  {
+    "assetbundleName": "birthday2025_22",
+    "endAt": 1762358399000,
+    "id": 1110,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1276,
+        "resourceBoxId": 5014,
+        "limitedLoginBonusId": 1110
+      }
+    ],
+    "startAt": 1762272000000
+  },
+  {
+    "assetbundleName": "birthday2026_26",
+    "endAt": 1771343999000,
+    "id": 1111,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1277,
+        "resourceBoxId": 5015,
+        "limitedLoginBonusId": 1111
+      }
+    ],
+    "startAt": 1771257600000
+  },
+  {
+    "assetbundleName": "100day_anniversary",
+    "endAt": 1751659199000,
+    "id": 1112,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1278,
+        "resourceBoxId": 2063,
+        "limitedLoginBonusId": 1112
       },
       {
-        "id": 1408,
-        "limitedLoginBonusId": 1172,
         "day": 2,
-        "resourceBoxId": 2091
+        "id": 1279,
+        "resourceBoxId": 2063,
+        "limitedLoginBonusId": 1112
       },
       {
-        "id": 1409,
-        "limitedLoginBonusId": 1172,
         "day": 3,
-        "resourceBoxId": 2091
+        "id": 1280,
+        "resourceBoxId": 2063,
+        "limitedLoginBonusId": 1112
       },
       {
-        "id": 1410,
-        "limitedLoginBonusId": 1172,
         "day": 4,
-        "resourceBoxId": 2091
+        "id": 1281,
+        "resourceBoxId": 2063,
+        "limitedLoginBonusId": 1112
       },
       {
-        "id": 1411,
-        "limitedLoginBonusId": 1172,
         "day": 5,
-        "resourceBoxId": 2091
-      },
-      {
-        "id": 1412,
-        "limitedLoginBonusId": 1172,
-        "day": 6,
-        "resourceBoxId": 2091
-      },
-      {
-        "id": 1413,
-        "limitedLoginBonusId": 1172,
-        "day": 7,
-        "resourceBoxId": 2091
+        "id": 1282,
+        "resourceBoxId": 2063,
+        "limitedLoginBonusId": 1112
       }
-    ]
+    ],
+    "startAt": 1750651200000
   },
   {
-    "id": 1173,
-    "startAt": 1774972800000,
-    "endAt": 1775059140000,
-    "assetbundleName": "apirlfool_cn",
+    "assetbundleName": "100day_anniversary_1",
+    "endAt": 1753214399000,
+    "id": 1113,
     "limitedLoginBonusDetails": [
       {
-        "id": 1414,
-        "limitedLoginBonusId": 1173,
         "day": 1,
-        "resourceBoxId": 2134
-      }
-    ]
-  },
-  {
-    "id": 1174,
-    "startAt": 1775210400000,
-    "endAt": 1775678400000,
-    "assetbundleName": "spring_cn26",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1415,
-        "limitedLoginBonusId": 1174,
-        "day": 1,
-        "resourceBoxId": 2091
+        "id": 1283,
+        "resourceBoxId": 2064,
+        "limitedLoginBonusId": 1113
       },
       {
-        "id": 1416,
-        "limitedLoginBonusId": 1174,
         "day": 2,
-        "resourceBoxId": 2091
+        "id": 1284,
+        "resourceBoxId": 2064,
+        "limitedLoginBonusId": 1113
       },
       {
-        "id": 1417,
-        "limitedLoginBonusId": 1174,
         "day": 3,
-        "resourceBoxId": 2135
-      }
-    ]
-  },
-  {
-    "id": 1175,
-    "startAt": 1777608000000,
-    "endAt": 1779047999000,
-    "assetbundleName": "gw_2025",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1418,
-        "limitedLoginBonusId": 1175,
-        "day": 1,
-        "resourceBoxId": 2136
+        "id": 1285,
+        "resourceBoxId": 2064,
+        "limitedLoginBonusId": 1113
       },
       {
-        "id": 1419,
-        "limitedLoginBonusId": 1175,
-        "day": 2,
-        "resourceBoxId": 2137
-      },
-      {
-        "id": 1420,
-        "limitedLoginBonusId": 1175,
-        "day": 3,
-        "resourceBoxId": 2138
-      },
-      {
-        "id": 1421,
-        "limitedLoginBonusId": 1175,
         "day": 4,
-        "resourceBoxId": 2139
+        "id": 1286,
+        "resourceBoxId": 2065,
+        "limitedLoginBonusId": 1113
       },
       {
-        "id": 1422,
-        "limitedLoginBonusId": 1175,
         "day": 5,
-        "resourceBoxId": 2140
+        "id": 1287,
+        "resourceBoxId": 2065,
+        "limitedLoginBonusId": 1113
       },
       {
-        "id": 1423,
-        "limitedLoginBonusId": 1175,
         "day": 6,
-        "resourceBoxId": 2141
+        "id": 1288,
+        "resourceBoxId": 2065,
+        "limitedLoginBonusId": 1113
       },
       {
-        "id": 1424,
-        "limitedLoginBonusId": 1175,
         "day": 7,
-        "resourceBoxId": 2142
+        "id": 1289,
+        "resourceBoxId": 2065,
+        "limitedLoginBonusId": 1113
       },
       {
-        "id": 1425,
-        "limitedLoginBonusId": 1175,
         "day": 8,
-        "resourceBoxId": 2143
+        "id": 1290,
+        "resourceBoxId": 2065,
+        "limitedLoginBonusId": 1113
+      },
+      {
+        "day": 9,
+        "id": 1291,
+        "resourceBoxId": 2065,
+        "limitedLoginBonusId": 1113
+      },
+      {
+        "day": 10,
+        "id": 1292,
+        "resourceBoxId": 2065,
+        "limitedLoginBonusId": 1113
       }
-    ]
+    ],
+    "startAt": 1751688000000
   },
   {
-    "id": 1176,
-    "startAt": 1780027200000,
-    "endAt": 1780862340000,
+    "assetbundleName": "restday2025_0718",
+    "endAt": 1753041599000,
+    "id": 1114,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1293,
+        "resourceBoxId": 2053,
+        "limitedLoginBonusId": 1114
+      },
+      {
+        "day": 2,
+        "id": 1294,
+        "resourceBoxId": 2054,
+        "limitedLoginBonusId": 1114
+      },
+      {
+        "day": 3,
+        "id": 1295,
+        "resourceBoxId": 2076,
+        "limitedLoginBonusId": 1114
+      }
+    ],
+    "startAt": 1752782400000
+  },
+  {
+    "assetbundleName": "chinajoy_2025",
+    "endAt": 1754063999000,
+    "id": 1115,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1296,
+        "resourceBoxId": 2053,
+        "limitedLoginBonusId": 1115
+      }
+    ],
+    "startAt": 1753977600000
+  },
+  {
+    "assetbundleName": "chinajoy_2025",
+    "endAt": 1754150399000,
+    "id": 1116,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1297,
+        "resourceBoxId": 2053,
+        "limitedLoginBonusId": 1116
+      }
+    ],
+    "startAt": 1754064000000
+  },
+  {
+    "assetbundleName": "chinajoy_2025",
+    "endAt": 1754236799000,
+    "id": 1117,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1298,
+        "resourceBoxId": 2053,
+        "limitedLoginBonusId": 1117
+      }
+    ],
+    "startAt": 1754150400000
+  },
+  {
+    "assetbundleName": "chinajoy_2025",
+    "endAt": 1754323199000,
+    "id": 1118,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1299,
+        "resourceBoxId": 2077,
+        "limitedLoginBonusId": 1118
+      }
+    ],
+    "startAt": 1754236800000
+  },
+  {
+    "assetbundleName": "restday2025_0808",
+    "endAt": 1754855999000,
+    "id": 1119,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1300,
+        "resourceBoxId": 2053,
+        "limitedLoginBonusId": 1119
+      },
+      {
+        "day": 2,
+        "id": 1301,
+        "resourceBoxId": 2054,
+        "limitedLoginBonusId": 1119
+      },
+      {
+        "day": 3,
+        "id": 1302,
+        "resourceBoxId": 2078,
+        "limitedLoginBonusId": 1119
+      }
+    ],
+    "startAt": 1754596800000
+  },
+  {
+    "assetbundleName": "sekai2025_0812",
+    "endAt": 1757519999000,
+    "id": 1120,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1303,
+        "resourceBoxId": 2080,
+        "limitedLoginBonusId": 1120
+      },
+      {
+        "day": 2,
+        "id": 1304,
+        "resourceBoxId": 2081,
+        "limitedLoginBonusId": 1120
+      },
+      {
+        "day": 3,
+        "id": 1305,
+        "resourceBoxId": 2082,
+        "limitedLoginBonusId": 1120
+      },
+      {
+        "day": 4,
+        "id": 1306,
+        "resourceBoxId": 2083,
+        "limitedLoginBonusId": 1120
+      },
+      {
+        "day": 5,
+        "id": 1307,
+        "resourceBoxId": 2084,
+        "limitedLoginBonusId": 1120
+      },
+      {
+        "day": 6,
+        "id": 1308,
+        "resourceBoxId": 2085,
+        "limitedLoginBonusId": 1120
+      },
+      {
+        "day": 7,
+        "id": 1309,
+        "resourceBoxId": 2086,
+        "limitedLoginBonusId": 1120
+      }
+    ],
+    "startAt": 1756699200000
+  },
+  {
+    "assetbundleName": "restday2025_0912",
+    "endAt": 1757879999000,
+    "id": 1121,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1310,
+        "resourceBoxId": 2053,
+        "limitedLoginBonusId": 1121
+      },
+      {
+        "day": 2,
+        "id": 1311,
+        "resourceBoxId": 2054,
+        "limitedLoginBonusId": 1121
+      },
+      {
+        "day": 3,
+        "id": 1312,
+        "resourceBoxId": 2087,
+        "limitedLoginBonusId": 1121
+      }
+    ],
+    "startAt": 1757620800000
+  },
+  {
+    "assetbundleName": "summer2025_0821",
+    "endAt": 1756310340000,
+    "id": 1122,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1313,
+        "resourceBoxId": 2088,
+        "limitedLoginBonusId": 1122
+      },
+      {
+        "day": 2,
+        "id": 1314,
+        "resourceBoxId": 2089,
+        "limitedLoginBonusId": 1122
+      },
+      {
+        "day": 3,
+        "id": 1315,
+        "resourceBoxId": 2090,
+        "limitedLoginBonusId": 1122
+      },
+      {
+        "day": 4,
+        "id": 1316,
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 1122
+      },
+      {
+        "day": 5,
+        "id": 1317,
+        "resourceBoxId": 2092,
+        "limitedLoginBonusId": 1122
+      }
+    ],
+    "startAt": 1755748800000
+  },
+  {
+    "assetbundleName": "magicalmirai_2025",
+    "endAt": 1756655999000,
+    "id": 1123,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1318,
+        "resourceBoxId": 2093,
+        "limitedLoginBonusId": 1123
+      }
+    ],
+    "startAt": 1756440000000
+  },
+  {
+    "assetbundleName": "restday2025_weekend",
+    "endAt": 1755547199000,
+    "id": 1124,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1319,
+        "resourceBoxId": 2050,
+        "limitedLoginBonusId": 1124
+      },
+      {
+        "day": 2,
+        "id": 1320,
+        "resourceBoxId": 2051,
+        "limitedLoginBonusId": 1124
+      },
+      {
+        "day": 3,
+        "id": 1321,
+        "resourceBoxId": 2052,
+        "limitedLoginBonusId": 1124
+      }
+    ],
+    "startAt": 1755201600000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1759003199000,
+    "id": 1125,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1322,
+        "resourceBoxId": 2094,
+        "limitedLoginBonusId": 1125
+      }
+    ],
+    "startAt": 1758945600000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1759089599000,
+    "id": 1126,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1323,
+        "resourceBoxId": 2095,
+        "limitedLoginBonusId": 1126
+      }
+    ],
+    "startAt": 1759003200000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1759175999000,
+    "id": 1127,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1324,
+        "resourceBoxId": 2096,
+        "limitedLoginBonusId": 1127
+      }
+    ],
+    "startAt": 1759089600000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1759262399000,
+    "id": 1128,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1325,
+        "resourceBoxId": 2097,
+        "limitedLoginBonusId": 1128
+      }
+    ],
+    "startAt": 1759176000000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1759348799000,
+    "id": 1129,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1326,
+        "resourceBoxId": 2095,
+        "limitedLoginBonusId": 1129
+      }
+    ],
+    "startAt": 1759262400000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1759435199000,
+    "id": 1130,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1327,
+        "resourceBoxId": 2096,
+        "limitedLoginBonusId": 1130
+      }
+    ],
+    "startAt": 1759348800000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1759521599000,
+    "id": 1131,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1328,
+        "resourceBoxId": 2097,
+        "limitedLoginBonusId": 1131
+      }
+    ],
+    "startAt": 1759435200000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1759607999000,
+    "id": 1132,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1329,
+        "resourceBoxId": 2098,
+        "limitedLoginBonusId": 1132
+      }
+    ],
+    "startAt": 1759521600000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1759694399000,
+    "id": 1133,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1330,
+        "resourceBoxId": 2095,
+        "limitedLoginBonusId": 1133
+      }
+    ],
+    "startAt": 1759608000000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1759780799000,
+    "id": 1134,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1331,
+        "resourceBoxId": 2096,
+        "limitedLoginBonusId": 1134
+      }
+    ],
+    "startAt": 1759694400000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1759867199000,
+    "id": 1135,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1332,
+        "resourceBoxId": 2097,
+        "limitedLoginBonusId": 1135
+      }
+    ],
+    "startAt": 1759780800000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1759953599000,
+    "id": 1136,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1333,
+        "resourceBoxId": 2095,
+        "limitedLoginBonusId": 1136
+      }
+    ],
+    "startAt": 1759867200000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1760039999000,
+    "id": 1137,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1334,
+        "resourceBoxId": 2096,
+        "limitedLoginBonusId": 1137
+      }
+    ],
+    "startAt": 1759953600000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1760126399000,
+    "id": 1138,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1335,
+        "resourceBoxId": 2097,
+        "limitedLoginBonusId": 1138
+      }
+    ],
+    "startAt": 1760040000000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1760212799000,
+    "id": 1139,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1336,
+        "resourceBoxId": 2098,
+        "limitedLoginBonusId": 1139
+      }
+    ],
+    "startAt": 1760126400000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1760299199000,
+    "id": 1140,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1337,
+        "resourceBoxId": 2095,
+        "limitedLoginBonusId": 1140
+      }
+    ],
+    "startAt": 1760212800000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1760385599000,
+    "id": 1141,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1338,
+        "resourceBoxId": 2096,
+        "limitedLoginBonusId": 1141
+      }
+    ],
+    "startAt": 1760299200000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1760471999000,
+    "id": 1142,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1339,
+        "resourceBoxId": 2097,
+        "limitedLoginBonusId": 1142
+      }
+    ],
+    "startAt": 1760385600000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1760558399000,
+    "id": 1143,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1340,
+        "resourceBoxId": 2095,
+        "limitedLoginBonusId": 1143
+      }
+    ],
+    "startAt": 1760472000000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1760644799000,
+    "id": 1144,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1341,
+        "resourceBoxId": 2096,
+        "limitedLoginBonusId": 1144
+      }
+    ],
+    "startAt": 1760558400000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1760731199000,
+    "id": 1145,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1342,
+        "resourceBoxId": 2097,
+        "limitedLoginBonusId": 1145
+      }
+    ],
+    "startAt": 1760644800000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1760817599000,
+    "id": 1146,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1343,
+        "resourceBoxId": 2098,
+        "limitedLoginBonusId": 1146
+      }
+    ],
+    "startAt": 1760731200000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1760903999000,
+    "id": 1147,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1344,
+        "resourceBoxId": 2095,
+        "limitedLoginBonusId": 1147
+      }
+    ],
+    "startAt": 1760817600000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1760990399000,
+    "id": 1148,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1345,
+        "resourceBoxId": 2096,
+        "limitedLoginBonusId": 1148
+      }
+    ],
+    "startAt": 1760904000000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1761076799000,
+    "id": 1149,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1346,
+        "resourceBoxId": 2097,
+        "limitedLoginBonusId": 1149
+      }
+    ],
+    "startAt": 1760990400000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1761163199000,
+    "id": 1150,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1347,
+        "resourceBoxId": 2095,
+        "limitedLoginBonusId": 1150
+      }
+    ],
+    "startAt": 1761076800000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1761249599000,
+    "id": 1151,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1348,
+        "resourceBoxId": 2096,
+        "limitedLoginBonusId": 1151
+      }
+    ],
+    "startAt": 1761163200000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1761335999000,
+    "id": 1152,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1349,
+        "resourceBoxId": 2097,
+        "limitedLoginBonusId": 1152
+      }
+    ],
+    "startAt": 1761249600000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1761422399000,
+    "id": 1153,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1350,
+        "resourceBoxId": 2098,
+        "limitedLoginBonusId": 1153
+      }
+    ],
+    "startAt": 1761336000000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1761508799000,
+    "id": 1154,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1351,
+        "resourceBoxId": 2095,
+        "limitedLoginBonusId": 1154
+      }
+    ],
+    "startAt": 1761422400000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1761595199000,
+    "id": 1155,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1352,
+        "resourceBoxId": 2096,
+        "limitedLoginBonusId": 1155
+      }
+    ],
+    "startAt": 1761508800000
+  },
+  {
+    "assetbundleName": "0.5th_anniversary",
+    "endAt": 1761681599000,
+    "id": 1156,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1353,
+        "resourceBoxId": 2097,
+        "limitedLoginBonusId": 1156
+      }
+    ],
+    "startAt": 1761595200000
+  },
+  {
+    "assetbundleName": "halloween_2024",
+    "endAt": 1761926399000,
+    "id": 1157,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1354,
+        "resourceBoxId": 2060,
+        "limitedLoginBonusId": 1157
+      }
+    ],
+    "startAt": 1761840000000
+  },
+  {
+    "assetbundleName": "school_2025",
+    "endAt": 1757692740000,
+    "id": 1158,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1355,
+        "resourceBoxId": 2099,
+        "limitedLoginBonusId": 1158
+      },
+      {
+        "day": 2,
+        "id": 1356,
+        "resourceBoxId": 2099,
+        "limitedLoginBonusId": 1158
+      },
+      {
+        "day": 3,
+        "id": 1357,
+        "resourceBoxId": 2100,
+        "limitedLoginBonusId": 1158
+      }
+    ],
+    "startAt": 1757073600000
+  },
+  {
+    "assetbundleName": "school_2025_1",
+    "endAt": 1758643199000,
+    "id": 1159,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1358,
+        "resourceBoxId": 2101,
+        "limitedLoginBonusId": 1159
+      },
+      {
+        "day": 2,
+        "id": 1359,
+        "resourceBoxId": 2102,
+        "limitedLoginBonusId": 1159
+      }
+    ],
+    "startAt": 1758110400000
+  },
+  {
+    "assetbundleName": "login_maimai",
+    "endAt": 1767628799000,
+    "id": 1160,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1360,
+        "resourceBoxId": 2103,
+        "limitedLoginBonusId": 1160
+      }
+    ],
+    "startAt": 1764820800000
+  },
+  {
+    "assetbundleName": "login_es2",
+    "endAt": 1766159999000,
+    "id": 1161,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1361,
+        "resourceBoxId": 2104,
+        "limitedLoginBonusId": 1161
+      },
+      {
+        "day": 2,
+        "id": 1362,
+        "resourceBoxId": 2105,
+        "limitedLoginBonusId": 1161
+      },
+      {
+        "day": 3,
+        "id": 1363,
+        "resourceBoxId": 2105,
+        "limitedLoginBonusId": 1161
+      },
+      {
+        "day": 4,
+        "id": 1364,
+        "resourceBoxId": 2105,
+        "limitedLoginBonusId": 1161
+      },
+      {
+        "day": 5,
+        "id": 1365,
+        "resourceBoxId": 2105,
+        "limitedLoginBonusId": 1161
+      },
+      {
+        "day": 6,
+        "id": 1366,
+        "resourceBoxId": 2105,
+        "limitedLoginBonusId": 1161
+      },
+      {
+        "day": 7,
+        "id": 1367,
+        "resourceBoxId": 2105,
+        "limitedLoginBonusId": 1161
+      },
+      {
+        "day": 8,
+        "id": 1368,
+        "resourceBoxId": 2105,
+        "limitedLoginBonusId": 1161
+      },
+      {
+        "day": 9,
+        "id": 1369,
+        "resourceBoxId": 2105,
+        "limitedLoginBonusId": 1161
+      },
+      {
+        "day": 10,
+        "id": 1370,
+        "resourceBoxId": 2105,
+        "limitedLoginBonusId": 1161
+      },
+      {
+        "day": 11,
+        "id": 1371,
+        "resourceBoxId": 2105,
+        "limitedLoginBonusId": 1161
+      },
+      {
+        "day": 12,
+        "id": 1372,
+        "resourceBoxId": 2105,
+        "limitedLoginBonusId": 1161
+      },
+      {
+        "day": 13,
+        "id": 1373,
+        "resourceBoxId": 2105,
+        "limitedLoginBonusId": 1161
+      },
+      {
+        "day": 14,
+        "id": 1374,
+        "resourceBoxId": 2105,
+        "limitedLoginBonusId": 1161
+      },
+      {
+        "day": 15,
+        "id": 1375,
+        "resourceBoxId": 2105,
+        "limitedLoginBonusId": 1161
+      }
+    ],
+    "startAt": 1764907200000
+  },
+  {
+    "assetbundleName": "thanksday_2025",
+    "endAt": 1764518399000,
+    "id": 1162,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1376,
+        "resourceBoxId": 2106,
+        "limitedLoginBonusId": 1162
+      },
+      {
+        "day": 2,
+        "id": 1377,
+        "resourceBoxId": 2106,
+        "limitedLoginBonusId": 1162
+      },
+      {
+        "day": 3,
+        "id": 1378,
+        "resourceBoxId": 2060,
+        "limitedLoginBonusId": 1162
+      }
+    ],
+    "startAt": 1764129600000
+  },
+  {
+    "assetbundleName": "xny_2026",
+    "endAt": 1771775999000,
+    "id": 1163,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1385,
+        "resourceBoxId": 2119,
+        "limitedLoginBonusId": 1163
+      },
+      {
+        "day": 2,
+        "id": 1386,
+        "resourceBoxId": 2120,
+        "limitedLoginBonusId": 1163
+      },
+      {
+        "day": 3,
+        "id": 1387,
+        "resourceBoxId": 2121,
+        "limitedLoginBonusId": 1163
+      },
+      {
+        "day": 4,
+        "id": 1388,
+        "resourceBoxId": 2122,
+        "limitedLoginBonusId": 1163
+      },
+      {
+        "day": 5,
+        "id": 1389,
+        "resourceBoxId": 2123,
+        "limitedLoginBonusId": 1163
+      },
+      {
+        "day": 6,
+        "id": 1390,
+        "resourceBoxId": 2124,
+        "limitedLoginBonusId": 1163
+      },
+      {
+        "day": 7,
+        "id": 1391,
+        "resourceBoxId": 2125,
+        "limitedLoginBonusId": 1163
+      }
+    ],
+    "startAt": 1770523200000
+  },
+  {
+    "assetbundleName": "newyear_26_1",
+    "endAt": 1772294399000,
+    "id": 1164,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1392,
+        "resourceBoxId": 2126,
+        "limitedLoginBonusId": 1164
+      },
+      {
+        "day": 2,
+        "id": 1393,
+        "resourceBoxId": 2127,
+        "limitedLoginBonusId": 1164
+      },
+      {
+        "day": 3,
+        "id": 1394,
+        "resourceBoxId": 2128,
+        "limitedLoginBonusId": 1164
+      },
+      {
+        "day": 4,
+        "id": 1395,
+        "resourceBoxId": 2129,
+        "limitedLoginBonusId": 1164
+      },
+      {
+        "day": 5,
+        "id": 1396,
+        "resourceBoxId": 2130,
+        "limitedLoginBonusId": 1164
+      },
+      {
+        "day": 6,
+        "id": 1397,
+        "resourceBoxId": 2131,
+        "limitedLoginBonusId": 1164
+      },
+      {
+        "day": 7,
+        "id": 1398,
+        "resourceBoxId": 2132,
+        "limitedLoginBonusId": 1164
+      },
+      {
+        "day": 8,
+        "id": 1399,
+        "resourceBoxId": 2133,
+        "limitedLoginBonusId": 1164
+      }
+    ],
+    "startAt": 1771171200000
+  },
+  {
+    "assetbundleName": "jianianhua_1",
+    "endAt": 1772380799000,
+    "id": 1165,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1400,
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 1165
+      }
+    ],
+    "startAt": 1772294400000
+  },
+  {
+    "assetbundleName": "jianianhua_1",
+    "endAt": 1772467199000,
+    "id": 1166,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1401,
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 1166
+      }
+    ],
+    "startAt": 1772380800000
+  },
+  {
+    "assetbundleName": "jianianhua_1",
+    "endAt": 1772553599000,
+    "id": 1167,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1402,
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 1167
+      }
+    ],
+    "startAt": 1772467200000
+  },
+  {
+    "assetbundleName": "jianianhua_1",
+    "endAt": 1772639999000,
+    "id": 1168,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1403,
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 1168
+      }
+    ],
+    "startAt": 1772553600000
+  },
+  {
+    "assetbundleName": "jianianhua_1",
+    "endAt": 1772726399000,
+    "id": 1169,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1404,
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 1169
+      }
+    ],
+    "startAt": 1772640000000
+  },
+  {
+    "assetbundleName": "jianianhua_1",
+    "endAt": 1772812799000,
+    "id": 1170,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1405,
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 1170
+      }
+    ],
+    "startAt": 1772726400000
+  },
+  {
+    "assetbundleName": "jianianhua_1",
+    "endAt": 1772899199000,
+    "id": 1171,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1406,
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 1171
+      }
+    ],
+    "startAt": 1772812800000
+  },
+  {
+    "assetbundleName": "4-5th_pre_anniversary",
+    "endAt": 1774540799000,
+    "id": 1172,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1407,
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 1172
+      },
+      {
+        "day": 2,
+        "id": 1408,
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 1172
+      },
+      {
+        "day": 3,
+        "id": 1409,
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 1172
+      },
+      {
+        "day": 4,
+        "id": 1410,
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 1172
+      },
+      {
+        "day": 5,
+        "id": 1411,
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 1172
+      },
+      {
+        "day": 6,
+        "id": 1412,
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 1172
+      },
+      {
+        "day": 7,
+        "id": 1413,
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 1172
+      }
+    ],
+    "startAt": 1773936000000
+  },
+  {
+    "assetbundleName": "apirlfool_cn",
+    "endAt": 1775059140000,
+    "id": 1173,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1414,
+        "resourceBoxId": 2134,
+        "limitedLoginBonusId": 1173
+      }
+    ],
+    "startAt": 1774972800000
+  },
+  {
+    "assetbundleName": "spring_cn26",
+    "endAt": 1775678400000,
+    "id": 1174,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1415,
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 1174
+      },
+      {
+        "day": 2,
+        "id": 1416,
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 1174
+      },
+      {
+        "day": 3,
+        "id": 1417,
+        "resourceBoxId": 2135,
+        "limitedLoginBonusId": 1174
+      }
+    ],
+    "startAt": 1775210400000
+  },
+  {
+    "assetbundleName": "gw_2025",
+    "endAt": 1779047999000,
+    "id": 1175,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1418,
+        "resourceBoxId": 2136,
+        "limitedLoginBonusId": 1175
+      },
+      {
+        "day": 2,
+        "id": 1419,
+        "resourceBoxId": 2137,
+        "limitedLoginBonusId": 1175
+      },
+      {
+        "day": 3,
+        "id": 1420,
+        "resourceBoxId": 2138,
+        "limitedLoginBonusId": 1175
+      },
+      {
+        "day": 4,
+        "id": 1421,
+        "resourceBoxId": 2139,
+        "limitedLoginBonusId": 1175
+      },
+      {
+        "day": 5,
+        "id": 1422,
+        "resourceBoxId": 2140,
+        "limitedLoginBonusId": 1175
+      },
+      {
+        "day": 6,
+        "id": 1423,
+        "resourceBoxId": 2141,
+        "limitedLoginBonusId": 1175
+      },
+      {
+        "day": 7,
+        "id": 1424,
+        "resourceBoxId": 2142,
+        "limitedLoginBonusId": 1175
+      },
+      {
+        "day": 8,
+        "id": 1425,
+        "resourceBoxId": 2143,
+        "limitedLoginBonusId": 1175
+      }
+    ],
+    "startAt": 1777608000000
+  },
+  {
     "assetbundleName": "cn61_26",
+    "endAt": 1780862340000,
+    "id": 1176,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1426,
-        "limitedLoginBonusId": 1176,
-        "day": 1,
-        "resourceBoxId": 2144
+        "resourceBoxId": 2144,
+        "limitedLoginBonusId": 1176
       },
       {
+        "day": 2,
         "id": 1427,
-        "limitedLoginBonusId": 1176,
-        "day": 2,
-        "resourceBoxId": 2145
+        "resourceBoxId": 2145,
+        "limitedLoginBonusId": 1176
       },
       {
+        "day": 3,
         "id": 1428,
-        "limitedLoginBonusId": 1176,
-        "day": 3,
-        "resourceBoxId": 2146
+        "resourceBoxId": 2146,
+        "limitedLoginBonusId": 1176
       }
-    ]
+    ],
+    "startAt": 1780027200000
   },
   {
-    "id": 1177,
-    "startAt": 1782446400000,
-    "endAt": 1783022340000,
     "assetbundleName": "summer_cn_261",
+    "endAt": 1783022340000,
+    "id": 1177,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1429,
-        "limitedLoginBonusId": 1177,
-        "day": 1,
-        "resourceBoxId": 2147
+        "resourceBoxId": 2147,
+        "limitedLoginBonusId": 1177
       },
       {
+        "day": 2,
         "id": 1430,
-        "limitedLoginBonusId": 1177,
-        "day": 2,
-        "resourceBoxId": 2148
+        "resourceBoxId": 2148,
+        "limitedLoginBonusId": 1177
       },
       {
+        "day": 3,
         "id": 1431,
-        "limitedLoginBonusId": 1177,
-        "day": 3,
-        "resourceBoxId": 2149
+        "resourceBoxId": 2149,
+        "limitedLoginBonusId": 1177
       },
       {
+        "day": 4,
         "id": 1432,
-        "limitedLoginBonusId": 1177,
-        "day": 4,
-        "resourceBoxId": 2150
+        "resourceBoxId": 2150,
+        "limitedLoginBonusId": 1177
       },
       {
+        "day": 5,
         "id": 1433,
-        "limitedLoginBonusId": 1177,
-        "day": 5,
-        "resourceBoxId": 2151
+        "resourceBoxId": 2151,
+        "limitedLoginBonusId": 1177
       },
       {
+        "day": 6,
         "id": 1434,
-        "limitedLoginBonusId": 1177,
-        "day": 6,
-        "resourceBoxId": 2152
+        "resourceBoxId": 2152,
+        "limitedLoginBonusId": 1177
       },
       {
+        "day": 7,
         "id": 1435,
-        "limitedLoginBonusId": 1177,
-        "day": 7,
-        "resourceBoxId": 2153
+        "resourceBoxId": 2153,
+        "limitedLoginBonusId": 1177
       }
-    ]
+    ],
+    "startAt": 1782446400000
   },
   {
-    "id": 1178,
-    "startAt": 1783137600000,
-    "endAt": 1784491140000,
     "assetbundleName": "summer_cn_262",
+    "endAt": 1784491140000,
+    "id": 1178,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1436,
-        "limitedLoginBonusId": 1178,
-        "day": 1,
-        "resourceBoxId": 2154
+        "resourceBoxId": 2154,
+        "limitedLoginBonusId": 1178
       },
       {
+        "day": 2,
         "id": 1437,
-        "limitedLoginBonusId": 1178,
-        "day": 2,
-        "resourceBoxId": 2155
+        "resourceBoxId": 2155,
+        "limitedLoginBonusId": 1178
       },
       {
+        "day": 3,
         "id": 1438,
-        "limitedLoginBonusId": 1178,
-        "day": 3,
-        "resourceBoxId": 2156
+        "resourceBoxId": 2156,
+        "limitedLoginBonusId": 1178
       },
       {
+        "day": 4,
         "id": 1439,
-        "limitedLoginBonusId": 1178,
-        "day": 4,
-        "resourceBoxId": 2157
+        "resourceBoxId": 2157,
+        "limitedLoginBonusId": 1178
       },
       {
+        "day": 5,
         "id": 1440,
-        "limitedLoginBonusId": 1178,
-        "day": 5,
-        "resourceBoxId": 2158
+        "resourceBoxId": 2158,
+        "limitedLoginBonusId": 1178
       },
       {
+        "day": 6,
         "id": 1441,
-        "limitedLoginBonusId": 1178,
-        "day": 6,
-        "resourceBoxId": 2159
+        "resourceBoxId": 2159,
+        "limitedLoginBonusId": 1178
       },
       {
+        "day": 7,
         "id": 1442,
-        "limitedLoginBonusId": 1178,
-        "day": 7,
-        "resourceBoxId": 2160
+        "resourceBoxId": 2160,
+        "limitedLoginBonusId": 1178
       }
-    ]
+    ],
+    "startAt": 1783137600000
   },
   {
-    "id": 1179,
-    "startAt": 1781798400000,
-    "endAt": 1782143940000,
     "assetbundleName": "duanwu_26",
+    "endAt": 1782143940000,
+    "id": 1179,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1443,
-        "limitedLoginBonusId": 1179,
-        "day": 1,
-        "resourceBoxId": 2161
+        "resourceBoxId": 2161,
+        "limitedLoginBonusId": 1179
       }
-    ]
+    ],
+    "startAt": 1781798400000
   },
   {
-    "id": 1180,
-    "startAt": 1781938800000,
-    "endAt": 1783007999000,
     "assetbundleName": "dc_tieup_2026",
+    "endAt": 1783007999000,
+    "id": 1180,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 1444,
-        "limitedLoginBonusId": 1180,
-        "day": 1,
-        "resourceBoxId": 2162
+        "resourceBoxId": 2162,
+        "limitedLoginBonusId": 1180
       },
       {
-        "id": 1445,
-        "limitedLoginBonusId": 1180,
         "day": 2,
-        "resourceBoxId": 2163
+        "id": 1445,
+        "resourceBoxId": 2163,
+        "limitedLoginBonusId": 1180
       },
       {
-        "id": 1446,
-        "limitedLoginBonusId": 1180,
         "day": 3,
-        "resourceBoxId": 2164
+        "id": 1446,
+        "resourceBoxId": 2164,
+        "limitedLoginBonusId": 1180
       },
       {
-        "id": 1447,
-        "limitedLoginBonusId": 1180,
         "day": 4,
-        "resourceBoxId": 2165
+        "id": 1447,
+        "resourceBoxId": 2165,
+        "limitedLoginBonusId": 1180
       },
       {
-        "id": 1448,
-        "limitedLoginBonusId": 1180,
         "day": 5,
-        "resourceBoxId": 2166
+        "id": 1448,
+        "resourceBoxId": 2166,
+        "limitedLoginBonusId": 1180
       },
       {
-        "id": 1449,
-        "limitedLoginBonusId": 1180,
         "day": 6,
-        "resourceBoxId": 2167
+        "id": 1449,
+        "resourceBoxId": 2167,
+        "limitedLoginBonusId": 1180
       },
       {
-        "id": 1450,
-        "limitedLoginBonusId": 1180,
         "day": 7,
-        "resourceBoxId": 2168
+        "id": 1450,
+        "resourceBoxId": 2168,
+        "limitedLoginBonusId": 1180
       }
-    ]
+    ],
+    "startAt": 1781938800000
   },
   {
-    "id": 26001,
-    "startAt": 1786377600000,
-    "endAt": 1786463999000,
     "assetbundleName": "birthday2026_01",
+    "endAt": 1786463999000,
+    "id": 26001,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26001,
-        "limitedLoginBonusId": 26001,
-        "day": 1,
-        "resourceBoxId": 26001
+        "resourceBoxId": 26001,
+        "limitedLoginBonusId": 26001
       }
-    ]
+    ],
+    "startAt": 1786377600000
   },
   {
-    "id": 26002,
-    "startAt": 1778256000000,
-    "endAt": 1778342399000,
     "assetbundleName": "birthday2026_02",
+    "endAt": 1778342399000,
+    "id": 26002,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26002,
-        "limitedLoginBonusId": 26002,
-        "day": 1,
-        "resourceBoxId": 26002
+        "resourceBoxId": 26002,
+        "limitedLoginBonusId": 26002
       }
-    ]
+    ],
+    "startAt": 1778256000000
   },
   {
-    "id": 26003,
-    "startAt": 1793030400000,
-    "endAt": 1793116799000,
     "assetbundleName": "birthday2026_03",
+    "endAt": 1793116799000,
+    "id": 26003,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26003,
-        "limitedLoginBonusId": 26003,
-        "day": 1,
-        "resourceBoxId": 26003
+        "resourceBoxId": 26003,
+        "limitedLoginBonusId": 26003
       }
-    ]
+    ],
+    "startAt": 1793030400000
   },
   {
-    "id": 26004,
-    "startAt": 1799337600000,
-    "endAt": 1799423999000,
     "assetbundleName": "birthday2027_04",
+    "endAt": 1799423999000,
+    "id": 26004,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26004,
-        "limitedLoginBonusId": 26004,
-        "day": 1,
-        "resourceBoxId": 26004
+        "resourceBoxId": 26004,
+        "limitedLoginBonusId": 26004
       }
-    ]
+    ],
+    "startAt": 1799337600000
   },
   {
-    "id": 26005,
-    "startAt": 1776096000000,
-    "endAt": 1776182399000,
     "assetbundleName": "birthday2026_05",
+    "endAt": 1776182399000,
+    "id": 26005,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26005,
-        "limitedLoginBonusId": 26005,
-        "day": 1,
-        "resourceBoxId": 26005
+        "resourceBoxId": 26005,
+        "limitedLoginBonusId": 26005
       }
-    ]
+    ],
+    "startAt": 1776096000000
   },
   {
-    "id": 26006,
-    "startAt": 1791129600000,
-    "endAt": 1791215999000,
     "assetbundleName": "birthday2026_06",
+    "endAt": 1791215999000,
+    "id": 26006,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26006,
-        "limitedLoginBonusId": 26006,
-        "day": 1,
-        "resourceBoxId": 26006
+        "resourceBoxId": 26006,
+        "limitedLoginBonusId": 26006
       }
-    ]
+    ],
+    "startAt": 1791129600000
   },
   {
-    "id": 26007,
-    "startAt": 1805385600000,
-    "endAt": 1805471999000,
     "assetbundleName": "birthday2027_07",
+    "endAt": 1805471999000,
+    "id": 26007,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26007,
-        "limitedLoginBonusId": 26007,
-        "day": 1,
-        "resourceBoxId": 26007
+        "resourceBoxId": 26007,
+        "limitedLoginBonusId": 26007
       }
-    ]
+    ],
+    "startAt": 1805385600000
   },
   {
-    "id": 26008,
-    "startAt": 1796486400000,
-    "endAt": 1796572799000,
     "assetbundleName": "birthday2026_08",
+    "endAt": 1796572799000,
+    "id": 26008,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26008,
-        "limitedLoginBonusId": 26008,
-        "day": 1,
-        "resourceBoxId": 26008
+        "resourceBoxId": 26008,
+        "limitedLoginBonusId": 26008
       }
-    ]
+    ],
+    "startAt": 1796486400000
   },
   {
-    "id": 26009,
-    "startAt": 1803916800000,
-    "endAt": 1804003199000,
     "assetbundleName": "birthday2027_09",
+    "endAt": 1804003199000,
+    "id": 26009,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26009,
-        "limitedLoginBonusId": 26009,
-        "day": 1,
-        "resourceBoxId": 26009
+        "resourceBoxId": 26009,
+        "limitedLoginBonusId": 26009
       }
-    ]
+    ],
+    "startAt": 1803916800000
   },
   {
-    "id": 26010,
-    "startAt": 1784995200000,
-    "endAt": 1785081599000,
     "assetbundleName": "birthday2026_10",
+    "endAt": 1785081599000,
+    "id": 26010,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26010,
-        "limitedLoginBonusId": 26010,
-        "day": 1,
-        "resourceBoxId": 26010
+        "resourceBoxId": 26010,
+        "limitedLoginBonusId": 26010
       }
-    ]
+    ],
+    "startAt": 1784995200000
   },
   {
-    "id": 26011,
-    "startAt": 1794412800000,
-    "endAt": 1794499199000,
     "assetbundleName": "birthday2026_11",
+    "endAt": 1794499199000,
+    "id": 26011,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26011,
-        "limitedLoginBonusId": 26011,
-        "day": 1,
-        "resourceBoxId": 26011
+        "resourceBoxId": 26011,
+        "limitedLoginBonusId": 26011
       }
-    ]
+    ],
+    "startAt": 1794412800000
   },
   {
-    "id": 26012,
-    "startAt": 1779638400000,
-    "endAt": 1779724799000,
     "assetbundleName": "birthday2026_12",
+    "endAt": 1779724799000,
+    "id": 26012,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26012,
-        "limitedLoginBonusId": 26012,
-        "day": 1,
-        "resourceBoxId": 26012
+        "resourceBoxId": 26012,
+        "limitedLoginBonusId": 26012
       }
-    ]
+    ],
+    "startAt": 1779638400000
   },
   {
-    "id": 26013,
-    "startAt": 1778947200000,
-    "endAt": 1779033599000,
     "assetbundleName": "birthday2026_13",
+    "endAt": 1779033599000,
+    "id": 26013,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26013,
-        "limitedLoginBonusId": 26013,
-        "day": 1,
-        "resourceBoxId": 26013
+        "resourceBoxId": 26013,
+        "limitedLoginBonusId": 26013
       }
-    ]
+    ],
+    "startAt": 1778947200000
   },
   {
-    "id": 26014,
-    "startAt": 1788883200000,
-    "endAt": 1788969599000,
     "assetbundleName": "birthday2026_14",
+    "endAt": 1788969599000,
+    "id": 26014,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26014,
-        "limitedLoginBonusId": 26014,
-        "day": 1,
-        "resourceBoxId": 26014
+        "resourceBoxId": 26014,
+        "limitedLoginBonusId": 26014
       }
-    ]
+    ],
+    "startAt": 1788883200000
   },
   {
-    "id": 26015,
-    "startAt": 1784476800000,
-    "endAt": 1784563199000,
     "assetbundleName": "birthday2026_15",
+    "endAt": 1784563199000,
+    "id": 26015,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26015,
-        "limitedLoginBonusId": 26015,
-        "day": 1,
-        "resourceBoxId": 26015
+        "resourceBoxId": 26015,
+        "limitedLoginBonusId": 26015
       }
-    ]
+    ],
+    "startAt": 1784476800000
   },
   {
-    "id": 26016,
-    "startAt": 1782230400000,
-    "endAt": 1782316799000,
     "assetbundleName": "birthday2026_16",
+    "endAt": 1782316799000,
+    "id": 26016,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26016,
-        "limitedLoginBonusId": 26016,
-        "day": 1,
-        "resourceBoxId": 26016
+        "resourceBoxId": 26016,
+        "limitedLoginBonusId": 26016
       }
-    ]
+    ],
+    "startAt": 1782230400000
   },
   {
-    "id": 26017,
-    "startAt": 1802188800000,
-    "endAt": 1802275199000,
     "assetbundleName": "birthday2027_17",
+    "endAt": 1802275199000,
+    "id": 26017,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26017,
-        "limitedLoginBonusId": 26017,
-        "day": 1,
-        "resourceBoxId": 26017
+        "resourceBoxId": 26017,
+        "limitedLoginBonusId": 26017
       }
-    ]
+    ],
+    "startAt": 1802188800000
   },
   {
-    "id": 26018,
-    "startAt": 1800979200000,
-    "endAt": 1801065599000,
     "assetbundleName": "birthday2027_18",
+    "endAt": 1801065599000,
+    "id": 26018,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26018,
-        "limitedLoginBonusId": 26018,
-        "day": 1,
-        "resourceBoxId": 26018
+        "resourceBoxId": 26018,
+        "limitedLoginBonusId": 26018
       }
-    ]
+    ],
+    "startAt": 1800979200000
   },
   {
-    "id": 26019,
-    "startAt": 1777478400000,
-    "endAt": 1777564799000,
     "assetbundleName": "birthday2026_19",
+    "endAt": 1777564799000,
+    "id": 26019,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26019,
-        "limitedLoginBonusId": 26019,
-        "day": 1,
-        "resourceBoxId": 26019
+        "resourceBoxId": 26019,
+        "limitedLoginBonusId": 26019
       }
-    ]
+    ],
+    "startAt": 1777478400000
   },
   {
-    "id": 26020,
-    "startAt": 1787760000000,
-    "endAt": 1787846399000,
     "assetbundleName": "birthday2026_20",
+    "endAt": 1787846399000,
+    "id": 26020,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26020,
-        "limitedLoginBonusId": 26020,
-        "day": 1,
-        "resourceBoxId": 26020
+        "resourceBoxId": 26020,
+        "limitedLoginBonusId": 26020
       }
-    ]
+    ],
+    "startAt": 1787760000000
   },
   {
-    "id": 26021,
-    "startAt": 1788105600000,
-    "endAt": 1788191999000,
     "assetbundleName": "birthday2026_21",
+    "endAt": 1788191999000,
+    "id": 26021,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26021,
-        "limitedLoginBonusId": 26021,
-        "day": 1,
-        "resourceBoxId": 26021
+        "resourceBoxId": 26021,
+        "limitedLoginBonusId": 26021
       }
-    ]
+    ],
+    "startAt": 1788105600000
   },
   {
-    "id": 26022,
-    "startAt": 1798300800000,
-    "endAt": 1798387199000,
     "assetbundleName": "birthday2026_22",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 26022,
-        "limitedLoginBonusId": 26022,
-        "day": 1,
-        "resourceBoxId": 26022
-      }
-    ]
-  },
-  {
-    "id": 26023,
-    "startAt": 1798300800000,
     "endAt": 1798387199000,
+    "id": 26022,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 26022,
+        "resourceBoxId": 26022,
+        "limitedLoginBonusId": 26022
+      }
+    ],
+    "startAt": 1798300800000
+  },
+  {
     "assetbundleName": "birthday2026_23",
+    "endAt": 1798387199000,
+    "id": 26023,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26023,
-        "limitedLoginBonusId": 26023,
-        "day": 1,
-        "resourceBoxId": 26023
+        "resourceBoxId": 26023,
+        "limitedLoginBonusId": 26023
       }
-    ]
+    ],
+    "startAt": 1798300800000
   },
   {
-    "id": 26024,
-    "startAt": 1801238400000,
-    "endAt": 1801324799000,
     "assetbundleName": "birthday2027_24",
+    "endAt": 1801324799000,
+    "id": 26024,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26024,
-        "limitedLoginBonusId": 26024,
-        "day": 1,
-        "resourceBoxId": 26024
+        "resourceBoxId": 26024,
+        "limitedLoginBonusId": 26024
       }
-    ]
+    ],
+    "startAt": 1801238400000
   },
   {
-    "id": 26025,
-    "startAt": 1793808000000,
-    "endAt": 1793894399000,
     "assetbundleName": "birthday2026_25",
+    "endAt": 1793894399000,
+    "id": 26025,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26025,
-        "limitedLoginBonusId": 26025,
-        "day": 1,
-        "resourceBoxId": 26025
+        "resourceBoxId": 26025,
+        "limitedLoginBonusId": 26025
       }
-    ]
+    ],
+    "startAt": 1793808000000
   },
   {
-    "id": 26026,
-    "startAt": 1802793600000,
-    "endAt": 1802879999000,
     "assetbundleName": "birthday2027_26",
+    "endAt": 1802879999000,
+    "id": 26026,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26026,
-        "limitedLoginBonusId": 26026,
-        "day": 1,
-        "resourceBoxId": 26026
+        "resourceBoxId": 26026,
+        "limitedLoginBonusId": 26026
       }
-    ]
+    ],
+    "startAt": 1802793600000
   },
   {
-    "id": 26301,
-    "startAt": 1776614400000,
-    "endAt": 1776700799000,
     "assetbundleName": "jieqi_202601",
+    "endAt": 1776700799000,
+    "id": 26301,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26301,
-        "limitedLoginBonusId": 26301,
-        "day": 1,
-        "resourceBoxId": 2091
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 26301
       }
-    ]
+    ],
+    "startAt": 1776614400000
   },
   {
-    "id": 26302,
-    "startAt": 1777910400000,
-    "endAt": 1777996799000,
     "assetbundleName": "jieqi_202602",
+    "endAt": 1777996799000,
+    "id": 26302,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26302,
-        "limitedLoginBonusId": 26302,
-        "day": 1,
-        "resourceBoxId": 2091
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 26302
       }
-    ]
+    ],
+    "startAt": 1777910400000
   },
   {
-    "id": 26303,
-    "startAt": 1779292800000,
-    "endAt": 1779379199000,
     "assetbundleName": "jieqi_202603",
+    "endAt": 1779379199000,
+    "id": 26303,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26303,
-        "limitedLoginBonusId": 26303,
-        "day": 1,
-        "resourceBoxId": 2091
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 26303
       }
-    ]
+    ],
+    "startAt": 1779292800000
   },
   {
-    "id": 26304,
-    "startAt": 1780588800000,
-    "endAt": 1780675199000,
     "assetbundleName": "jieqi_202604",
+    "endAt": 1780675199000,
+    "id": 26304,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26304,
-        "limitedLoginBonusId": 26304,
-        "day": 1,
-        "resourceBoxId": 2091
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 26304
       }
-    ]
+    ],
+    "startAt": 1780588800000
   },
   {
-    "id": 26305,
-    "startAt": 1781971200000,
-    "endAt": 1782057599000,
     "assetbundleName": "jieqi_202605",
+    "endAt": 1782057599000,
+    "id": 26305,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26305,
-        "limitedLoginBonusId": 26305,
-        "day": 1,
-        "resourceBoxId": 2091
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 26305
       }
-    ]
+    ],
+    "startAt": 1781971200000
   },
   {
-    "id": 26306,
-    "startAt": 1783353600000,
-    "endAt": 1783439999000,
     "assetbundleName": "jieqi_202606",
+    "endAt": 1783439999000,
+    "id": 26306,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26306,
-        "limitedLoginBonusId": 26306,
-        "day": 1,
-        "resourceBoxId": 2091
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 26306
       }
-    ]
+    ],
+    "startAt": 1783353600000
   },
   {
-    "id": 26307,
-    "startAt": 1784736000000,
-    "endAt": 1784822399000,
     "assetbundleName": "jieqi_202607",
+    "endAt": 1784822399000,
+    "id": 26307,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26307,
-        "limitedLoginBonusId": 26307,
-        "day": 1,
-        "resourceBoxId": 2091
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 26307
       }
-    ]
+    ],
+    "startAt": 1784736000000
   },
   {
-    "id": 26308,
-    "startAt": 1786032000000,
-    "endAt": 1786118399000,
     "assetbundleName": "jieqi_202608",
+    "endAt": 1786118399000,
+    "id": 26308,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26308,
-        "limitedLoginBonusId": 26308,
-        "day": 1,
-        "resourceBoxId": 2091
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 26308
       }
-    ]
+    ],
+    "startAt": 1786032000000
   },
   {
-    "id": 26309,
-    "startAt": 1787414400000,
-    "endAt": 1787500799000,
     "assetbundleName": "jieqi_202609",
+    "endAt": 1787500799000,
+    "id": 26309,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26309,
-        "limitedLoginBonusId": 26309,
-        "day": 1,
-        "resourceBoxId": 2091
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 26309
       }
-    ]
+    ],
+    "startAt": 1787414400000
   },
   {
-    "id": 26310,
-    "startAt": 1788710400000,
-    "endAt": 1788796799000,
     "assetbundleName": "jieqi_202610",
+    "endAt": 1788796799000,
+    "id": 26310,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26310,
-        "limitedLoginBonusId": 26310,
-        "day": 1,
-        "resourceBoxId": 2091
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 26310
       }
-    ]
+    ],
+    "startAt": 1788710400000
   },
   {
-    "id": 26311,
-    "startAt": 1790092800000,
-    "endAt": 1790179199000,
     "assetbundleName": "jieqi_202611",
+    "endAt": 1790179199000,
+    "id": 26311,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26311,
-        "limitedLoginBonusId": 26311,
-        "day": 1,
-        "resourceBoxId": 2091
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 26311
       }
-    ]
+    ],
+    "startAt": 1790092800000
   },
   {
-    "id": 26312,
-    "startAt": 1791388800000,
-    "endAt": 1791475199000,
     "assetbundleName": "jieqi_202612",
+    "endAt": 1791475199000,
+    "id": 26312,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26312,
-        "limitedLoginBonusId": 26312,
-        "day": 1,
-        "resourceBoxId": 2091
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 26312
       }
-    ]
+    ],
+    "startAt": 1791388800000
   },
   {
-    "id": 26313,
-    "startAt": 1792684800000,
-    "endAt": 1792771199000,
     "assetbundleName": "jieqi_202613",
+    "endAt": 1792771199000,
+    "id": 26313,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26313,
-        "limitedLoginBonusId": 26313,
-        "day": 1,
-        "resourceBoxId": 2091
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 26313
       }
-    ]
+    ],
+    "startAt": 1792684800000
   },
   {
-    "id": 26314,
-    "startAt": 1793980800000,
-    "endAt": 1794067199000,
     "assetbundleName": "jieqi_202614",
+    "endAt": 1794067199000,
+    "id": 26314,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26314,
-        "limitedLoginBonusId": 26314,
-        "day": 1,
-        "resourceBoxId": 2091
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 26314
       }
-    ]
+    ],
+    "startAt": 1793980800000
   },
   {
-    "id": 26315,
-    "startAt": 1795276800000,
-    "endAt": 1795363199000,
     "assetbundleName": "jieqi_202615",
+    "endAt": 1795363199000,
+    "id": 26315,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26315,
-        "limitedLoginBonusId": 26315,
-        "day": 1,
-        "resourceBoxId": 2091
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 26315
       }
-    ]
+    ],
+    "startAt": 1795276800000
   },
   {
-    "id": 26316,
-    "startAt": 1796572800000,
-    "endAt": 1796659199000,
     "assetbundleName": "jieqi_202616",
+    "endAt": 1796659199000,
+    "id": 26316,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26316,
-        "limitedLoginBonusId": 26316,
-        "day": 1,
-        "resourceBoxId": 2091
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 26316
       }
-    ]
+    ],
+    "startAt": 1796572800000
   },
   {
-    "id": 26317,
-    "startAt": 1797868800000,
-    "endAt": 1797955199000,
     "assetbundleName": "jieqi_202617",
+    "endAt": 1797955199000,
+    "id": 26317,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 26317,
-        "limitedLoginBonusId": 26317,
-        "day": 1,
-        "resourceBoxId": 2091
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 26317
       }
-    ]
+    ],
+    "startAt": 1797868800000
   },
   {
-    "id": 27301,
-    "startAt": 1799078400000,
-    "endAt": 1799164799000,
     "assetbundleName": "jieqi_202701",
+    "endAt": 1799164799000,
+    "id": 27301,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 27301,
-        "limitedLoginBonusId": 27301,
-        "day": 1,
-        "resourceBoxId": 2091
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 27301
       }
-    ]
+    ],
+    "startAt": 1799078400000
   },
   {
-    "id": 27302,
-    "startAt": 1800374400000,
-    "endAt": 1800460799000,
     "assetbundleName": "jieqi_202702",
+    "endAt": 1800460799000,
+    "id": 27302,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 27302,
-        "limitedLoginBonusId": 27302,
-        "day": 1,
-        "resourceBoxId": 2091
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 27302
       }
-    ]
+    ],
+    "startAt": 1800374400000
   },
   {
-    "id": 27303,
-    "startAt": 1801670400000,
-    "endAt": 1801756799000,
     "assetbundleName": "jieqi_202703",
+    "endAt": 1801756799000,
+    "id": 27303,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 27303,
-        "limitedLoginBonusId": 27303,
-        "day": 1,
-        "resourceBoxId": 2091
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 27303
       }
-    ]
+    ],
+    "startAt": 1801670400000
   },
   {
-    "id": 27304,
-    "startAt": 1802880000000,
-    "endAt": 1802966399000,
     "assetbundleName": "jieqi_202704",
+    "endAt": 1802966399000,
+    "id": 27304,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 27304,
-        "limitedLoginBonusId": 27304,
-        "day": 1,
-        "resourceBoxId": 2091
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 27304
       }
-    ]
+    ],
+    "startAt": 1802880000000
   },
   {
-    "id": 27305,
-    "startAt": 1804176000000,
-    "endAt": 1804262399000,
     "assetbundleName": "jieqi_202705",
+    "endAt": 1804262399000,
+    "id": 27305,
     "limitedLoginBonusDetails": [
       {
+        "day": 1,
         "id": 27305,
-        "limitedLoginBonusId": 27305,
-        "day": 1,
-        "resourceBoxId": 2091
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 27305
       }
-    ]
+    ],
+    "startAt": 1804176000000
   },
   {
-    "id": 27306,
-    "startAt": 1805472000000,
-    "endAt": 1805558399000,
     "assetbundleName": "jieqi_202706",
+    "endAt": 1805558399000,
+    "id": 27306,
     "limitedLoginBonusDetails": [
       {
-        "id": 27306,
-        "limitedLoginBonusId": 27306,
         "day": 1,
-        "resourceBoxId": 2091
+        "id": 27306,
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 27306
       }
-    ]
+    ],
+    "startAt": 1805472000000
   },
   {
-    "id": 27307,
-    "startAt": 1806854400000,
-    "endAt": 1806940799000,
     "assetbundleName": "jieqi_202707",
+    "endAt": 1806940799000,
+    "id": 27307,
     "limitedLoginBonusDetails": [
       {
-        "id": 27307,
-        "limitedLoginBonusId": 27307,
         "day": 1,
-        "resourceBoxId": 2091
+        "id": 27307,
+        "resourceBoxId": 2091,
+        "limitedLoginBonusId": 27307
       }
-    ]
+    ],
+    "startAt": 1806854400000
   }
 ]

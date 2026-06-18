@@ -1,13 +1,13 @@
 [
   {
-    "Id": 1,
+    "id": 1,
     "seq": 1,
-    "ExchangeCategory": "master_piece",
+    "exchangeCategory": "master_piece",
     "materialExchangeType": "normal",
-    "Name": "心愿碎片",
+    "name": "心愿碎片",
     "assetbundleName": "icon_heartPiece",
-    "StartAt": 1546272000000,
-    "MaterialExchanges": [
+    "startAt": 1546272000000,
+    "materialExchanges": [
       {
         "id": 2,
         "materialExchangeSummaryId": 1,
@@ -397,14 +397,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 2,
+    "id": 2,
     "seq": 40,
-    "ExchangeCategory": "card_ticket",
+    "exchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "Name": "★3成员",
+    "name": "★3成员",
     "assetbundleName": "icon_memberTicket_star3",
-    "StartAt": 1607324400000,
-    "MaterialExchanges": [
+    "startAt": 1607324400000,
+    "materialExchanges": [
       {
         "id": 17,
         "materialExchangeSummaryId": 2,
@@ -3323,16 +3323,16 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 3,
+    "id": 3,
     "seq": 20,
-    "ExchangeCategory": "card_ticket",
+    "exchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "Name": "★4成员",
+    "name": "★4成员",
     "assetbundleName": "icon_memberTicket_star4",
-    "StartAt": 1632931200000,
-    "EndAt": 1638287999000,
+    "startAt": 1632931200000,
+    "endAt": 1638287999000,
     "notificationRemainHour": 168,
-    "MaterialExchanges": [
+    "materialExchanges": [
       {
         "id": 30001,
         "materialExchangeSummaryId": 3,
@@ -4914,14 +4914,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 4,
+    "id": 4,
     "seq": 30,
-    "ExchangeCategory": "vocal_card_ticket",
+    "exchangeCategory": "vocal_card_ticket",
     "materialExchangeType": "normal",
-    "Name": "歌手卡",
+    "name": "歌手卡",
     "assetbundleName": "icon_vocalTicket",
-    "StartAt": 1612076400000,
-    "MaterialExchanges": [
+    "startAt": 1612076400000,
+    "materialExchanges": [
       {
         "id": 40001,
         "materialExchangeSummaryId": 4,
@@ -5580,14 +5580,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 5,
+    "id": 5,
     "seq": 3,
-    "ExchangeCategory": "gacha_seal",
+    "exchangeCategory": "gacha_seal",
     "materialExchangeType": "normal",
-    "Name": "★2成员",
+    "name": "★2成员",
     "assetbundleName": "icon_gachaSealTicket",
-    "StartAt": 1546272000000,
-    "MaterialExchanges": [
+    "startAt": 1546272000000,
+    "materialExchanges": [
       {
         "id": 50001,
         "materialExchangeSummaryId": 5,
@@ -9935,14 +9935,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 6,
+    "id": 6,
     "seq": 2,
-    "ExchangeCategory": "gacha_seal",
+    "exchangeCategory": "gacha_seal",
     "materialExchangeType": "normal",
-    "Name": "★3成员",
+    "name": "★3成员",
     "assetbundleName": "icon_gachaSealTicket",
-    "StartAt": 1546272000000,
-    "MaterialExchanges": [
+    "startAt": 1546272000000,
+    "materialExchanges": [
       {
         "id": 60001,
         "materialExchangeSummaryId": 6,
@@ -13524,14 +13524,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 7,
+    "id": 7,
     "seq": 1,
-    "ExchangeCategory": "gacha_seal",
+    "exchangeCategory": "gacha_seal",
     "materialExchangeType": "normal",
-    "Name": "★4成员",
+    "name": "★4成员",
     "assetbundleName": "icon_gachaSealTicket",
-    "StartAt": 1546272000000,
-    "MaterialExchanges": [
+    "startAt": 1546272000000,
+    "materialExchanges": [
       {
         "id": 70001,
         "materialExchangeSummaryId": 7,
@@ -19556,14 +19556,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 8,
+    "id": 8,
     "seq": 1,
-    "ExchangeCategory": "card_ticket",
+    "exchangeCategory": "card_ticket",
     "materialExchangeType": "beginner",
-    "Name": "[回响]\n ★4成员",
+    "name": "[回响]\n ★4成员",
     "assetbundleName": "icon_memberTicket_star4",
-    "StartAt": 1635663600000,
-    "MaterialExchanges": [
+    "startAt": 1635663600000,
+    "materialExchanges": [
       {
         "id": 80001,
         "materialExchangeSummaryId": 8,
@@ -24932,16 +24932,16 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 9,
+    "id": 9,
     "seq": 10,
-    "ExchangeCategory": "card_ticket",
+    "exchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "Name": "[新年2023]\n ★3成员",
+    "name": "[新年2023]\n ★3成员",
     "assetbundleName": "icon_memberTicket_star3",
-    "StartAt": 1672470000000,
-    "EndAt": 1676098799000,
+    "startAt": 1672470000000,
+    "endAt": 1676098799000,
     "notificationRemainHour": 168,
-    "MaterialExchanges": [
+    "materialExchanges": [
       {
         "id": 90001,
         "materialExchangeSummaryId": 9,
@@ -26105,14 +26105,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 10,
+    "id": 10,
     "seq": 2,
-    "ExchangeCategory": "master_crystal",
+    "exchangeCategory": "master_crystal",
     "materialExchangeType": "normal",
-    "Name": "心愿结晶",
+    "name": "心愿结晶",
     "assetbundleName": "icon_heartCrystal",
-    "StartAt": 1546272000000,
-    "MaterialExchanges": [
+    "startAt": 1546272000000,
+    "materialExchanges": [
       {
         "id": 100001,
         "materialExchangeSummaryId": 10,
@@ -26136,16 +26136,16 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 11,
+    "id": 11,
     "seq": 20,
-    "ExchangeCategory": "card_ticket",
+    "exchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "Name": "★4成员",
+    "name": "★4成员",
     "assetbundleName": "icon_memberTicket_star4",
-    "StartAt": 1696003200000,
-    "EndAt": 1699804799000,
+    "startAt": 1696003200000,
+    "endAt": 1699804799000,
     "notificationRemainHour": 168,
-    "MaterialExchanges": [
+    "materialExchanges": [
       {
         "id": 110001,
         "materialExchangeSummaryId": 11,
@@ -29114,16 +29114,16 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 12,
+    "id": 12,
     "seq": 20,
-    "ExchangeCategory": "card_ticket",
+    "exchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "Name": "★4成员",
+    "name": "★4成员",
     "assetbundleName": "icon_memberTicket_star4",
-    "StartAt": 1727625600000,
-    "EndAt": 1731427199000,
+    "startAt": 1727625600000,
+    "endAt": 1731427199000,
     "notificationRemainHour": 168,
-    "MaterialExchanges": [
+    "materialExchanges": [
       {
         "id": 120001,
         "materialExchangeSummaryId": 12,
@@ -33460,16 +33460,16 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 13,
+    "id": 13,
     "seq": 1,
-    "ExchangeCategory": "common_ticket",
+    "exchangeCategory": "common_ticket",
     "materialExchangeType": "normal",
-    "Name": "3900's\n兑换所",
+    "name": "3900's\n兑换所",
     "assetbundleName": "icon_3900sTicket",
-    "StartAt": 1711771200000,
-    "EndAt": 1715702399000,
+    "startAt": 1711771200000,
+    "endAt": 1715702399000,
     "notificationRemainHour": 168,
-    "MaterialExchanges": [
+    "materialExchanges": [
       {
         "id": 130001,
         "materialExchangeSummaryId": 13,
@@ -33907,14 +33907,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 14,
+    "id": 14,
     "seq": 1,
-    "ExchangeCategory": "consume_material",
+    "exchangeCategory": "consume_material",
     "materialExchangeType": "normal",
-    "Name": "心愿小瓶兑换",
+    "name": "心愿小瓶兑换",
     "assetbundleName": "icon_smallBottle",
-    "StartAt": 1756468800000,
-    "MaterialExchanges": [
+    "startAt": 1756468800000,
+    "materialExchanges": [
       {
         "id": 140001,
         "materialExchangeSummaryId": 14,
@@ -34465,14 +34465,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 15,
+    "id": 15,
     "seq": 40,
-    "ExchangeCategory": "common_ticket",
+    "exchangeCategory": "common_ticket",
     "materialExchangeType": "normal",
-    "Name": "限定\n招募贴纸券",
+    "name": "限定\n招募贴纸券",
     "assetbundleName": "icon_gachaSealTicket_Limited",
-    "StartAt": 1758859200000,
-    "MaterialExchanges": [
+    "startAt": 1758859200000,
+    "materialExchanges": [
       {
         "id": 150001,
         "materialExchangeSummaryId": 15,
@@ -34496,16 +34496,16 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 17,
+    "id": 17,
     "seq": 1,
-    "ExchangeCategory": "home_exchange",
+    "exchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 1,
-    "Name": "幸运\n之花",
+    "name": "幸运\n之花",
     "assetbundleName": "icon_fortuneFlower",
-    "StartAt": 1758902400000,
-    "EndAt": 1764518399000,
-    "MaterialExchanges": [
+    "startAt": 1758902400000,
+    "endAt": 1764518399000,
+    "materialExchanges": [
       {
         "id": 170001,
         "materialExchangeSummaryId": 17,
@@ -35080,16 +35080,16 @@
     ]
   },
   {
-    "Id": 18,
+    "id": 18,
     "seq": 1,
-    "ExchangeCategory": "home_exchange",
+    "exchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 2,
-    "Name": "花瓣",
+    "name": "花瓣",
     "assetbundleName": "icon_fortuneGrass",
-    "StartAt": 1758902400000,
-    "EndAt": 1764518399000,
-    "MaterialExchanges": [
+    "startAt": 1758902400000,
+    "endAt": 1764518399000,
+    "materialExchanges": [
       {
         "id": 180001,
         "materialExchangeSummaryId": 18,
@@ -35527,16 +35527,16 @@
     ]
   },
   {
-    "Id": 19,
+    "id": 19,
     "seq": 1,
-    "ExchangeCategory": "home_exchange",
+    "exchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 3,
-    "Name": "百变\n幸运\n之花",
+    "name": "百变\n幸运\n之花",
     "assetbundleName": "icon_miracleFortuneFlower",
-    "StartAt": 1758902400000,
-    "EndAt": 1764518399000,
-    "MaterialExchanges": [
+    "startAt": 1758902400000,
+    "endAt": 1764518399000,
+    "materialExchanges": [
       {
         "id": 190001,
         "materialExchangeSummaryId": 19,
@@ -35676,16 +35676,16 @@
     ]
   },
   {
-    "Id": 20,
+    "id": 20,
     "seq": 1,
-    "ExchangeCategory": "card_ticket",
+    "exchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "Name": "纪念\n★4成员券",
+    "name": "纪念\n★4成员券",
     "assetbundleName": "icon_memberTicket_star4",
-    "StartAt": 1758945600000,
-    "EndAt": 1764518399000,
+    "startAt": 1758945600000,
+    "endAt": 1764518399000,
     "notificationRemainHour": 168,
-    "MaterialExchanges": [
+    "materialExchanges": [
       {
         "id": 200001,
         "materialExchangeSummaryId": 20,
@@ -41324,14 +41324,14 @@
     ]
   },
   {
-    "Id": 21,
+    "id": 21,
     "seq": 3,
-    "ExchangeCategory": "mysekai_material_game_character",
+    "exchangeCategory": "mysekai_material_game_character",
     "materialExchangeType": "normal",
-    "Name": "七彩记忆",
+    "name": "七彩记忆",
     "assetbundleName": "icon_memoria",
-    "StartAt": 1758859200000,
-    "MaterialExchanges": [
+    "startAt": 1758859200000,
+    "materialExchanges": [
       {
         "id": 210001,
         "materialExchangeSummaryId": 21,
@@ -43318,16 +43318,16 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 23,
+    "id": 23,
     "seq": 1,
-    "ExchangeCategory": "home_exchange",
+    "exchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 4,
-    "Name": "世界\n碎片",
+    "name": "世界\n碎片",
     "assetbundleName": "icon_worldpeace",
-    "StartAt": 1774584000000,
-    "EndAt": 1776830399000,
-    "MaterialExchanges": [
+    "startAt": 1774584000000,
+    "endAt": 1776830399000,
+    "materialExchanges": [
       {
         "id": 230000,
         "materialExchangeSummaryId": 23,
@@ -43678,16 +43678,16 @@
     ]
   },
   {
-    "Id": 24,
+    "id": 24,
     "seq": 2,
-    "ExchangeCategory": "home_exchange",
+    "exchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 5,
-    "Name": "[1周年纪念]\n礼物券",
+    "name": "[1周年纪念]\n礼物券",
     "assetbundleName": "icon_giftTicket",
-    "StartAt": 1774584000000,
-    "EndAt": 1776830399000,
-    "MaterialExchanges": [
+    "startAt": 1774584000000,
+    "endAt": 1776830399000,
+    "materialExchanges": [
       {
         "id": 240001,
         "materialExchangeSummaryId": 24,
@@ -44568,16 +44568,16 @@
     ]
   },
   {
-    "Id": 25,
+    "id": 25,
     "seq": 10,
-    "ExchangeCategory": "home_exchange",
+    "exchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 6,
-    "Name": "拓麻歌子碎片\n兑换所",
+    "name": "拓麻歌子碎片\n兑换所",
     "assetbundleName": "icon_gochipiece",
-    "StartAt": 4945464000000,
-    "EndAt": 1791820799000,
-    "MaterialExchanges": [
+    "startAt": 4945464000000,
+    "endAt": 1791820799000,
+    "materialExchanges": [
       {
         "id": 250001,
         "materialExchangeSummaryId": 25,
@@ -44842,16 +44842,16 @@
     ]
   },
   {
-    "Id": 26,
+    "id": 26,
     "seq": 7,
-    "ExchangeCategory": "home_exchange",
+    "exchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 7,
-    "Name": "绯红\n旋律水滴",
+    "name": "绯红\n旋律水滴",
     "assetbundleName": "icon_redMemoryPiece",
-    "StartAt": 1790697600000,
-    "EndAt": 1793462399000,
-    "MaterialExchanges": [
+    "startAt": 1790697600000,
+    "endAt": 1793462399000,
+    "materialExchanges": [
       {
         "id": 260001,
         "materialExchangeSummaryId": 26,
@@ -44969,16 +44969,16 @@
     ]
   },
   {
-    "Id": 27,
+    "id": 27,
     "seq": 8,
-    "ExchangeCategory": "home_exchange",
+    "exchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 8,
-    "Name": "苍蓝\n旋律水滴",
+    "name": "苍蓝\n旋律水滴",
     "assetbundleName": "icon_blueMemoryPiece",
-    "StartAt": 1790697600000,
-    "EndAt": 1793462399000,
-    "MaterialExchanges": [
+    "startAt": 1790697600000,
+    "endAt": 1793462399000,
+    "materialExchanges": [
       {
         "id": 270001,
         "materialExchangeSummaryId": 27,
@@ -45117,16 +45117,16 @@
     ]
   },
   {
-    "Id": 28,
+    "id": 28,
     "seq": 6,
-    "ExchangeCategory": "home_exchange",
+    "exchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 9,
-    "Name": "堇紫\n旋律水滴",
+    "name": "堇紫\n旋律水滴",
     "assetbundleName": "icon_purpleMemoryPiece",
-    "StartAt": 1790697600000,
-    "EndAt": 1793462399000,
-    "MaterialExchanges": [
+    "startAt": 1790697600000,
+    "endAt": 1793462399000,
+    "materialExchanges": [
       {
         "id": 280001,
         "materialExchangeSummaryId": 28,
@@ -45342,16 +45342,16 @@
     ]
   },
   {
-    "Id": 29,
+    "id": 29,
     "seq": 5,
-    "ExchangeCategory": "home_exchange",
+    "exchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 10,
-    "Name": "彩虹\n旋律水珠",
+    "name": "彩虹\n旋律水珠",
     "assetbundleName": "icon_rainbowMemoryPiece",
-    "StartAt": 1790697600000,
-    "EndAt": 1793462399000,
-    "MaterialExchanges": [
+    "startAt": 1790697600000,
+    "endAt": 1793462399000,
+    "materialExchanges": [
       {
         "id": 290001,
         "materialExchangeSummaryId": 29,
@@ -45428,16 +45428,16 @@
     ]
   },
   {
-    "Id": 30,
+    "id": 30,
     "seq": 9,
-    "ExchangeCategory": "home_exchange",
+    "exchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 11,
-    "Name": "金牌",
+    "name": "金牌",
     "assetbundleName": "icon_goldMedal",
-    "StartAt": 1790740800000,
-    "EndAt": 1793462399000,
-    "MaterialExchanges": [
+    "startAt": 1790740800000,
+    "endAt": 1793462399000,
+    "materialExchanges": [
       {
         "id": 300001,
         "materialExchangeSummaryId": 30,
@@ -45609,16 +45609,16 @@
     ]
   },
   {
-    "Id": 31,
+    "id": 31,
     "seq": 1,
-    "ExchangeCategory": "card_ticket",
+    "exchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "Name": "纪念\n★4成员券",
+    "name": "纪念\n★4成员券",
     "assetbundleName": "icon_memberTicket_star4",
-    "StartAt": 1790697600000,
-    "EndAt": 1796011199000,
+    "startAt": 1790697600000,
+    "endAt": 1796011199000,
     "notificationRemainHour": 168,
-    "MaterialExchanges": [
+    "materialExchanges": [
       {
         "id": 310001,
         "materialExchangeSummaryId": 31,
@@ -52121,17 +52121,17 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 32,
+    "id": 32,
     "seq": 1,
-    "ExchangeCategory": "home_exchange",
+    "exchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 12,
-    "Name": "纪念\n礼物券",
+    "name": "纪念\n礼物券",
     "assetbundleName": "icon_exchangeTicket",
-    "StartAt": 1791255600000,
-    "EndAt": 1796011199000,
+    "startAt": 1791255600000,
+    "endAt": 1796011199000,
     "notificationRemainHour": 168,
-    "MaterialExchanges": [
+    "materialExchanges": [
       {
         "id": 320001,
         "materialExchangeSummaryId": 32,
@@ -52717,23 +52717,23 @@
     ]
   },
   {
-    "Id": 100,
+    "id": 100,
     "seq": 1,
-    "ExchangeCategory": "shining_badge",
+    "exchangeCategory": "shining_badge",
     "materialExchangeType": "normal",
-    "Name": "闪耀徽章",
+    "name": "闪耀徽章",
     "assetbundleName": "icon_shining_badge",
-    "MaterialExchanges": [],
+    "materialExchanges": [],
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 101,
+    "id": 101,
     "seq": 5,
-    "ExchangeCategory": "gacha_seal",
+    "exchangeCategory": "gacha_seal",
     "materialExchangeType": "normal",
-    "Name": "[往期活动]\n★2成员",
+    "name": "[往期活动]\n★2成员",
     "assetbundleName": "icon_memberTicket_star2",
-    "MaterialExchanges": [
+    "materialExchanges": [
       {
         "id": 1000001,
         "materialExchangeSummaryId": 101,
@@ -55118,13 +55118,13 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 102,
+    "id": 102,
     "seq": 4,
-    "ExchangeCategory": "gacha_seal",
+    "exchangeCategory": "gacha_seal",
     "materialExchangeType": "normal",
-    "Name": "[往期活动]\n★3成员",
+    "name": "[往期活动]\n★3成员",
     "assetbundleName": "icon_memberTicket_star3",
-    "MaterialExchanges": [
+    "materialExchanges": [
       {
         "id": 1000105,
         "materialExchangeSummaryId": 102,
@@ -57569,15 +57569,15 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 4001,
+    "id": 4001,
     "seq": 2,
-    "ExchangeCategory": "common_ticket",
+    "exchangeCategory": "common_ticket",
     "materialExchangeType": "normal",
-    "Name": "[电影]兑换所B",
+    "name": "[电影]兑换所B",
     "assetbundleName": "icon_movie_ticket",
-    "StartAt": 1761321600000,
-    "EndAt": 1767196799000,
-    "MaterialExchanges": [
+    "startAt": 1761321600000,
+    "endAt": 1767196799000,
+    "materialExchanges": [
       {
         "id": 4001028,
         "materialExchangeSummaryId": 4001,
@@ -57696,15 +57696,15 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 4002,
+    "id": 4002,
     "seq": 1,
-    "ExchangeCategory": "card_ticket",
+    "exchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "Name": "[电影]兑换所A",
+    "name": "[电影]兑换所A",
     "assetbundleName": "icon_movie_ticket",
-    "StartAt": 1761321600000,
-    "EndAt": 1767196799000,
-    "MaterialExchanges": [
+    "startAt": 1761321600000,
+    "endAt": 1767196799000,
+    "materialExchanges": [
       {
         "id": 4001001,
         "materialExchangeSummaryId": 4002,
@@ -58249,15 +58249,15 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "Id": 4003,
+    "id": 4003,
     "seq": 1,
-    "ExchangeCategory": "home_exchange",
+    "exchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
-    "Name": "夏日合奏嘉年华兑换所",
+    "name": "夏日合奏嘉年华兑换所",
     "assetbundleName": "icon_summer_cn",
-    "StartAt": 1783137600000,
-    "EndAt": 1785513599000,
-    "MaterialExchanges": [
+    "startAt": 1783137600000,
+    "endAt": 1785513599000,
+    "materialExchanges": [
       {
         "id": 4001034,
         "materialExchangeSummaryId": 4003,

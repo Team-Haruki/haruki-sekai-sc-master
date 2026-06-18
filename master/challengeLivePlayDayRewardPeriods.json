@@ -1,9 +1,5 @@
 [
   {
-    "id": 1,
-    "startAt": 1617048000000,
-    "endAt": 1617566399000,
-    "priority": 2,
     "challengeLivePlayDayRewards": [
       {
         "id": 1,
@@ -70,13 +66,13 @@
         "playDays": 6,
         "resourceBoxId": 14
       }
-    ]
+    ],
+    "endAt": 1617566399000,
+    "id": 1,
+    "priority": 2,
+    "startAt": 1617048000000
   },
   {
-    "id": 2,
-    "startAt": 1617566400000,
-    "endAt": 1633291199000,
-    "priority": 1,
     "challengeLivePlayDayRewards": [
       {
         "id": 14,
@@ -148,13 +144,13 @@
         "playDays": 7,
         "resourceBoxId": 14
       }
-    ]
+    ],
+    "endAt": 1633291199000,
+    "id": 2,
+    "priority": 1,
+    "startAt": 1617566400000
   },
   {
-    "id": 3,
-    "startAt": 1614542400000,
-    "endAt": 1617047999000,
-    "priority": 3,
     "challengeLivePlayDayRewards": [
       {
         "id": 28,
@@ -226,13 +222,13 @@
         "playDays": 7,
         "resourceBoxId": 14
       }
-    ]
+    ],
+    "endAt": 1617047999000,
+    "id": 3,
+    "priority": 3,
+    "startAt": 1614542400000
   },
   {
-    "id": 4,
-    "startAt": 1633291200000,
-    "endAt": 4102430399000,
-    "priority": 4,
     "challengeLivePlayDayRewards": [
       {
         "id": 42,
@@ -304,6 +300,10 @@
         "playDays": 7,
         "resourceBoxId": 21
       }
-    ]
+    ],
+    "endAt": 4102430399000,
+    "id": 4,
+    "priority": 4,
+    "startAt": 1633291200000
   }
 ]
