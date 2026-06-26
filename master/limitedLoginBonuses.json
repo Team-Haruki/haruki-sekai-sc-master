@@ -4000,6 +4000,70 @@
     "startAt": 1781938800000
   },
   {
+    "assetbundleName": "cj_26",
+    "endAt": 1785772740000,
+    "id": 1181,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1451,
+        "resourceBoxId": 2169,
+        "limitedLoginBonusId": 1181
+      },
+      {
+        "day": 2,
+        "id": 1452,
+        "resourceBoxId": 2169,
+        "limitedLoginBonusId": 1181
+      },
+      {
+        "day": 3,
+        "id": 1453,
+        "resourceBoxId": 2169,
+        "limitedLoginBonusId": 1181
+      },
+      {
+        "day": 4,
+        "id": 1454,
+        "resourceBoxId": 2170,
+        "limitedLoginBonusId": 1181
+      }
+    ],
+    "startAt": 1785340800000
+  },
+  {
+    "assetbundleName": "bw_26",
+    "endAt": 1783871940000,
+    "id": 1182,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1455,
+        "resourceBoxId": 2169,
+        "limitedLoginBonusId": 1182
+      },
+      {
+        "day": 2,
+        "id": 1456,
+        "resourceBoxId": 2169,
+        "limitedLoginBonusId": 1182
+      },
+      {
+        "day": 3,
+        "id": 1457,
+        "resourceBoxId": 2169,
+        "limitedLoginBonusId": 1182
+      },
+      {
+        "day": 4,
+        "id": 1458,
+        "resourceBoxId": 2170,
+        "limitedLoginBonusId": 1182
+      }
+    ],
+    "startAt": 1783526400000
+  },
+  {
     "assetbundleName": "birthday2026_01",
     "endAt": 1786463999000,
     "id": 26001,
@@ -4435,7 +4499,7 @@
   },
   {
     "assetbundleName": "jieqi_202606",
-    "endAt": 1783439999000,
+    "endAt": 1783353599000,
     "id": 26306,
     "limitedLoginBonusDetails": [
       {
@@ -4445,7 +4509,7 @@
         "limitedLoginBonusId": 26306
       }
     ],
-    "startAt": 1783353600000
+    "startAt": 1783267200000
   },
   {
     "assetbundleName": "jieqi_202607",

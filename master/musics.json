@@ -5393,7 +5393,15 @@
     "publishedAt": 1777618800000,
     "releasedAt": 1777618800000,
     "fillerSec": 9.0,
-    "infos": [],
+    "infos": [
+      {
+        "title": "恶之娘",
+        "creator": "mothy",
+        "lyricist": "mothy",
+        "composer": "mothy",
+        "arranger": "mothy"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -5418,7 +5426,15 @@
     "publishedAt": 1777705200000,
     "releasedAt": 1777705200000,
     "fillerSec": 7.5,
-    "infos": [],
+    "infos": [
+      {
+        "title": "恶之侍从",
+        "creator": "mothy",
+        "lyricist": "mothy",
+        "composer": "mothy",
+        "arranger": "mothy"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -5443,7 +5459,15 @@
     "publishedAt": 1777791600000,
     "releasedAt": 1777791600000,
     "fillerSec": 9.0,
-    "infos": [],
+    "infos": [
+      {
+        "title": "离别者们的华尔兹",
+        "creator": "mothy",
+        "lyricist": "mothy",
+        "composer": "mothy",
+        "arranger": "mothy"
+      }
+    ],
     "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
@@ -6914,7 +6938,7 @@
     "infos": [
       {
         "title": "Voices",
-        "creator": "ゆよゆっぺ",
+        "creator": "ゆよゆっぺ　",
         "lyricist": "ゆよゆっぺ",
         "composer": "ゆよゆっぺ",
         "arranger": "ゆよゆっぺ"
@@ -8546,7 +8570,7 @@
     "infos": [
       {
         "title": "Hello, Worker",
-        "creator": "KEI",
+        "creator": "KEI ",
         "lyricist": "ハヤシケイ",
         "composer": "ハヤシケイ",
         "arranger": "ハヤシケイ"
@@ -10538,7 +10562,15 @@
     "publishedAt": 1778050800000,
     "releasedAt": 1778050800000,
     "fillerSec": 9.0,
-    "infos": [],
+    "infos": [
+      {
+        "title": "圆尾坂的裁缝店",
+        "creator": "mothy",
+        "lyricist": "mothy",
+        "composer": "mothy",
+        "arranger": "mothy"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -10563,7 +10595,15 @@
     "publishedAt": 1778137200000,
     "releasedAt": 1778137200000,
     "fillerSec": 9.0,
-    "infos": [],
+    "infos": [
+      {
+        "title": "恶德的法官",
+        "creator": "mothy",
+        "lyricist": "mothy",
+        "composer": "mothy",
+        "arranger": "mothy"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -10588,7 +10628,15 @@
     "publishedAt": 1777878000000,
     "releasedAt": 1777878000000,
     "fillerSec": 9.006699562072754,
-    "infos": [],
+    "infos": [
+      {
+        "title": "恶食娘空琪塔",
+        "creator": "mothy",
+        "lyricist": "mothy",
+        "composer": "mothy",
+        "arranger": "mothy"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -10613,7 +10661,15 @@
     "publishedAt": 1777964400000,
     "releasedAt": 1777964400000,
     "fillerSec": 9.476200103759766,
-    "infos": [],
+    "infos": [
+      {
+        "title": "安眠公主的赠礼",
+        "creator": "mothy",
+        "lyricist": "mothy",
+        "composer": "mothy",
+        "arranger": "mothy"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -10842,7 +10898,7 @@
         "creator": "DECO*27",
         "lyricist": "DECO*27",
         "composer": "DECO*27",
-        "arranger": "Rockwell"
+        "arranger": "Rockwell "
       }
     ],
     "isNewlyWrittenMusic": false,
@@ -11785,6 +11841,39 @@
       }
     ],
     "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 387,
+    "seq": 99999429,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "Hello Builder",
+    "pronunciation": "はろーびるだー",
+    "creatorArtistId": 262,
+    "lyricist": "鬱P",
+    "composer": "鬱P",
+    "arranger": "鬱P",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_387",
+    "publishedAt": 1783321200000,
+    "releasedAt": 1783321200000,
+    "fillerSec": 7.875,
+    "infos": [
+      {
+        "title": "Hello Builder",
+        "creator": "鬱P",
+        "lyricist": "鬱P",
+        "composer": "鬱P",
+        "arranger": "鬱P"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
@@ -12808,6 +12897,39 @@
     "isFullLength": false
   },
   {
+    "id": 420,
+    "seq": 99999462,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "imaginary love story",
+    "pronunciation": "いまじなりーらぶすとーりー",
+    "creatorArtistId": 285,
+    "lyricist": "Synthion",
+    "composer": "Synthion",
+    "arranger": "Synthion",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_420",
+    "publishedAt": 1783494000000,
+    "releasedAt": 1783494000000,
+    "fillerSec": 7.9720001220703125,
+    "infos": [
+      {
+        "title": "imaginary love story",
+        "creator": "Synthion",
+        "lyricist": "Synthion",
+        "composer": "Synthion",
+        "arranger": "Synthion"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 421,
     "seq": 2420101,
     "releaseConditionId": 10,
@@ -13612,6 +13734,39 @@
     "isFullLength": false
   },
   {
+    "id": 445,
+    "seq": 99999490,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "mv_2d"
+      }
+    ],
+    "title": "Twilight Melody",
+    "pronunciation": "とわいらいとめろでぃ",
+    "creatorArtistId": 124,
+    "lyricist": "CircusP",
+    "composer": "CircusP",
+    "arranger": "CircusP + HaiDL",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_445",
+    "publishedAt": 1783148400000,
+    "releasedAt": 1783148400000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "Twilight Melody",
+        "creator": "CircusP",
+        "lyricist": "CircusP",
+        "composer": "CircusP",
+        "arranger": "CircusP + HaiDL"
+      }
+    ],
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
     "id": 446,
     "seq": 1127109,
     "releaseConditionId": 5,
@@ -14006,7 +14161,7 @@
     "fillerSec": 7.714300155639648,
     "infos": [
       {
-        "title": "抜錨",
+        "title": "拔锚",
         "creator": "ナナホシ管弦楽団",
         "lyricist": "ナナホシ管弦楽団",
         "composer": "岩見 陸",
@@ -14143,6 +14298,39 @@
         "lyricist": "れるりり",
         "composer": "れるりり",
         "arranger": "tepe(OTOIRO)"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 464,
+    "seq": 99999510,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "Intergalactic Bound",
+    "pronunciation": "いんたーぎゃらくてぃっく ばうんど",
+    "creatorArtistId": 286,
+    "lyricist": "CircusP",
+    "composer": "雄之助 / CircusP",
+    "arranger": "雄之助",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_464",
+    "publishedAt": 1783580400000,
+    "releasedAt": 1783580400000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "Intergalactic Bound",
+        "creator": "雄之助 & CircusP feat. Hatsune Miku",
+        "lyricist": "CircusP",
+        "composer": "雄之助 / CircusP",
+        "arranger": "雄之助"
       }
     ],
     "isNewlyWrittenMusic": false,
@@ -16781,7 +16969,7 @@
     "fillerSec": 9.0,
     "infos": [
       {
-        "title": "終焉逃避行",
+        "title": "终焉逃避行",
         "creator": "柊マグネタイト",
         "lyricist": "柊マグネタイト",
         "composer": "柊マグネタイト",
@@ -16855,6 +17043,39 @@
       }
     ],
     "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 552,
+    "seq": 99999600,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "M@GICAL☆CURE! LOVE ♥ SHOT!",
+    "pronunciation": "まじかるきゅあらぶしょっと",
+    "creatorArtistId": 284,
+    "lyricist": "Sena Kiryuin & SAWTOWNE",
+    "composer": "SAWTOWNE",
+    "arranger": "SAWTOWNE",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_552",
+    "publishedAt": 1783234800000,
+    "releasedAt": 1783234800000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "M@GICAL☆CURE! LOVE ♥ SHOT!",
+        "creator": "SAWTOWNE",
+        "lyricist": "Sena Kiryuin & SAWTOWNE",
+        "composer": "SAWTOWNE",
+        "arranger": "SAWTOWNE"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
@@ -17077,8 +17298,8 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_560",
-    "publishedAt": 1783951500000,
-    "releasedAt": 1783951500000,
+    "publishedAt": 1783148400000,
+    "releasedAt": 1783148400000,
     "fillerSec": 8.045599937438965,
     "infos": [
       {
@@ -17808,7 +18029,15 @@
     "publishedAt": 1790697600000,
     "releasedAt": 1790697600000,
     "fillerSec": 8.25469970703125,
-    "infos": [],
+    "infos": [
+      {
+        "title": "ペンタトニック",
+        "creator": "syudou × バルーン",
+        "lyricist": "syudou・バルーン",
+        "composer": "syudou・バルーン",
+        "arranger": "syudou・バルーン"
+      }
+    ],
     "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
@@ -18097,7 +18326,15 @@
     "publishedAt": 1778742000000,
     "releasedAt": 1778742000000,
     "fillerSec": 9.0,
-    "infos": [],
+    "infos": [
+      {
+        "title": "エンヴィキャットウォーク",
+        "creator": "トーマ",
+        "lyricist": "トーマ",
+        "composer": "トーマ",
+        "arranger": "トーマ"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -18617,7 +18854,15 @@
     "publishedAt": 1778482800000,
     "releasedAt": 1778482800000,
     "fillerSec": 7.681399822235107,
-    "infos": [],
+    "infos": [
+      {
+        "title": "Connecting",
+        "creator": "halyosy",
+        "lyricist": "halyosy",
+        "composer": "halyosy",
+        "arranger": "halyosy"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -18655,6 +18900,114 @@
     "isFullLength": false
   },
   {
+    "id": 622,
+    "seq": 3751601,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "超ナイト・オブ・ナイツ",
+    "pronunciation": "ちょうないと・おぶ・ないつ",
+    "creatorArtistId": 240,
+    "lyricist": "-",
+    "composer": "ZUN（上海アリス幻樂団）",
+    "arranger": "ビートまりお×まろん",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_622",
+    "publishedAt": 1785135600000,
+    "releasedAt": 1785135600000,
+    "fillerSec": 8.68910026550293,
+    "infos": [
+      {
+        "title": "超ナイト・オブ・ナイツ",
+        "creator": "ビートまりお×まろん",
+        "lyricist": "-",
+        "composer": "ZUN（上海アリス幻樂団）",
+        "arranger": "ビートまりお×まろん"
+      }
+    ],
+    "musicCollaborationId": 6,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 623,
+    "seq": 1551501,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
+    ],
+    "title": "とうほう☆ワンダーランド",
+    "pronunciation": "とうほうわんだーらんど",
+    "creatorArtistId": 240,
+    "lyricist": "ビートまりお×まろん",
+    "composer": "ZUN（上海アリス幻樂団）",
+    "arranger": "ビートまりお×まろん、東京アクティブNEETs",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_623",
+    "publishedAt": 1785049200000,
+    "releasedAt": 1785049200000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "とうほう☆ワンダーランド",
+        "creator": "ビートまりお×まろん",
+        "lyricist": "ビートまりお×まろん",
+        "composer": "ZUN（上海アリス幻樂団）",
+        "arranger": "ビートまりお×まろん、東京アクティブNEETs"
+      }
+    ],
+    "musicCollaborationId": 6,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 624,
+    "seq": 1151401,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      },
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "チルノのパーフェクトさんすう学園",
+    "pronunciation": "ちるののぱーふぇくとさんすうがくえん",
+    "creatorArtistId": 240,
+    "lyricist": "ビートまりお×まろん、夕野ヨシミ (IOSYS)",
+    "composer": "ZUN（上海アリス幻樂団）",
+    "arranger": "ビートまりお×まろん、ARM (IOSYS)",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_624",
+    "publishedAt": 1784962800000,
+    "releasedAt": 1784962800000,
+    "fillerSec": 10.556099891662598,
+    "infos": [
+      {
+        "title": "チルノのパーフェクトさんすう学園",
+        "creator": "ビートまりお×まろん",
+        "lyricist": "ビートまりお×まろん、夕野ヨシミ (IOSYS)",
+        "composer": "ZUN（上海アリス幻樂団）",
+        "arranger": "ビートまりお×まろん、ARM (IOSYS)"
+      }
+    ],
+    "musicCollaborationId": 6,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 625,
     "seq": 1552601,
     "releaseConditionId": 5,
@@ -18675,7 +19028,15 @@
     "publishedAt": 1779433200000,
     "releasedAt": 1779433200000,
     "fillerSec": 8.605299949645996,
-    "infos": [],
+    "infos": [
+      {
+        "title": "このふざけた素晴らしき世界は、僕の為にある",
+        "creator": "n.k",
+        "lyricist": "n.k",
+        "composer": "n.k",
+        "arranger": "n.k"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -18733,7 +19094,15 @@
     "publishedAt": 1779087600000,
     "releasedAt": 1779087600000,
     "fillerSec": 9.0,
-    "infos": [],
+    "infos": [
+      {
+        "title": "テトリス",
+        "creator": "柊マグネタイト",
+        "lyricist": "柊マグネタイト",
+        "composer": "ロシア民謡",
+        "arranger": "柊マグネタイト"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -18758,7 +19127,15 @@
     "publishedAt": 1779692400000,
     "releasedAt": 1779692400000,
     "fillerSec": 8.090900421142578,
-    "infos": [],
+    "infos": [
+      {
+        "title": "Monitoring",
+        "creator": "DECO*27",
+        "lyricist": "DECO*27",
+        "composer": "DECO*27",
+        "arranger": "DECO*27 & Hayato Yamamoto"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -18783,7 +19160,15 @@
     "publishedAt": 1779951600000,
     "releasedAt": 1779951600000,
     "fillerSec": 9.0,
-    "infos": [],
+    "infos": [
+      {
+        "title": "庭師のおはなしによると",
+        "creator": "いのうつはSA",
+        "lyricist": "いのうつはSA",
+        "composer": "いのうつはSA",
+        "arranger": "いのうつはSA"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -18874,7 +19259,81 @@
     "publishedAt": 1780470000000,
     "releasedAt": 1780470000000,
     "fillerSec": 9.0,
-    "infos": [],
+    "infos": [
+      {
+        "title": "エクスプロウル",
+        "creator": "晴いちばん",
+        "lyricist": "晴いちばん",
+        "composer": "晴いちばん",
+        "arranger": "晴いちばん"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 638,
+    "seq": 1154001,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "花弁、それにまつわる音声",
+    "pronunciation": "かべんそれにまつわるおんせい",
+    "creatorArtistId": 290,
+    "lyricist": "あばらや",
+    "composer": "あばらや",
+    "arranger": "あばらや",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_638",
+    "publishedAt": 1784617200000,
+    "releasedAt": 1784617200000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "花弁、それにまつわる音声",
+        "creator": "あばらや",
+        "lyricist": "あばらや",
+        "composer": "あばらや",
+        "arranger": "あばらや"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 639,
+    "seq": 1154101,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "マリオネットダンサー",
+    "pronunciation": "まりおねっとだんさー",
+    "creatorArtistId": 291,
+    "lyricist": "ひらぎ",
+    "composer": "ひらぎ",
+    "arranger": "ひらぎ",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_639",
+    "publishedAt": 1784444400000,
+    "releasedAt": 1784444400000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "マリオネットダンサー",
+        "creator": "ひらぎ",
+        "lyricist": "ひらぎ",
+        "composer": "ひらぎ",
+        "arranger": "ひらぎ"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -18899,7 +19358,15 @@
     "publishedAt": 1780902000000,
     "releasedAt": 1780902000000,
     "fillerSec": 7.941199779510498,
-    "infos": [],
+    "infos": [
+      {
+        "title": "深海地下都市",
+        "creator": "田中B",
+        "lyricist": "田中B",
+        "composer": "田中B",
+        "arranger": "田中B"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -18957,7 +19424,15 @@
     "publishedAt": 1781679600000,
     "releasedAt": 1781679600000,
     "fillerSec": 9.0,
-    "infos": [],
+    "infos": [
+      {
+        "title": "SAN値直葬",
+        "creator": "STEAKA",
+        "lyricist": "STEAKA",
+        "composer": "STEAKA",
+        "arranger": "STEAKA"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -19082,7 +19557,15 @@
     "publishedAt": 1781247600000,
     "releasedAt": 1781247600000,
     "fillerSec": 7.999899864196777,
-    "infos": [],
+    "infos": [
+      {
+        "title": "リリィララ",
+        "creator": "ざんぎ",
+        "lyricist": "ざんぎ",
+        "composer": "ざんぎ",
+        "arranger": "ざんぎ"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -19107,13 +19590,21 @@
     "publishedAt": 1782802800000,
     "releasedAt": 1782802800000,
     "fillerSec": 8.199999809265137,
-    "infos": [],
+    "infos": [
+      {
+        "title": "ブラッドドール",
+        "creator": "フユウ",
+        "lyricist": "フユウ",
+        "composer": "フユウ",
+        "arranger": "フユウ"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
     "id": 659,
-    "seq": 9999942,
+    "seq": 9999947,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -19587,7 +20078,7 @@
   },
   {
     "id": 11007,
-    "seq": 1145301,
+    "seq": 1145302,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -19655,7 +20146,7 @@
   },
   {
     "id": 11009,
-    "seq": 1145401,
+    "seq": 1145402,
     "releaseConditionId": 10,
     "categories": [
       {
