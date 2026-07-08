@@ -148,7 +148,7 @@
     "assetbundleName": "fullset_0017",
     "costumeAssetbundleName": "fullset_0017",
     "id": 17,
-    "name": "金牛玩偶装",
+    "name": "[生肖]金牛玩偶装",
     "seq": 170,
     "skinColorCode": "#ffffff"
   },
@@ -418,7 +418,7 @@
     "assetbundleName": "fullset_0048",
     "costumeAssetbundleName": "fullset_0048",
     "id": 48,
-    "name": "老虎玩偶装",
+    "name": "[生肖]老虎玩偶装",
     "seq": 480,
     "skinColorCode": "#ffffff"
   },
@@ -508,7 +508,7 @@
     "assetbundleName": "fullset_0058",
     "costumeAssetbundleName": "fullset_0058",
     "id": 58,
-    "name": "兔子玩偶装",
+    "name": "[生肖]兔子玩偶装",
     "seq": 580,
     "skinColorCode": "#ffffff"
   },
@@ -841,7 +841,7 @@
     "assetbundleName": "fullset_0096",
     "costumeAssetbundleName": "fullset_0096",
     "id": 96,
-    "name": "龙玩偶装",
+    "name": "[生肖]龙玩偶装",
     "seq": 980,
     "skinColorCode": "#ffffff"
   },
@@ -904,7 +904,7 @@
     "assetbundleName": "fullset_0103",
     "costumeAssetbundleName": "fullset_0103",
     "id": 103,
-    "name": "蛇玩偶装",
+    "name": "[生肖]蛇玩偶装",
     "seq": 1240,
     "skinColorCode": "#ffffff"
   },
@@ -1113,6 +1113,15 @@
     "id": 1014,
     "name": "[全套套装]夏日小号手套装",
     "seq": 1030,
+    "skinColorCode": "#ffffff"
+  },
+  {
+    "accessoryAssetbundleName": "fullset_1015",
+    "assetbundleName": "fullset_1015",
+    "costumeAssetbundleName": "fullset_1015",
+    "id": 1015,
+    "name": "[全套套装]海豹芙芙",
+    "seq": 1020,
     "skinColorCode": "#ffffff"
   }
 ]
