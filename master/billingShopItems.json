@@ -4186,6 +4186,38 @@
     "billingShopTabChildId": 2000
   },
   {
+    "id": 51140,
+    "seq": 46253,
+    "billingShopItemType": "value_set",
+    "name": "“鹊桥”服装",
+    "description": "“鹊桥”服装",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_51140",
+    "resourceBoxId": 51140,
+    "startAt": 1787068800000,
+    "endAt": 1787673599000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
+  },
+  {
+    "id": 51141,
+    "seq": 46253,
+    "billingShopItemType": "value_set",
+    "name": "“七夕送货员”服装",
+    "description": "“七夕送货员”服装",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_51141",
+    "resourceBoxId": 51141,
+    "startAt": 1787068800000,
+    "endAt": 1787673599000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
+  },
+  {
     "id": 60000,
     "seq": 1,
     "billingShopItemType": "live_mission_pass_lite",

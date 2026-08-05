@@ -951,6 +951,48 @@
     "startAt": 1775059200000
   },
   {
+    "assetbundleName": "collaboration-tamagotchi-story",
+    "endAt": 1788105599000,
+    "episodes": [
+      {
+        "assetbundleName": "story_collaboration_tamagotchi",
+        "episodeNo": 1,
+        "id": 61,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "collaboration_tamagotchi_op_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 56,
+        "title": "[初音未来：缤纷舞台×拓麻歌子]联动纪念登录剧情 序章"
+      }
+    ],
+    "id": 56,
+    "startAt": 1786766400000
+  },
+  {
+    "assetbundleName": "collaboration-tamagotchi-story",
+    "endAt": 1788191999000,
+    "episodes": [
+      {
+        "assetbundleName": "story_collaboration_tamagotchi",
+        "episodeNo": 1,
+        "id": 62,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "collaboration_tamagotchi_ed_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 57,
+        "title": "[初音未来：缤纷舞台×拓麻歌子]联动纪念登录剧情 终章"
+      }
+    ],
+    "id": 57,
+    "startAt": 1788105600000
+  },
+  {
     "assetbundleName": "5th-anniversary-login-story",
     "endAt": 1791734399000,
     "episodes": [

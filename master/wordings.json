@@ -473,7 +473,7 @@
   },
   {
     "wordingKey": "MSG_ACCESSORY_DEFAULT_HAIR",
-    "value": "此饰品为特定发型专用饰品，\n通过“[{0}]{1}”\n解锁发型后即可设置。"
+    "value": "此饰品为特定发型专属饰品，\n通过“[{0}]{1}”\n解锁发型后即可设置。"
   },
   {
     "wordingKey": "MSG_ADJUST_WITH_TAP",
@@ -9485,7 +9485,7 @@
   },
   {
     "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_3",
-    "value": "·“<color=#FF3366>{0}</color>”无法与部分专用饰品同时设置。"
+    "value": "·“<color=#FF3366>{0}</color>”无法与部分专属饰品同时设置。"
   },
   {
     "wordingKey": "WORD_HAIR_TYPE",
@@ -12233,7 +12233,7 @@
   },
   {
     "wordingKey": "WORD_ONCE_A_WEEK_GACHA_END_AT",
-    "value": "每周一{0}:00重置次数"
+    "value": "每周一{0}:00重置"
   },
   {
     "wordingKey": "WORD_ONCE_CHECK_AGAIN_LIVE",
