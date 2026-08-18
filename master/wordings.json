@@ -872,6 +872,10 @@
     "value": "{0}x{1}\n\n确定要领取此奖励吗？"
   },
   {
+    "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_SELECT_CONFIRM_NO_COUNT",
+    "value": "{0}\n确定要领取此奖励吗？"
+  },
+  {
     "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_SELECT_INFO",
     "value": "盖满{0}个印章后，可以从以下奖励中选择1件获得。"
   },
@@ -5750,22 +5754,6 @@
   {
     "wordingKey": "WORD_BGM",
     "value": "BGM"
-  },
-  {
-    "wordingKey": "WORD_BILLING_SHOP_RANDOM_BOX_DESCRIPTION_CONTENT",
-    "value": "随机道具获得概率如下："
-  },
-  {
-    "wordingKey": "WORD_BILLING_SHOP_RANDOM_BOX_DESCRIPTION_TITLE",
-    "value": "    礼包详情"
-  },
-  {
-    "wordingKey": "WORD_BILLING_SHOP_RANDOM_BOX_SENTENCE_1",
-    "value": "购买后可获得以下道具："
-  },
-  {
-    "wordingKey": "WORD_BILLING_SHOP_RANDOM_BOX_SENTENCE_2",
-    "value": "购买后可随机获得以下道具之一："
   },
   {
     "wordingKey": "WORD_BILLING_SHOP_RECHARGEREWARD_BUTTON_BUY",
@@ -13974,6 +13962,10 @@
   {
     "wordingKey": "WORD_SHARE_CANCEL",
     "value": "已取消分享。"
+  },
+  {
+    "wordingKey": "WORD_SHARE_FAIL",
+    "value": "分享失败"
   },
   {
     "wordingKey": "WORD_SHARE_INFO_ID",
