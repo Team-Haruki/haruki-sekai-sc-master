@@ -638,5 +638,75 @@
     "selectableRewardGroupId": 0,
     "sentence": "完成以上所有任务。",
     "seq": 1
+  },
+  {
+    "id": 189,
+    "limitMissionGroupId": 31,
+    "limitMissionType": "login",
+    "requirement": 1,
+    "resourceBoxId": 400101,
+    "selectableRewardGroupId": 0,
+    "sentence": "累计登录1天。",
+    "seq": 1
+  },
+  {
+    "id": 190,
+    "limitMissionGroupId": 31,
+    "limitMissionType": "clear_live_join_member_miku",
+    "requirement": 15,
+    "resourceBoxId": 400102,
+    "selectableRewardGroupId": 0,
+    "sentence": "将初音未来加入编组，累计完成15次演出。",
+    "seq": 1
+  },
+  {
+    "id": 191,
+    "limitMissionGroupId": 31,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 100,
+    "resourceBoxId": 100307,
+    "selectableRewardGroupId": 0,
+    "sentence": "累计消耗100演出能量。（可以从[演出]->[设置]中调整演出能量的消耗量。）",
+    "seq": 1
+  },
+  {
+    "id": 192,
+    "limitMissionGroupId": 31,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "resourceBoxId": 400082,
+    "selectableRewardGroupId": 0,
+    "sentence": "在活动兑换所中进行3次交换。",
+    "seq": 1
+  },
+  {
+    "id": 193,
+    "limitMissionGroupId": 31,
+    "limitMissionType": "clear_solo_challenge_live_vocal_miku",
+    "requirement": 3,
+    "resourceBoxId": 400083,
+    "selectableRewardGroupId": 0,
+    "sentence": "选择演唱者含初音未来的歌曲进行3次挑战演出吧。",
+    "seq": 1
+  },
+  {
+    "id": 194,
+    "limitMissionGroupId": 31,
+    "limitMissionType": "collect_event_point",
+    "requirement": 200000,
+    "resourceBoxId": 400084,
+    "selectableRewardGroupId": 0,
+    "sentence": "累计获得200000活动积分。",
+    "seq": 1
+  },
+  {
+    "id": 195,
+    "limitMissionGroupId": 31,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 6,
+    "resourceBoxId": 400084,
+    "selectableRewardGroupId": 1002,
+    "sentence": "完成所有的初音未来纪念日限时任务。",
+    "seq": 1
   }
 ]

@@ -143964,7 +143964,12 @@
         "virtualLivePerformanceType": "main_only"
       }
     ],
-    "virtualLiveRewards": [],
+    "virtualLiveRewards": [
+      {
+        "virtualLiveType": "virtual_message",
+        "resourceBoxId": 694
+      }
+    ],
     "virtualLiveWaitingRoom": {
       "id": 400,
       "startAt": 1791734400000,
@@ -147659,7 +147664,7 @@
         "virtualLiveId": 431,
         "seq": 1,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_bd_2025ichika_1",
+        "assetbundleName": "mc_bd_2025honami_1",
         "virtualLiveStageId": 2
       },
       {
@@ -147667,7 +147672,7 @@
         "virtualLiveId": 431,
         "seq": 2,
         "virtualLiveSetlistType": "music",
-        "assetbundleName": "0148_001",
+        "assetbundleName": "0424_001",
         "virtualLiveStageId": 2,
         "musicId": 148,
         "musicVocalId": 307,
@@ -147682,7 +147687,7 @@
         "virtualLiveId": 431,
         "seq": 3,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_bd_2025ichika_2",
+        "assetbundleName": "mc_bd_2025honami_2",
         "virtualLiveStageId": 2,
         "musicId": 148,
         "musicVocalId": 307
