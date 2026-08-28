@@ -4251,8 +4251,8 @@
   },
   {
     "id": 51144,
-    "seq": 46263,
-    "billingShopItemType": "value_set",
+    "seq": 462630,
+    "billingShopItemType": "costume_3d",
     "name": "魔法未来2025服装礼包",
     "description": "魔法未来2025服装",
     "billableLimitType": "count",
@@ -4263,12 +4263,12 @@
     "startAt": 1787889600000,
     "endAt": 1788407999000,
     "purchaseOption": "exchange",
-    "billingShopTabChildId": 2000
+    "billingShopTabChildId": 3000
   },
   {
     "id": 51145,
-    "seq": 46263,
-    "billingShopItemType": "value_set",
+    "seq": 462630,
+    "billingShopItemType": "costume_3d",
     "name": "魔法未来2024服装礼包",
     "description": "魔法未来2024服装",
     "billableLimitType": "count",
@@ -4279,7 +4279,7 @@
     "startAt": 1787889600000,
     "endAt": 1788407999000,
     "purchaseOption": "exchange",
-    "billingShopTabChildId": 2000
+    "billingShopTabChildId": 3000
   },
   {
     "id": 60000,
