@@ -4282,6 +4282,38 @@
     "billingShopTabChildId": 3000
   },
   {
+    "id": 51146,
+    "seq": 46270,
+    "billingShopItemType": "value_set",
+    "name": "校园风格套装（女装）",
+    "description": "校园风格套装（女装）20着×全色",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_51146",
+    "resourceBoxId": 51146,
+    "startAt": 1788494400000,
+    "endAt": 1789315199000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
+  },
+  {
+    "id": 51147,
+    "seq": 46270,
+    "billingShopItemType": "value_set",
+    "name": "校园风格套装（男装）",
+    "description": "校园风格套装（男装）6着×全色",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_51147",
+    "resourceBoxId": 51147,
+    "startAt": 1788494400000,
+    "endAt": 1789315199000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
+  },
+  {
     "id": 60000,
     "seq": 1,
     "billingShopItemType": "live_mission_pass_lite",
