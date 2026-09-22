@@ -166,5 +166,47 @@
     "id": 28,
     "omikujiGroupId": 4,
     "rate": 1.0
+  },
+  {
+    "fortuneType": "grate_fortune",
+    "id": 29,
+    "omikujiGroupId": 5,
+    "rate": 1.0
+  },
+  {
+    "fortuneType": "fortune",
+    "id": 30,
+    "omikujiGroupId": 5,
+    "rate": 1.0
+  },
+  {
+    "fortuneType": "middle_fortune",
+    "id": 31,
+    "omikujiGroupId": 5,
+    "rate": 1.0
+  },
+  {
+    "fortuneType": "small_fortune",
+    "id": 32,
+    "omikujiGroupId": 5,
+    "rate": 1.0
+  },
+  {
+    "fortuneType": "uncertain_luck",
+    "id": 33,
+    "omikujiGroupId": 5,
+    "rate": 1.0
+  },
+  {
+    "fortuneType": "misfortune",
+    "id": 34,
+    "omikujiGroupId": 5,
+    "rate": 1.0
+  },
+  {
+    "fortuneType": "grate_misfortune",
+    "id": 35,
+    "omikujiGroupId": 5,
+    "rate": 1.0
   }
 ]

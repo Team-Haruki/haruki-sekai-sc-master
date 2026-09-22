@@ -1445,11 +1445,123 @@
   },
   {
     "canUse": false,
+    "flavorText": "用来培育庆祝志步生日所使用花朵的甘露。\n*仅限2027年生日活动使用。",
+    "id": 177,
+    "materialType": "birthday_party_delivery",
+    "name": "庆典甘露（黄绿色）",
+    "seq": 30004
+  },
+  {
+    "canUse": false,
+    "flavorText": "用来培育庆祝实乃理生日所使用花朵的甘露。\n*仅限2027年生日活动使用。",
+    "id": 178,
+    "materialType": "birthday_party_delivery",
+    "name": "庆典甘露（杏黄色）",
+    "seq": 30005
+  },
+  {
+    "canUse": false,
     "flavorText": "用来培育庆祝遥生日所使用花朵的甘露。\n*仅限2027年生日活动使用。",
     "id": 179,
     "materialType": "birthday_party_delivery",
     "name": "庆典甘露（冷峻蓝）",
     "seq": 30006
+  },
+  {
+    "canUse": false,
+    "flavorText": "用来培育庆祝爱莉生日所使用花朵的甘露。\n*仅限2027年生日活动使用。",
+    "id": 180,
+    "materialType": "birthday_party_delivery",
+    "name": "庆典甘露（可爱粉）",
+    "seq": 30007
+  },
+  {
+    "canUse": false,
+    "flavorText": "用来培育庆祝雫生日所使用花朵的甘露。\n*仅限2027年生日活动使用。",
+    "id": 181,
+    "materialType": "birthday_party_delivery",
+    "name": "庆典甘露（蛋白石绿）",
+    "seq": 30008
+  },
+  {
+    "canUse": false,
+    "flavorText": "用来培育庆祝心羽生日所使用花朵的甘露。\n*仅限2027年生日活动使用。",
+    "id": 182,
+    "materialType": "birthday_party_delivery",
+    "name": "庆典甘露（樱桃红）",
+    "seq": 30009
+  },
+  {
+    "canUse": false,
+    "flavorText": "用来培育庆祝彰人生日所使用花朵的甘露。\n*仅限2027年生日活动使用。",
+    "id": 184,
+    "materialType": "birthday_party_delivery",
+    "name": "庆典甘露（珊瑚橙）",
+    "seq": 30011
+  },
+  {
+    "canUse": false,
+    "flavorText": "用来培育庆祝奏生日所使用花朵的甘露。\n*仅限2027年生日活动使用。",
+    "id": 190,
+    "materialType": "birthday_party_delivery",
+    "name": "庆典甘露（粉紫色）",
+    "seq": 30017
+  },
+  {
+    "canUse": false,
+    "flavorText": "用来培育庆祝真冬生日所使用花朵的甘露。\n*仅限2027年生日活动使用。",
+    "id": 191,
+    "materialType": "birthday_party_delivery",
+    "name": "庆典甘露（紫藤色）",
+    "seq": 30018
+  },
+  {
+    "canUse": false,
+    "flavorText": "用来培育庆祝绘名生日所使用花朵的甘露。\n*仅限2027年生日活动使用。",
+    "id": 192,
+    "materialType": "birthday_party_delivery",
+    "name": "庆典甘露（沙驼色）",
+    "seq": 30019
+  },
+  {
+    "canUse": false,
+    "flavorText": "用来培育庆祝镜音铃纪念日所使用花朵的甘露。\n*仅限2027年生日活动使用。",
+    "id": 195,
+    "materialType": "birthday_party_delivery",
+    "name": "庆典甘露（橙色）",
+    "seq": 30022
+  },
+  {
+    "canUse": false,
+    "flavorText": "用来培育庆祝镜音连纪念日所使用花朵的甘露。\n*仅限2027年纪念日活动使用。",
+    "id": 196,
+    "materialType": "birthday_party_delivery",
+    "name": "庆典甘露（黄色）",
+    "seq": 30023
+  },
+  {
+    "canUse": false,
+    "flavorText": "用来培育庆祝巡音流歌纪念日所使用花朵的甘露。\n*仅限2027年纪念日活动使用。",
+    "id": 197,
+    "materialType": "birthday_party_delivery",
+    "name": "庆典甘露（粉色）",
+    "seq": 30024
+  },
+  {
+    "canUse": false,
+    "flavorText": "用来培育庆祝MEIKO纪念日所使用花朵的甘露。\n*仅限2027年纪念日活动使用。",
+    "id": 198,
+    "materialType": "birthday_party_delivery",
+    "name": "庆典甘露（红色）",
+    "seq": 30025
+  },
+  {
+    "canUse": false,
+    "flavorText": "用来培育庆祝KAITO纪念日所使用花朵的甘露。\n*仅限2027年纪念日活动使用。",
+    "id": 199,
+    "materialType": "birthday_party_delivery",
+    "name": "庆典甘露（蓝色）",
+    "seq": 30026
   },
   {
     "canUse": false,
@@ -1493,11 +1605,67 @@
   },
   {
     "canUse": false,
+    "flavorText": "将区域道具提升到特定等级所需的道具。",
+    "id": 205,
+    "materialType": "common",
+    "name": "梦幻宝玉（白）",
+    "seq": 10018
+  },
+  {
+    "canUse": false,
+    "flavorText": "将区域道具提升到特定等级所需的道具。",
+    "id": 206,
+    "materialType": "common",
+    "name": "梦幻宝玉（蓝）",
+    "seq": 10019
+  },
+  {
+    "canUse": false,
+    "flavorText": "将区域道具提升到特定等级所需的道具。",
+    "id": 207,
+    "materialType": "common",
+    "name": "梦幻宝玉（绿）",
+    "seq": 10020
+  },
+  {
+    "canUse": false,
+    "flavorText": "将区域道具提升到特定等级所需的道具。",
+    "id": 208,
+    "materialType": "common",
+    "name": "梦幻宝玉（红）",
+    "seq": 10021
+  },
+  {
+    "canUse": false,
+    "flavorText": "将区域道具提升到特定等级所需的道具。",
+    "id": 209,
+    "materialType": "common",
+    "name": "梦幻宝玉（橙）",
+    "seq": 10022
+  },
+  {
+    "canUse": false,
+    "flavorText": "将区域道具提升到特定等级所需的道具。",
+    "id": 210,
+    "materialType": "common",
+    "name": "梦幻宝玉（紫）",
+    "seq": 10023
+  },
+  {
+    "canUse": false,
     "flavorText": "可在金牌兑换所里兑换奖励。\n使用期限：2026/10/31 23:59",
     "id": 211,
     "materialType": "common",
     "name": "金牌",
     "seq": 10623
+  },
+  {
+    "canUse": false,
+    "flavorText": "可兑换“连线演唱会MORE MORE JUMO！× Wonderlands×Showtime ONE！MORE！HAPPY TIME”公演内所展示歌曲的连线演唱会ver. Vocal。",
+    "id": 213,
+    "materialType": "auto_exchange_music_vocal_ticket",
+    "name": "“连线演唱会 ONE！MORE！HAPPY TIME”连线演唱会ver. Vocal兑换卡",
+    "seq": 20003
   },
   {
     "canUse": false,
@@ -1514,6 +1682,526 @@
     "materialType": "common",
     "name": "纪念礼物券",
     "seq": 10625
+  },
+  {
+    "canUse": false,
+    "flavorText": "寄宿着少量“福运”之力的纸片。可以强化“福运灵签”。\n使用期限：2027/01/31 11:59",
+    "id": 216,
+    "materialType": "common",
+    "name": "福运纸签",
+    "seq": 10624
+  },
+  {
+    "canUse": false,
+    "flavorText": "寄宿着少量“财运”之力的纸片。可以强化“财运灵签”。\n使用期限：2027/01/31 11:59",
+    "id": 217,
+    "materialType": "common",
+    "name": "财运纸签",
+    "seq": 10625
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在神授之社兑换对应的招募券。\n使用期限：2027/01/11 12:00 ～ 2027/01/31 11:59",
+    "id": 218,
+    "materialType": "common",
+    "name": "福运灵签",
+    "seq": 10626
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在神授之社兑换对应的招募券。\n使用期限：2027/01/11 12:00 ～ 2027/01/31 11:59",
+    "id": 219,
+    "materialType": "common",
+    "name": "福运灵签（大）",
+    "seq": 10627
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在神授之社兑换对应的招募券。\n使用期限：2027/01/11 12:00 ～ 2027/01/31 11:59",
+    "id": 220,
+    "materialType": "common",
+    "name": "福运灵签（特）",
+    "seq": 10628
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在神授之社兑换对应的招募券。\n使用期限：2027/01/11 12:00 ～ 2027/01/31 11:59",
+    "id": 221,
+    "materialType": "common",
+    "name": "福运灵签（极）",
+    "seq": 10629
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在神授之社兑换对应的招募券。\n使用期限：2027/01/11 12:00 ～ 2027/01/31 11:59",
+    "id": 222,
+    "materialType": "common",
+    "name": "财运灵签",
+    "seq": 10630
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在神授之社兑换对应的招募券。\n使用期限：2027/01/11 12:00 ～ 2027/01/31 11:59",
+    "id": 223,
+    "materialType": "common",
+    "name": "财运灵签（大）",
+    "seq": 10631
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在神授之社兑换对应的招募券。\n使用期限：2027/01/11 12:00 ～ 2027/01/31 11:59",
+    "id": 224,
+    "materialType": "common",
+    "name": "财运灵签（特）",
+    "seq": 10632
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在神授之社兑换对应的招募券。\n使用期限：2027/01/11 12:00 ～ 2027/01/31 11:59",
+    "id": 225,
+    "materialType": "common",
+    "name": "财运灵签（极）",
+    "seq": 10633
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在气球兑换所里兑换各角色的气球。\n使用期限：2027/03/30 12:00 ～ 2027/04/30 11:59",
+    "id": 226,
+    "materialType": "common",
+    "name": "本命气球",
+    "seq": 10634
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在一歌的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 227,
+    "materialType": "common",
+    "name": "高贵本命气球（一歌）",
+    "seq": 10635
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在一歌的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 228,
+    "materialType": "common",
+    "name": "皇家本命气球（一歌）",
+    "seq": 10636
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在咲希的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 229,
+    "materialType": "common",
+    "name": "高贵本命气球（咲希）",
+    "seq": 10637
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在咲希的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 230,
+    "materialType": "common",
+    "name": "皇家本命气球（咲希）",
+    "seq": 10638
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在穗波的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 231,
+    "materialType": "common",
+    "name": "高贵本命气球（穗波）",
+    "seq": 10639
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在穗波的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 232,
+    "materialType": "common",
+    "name": "皇家本命气球（穗波）",
+    "seq": 10640
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在志步的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 233,
+    "materialType": "common",
+    "name": "高贵本命气球（志步）",
+    "seq": 10641
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在志步的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 234,
+    "materialType": "common",
+    "name": "皇家本命气球（志步）",
+    "seq": 10642
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在实乃理的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 235,
+    "materialType": "common",
+    "name": "高贵本命气球（实乃理）",
+    "seq": 10643
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在实乃理的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 236,
+    "materialType": "common",
+    "name": "皇家本命气球（实乃理）",
+    "seq": 10644
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在遥的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 237,
+    "materialType": "common",
+    "name": "高贵本命气球（遥）",
+    "seq": 10645
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在遥的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 238,
+    "materialType": "common",
+    "name": "皇家本命气球（遥）",
+    "seq": 10646
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在爱莉的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 239,
+    "materialType": "common",
+    "name": "高贵本命气球（爱莉）",
+    "seq": 10647
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在爱莉的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 240,
+    "materialType": "common",
+    "name": "皇家本命气球（爱莉）",
+    "seq": 10648
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在雫的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 241,
+    "materialType": "common",
+    "name": "高贵本命气球（雫）",
+    "seq": 10649
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在雫的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 242,
+    "materialType": "common",
+    "name": "皇家本命气球（雫）",
+    "seq": 10650
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在心羽的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 243,
+    "materialType": "common",
+    "name": "高贵本命气球（心羽）",
+    "seq": 10651
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在心羽的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 244,
+    "materialType": "common",
+    "name": "皇家本命气球（心羽）",
+    "seq": 10652
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在杏的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 245,
+    "materialType": "common",
+    "name": "高贵本命气球（杏）",
+    "seq": 10653
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在杏的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 246,
+    "materialType": "common",
+    "name": "皇家本命气球（杏）",
+    "seq": 10654
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在彰人的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 247,
+    "materialType": "common",
+    "name": "高贵本命气球（彰人）",
+    "seq": 10655
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在彰人的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 248,
+    "materialType": "common",
+    "name": "皇家本命气球（彰人）",
+    "seq": 10656
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在冬弥的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 249,
+    "materialType": "common",
+    "name": "高贵本命气球（冬弥）",
+    "seq": 10657
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在冬弥的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 250,
+    "materialType": "common",
+    "name": "皇家本命气球（冬弥）",
+    "seq": 10658
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在司的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 251,
+    "materialType": "common",
+    "name": "高贵本命气球（司）",
+    "seq": 10659
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在司的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 252,
+    "materialType": "common",
+    "name": "皇家本命气球（司）",
+    "seq": 10660
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在笑梦的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 253,
+    "materialType": "common",
+    "name": "高贵本命气球（笑梦）",
+    "seq": 10661
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在笑梦的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 254,
+    "materialType": "common",
+    "name": "皇家本命气球（笑梦）",
+    "seq": 10662
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在宁宁的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 255,
+    "materialType": "common",
+    "name": "高贵本命气球（宁宁）",
+    "seq": 10663
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在宁宁的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 256,
+    "materialType": "common",
+    "name": "皇家本命气球（宁宁）",
+    "seq": 10664
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在类的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 257,
+    "materialType": "common",
+    "name": "高贵本命气球（类）",
+    "seq": 10665
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在类的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 258,
+    "materialType": "common",
+    "name": "皇家本命气球（类）",
+    "seq": 10666
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在奏的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 259,
+    "materialType": "common",
+    "name": "高贵本命气球（奏）",
+    "seq": 10667
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在奏的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 260,
+    "materialType": "common",
+    "name": "皇家本命气球（奏）",
+    "seq": 10668
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在真冬的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 261,
+    "materialType": "common",
+    "name": "高贵本命气球（真冬）",
+    "seq": 10669
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在真冬的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 262,
+    "materialType": "common",
+    "name": "皇家本命气球（真冬）",
+    "seq": 10670
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在绘名的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 263,
+    "materialType": "common",
+    "name": "高贵本命气球（绘名）",
+    "seq": 10671
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在绘名的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 264,
+    "materialType": "common",
+    "name": "皇家本命气球（绘名）",
+    "seq": 10672
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在瑞希的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 265,
+    "materialType": "common",
+    "name": "高贵本命气球（瑞希）",
+    "seq": 10673
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在瑞希的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 266,
+    "materialType": "common",
+    "name": "皇家本命气球（瑞希）",
+    "seq": 10674
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在初音未来的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 267,
+    "materialType": "common",
+    "name": "高贵本命气球（初音未来）",
+    "seq": 10675
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在初音未来的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 268,
+    "materialType": "common",
+    "name": "皇家本命气球（初音未来）",
+    "seq": 10676
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在镜音铃的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 269,
+    "materialType": "common",
+    "name": "高贵本命气球（镜音铃）",
+    "seq": 10677
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在镜音铃的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 270,
+    "materialType": "common",
+    "name": "皇家本命气球（镜音铃）",
+    "seq": 10678
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在镜音连的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 271,
+    "materialType": "common",
+    "name": "高贵本命气球（镜音连）",
+    "seq": 10679
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在镜音连的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 272,
+    "materialType": "common",
+    "name": "皇家本命气球（镜音连）",
+    "seq": 10680
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在巡音流歌的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 273,
+    "materialType": "common",
+    "name": "高贵本命气球（巡音流歌）",
+    "seq": 10681
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在巡音流歌的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 274,
+    "materialType": "common",
+    "name": "皇家本命气球（巡音流歌）",
+    "seq": 10682
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在MEIKO的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 275,
+    "materialType": "common",
+    "name": "高贵本命气球（MEIKO）",
+    "seq": 10683
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在MEIKO的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 276,
+    "materialType": "common",
+    "name": "皇家本命气球（MEIKO）",
+    "seq": 10684
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在KAITO的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 277,
+    "materialType": "common",
+    "name": "高贵本命气球（KAITO）",
+    "seq": 10685
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在KAITO的气球兑换所里兑换奖励。\n使用期限：2027/03/30 12:00 ~ 2027/04/30 11:59",
+    "id": 278,
+    "materialType": "common",
+    "name": "皇家本命气球（KAITO）",
+    "seq": 10686
+  },
+  {
+    "canUse": false,
+    "flavorText": "如果确定愿意协助采访，请通过[客服]＞[问题与意见]发送邮件，并注明“可以参加采访”。\n*您也可以在确认过邮件中记载的采访具体内容后，选择拒绝。\n*请勿将本消息和采访内容发布到社交网站等第三方平台。",
+    "id": 279,
+    "materialType": "auto_exchange_music_vocal_ticket",
+    "name": "请协助我们的采访\n（*此消息仅发送给2月实施的问卷调查中表示愿意提供协助的部分玩家。）",
+    "seq": 20004
+  },
+  {
+    "canUse": false,
+    "flavorText": "可在白金券兑换所里兑换喜欢的道具。",
+    "id": 281,
+    "materialType": "common",
+    "name": "白金券",
+    "seq": 89
   },
   {
     "canUse": false,
@@ -1637,11 +2325,35 @@
   },
   {
     "canUse": false,
+    "flavorText": "应援称号升级道具",
+    "id": 3006,
+    "materialType": "common",
+    "name": "应援徽章",
+    "seq": 1011
+  },
+  {
+    "canUse": false,
     "flavorText": "可用于兑换神秘礼物",
     "id": 3007,
     "materialType": "common",
     "name": "记忆回声",
     "seq": 1011
+  },
+  {
+    "canUse": false,
+    "flavorText": "可用于兑换神秘礼物",
+    "id": 3008,
+    "materialType": "common",
+    "name": "回忆故事册（上卷）",
+    "seq": 1021
+  },
+  {
+    "canUse": false,
+    "flavorText": "可用于兑换神秘礼物",
+    "id": 3009,
+    "materialType": "common",
+    "name": "回忆故事册（下卷）",
+    "seq": 1012
   },
   {
     "canUse": true,

@@ -2,55 +2,109 @@
   {
     "id": 1,
     "level": 1,
-    "mysekaiFixtureJointPutLimit": 100,
-    "mysekaiFixturePutLimit": 100
+    "mysekaiSiteCategory": "housing_home",
+    "putCostLimit": 10000
   },
   {
     "id": 2,
     "level": 2,
-    "mysekaiFixtureJointPutLimit": 400,
-    "mysekaiFixturePutLimit": 400
+    "mysekaiSiteCategory": "housing_home",
+    "putCostLimit": 11000
   },
   {
     "id": 3,
     "level": 3,
-    "mysekaiFixtureJointPutLimit": 400,
-    "mysekaiFixturePutLimit": 400
+    "mysekaiSiteCategory": "housing_home",
+    "putCostLimit": 11000
   },
   {
     "id": 4,
     "level": 4,
-    "mysekaiFixtureJointPutLimit": 420,
-    "mysekaiFixturePutLimit": 440
+    "mysekaiSiteCategory": "housing_home",
+    "putCostLimit": 12000
   },
   {
     "id": 5,
     "level": 5,
-    "mysekaiFixtureJointPutLimit": 440,
-    "mysekaiFixturePutLimit": 480
+    "mysekaiSiteCategory": "housing_home",
+    "putCostLimit": 13000
   },
   {
     "id": 6,
     "level": 6,
-    "mysekaiFixtureJointPutLimit": 460,
-    "mysekaiFixturePutLimit": 520
+    "mysekaiSiteCategory": "housing_home",
+    "putCostLimit": 14000
   },
   {
     "id": 7,
     "level": 7,
-    "mysekaiFixtureJointPutLimit": 500,
-    "mysekaiFixturePutLimit": 650
+    "mysekaiSiteCategory": "housing_home",
+    "putCostLimit": 16000
   },
   {
     "id": 8,
     "level": 8,
-    "mysekaiFixtureJointPutLimit": 500,
-    "mysekaiFixturePutLimit": 650
+    "mysekaiSiteCategory": "housing_home",
+    "putCostLimit": 16000
   },
   {
     "id": 9,
     "level": 9,
-    "mysekaiFixtureJointPutLimit": 600,
-    "mysekaiFixturePutLimit": 700
+    "mysekaiSiteCategory": "housing_home",
+    "putCostLimit": 18000
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "mysekaiSiteCategory": "housing_room",
+    "putCostLimit": 5000
+  },
+  {
+    "id": 11,
+    "level": 2,
+    "mysekaiSiteCategory": "housing_room",
+    "putCostLimit": 5500
+  },
+  {
+    "id": 12,
+    "level": 3,
+    "mysekaiSiteCategory": "housing_room",
+    "putCostLimit": 5500
+  },
+  {
+    "id": 13,
+    "level": 4,
+    "mysekaiSiteCategory": "housing_room",
+    "putCostLimit": 6000
+  },
+  {
+    "id": 14,
+    "level": 5,
+    "mysekaiSiteCategory": "housing_room",
+    "putCostLimit": 6500
+  },
+  {
+    "id": 15,
+    "level": 6,
+    "mysekaiSiteCategory": "housing_room",
+    "putCostLimit": 7000
+  },
+  {
+    "id": 16,
+    "level": 7,
+    "mysekaiSiteCategory": "housing_room",
+    "putCostLimit": 7500
+  },
+  {
+    "id": 17,
+    "level": 8,
+    "mysekaiSiteCategory": "housing_room",
+    "putCostLimit": 7500
+  },
+  {
+    "id": 18,
+    "level": 9,
+    "mysekaiSiteCategory": "housing_room",
+    "putCostLimit": 8000
   }
 ]

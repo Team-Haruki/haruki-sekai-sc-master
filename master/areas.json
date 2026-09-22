@@ -315,7 +315,7 @@
     "areaType": "spirit_world",
     "assetbundleName": "area25",
     "displayTimelineType": "next_grade",
-    "endAt": 1789869600000,
+    "endAt": 1789862400000,
     "groupId": 200,
     "id": 25,
     "isBaseArea": true,
@@ -350,6 +350,21 @@
     "releaseConditionId": 117902,
     "releaseConditionId2": 117903,
     "startAt": 1790596800000,
+    "viewType": "side_view"
+  },
+  {
+    "additionalAreaType": "april_fool",
+    "areaType": "spirit_world",
+    "assetbundleName": "area28",
+    "displayTimelineType": "next_grade",
+    "endAt": 1806595199000,
+    "groupId": 310,
+    "id": 28,
+    "isBaseArea": true,
+    "name": "ふしぎな村のセカイ？",
+    "releaseConditionId": 1,
+    "startAt": 1806508800000,
+    "subName": "村",
     "viewType": "side_view"
   }
 ]

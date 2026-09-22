@@ -388,6 +388,16 @@
     "ruleSlideType": "MYSEKAI_DELIVERY"
   },
   {
+    "assetbundleName": "mysekai/rule_slide/rule_birthday/{0}",
+    "id": 65,
+    "ruleSlideType": "MYSEKAI_BIRTHDAY"
+  },
+  {
+    "assetbundleName": "tutorial/slide/rate_choice",
+    "id": 72,
+    "ruleSlideType": "RATE_CHOICE"
+  },
+  {
     "assetbundleName": "event/{0}/slide/personal",
     "id": 1000,
     "redisplay": "once",

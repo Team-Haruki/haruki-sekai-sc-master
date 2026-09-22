@@ -994,7 +994,7 @@
   },
   {
     "assetbundleName": "5th-anniversary-login-story",
-    "endAt": 1791734399000,
+    "endAt": 1791475199000,
     "episodes": [
       {
         "assetbundleName": "story_5th_anniversary",
@@ -1011,11 +1011,11 @@
       }
     ],
     "id": 58,
-    "startAt": 1790697600000
+    "startAt": 1790438400000
   },
   {
     "assetbundleName": "5th-anniversary-special_login-message",
-    "endAt": 1793462399000,
+    "endAt": 1793203199000,
     "episodes": [
       {
         "assetbundleName": "story_5th_anniversary_special_message",
@@ -1034,6 +1034,134 @@
       }
     ],
     "id": 59,
-    "startAt": 1791734400000
+    "startAt": 1791475200000
+  },
+  {
+    "assetbundleName": "collaboration-sanrio-story",
+    "endAt": 1803052799000,
+    "episodes": [
+      {
+        "assetbundleName": "story_collaboration_sanrio",
+        "episodeNo": 1,
+        "id": 67,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "collaboration_sanrio_op_01",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 22,
+        "specialStoryId": 62,
+        "title": "[复刻][初音未来：缤纷舞台×三丽鸥家族]联动纪念登录剧情序章"
+      }
+    ],
+    "id": 62,
+    "startAt": 1801800000000
+  },
+  {
+    "assetbundleName": "collaboration-sanrio-story",
+    "endAt": 1803139199000,
+    "episodes": [
+      {
+        "assetbundleName": "story_collaboration_sanrio",
+        "episodeNo": 1,
+        "id": 68,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "collaboration_sanrio_ed_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 63,
+        "title": "[复刻][初音未来：缤纷舞台×三丽鸥家族]联动纪念登录剧情终章"
+      }
+    ],
+    "id": 63,
+    "startAt": 1803052800000
+  },
+  {
+    "assetbundleName": "aprilfool-story-2026",
+    "endAt": 1806595199000,
+    "episodes": [
+      {
+        "assetbundleName": "story_aprilfool_2026",
+        "episodeNo": 1,
+        "id": 69,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "aprilfool_2026_01",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 28,
+        "specialStoryId": 64,
+        "title": "愚人节2027前导动画"
+      }
+    ],
+    "id": 64,
+    "startAt": 1806508800000
+  },
+  {
+    "assetbundleName": "aprilfool-story-2026",
+    "endAt": 1806681599000,
+    "episodes": [
+      {
+        "assetbundleName": "story_aprilfool_2026",
+        "episodeNo": 1,
+        "id": 70,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "releaseConditionId": 1000400,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "aprilfool_2026_02",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 65,
+        "title": "愚人节2027后日谈动画"
+      }
+    ],
+    "id": 65,
+    "startAt": 1806595200000
+  },
+  {
+    "assetbundleName": "collaboration-es-story",
+    "endAt": 1808841599000,
+    "episodes": [
+      {
+        "assetbundleName": "story_collaboration_es",
+        "episodeNo": 1,
+        "id": 71,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "collaboration_es_op_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 66,
+        "title": "[复刻][初音未来：缤纷舞台×偶像梦幻祭2]联动纪念登录剧情 序章"
+      }
+    ],
+    "id": 66,
+    "startAt": 1807588800000
+  },
+  {
+    "assetbundleName": "collaboration-es-story",
+    "endAt": 1808927999000,
+    "episodes": [
+      {
+        "assetbundleName": "story_collaboration_es",
+        "episodeNo": 1,
+        "id": 72,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "collaboration_es_ed_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 67,
+        "title": "[复刻][初音未来：缤纷舞台×偶像梦幻祭2]联动纪念登录剧情 终章"
+      }
+    ],
+    "id": 67,
+    "startAt": 1808841600000
   }
 ]

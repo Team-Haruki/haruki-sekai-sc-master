@@ -6391,6 +6391,98 @@
     "virtualShopType": "other"
   },
   {
+    "id": 315,
+    "name": "ハッピーニューイヤーライブ",
+    "virtualShopDisplayType": "out_of_scope",
+    "virtualShopItems": [
+      {
+        "costPaidJewel": 1000,
+        "id": 513,
+        "resourceBoxId": 408,
+        "seq": 99815,
+        "startAt": 1798700400000,
+        "virtualShopId": 315,
+        "virtualShopItemType": "coordinate"
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
+    "id": 316,
+    "name": "2026甘酒ショップ",
+    "virtualShopDisplayType": "out_of_scope",
+    "virtualShopItems": [
+      {
+        "costJewel": 0,
+        "costVirtualCoin": 0,
+        "endAt": 1799650799000,
+        "id": 514,
+        "limitValue": 1,
+        "resourceBoxId": 147,
+        "seq": 299999,
+        "startAt": 1798700400000,
+        "virtualShopId": 316,
+        "virtualShopItemType": "boost_item"
+      }
+    ],
+    "virtualShopType": "other"
+  },
+  {
+    "id": 317,
+    "name": "[復刻]サンリオキャラクターズコラボ",
+    "virtualShopDisplayType": "out_of_scope",
+    "virtualShopItems": [
+      {
+        "costPaidJewel": 1000,
+        "endAt": 1803052799000,
+        "id": 515,
+        "resourceBoxId": 308,
+        "seq": 10,
+        "startAt": 1801800000000,
+        "virtualShopId": 317,
+        "virtualShopItemType": "coordinate"
+      }
+    ],
+    "virtualShopType": "other"
+  },
+  {
+    "id": 318,
+    "name": "太鼓の達人コラボ",
+    "virtualShopDisplayType": "out_of_scope",
+    "virtualShopItems": [
+      {
+        "costPaidJewel": 1000,
+        "endAt": 1808323199000,
+        "id": 516,
+        "resourceBoxId": 409,
+        "seq": 99868,
+        "startAt": 1803193200000,
+        "virtualShopId": 318,
+        "virtualShopItemType": "accessory"
+      }
+    ],
+    "virtualShopType": "other"
+  },
+  {
+    "id": 319,
+    "name": "[復刻]あんさんぶるスターズ！！コラボ",
+    "virtualShopDisplayType": "out_of_scope",
+    "virtualShopItems": [
+      {
+        "costJewel": 1000,
+        "costVirtualCoin": 3000,
+        "endAt": 1808841599000,
+        "id": 517,
+        "resourceBoxId": 395,
+        "seq": 99872,
+        "startAt": 1807588800000,
+        "virtualShopId": 319,
+        "virtualShopItemType": "costume"
+      }
+    ],
+    "virtualShopType": "other"
+  },
+  {
     "id": 1007,
     "name": "“连线演唱会 4th ANNIVERSARY Brilliant Stage”周边商店",
     "virtualLiveId": 329,

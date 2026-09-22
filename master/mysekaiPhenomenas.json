@@ -132,6 +132,18 @@
     "rampTextureAssetbundleName": "011_snownight"
   },
   {
+    "assetbundleName": "013_universe",
+    "description": "うちゅう",
+    "englishName": "UNIVERSE",
+    "iconAssetbundleName": "env_universe",
+    "id": 13,
+    "mysekaiPhenomenaBackgroundColorId": 5,
+    "mysekaiPhenomenaBrightnessType": "none",
+    "mysekaiPhenomenaTimePeriodType": "night",
+    "name": "宇宙",
+    "rampTextureAssetbundleName": "013_universe"
+  },
+  {
     "assetbundleName": "014_sekai",
     "description": "せかい",
     "englishName": "SEKAI",

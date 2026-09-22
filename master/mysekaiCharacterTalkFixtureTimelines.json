@@ -1560,22 +1560,10 @@
     "mysekaiCharacterTalkActionPointId": 4
   },
   {
-    "assetbundleName": "tl_ext0020_fixture_gazebo1_all",
-    "groupId": 289,
-    "id": 293,
-    "mysekaiCharacterTalkActionPointId": 3
-  },
-  {
-    "assetbundleName": "tl_ext0020_fixture_gazebo1_all_ex01",
-    "groupId": 290,
-    "id": 294,
-    "mysekaiCharacterTalkActionPointId": 3
-  },
-  {
     "assetbundleName": "tl_ext0020_fixture_gazebo1_099_001",
     "groupId": 291,
     "id": 295,
-    "mysekaiCharacterTalkActionPointId": 192
+    "mysekaiCharacterTalkActionPointId": 198
   },
   {
     "assetbundleName": "tl_ext0020_fixture_horsestatue1_m",
@@ -1611,6 +1599,204 @@
     "assetbundleName": "tl_ext0020_fixture_horsestatue2_w_ex01",
     "groupId": 297,
     "id": 301,
+    "mysekaiCharacterTalkActionPointId": 3
+  },
+  {
+    "assetbundleName": "tl_ext0020_fixture_gazebo1_099_002",
+    "groupId": 298,
+    "id": 302,
+    "mysekaiCharacterTalkActionPointId": 192
+  },
+  {
+    "assetbundleName": "tl_ext0020_fixture_gazebo1_099_003",
+    "groupId": 299,
+    "id": 303,
+    "mysekaiCharacterTalkActionPointId": 198
+  },
+  {
+    "assetbundleName": "tl_ext0020_fixture_gazebo1_099_004",
+    "groupId": 300,
+    "id": 304,
+    "mysekaiCharacterTalkActionPointId": 198
+  },
+  {
+    "assetbundleName": "tl_ext0020_fixture_gazebo1_099_005",
+    "groupId": 301,
+    "id": 305,
+    "mysekaiCharacterTalkActionPointId": 192
+  },
+  {
+    "assetbundleName": "tl_ext0020_fixture_gazebo1_099_006",
+    "groupId": 302,
+    "id": 306,
+    "mysekaiCharacterTalkActionPointId": 198
+  },
+  {
+    "assetbundleName": "tl_ext0020_fixture_gazebo1_099_007",
+    "groupId": 303,
+    "id": 307,
+    "mysekaiCharacterTalkActionPointId": 198
+  },
+  {
+    "assetbundleName": "tl_ext0020_fixture_gazebo1_099_008",
+    "groupId": 304,
+    "id": 308,
+    "mysekaiCharacterTalkActionPointId": 198
+  },
+  {
+    "assetbundleName": "tl_ext0020_fixture_gazebo1_099_009",
+    "groupId": 305,
+    "id": 309,
+    "mysekaiCharacterTalkActionPointId": 192
+  },
+  {
+    "assetbundleName": "tl_ext0020_fixture_gazebo1_099_010",
+    "groupId": 306,
+    "id": 310,
+    "mysekaiCharacterTalkActionPointId": 192
+  },
+  {
+    "assetbundleName": "tl_ext0020_fixture_gazebo1_099_011",
+    "groupId": 307,
+    "id": 311,
+    "mysekaiCharacterTalkActionPointId": 198
+  },
+  {
+    "assetbundleName": "tl_ext0020_fixture_gazebo1_099_012",
+    "groupId": 308,
+    "id": 312,
+    "mysekaiCharacterTalkActionPointId": 192
+  },
+  {
+    "assetbundleName": "tl_ext0022_pierce_footbath1_w",
+    "groupId": 309,
+    "id": 313,
+    "mysekaiCharacterTalkActionPointId": 1
+  },
+  {
+    "assetbundleName": "tl_ext0022_fixture_fruitmilk1_ex01",
+    "groupId": 310,
+    "id": 314,
+    "mysekaiCharacterTalkActionPointId": 3
+  },
+  {
+    "assetbundleName": "tl_ext0022_fixture_fruitmilk1_ex02",
+    "groupId": 311,
+    "id": 315,
+    "mysekaiCharacterTalkActionPointId": 3
+  },
+  {
+    "assetbundleName": "tl_env0006_fixture_cockpit1_all",
+    "groupId": 312,
+    "id": 316,
+    "mysekaiCharacterTalkActionPointId": 3
+  },
+  {
+    "assetbundleName": "tl_env0006_fixture_cockpit1_ex01",
+    "groupId": 313,
+    "id": 317,
+    "mysekaiCharacterTalkActionPointId": 3
+  },
+  {
+    "assetbundleName": "tl_env0006_fixture_robot1_008",
+    "groupId": 314,
+    "id": 318,
+    "mysekaiCharacterTalkActionPointId": 3
+  },
+  {
+    "assetbundleName": "tl_env0006_fixture_robot1_015",
+    "groupId": 315,
+    "id": 319,
+    "mysekaiCharacterTalkActionPointId": 3
+  },
+  {
+    "assetbundleName": "tl_env0006_fixture_robot1_016",
+    "groupId": 316,
+    "id": 320,
+    "mysekaiCharacterTalkActionPointId": 3
+  },
+  {
+    "assetbundleName": "tl_clb1104_fixture_cinnamoroll1_014",
+    "groupId": 317,
+    "id": 321,
+    "mysekaiCharacterTalkActionPointId": 1
+  },
+  {
+    "assetbundleName": "tl_clb1104_fixture_pompompurin1_002",
+    "groupId": 318,
+    "id": 322,
+    "mysekaiCharacterTalkActionPointId": 3
+  },
+  {
+    "assetbundleName": "tl_clb1104_fixture_mymelody1_007",
+    "groupId": 319,
+    "id": 323,
+    "mysekaiCharacterTalkActionPointId": 3
+  },
+  {
+    "assetbundleName": "tl_clb1104_fixture_kuromi1_019",
+    "groupId": 320,
+    "id": 324,
+    "mysekaiCharacterTalkActionPointId": 3
+  },
+  {
+    "assetbundleName": "tl_clb1104_fixture_pochacco1_012",
+    "groupId": 321,
+    "id": 325,
+    "mysekaiCharacterTalkActionPointId": 3
+  },
+  {
+    "assetbundleName": "tl_ext0025_fixture_boutique1_ex01",
+    "groupId": 322,
+    "id": 326,
+    "mysekaiCharacterTalkActionPointId": 3
+  },
+  {
+    "assetbundleName": "tl_ext0025_fixture_boutique1_ex02",
+    "groupId": 323,
+    "id": 327,
+    "mysekaiCharacterTalkActionPointId": 3
+  },
+  {
+    "assetbundleName": "tl_ext0025_fixture_boutique1_020",
+    "groupId": 324,
+    "id": 328,
+    "mysekaiCharacterTalkActionPointId": 18
+  },
+  {
+    "assetbundleName": "tl_ext0025_fixture_boutique1_099_001",
+    "groupId": 325,
+    "id": 329,
+    "mysekaiCharacterTalkActionPointId": 158
+  },
+  {
+    "assetbundleName": "tl_ext0025_fixture_boutique1_ex03",
+    "groupId": 326,
+    "id": 330,
+    "mysekaiCharacterTalkActionPointId": 3
+  },
+  {
+    "assetbundleName": "tl_ext0025_fixture_cafe1_ex01",
+    "groupId": 327,
+    "id": 331,
+    "mysekaiCharacterTalkActionPointId": 3
+  },
+  {
+    "assetbundleName": "tl_ext0025_fixture_cafe1_ex02",
+    "groupId": 328,
+    "id": 332,
+    "mysekaiCharacterTalkActionPointId": 3
+  },
+  {
+    "assetbundleName": "tl_ext0025_fixture_cafe1_003",
+    "groupId": 329,
+    "id": 333,
+    "mysekaiCharacterTalkActionPointId": 3
+  },
+  {
+    "assetbundleName": "tl_ext0025_fixture_cafe1_ex03",
+    "groupId": 330,
+    "id": 334,
     "mysekaiCharacterTalkActionPointId": 3
   }
 ]

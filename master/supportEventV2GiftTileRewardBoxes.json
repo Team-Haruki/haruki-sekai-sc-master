@@ -1,0 +1,340 @@
+[
+  {
+    "id": 1,
+    "resourceQuantity": 50,
+    "resourceType": "jewel",
+    "rewardBoxType": "normal"
+  },
+  {
+    "id": 1,
+    "resourceQuantity": 50,
+    "resourceType": "jewel",
+    "rewardBoxType": "normal"
+  },
+  {
+    "id": 1,
+    "resourceId": 1,
+    "resourceQuantity": 5,
+    "resourceType": "boost_item",
+    "rewardBoxType": "normal"
+  },
+  {
+    "id": 1,
+    "resourceId": 1,
+    "resourceQuantity": 5,
+    "resourceType": "boost_item",
+    "rewardBoxType": "normal"
+  },
+  {
+    "id": 1,
+    "resourceId": 15,
+    "resourceQuantity": 5,
+    "resourceType": "material",
+    "rewardBoxType": "normal"
+  },
+  {
+    "id": 1,
+    "resourceId": 15,
+    "resourceQuantity": 5,
+    "resourceType": "material",
+    "rewardBoxType": "normal"
+  },
+  {
+    "id": 1,
+    "resourceQuantity": 10000,
+    "resourceType": "coin",
+    "rewardBoxType": "normal"
+  },
+  {
+    "id": 1,
+    "resourceQuantity": 10000,
+    "resourceType": "coin",
+    "rewardBoxType": "normal"
+  },
+  {
+    "id": 1,
+    "resourceId": 2,
+    "resourceQuantity": 5,
+    "resourceType": "practice_ticket",
+    "rewardBoxType": "normal"
+  },
+  {
+    "id": 1,
+    "resourceId": 2,
+    "resourceQuantity": 5,
+    "resourceType": "practice_ticket",
+    "rewardBoxType": "normal"
+  },
+  {
+    "id": 2,
+    "resourceQuantity": 100,
+    "resourceType": "jewel",
+    "rewardBoxType": "normal"
+  },
+  {
+    "id": 2,
+    "resourceQuantity": 100,
+    "resourceType": "jewel",
+    "rewardBoxType": "normal"
+  },
+  {
+    "id": 2,
+    "resourceId": 2,
+    "resourceQuantity": 1,
+    "resourceType": "boost_item",
+    "rewardBoxType": "normal"
+  },
+  {
+    "id": 2,
+    "resourceId": 2,
+    "resourceQuantity": 1,
+    "resourceType": "boost_item",
+    "rewardBoxType": "normal"
+  },
+  {
+    "id": 2,
+    "resourceId": 15,
+    "resourceQuantity": 10,
+    "resourceType": "material",
+    "rewardBoxType": "normal"
+  },
+  {
+    "id": 2,
+    "resourceId": 15,
+    "resourceQuantity": 10,
+    "resourceType": "material",
+    "rewardBoxType": "normal"
+  },
+  {
+    "id": 2,
+    "resourceQuantity": 20000,
+    "resourceType": "coin",
+    "rewardBoxType": "normal"
+  },
+  {
+    "id": 2,
+    "resourceQuantity": 20000,
+    "resourceType": "coin",
+    "rewardBoxType": "normal"
+  },
+  {
+    "id": 2,
+    "resourceId": 2,
+    "resourceQuantity": 10,
+    "resourceType": "practice_ticket",
+    "rewardBoxType": "normal"
+  },
+  {
+    "id": 2,
+    "resourceId": 2,
+    "resourceQuantity": 10,
+    "resourceType": "practice_ticket",
+    "rewardBoxType": "normal"
+  },
+  {
+    "id": 3,
+    "resourceId": 17,
+    "resourceQuantity": 1,
+    "resourceType": "gacha_ticket",
+    "rewardBoxType": "random"
+  },
+  {
+    "id": 3,
+    "resourceId": 15,
+    "resourceQuantity": 100,
+    "resourceType": "material",
+    "rewardBoxType": "random"
+  },
+  {
+    "id": 3,
+    "resourceQuantity": 100000,
+    "resourceType": "coin",
+    "rewardBoxType": "random"
+  },
+  {
+    "id": 3,
+    "resourceId": 17,
+    "resourceQuantity": 20,
+    "resourceType": "material",
+    "rewardBoxType": "random"
+  },
+  {
+    "id": 3,
+    "resourceId": 2,
+    "resourceQuantity": 2,
+    "resourceType": "skill_practice_ticket",
+    "rewardBoxType": "random"
+  },
+  {
+    "id": 3,
+    "resourceId": 14,
+    "resourceQuantity": 100,
+    "resourceType": "material",
+    "rewardBoxType": "random"
+  },
+  {
+    "id": 4,
+    "resourceId": 168,
+    "resourceQuantity": 1,
+    "resourceType": "material",
+    "rewardBoxType": "random_unit",
+    "unit": "light_sound"
+  },
+  {
+    "id": 4,
+    "resourceId": 49,
+    "resourceQuantity": 1,
+    "resourceType": "material",
+    "rewardBoxType": "random_unit",
+    "unit": "light_sound"
+  },
+  {
+    "id": 4,
+    "resourceId": 127,
+    "resourceQuantity": 100,
+    "resourceType": "material",
+    "rewardBoxType": "random_unit",
+    "unit": "light_sound"
+  },
+  {
+    "id": 4,
+    "resourceId": 168,
+    "resourceQuantity": 1,
+    "resourceType": "material",
+    "rewardBoxType": "random_unit",
+    "unit": "idol"
+  },
+  {
+    "id": 4,
+    "resourceId": 49,
+    "resourceQuantity": 1,
+    "resourceType": "material",
+    "rewardBoxType": "random_unit",
+    "unit": "idol"
+  },
+  {
+    "id": 4,
+    "resourceId": 128,
+    "resourceQuantity": 100,
+    "resourceType": "material",
+    "rewardBoxType": "random_unit",
+    "unit": "idol"
+  },
+  {
+    "id": 4,
+    "resourceId": 168,
+    "resourceQuantity": 1,
+    "resourceType": "material",
+    "rewardBoxType": "random_unit",
+    "unit": "street"
+  },
+  {
+    "id": 4,
+    "resourceId": 49,
+    "resourceQuantity": 1,
+    "resourceType": "material",
+    "rewardBoxType": "random_unit",
+    "unit": "street"
+  },
+  {
+    "id": 4,
+    "resourceId": 129,
+    "resourceQuantity": 100,
+    "resourceType": "material",
+    "rewardBoxType": "random_unit",
+    "unit": "street"
+  },
+  {
+    "id": 4,
+    "resourceId": 168,
+    "resourceQuantity": 1,
+    "resourceType": "material",
+    "rewardBoxType": "random_unit",
+    "unit": "theme_park"
+  },
+  {
+    "id": 4,
+    "resourceId": 49,
+    "resourceQuantity": 1,
+    "resourceType": "material",
+    "rewardBoxType": "random_unit",
+    "unit": "theme_park"
+  },
+  {
+    "id": 4,
+    "resourceId": 130,
+    "resourceQuantity": 100,
+    "resourceType": "material",
+    "rewardBoxType": "random_unit",
+    "unit": "theme_park"
+  },
+  {
+    "id": 4,
+    "resourceId": 168,
+    "resourceQuantity": 1,
+    "resourceType": "material",
+    "rewardBoxType": "random_unit",
+    "unit": "school_refusal"
+  },
+  {
+    "id": 4,
+    "resourceId": 49,
+    "resourceQuantity": 1,
+    "resourceType": "material",
+    "rewardBoxType": "random_unit",
+    "unit": "school_refusal"
+  },
+  {
+    "id": 4,
+    "resourceId": 131,
+    "resourceQuantity": 100,
+    "resourceType": "material",
+    "rewardBoxType": "random_unit",
+    "unit": "school_refusal"
+  },
+  {
+    "id": 4,
+    "resourceId": 168,
+    "resourceQuantity": 1,
+    "resourceType": "material",
+    "rewardBoxType": "random_unit",
+    "unit": "piapro"
+  },
+  {
+    "id": 4,
+    "resourceId": 49,
+    "resourceQuantity": 1,
+    "resourceType": "material",
+    "rewardBoxType": "random_unit",
+    "unit": "piapro"
+  },
+  {
+    "id": 4,
+    "resourceId": 132,
+    "resourceQuantity": 100,
+    "resourceType": "material",
+    "rewardBoxType": "random_unit",
+    "unit": "piapro"
+  },
+  {
+    "id": 5,
+    "resourceId": 3006,
+    "resourceQuantity": 1,
+    "resourceType": "material",
+    "rewardBoxType": "random"
+  },
+  {
+    "id": 6,
+    "resourceId": 3006,
+    "resourceQuantity": 1,
+    "resourceType": "material",
+    "rewardBoxType": "random"
+  },
+  {
+    "id": 7,
+    "resourceId": 3006,
+    "resourceQuantity": 1,
+    "resourceType": "material",
+    "rewardBoxType": "random"
+  }
+]

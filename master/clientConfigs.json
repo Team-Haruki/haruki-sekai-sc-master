@@ -815,11 +815,6 @@
     "value": "true"
   },
   {
-    "id": 165,
-    "type": "String",
-    "value": "https://pjsekai.sega.jp/index.html?from=official_store_banner"
-  },
-  {
     "id": 166,
     "type": "Float",
     "value": "1.0"
@@ -878,5 +873,45 @@
     "id": 177,
     "type": "Int",
     "value": "30"
+  },
+  {
+    "id": 178,
+    "type": "Bool",
+    "value": "false"
+  },
+  {
+    "id": 179,
+    "type": "Bool",
+    "value": "false"
+  },
+  {
+    "id": 180,
+    "type": "Int",
+    "value": "1342"
+  },
+  {
+    "id": 181,
+    "type": "Int",
+    "value": "60"
+  },
+  {
+    "id": 182,
+    "type": "Int",
+    "value": "120"
+  },
+  {
+    "id": 183,
+    "type": "Bool",
+    "value": "false"
+  },
+  {
+    "id": 184,
+    "type": "Bool",
+    "value": "false"
+  },
+  {
+    "id": 204,
+    "type": "Bool",
+    "value": "true"
   }
 ]

@@ -1,0 +1,98 @@
+[
+  {
+    "assetbundleName": "mdl_map_gezi2/mat_map_gezi2",
+    "id": 1,
+    "name": "阶段奖励格1",
+    "stageRewardBoxId": 1,
+    "tileType": "stage"
+  },
+  {
+    "assetbundleName": "mdl_map_gezi1/mat_map_gezi1_3",
+    "id": 2,
+    "name": "普通格",
+    "tileType": "blank"
+  },
+  {
+    "assetbundleName": "mdl_map_gezi1/mat_map_gezi1_1",
+    "giftRewardBoxId": 1,
+    "id": 3,
+    "name": "道具格（小）",
+    "tileType": "fixed"
+  },
+  {
+    "assetbundleName": "mdl_map_gezi1/mat_map_gezi1_2",
+    "giftRewardBoxId": 2,
+    "id": 4,
+    "name": "道具格（中）",
+    "tileType": "fixed"
+  },
+  {
+    "assetbundleName": "mdl_map_gezi1/mat_map_gezi1",
+    "giftRewardBoxId": 3,
+    "id": 5,
+    "name": "大量奖励格",
+    "tileType": "wheel"
+  },
+  {
+    "assetbundleName": "mdl_map_gezi3",
+    "giftRewardBoxId": 4,
+    "id": 6,
+    "name": "组合格",
+    "tileType": "wheel_unit"
+  },
+  {
+    "assetbundleName": "mdl_map_gezi1/mat_map_gezi1_3",
+    "giftRewardBoxId": 5,
+    "id": 7,
+    "name": "隐藏宝箱格",
+    "tileType": "fixed_box"
+  },
+  {
+    "assetbundleName": "mdl_map_gezi1/mat_map_gezi1_4",
+    "id": 9,
+    "name": "跳跃格",
+    "tileType": "wheel_jump"
+  },
+  {
+    "assetbundleName": "mdl_map_gezi1/mat_map_gezi1_7",
+    "giftRewardBoxId": 6,
+    "id": 10,
+    "name": "应援格",
+    "tileType": "fixed_support"
+  },
+  {
+    "assetbundleName": "mdl_map_gezi1/mat_map_gezi1_5",
+    "giftRewardBoxId": 7,
+    "id": 11,
+    "name": "舞蹈格",
+    "tileType": "fixed_dance"
+  },
+  {
+    "assetbundleName": "mdl_map_gezi2/mat_map_gezi2",
+    "id": 12,
+    "name": "阶段奖励格2",
+    "stageRewardBoxId": 2,
+    "tileType": "stage"
+  },
+  {
+    "assetbundleName": "mdl_map_gezi2/mat_map_gezi2",
+    "id": 13,
+    "name": "阶段奖励格3",
+    "stageRewardBoxId": 3,
+    "tileType": "stage"
+  },
+  {
+    "assetbundleName": "mdl_map_gezi2/mat_map_gezi2",
+    "id": 14,
+    "name": "阶段奖励格4",
+    "stageRewardBoxId": 4,
+    "tileType": "stage"
+  },
+  {
+    "assetbundleName": "mdl_map_gezi2/mat_map_gezi2",
+    "id": 15,
+    "name": "阶段奖励格5",
+    "stageRewardBoxId": 5,
+    "tileType": "stage"
+  }
+]

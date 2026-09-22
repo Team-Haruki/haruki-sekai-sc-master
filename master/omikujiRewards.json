@@ -62,5 +62,21 @@
     "resourceQuantity": 1,
     "resourceType": "custom_profile_collection_resource",
     "seq": 2
+  },
+  {
+    "id": 9,
+    "omikujiGroupId": 5,
+    "resourceId": 15,
+    "resourceQuantity": 10,
+    "resourceType": "material",
+    "seq": 1
+  },
+  {
+    "id": 10,
+    "omikujiGroupId": 5,
+    "resourceId": 1000,
+    "resourceQuantity": 1,
+    "resourceType": "custom_profile_collection_resource",
+    "seq": 2
   }
 ]
