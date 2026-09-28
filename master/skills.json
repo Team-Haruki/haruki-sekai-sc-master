@@ -1645,21 +1645,21 @@
         "skillEffectDetails": [
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 90,
+            "activateEffectValue": 80,
             "activateEffectValueType": "rate",
             "id": 173,
             "level": 1
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 95,
+            "activateEffectValue": 85,
             "activateEffectValueType": "rate",
             "id": 174,
             "level": 2
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 100,
+            "activateEffectValue": 90,
             "activateEffectValueType": "rate",
             "id": 175,
             "level": 3
@@ -1674,7 +1674,7 @@
         ],
         "skillEffectType": "score_up",
         "skillEnhance": {
-          "activateEffectValue": 8,
+          "activateEffectValue": 10,
           "activateEffectValueType": "rate",
           "id": 1,
           "skillEnhanceCondition": {
@@ -1699,21 +1699,21 @@
         "skillEffectDetails": [
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 90,
+            "activateEffectValue": 80,
             "activateEffectValueType": "rate",
             "id": 177,
             "level": 1
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 95,
+            "activateEffectValue": 85,
             "activateEffectValueType": "rate",
             "id": 178,
             "level": 2
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 100,
+            "activateEffectValue": 90,
             "activateEffectValueType": "rate",
             "id": 179,
             "level": 3
@@ -1728,7 +1728,7 @@
         ],
         "skillEffectType": "score_up",
         "skillEnhance": {
-          "activateEffectValue": 8,
+          "activateEffectValue": 10,
           "activateEffectValueType": "rate",
           "id": 2,
           "skillEnhanceCondition": {
@@ -1753,21 +1753,21 @@
         "skillEffectDetails": [
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 90,
+            "activateEffectValue": 80,
             "activateEffectValueType": "rate",
             "id": 181,
             "level": 1
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 95,
+            "activateEffectValue": 85,
             "activateEffectValueType": "rate",
             "id": 182,
             "level": 2
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 100,
+            "activateEffectValue": 90,
             "activateEffectValueType": "rate",
             "id": 183,
             "level": 3
@@ -1782,7 +1782,7 @@
         ],
         "skillEffectType": "score_up",
         "skillEnhance": {
-          "activateEffectValue": 8,
+          "activateEffectValue": 10,
           "activateEffectValueType": "rate",
           "id": 3,
           "skillEnhanceCondition": {
@@ -1807,21 +1807,21 @@
         "skillEffectDetails": [
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 90,
+            "activateEffectValue": 80,
             "activateEffectValueType": "rate",
             "id": 185,
             "level": 1
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 95,
+            "activateEffectValue": 85,
             "activateEffectValueType": "rate",
             "id": 186,
             "level": 2
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 100,
+            "activateEffectValue": 90,
             "activateEffectValueType": "rate",
             "id": 187,
             "level": 3
@@ -1836,7 +1836,7 @@
         ],
         "skillEffectType": "score_up",
         "skillEnhance": {
-          "activateEffectValue": 8,
+          "activateEffectValue": 10,
           "activateEffectValueType": "rate",
           "id": 4,
           "skillEnhanceCondition": {
@@ -1861,21 +1861,21 @@
         "skillEffectDetails": [
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 90,
+            "activateEffectValue": 80,
             "activateEffectValueType": "rate",
             "id": 189,
             "level": 1
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 95,
+            "activateEffectValue": 85,
             "activateEffectValueType": "rate",
             "id": 190,
             "level": 2
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 100,
+            "activateEffectValue": 90,
             "activateEffectValueType": "rate",
             "id": 191,
             "level": 3
@@ -1890,7 +1890,7 @@
         ],
         "skillEffectType": "score_up",
         "skillEnhance": {
-          "activateEffectValue": 8,
+          "activateEffectValue": 10,
           "activateEffectValueType": "rate",
           "id": 5,
           "skillEnhanceCondition": {
@@ -3083,7 +3083,7 @@
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 30,
+            "activateEffectValue": 31,
             "activateEffectValueType": "rate",
             "id": 336,
             "level": 4
@@ -3120,7 +3120,7 @@
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 30,
+            "activateEffectValue": 32,
             "activateEffectValueType": "rate",
             "id": 340,
             "level": 4
@@ -3157,7 +3157,7 @@
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 30,
+            "activateEffectValue": 33,
             "activateEffectValueType": "rate",
             "id": 344,
             "level": 4
@@ -3194,7 +3194,7 @@
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 30,
+            "activateEffectValue": 34,
             "activateEffectValueType": "rate",
             "id": 348,
             "level": 4
@@ -3231,7 +3231,7 @@
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 30,
+            "activateEffectValue": 35,
             "activateEffectValueType": "rate",
             "id": 352,
             "level": 4
@@ -3268,7 +3268,7 @@
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 30,
+            "activateEffectValue": 36,
             "activateEffectValueType": "rate",
             "id": 356,
             "level": 4
@@ -3305,7 +3305,7 @@
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 30,
+            "activateEffectValue": 37,
             "activateEffectValueType": "rate",
             "id": 360,
             "level": 4
@@ -3342,7 +3342,7 @@
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 30,
+            "activateEffectValue": 38,
             "activateEffectValueType": "rate",
             "id": 364,
             "level": 4
@@ -3379,7 +3379,7 @@
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 30,
+            "activateEffectValue": 39,
             "activateEffectValueType": "rate",
             "id": 368,
             "level": 4
@@ -3416,7 +3416,7 @@
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 30,
+            "activateEffectValue": 40,
             "activateEffectValueType": "rate",
             "id": 372,
             "level": 4
@@ -3446,14 +3446,14 @@
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 40,
+            "activateEffectValue": 41,
             "activateEffectValueType": "rate",
             "id": 375,
             "level": 3
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 30,
+            "activateEffectValue": 41,
             "activateEffectValueType": "rate",
             "id": 376,
             "level": 4
@@ -3483,14 +3483,14 @@
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 40,
+            "activateEffectValue": 42,
             "activateEffectValueType": "rate",
             "id": 379,
             "level": 3
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 30,
+            "activateEffectValue": 42,
             "activateEffectValueType": "rate",
             "id": 380,
             "level": 4
@@ -3520,14 +3520,14 @@
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 40,
+            "activateEffectValue": 43,
             "activateEffectValueType": "rate",
             "id": 383,
             "level": 3
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 30,
+            "activateEffectValue": 43,
             "activateEffectValueType": "rate",
             "id": 384,
             "level": 4
@@ -3557,14 +3557,14 @@
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 40,
+            "activateEffectValue": 44,
             "activateEffectValueType": "rate",
             "id": 387,
             "level": 3
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 30,
+            "activateEffectValue": 44,
             "activateEffectValueType": "rate",
             "id": 388,
             "level": 4
@@ -3594,14 +3594,14 @@
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 40,
+            "activateEffectValue": 45,
             "activateEffectValueType": "rate",
             "id": 391,
             "level": 3
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 30,
+            "activateEffectValue": 45,
             "activateEffectValueType": "rate",
             "id": 392,
             "level": 4
@@ -3624,21 +3624,21 @@
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 45,
+            "activateEffectValue": 46,
             "activateEffectValueType": "rate",
             "id": 394,
             "level": 2
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 40,
+            "activateEffectValue": 46,
             "activateEffectValueType": "rate",
             "id": 395,
             "level": 3
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 30,
+            "activateEffectValue": 46,
             "activateEffectValueType": "rate",
             "id": 396,
             "level": 4
@@ -3661,21 +3661,21 @@
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 45,
+            "activateEffectValue": 47,
             "activateEffectValueType": "rate",
             "id": 398,
             "level": 2
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 40,
+            "activateEffectValue": 47,
             "activateEffectValueType": "rate",
             "id": 399,
             "level": 3
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 30,
+            "activateEffectValue": 47,
             "activateEffectValueType": "rate",
             "id": 400,
             "level": 4
@@ -3698,21 +3698,21 @@
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 45,
+            "activateEffectValue": 48,
             "activateEffectValueType": "rate",
             "id": 402,
             "level": 2
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 40,
+            "activateEffectValue": 48,
             "activateEffectValueType": "rate",
             "id": 403,
             "level": 3
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 30,
+            "activateEffectValue": 48,
             "activateEffectValueType": "rate",
             "id": 404,
             "level": 4
@@ -3735,21 +3735,21 @@
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 45,
+            "activateEffectValue": 49,
             "activateEffectValueType": "rate",
             "id": 406,
             "level": 2
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 40,
+            "activateEffectValue": 49,
             "activateEffectValueType": "rate",
             "id": 407,
             "level": 3
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 30,
+            "activateEffectValue": 49,
             "activateEffectValueType": "rate",
             "id": 408,
             "level": 4
@@ -3772,21 +3772,21 @@
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 45,
+            "activateEffectValue": 50,
             "activateEffectValueType": "rate",
             "id": 410,
             "level": 2
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 40,
+            "activateEffectValue": 50,
             "activateEffectValueType": "rate",
             "id": 411,
             "level": 3
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 30,
+            "activateEffectValue": 50,
             "activateEffectValueType": "rate",
             "id": 412,
             "level": 4
@@ -3868,7 +3868,7 @@
           {
             "activateEffectDuration": 5.0,
             "activateEffectValue": 50,
-            "activateEffectValue2": 60,
+            "activateEffectValue2": 70,
             "activateEffectValueType": "reference_rate",
             "id": 420,
             "level": 4
@@ -3985,7 +3985,7 @@
           },
           {
             "activateEffectDuration": 5.0,
-            "activateEffectValue": 50,
+            "activateEffectValue": 60,
             "activateEffectValueType": "rate",
             "id": 432,
             "level": 4

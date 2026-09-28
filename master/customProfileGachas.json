@@ -5076,5 +5076,874 @@
         "weight": 1
       }
     ]
+  },
+  {
+    "id": 67,
+    "name": "[ALL]“感谢庆典”收藏礼盒",
+    "startAt": 1790697600000,
+    "endAt": 1791475199000,
+    "assetbundleName": "collection_gacha_5th_live_anv_all",
+    "description": "“[ALL]‘感谢庆典’收藏礼盒”登场！\n\n以“感谢庆典”为主题设计的道具会作为收藏道具出现在“[ALL]‘感谢庆典’收藏礼盒”中。\n获得的收藏道具除了可用作自定义个人资料的材料外，还可在“我的「世界」”中作为展示用家具进行展示。",
+    "notice": "·消耗水晶时将优先消耗免费水晶。\n·在收藏礼盒中出现的收藏可能会重复。重复获得的收藏可以在自定义个人资料和我的「世界」中多次使用。\n·收藏礼盒的每次抽取都会根据提供比例进行。比如即使某个收藏的提供比例为1%，也并不意味着抽取100次一定会有1次抽到该收藏。\n·关于收藏礼盒的提供比例，详情请在提供比例选项卡中查看。\n·提供比例选项卡中显示的概率由于小数点后第4位会被自动四舍五入，因此可能存在全部相加后不等于100%的情况。\n·即使在抽取收藏礼盒后强行关闭游戏，或者由于连接中断导致未能正常显示招募结果界面，也会正常获得收藏。请在自定义个人资料的收藏和我的「世界」的周边中查看。\n··本次收藏礼盒的限时收藏今后仍有可能再次登场。目前暂时没有再次登场的计划。\n·活动时间若有变更，恕不另行通知。",
+    "customProfileGachaCategory": "temporary",
+    "customProfileGachaBehaviors": [
+      {
+        "id": 199,
+        "seq": 1,
+        "costResourceType": "virtual_coin",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      },
+      {
+        "id": 200,
+        "seq": 2,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 1000,
+        "spinCount": 10
+      },
+      {
+        "id": 201,
+        "seq": 3,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1
+      }
+    ],
+    "customProfileGachaDetails": [
+      {
+        "id": 2105,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 879,
+        "weight": 1
+      },
+      {
+        "id": 2106,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 880,
+        "weight": 1
+      },
+      {
+        "id": 2107,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 881,
+        "weight": 1
+      },
+      {
+        "id": 2108,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 882,
+        "weight": 1
+      },
+      {
+        "id": 2109,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 883,
+        "weight": 1
+      },
+      {
+        "id": 2110,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 884,
+        "weight": 1
+      },
+      {
+        "id": 2111,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 885,
+        "weight": 1
+      },
+      {
+        "id": 2112,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 886,
+        "weight": 1
+      },
+      {
+        "id": 2113,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 887,
+        "weight": 1
+      },
+      {
+        "id": 2114,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 888,
+        "weight": 1
+      },
+      {
+        "id": 2115,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 889,
+        "weight": 1
+      },
+      {
+        "id": 2116,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 890,
+        "weight": 1
+      },
+      {
+        "id": 2121,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 895,
+        "weight": 1
+      },
+      {
+        "id": 2122,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 896,
+        "weight": 1
+      },
+      {
+        "id": 2123,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 897,
+        "weight": 1
+      },
+      {
+        "id": 2124,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 898,
+        "weight": 1
+      },
+      {
+        "id": 2125,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 899,
+        "weight": 1
+      },
+      {
+        "id": 2126,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 900,
+        "weight": 1
+      },
+      {
+        "id": 2127,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 901,
+        "weight": 1
+      },
+      {
+        "id": 2128,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 902,
+        "weight": 1
+      },
+      {
+        "id": 2133,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 907,
+        "weight": 1
+      },
+      {
+        "id": 2134,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 908,
+        "weight": 1
+      },
+      {
+        "id": 2135,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 909,
+        "weight": 1
+      },
+      {
+        "id": 2136,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 910,
+        "weight": 1
+      },
+      {
+        "id": 2137,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 911,
+        "weight": 1
+      },
+      {
+        "id": 2138,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 912,
+        "weight": 1
+      },
+      {
+        "id": 2139,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 913,
+        "weight": 1
+      },
+      {
+        "id": 2140,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 914,
+        "weight": 1
+      },
+      {
+        "id": 2145,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 919,
+        "weight": 1
+      },
+      {
+        "id": 2146,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 920,
+        "weight": 1
+      },
+      {
+        "id": 2147,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 921,
+        "weight": 1
+      },
+      {
+        "id": 2148,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 922,
+        "weight": 1
+      },
+      {
+        "id": 2149,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 923,
+        "weight": 1
+      },
+      {
+        "id": 2150,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 924,
+        "weight": 1
+      },
+      {
+        "id": 2151,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 925,
+        "weight": 1
+      },
+      {
+        "id": 2152,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 926,
+        "weight": 1
+      },
+      {
+        "id": 2157,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 931,
+        "weight": 1
+      },
+      {
+        "id": 2158,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 932,
+        "weight": 1
+      },
+      {
+        "id": 2159,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 933,
+        "weight": 1
+      },
+      {
+        "id": 2160,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 934,
+        "weight": 1
+      },
+      {
+        "id": 2161,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 935,
+        "weight": 1
+      },
+      {
+        "id": 2162,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 936,
+        "weight": 1
+      },
+      {
+        "id": 2163,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 937,
+        "weight": 1
+      },
+      {
+        "id": 2164,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 938,
+        "weight": 1
+      },
+      {
+        "id": 2169,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 943,
+        "weight": 1
+      },
+      {
+        "id": 2170,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 944,
+        "weight": 1
+      },
+      {
+        "id": 2171,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 945,
+        "weight": 1
+      },
+      {
+        "id": 2172,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 946,
+        "weight": 1
+      },
+      {
+        "id": 2173,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 947,
+        "weight": 1
+      },
+      {
+        "id": 2174,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 948,
+        "weight": 1
+      },
+      {
+        "id": 2175,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 949,
+        "weight": 1
+      },
+      {
+        "id": 2176,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 950,
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "[虚拟歌手]“感谢庆典”收藏礼盒",
+    "startAt": 1790697600000,
+    "endAt": 1791475199000,
+    "assetbundleName": "collection_gacha_5th_live_anv_01",
+    "description": "“[虚拟歌手]‘感谢庆典’收藏礼盒”登场！\n\n以“虚拟歌手”成员“感谢庆典”为主题设计的道具会作为收藏道具出现在“[虚拟歌手]‘感谢庆典’收藏礼盒”中。\n获得的收藏道具除了可用作自定义个人资料的材料外，还可在“我的「世界」”中作为展示用家具进行展示。",
+    "notice": "·消耗水晶时将优先消耗免费水晶。\n·在收藏礼盒中出现的收藏可能会重复。重复获得的收藏可以在自定义个人资料和我的「世界」中多次使用。\n·收藏礼盒的每次抽取都会根据提供比例进行。比如即使某个收藏的提供比例为1%，也并不意味着抽取100次一定会有1次抽到该收藏。\n·关于收藏礼盒的提供比例，详情请在提供比例选项卡中查看。\n·提供比例选项卡中显示的概率由于小数点后第4位会被自动四舍五入，因此可能存在全部相加后不等于100%的情况。\n·即使在抽取收藏礼盒后强行关闭游戏，或者由于连接中断导致未能正常显示招募结果界面，也会正常获得收藏。请在自定义个人资料的收藏和我的「世界」的周边中查看。\n··本次收藏礼盒的限时收藏今后仍有可能再次登场。目前暂时没有再次登场的计划。\n·活动时间若有变更，恕不另行通知。",
+    "customProfileGachaCategory": "temporary",
+    "customProfileGachaBehaviors": [
+      {
+        "id": 202,
+        "seq": 1,
+        "costResourceType": "virtual_coin",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      },
+      {
+        "id": 203,
+        "seq": 2,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 1000,
+        "spinCount": 10
+      },
+      {
+        "id": 204,
+        "seq": 3,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1
+      }
+    ],
+    "customProfileGachaDetails": [
+      {
+        "id": 2184,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 879,
+        "weight": 1
+      },
+      {
+        "id": 2185,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 880,
+        "weight": 1
+      },
+      {
+        "id": 2186,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 881,
+        "weight": 1
+      },
+      {
+        "id": 2187,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 882,
+        "weight": 1
+      },
+      {
+        "id": 2188,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 883,
+        "weight": 1
+      },
+      {
+        "id": 2189,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 884,
+        "weight": 1
+      },
+      {
+        "id": 2190,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 885,
+        "weight": 1
+      },
+      {
+        "id": 2191,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 886,
+        "weight": 1
+      },
+      {
+        "id": 2192,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 887,
+        "weight": 1
+      },
+      {
+        "id": 2193,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 888,
+        "weight": 1
+      },
+      {
+        "id": 2194,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 889,
+        "weight": 1
+      },
+      {
+        "id": 2195,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 890,
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "[Leo/need]“感谢庆典”收藏礼盒",
+    "startAt": 1790697600000,
+    "endAt": 1791475199000,
+    "assetbundleName": "collection_gacha_5th_live_anv_02",
+    "description": "“[Leo/need]‘感谢庆典’收藏礼盒”登场！\n\n以“Leo/need”成员“感谢庆典”为主题设计的道具会作为收藏道具出现在“[Leo/need]‘感谢庆典’收藏礼盒”中。\n获得的收藏道具除了可用作自定义个人资料的材料外，还可在“我的「世界」”中作为展示用家具进行展示。",
+    "notice": "·消耗水晶时将优先消耗免费水晶。\n·在收藏礼盒中出现的收藏可能会重复。重复获得的收藏可以在自定义个人资料和我的「世界」中多次使用。\n·收藏礼盒的每次抽取都会根据提供比例进行。比如即使某个收藏的提供比例为1%，也并不意味着抽取100次一定会有1次抽到该收藏。\n·关于收藏礼盒的提供比例，详情请在提供比例选项卡中查看。\n·提供比例选项卡中显示的概率由于小数点后第4位会被自动四舍五入，因此可能存在全部相加后不等于100%的情况。\n·即使在抽取收藏礼盒后强行关闭游戏，或者由于连接中断导致未能正常显示招募结果界面，也会正常获得收藏。请在自定义个人资料的收藏和我的「世界」的周边中查看。\n··本次收藏礼盒的限时收藏今后仍有可能再次登场。目前暂时没有再次登场的计划。\n·活动时间若有变更，恕不另行通知。",
+    "customProfileGachaCategory": "temporary",
+    "customProfileGachaBehaviors": [
+      {
+        "id": 205,
+        "seq": 1,
+        "costResourceType": "virtual_coin",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      },
+      {
+        "id": 206,
+        "seq": 2,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 1000,
+        "spinCount": 10
+      },
+      {
+        "id": 207,
+        "seq": 3,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1
+      }
+    ],
+    "customProfileGachaDetails": [
+      {
+        "id": 2201,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 895,
+        "weight": 1
+      },
+      {
+        "id": 2202,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 896,
+        "weight": 1
+      },
+      {
+        "id": 2203,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 897,
+        "weight": 1
+      },
+      {
+        "id": 2204,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 898,
+        "weight": 1
+      },
+      {
+        "id": 2205,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 899,
+        "weight": 1
+      },
+      {
+        "id": 2206,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 900,
+        "weight": 1
+      },
+      {
+        "id": 2207,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 901,
+        "weight": 1
+      },
+      {
+        "id": 2208,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 902,
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "[MORE MORE JUMP！]“感谢庆典”收藏礼盒",
+    "startAt": 1790697600000,
+    "endAt": 1791475199000,
+    "assetbundleName": "collection_gacha_5th_live_anv_03",
+    "description": "“[MORE MORE JUMP！]‘感谢庆典’收藏礼盒”登场！\n\n以“MORE MORE JUMP！”成员“感谢庆典”为主题设计的道具会作为收藏道具出现在“[MORE MORE JUMP！]‘感谢庆典’收藏礼盒”中。\n获得的收藏道具除了可用作自定义个人资料的材料外，还可在“我的「世界」”中作为展示用家具进行展示。",
+    "notice": "·消耗水晶时将优先消耗免费水晶。\n·在收藏礼盒中出现的收藏可能会重复。重复获得的收藏可以在自定义个人资料和我的「世界」中多次使用。\n·收藏礼盒的每次抽取都会根据提供比例进行。比如即使某个收藏的提供比例为1%，也并不意味着抽取100次一定会有1次抽到该收藏。\n·关于收藏礼盒的提供比例，详情请在提供比例选项卡中查看。\n·提供比例选项卡中显示的概率由于小数点后第4位会被自动四舍五入，因此可能存在全部相加后不等于100%的情况。\n·即使在抽取收藏礼盒后强行关闭游戏，或者由于连接中断导致未能正常显示招募结果界面，也会正常获得收藏。请在自定义个人资料的收藏和我的「世界」的周边中查看。\n··本次收藏礼盒的限时收藏今后仍有可能再次登场。目前暂时没有再次登场的计划。\n·活动时间若有变更，恕不另行通知。",
+    "customProfileGachaCategory": "temporary",
+    "customProfileGachaBehaviors": [
+      {
+        "id": 208,
+        "seq": 1,
+        "costResourceType": "virtual_coin",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      },
+      {
+        "id": 209,
+        "seq": 2,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 1000,
+        "spinCount": 10
+      },
+      {
+        "id": 210,
+        "seq": 3,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1
+      }
+    ],
+    "customProfileGachaDetails": [
+      {
+        "id": 2214,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 907,
+        "weight": 1
+      },
+      {
+        "id": 2215,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 908,
+        "weight": 1
+      },
+      {
+        "id": 2216,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 909,
+        "weight": 1
+      },
+      {
+        "id": 2217,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 910,
+        "weight": 1
+      },
+      {
+        "id": 2218,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 911,
+        "weight": 1
+      },
+      {
+        "id": 2219,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 912,
+        "weight": 1
+      },
+      {
+        "id": 2220,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 913,
+        "weight": 1
+      },
+      {
+        "id": 2221,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 914,
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "[Vivid BAD SQUAD]“感谢庆典”收藏礼盒",
+    "startAt": 1790697600000,
+    "endAt": 1791475199000,
+    "assetbundleName": "collection_gacha_5th_live_anv_04",
+    "description": "“[Vivid BAD SQUAD]‘感谢庆典’收藏礼盒”登场！\n\n以“Vivid BAD SQUAD”成员“感谢庆典”为主题设计的道具会作为收藏道具出现在“[Vivid BAD SQUAD]‘感谢庆典’收藏礼盒”中。\n获得的收藏道具除了可用作自定义个人资料的材料外，还可在“我的「世界」”中作为展示用家具进行展示。",
+    "notice": "·消耗水晶时将优先消耗免费水晶。\n·在收藏礼盒中出现的收藏可能会重复。重复获得的收藏可以在自定义个人资料和我的「世界」中多次使用。\n·收藏礼盒的每次抽取都会根据提供比例进行。比如即使某个收藏的提供比例为1%，也并不意味着抽取100次一定会有1次抽到该收藏。\n·关于收藏礼盒的提供比例，详情请在提供比例选项卡中查看。\n·提供比例选项卡中显示的概率由于小数点后第4位会被自动四舍五入，因此可能存在全部相加后不等于100%的情况。\n·即使在抽取收藏礼盒后强行关闭游戏，或者由于连接中断导致未能正常显示招募结果界面，也会正常获得收藏。请在自定义个人资料的收藏和我的「世界」的周边中查看。\n··本次收藏礼盒的限时收藏今后仍有可能再次登场。目前暂时没有再次登场的计划。\n·活动时间若有变更，恕不另行通知。",
+    "customProfileGachaCategory": "temporary",
+    "customProfileGachaBehaviors": [
+      {
+        "id": 211,
+        "seq": 1,
+        "costResourceType": "virtual_coin",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      },
+      {
+        "id": 212,
+        "seq": 2,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 1000,
+        "spinCount": 10
+      },
+      {
+        "id": 213,
+        "seq": 3,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1
+      }
+    ],
+    "customProfileGachaDetails": [
+      {
+        "id": 2227,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 919,
+        "weight": 1
+      },
+      {
+        "id": 2228,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 920,
+        "weight": 1
+      },
+      {
+        "id": 2229,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 921,
+        "weight": 1
+      },
+      {
+        "id": 2230,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 922,
+        "weight": 1
+      },
+      {
+        "id": 2231,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 923,
+        "weight": 1
+      },
+      {
+        "id": 2232,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 924,
+        "weight": 1
+      },
+      {
+        "id": 2233,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 925,
+        "weight": 1
+      },
+      {
+        "id": 2234,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 926,
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "[Wonderlands×Showtime]“感谢庆典”收藏礼盒",
+    "startAt": 1790697600000,
+    "endAt": 1791475199000,
+    "assetbundleName": "collection_gacha_5th_live_anv_05",
+    "description": "“[Wonderlands×Showtime]‘感谢庆典’收藏礼盒”登场！\n\n以“Wonderlands×Showtime”成员“感谢庆典”为主题设计的道具会作为收藏道具出现在“[Wonderlands×Showtime]‘感谢庆典’收藏礼盒”中。\n获得的收藏道具除了可用作自定义个人资料的材料外，还可在“我的「世界」”中作为展示用家具进行展示。",
+    "notice": "·消耗水晶时将优先消耗免费水晶。\n·在收藏礼盒中出现的收藏可能会重复。重复获得的收藏可以在自定义个人资料和我的「世界」中多次使用。\n·收藏礼盒的每次抽取都会根据提供比例进行。比如即使某个收藏的提供比例为1%，也并不意味着抽取100次一定会有1次抽到该收藏。\n·关于收藏礼盒的提供比例，详情请在提供比例选项卡中查看。\n·提供比例选项卡中显示的概率由于小数点后第4位会被自动四舍五入，因此可能存在全部相加后不等于100%的情况。\n·即使在抽取收藏礼盒后强行关闭游戏，或者由于连接中断导致未能正常显示招募结果界面，也会正常获得收藏。请在自定义个人资料的收藏和我的「世界」的周边中查看。\n··本次收藏礼盒的限时收藏今后仍有可能再次登场。目前暂时没有再次登场的计划。\n·活动时间若有变更，恕不另行通知。",
+    "customProfileGachaCategory": "temporary",
+    "customProfileGachaBehaviors": [
+      {
+        "id": 214,
+        "seq": 1,
+        "costResourceType": "virtual_coin",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      },
+      {
+        "id": 215,
+        "seq": 2,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 1000,
+        "spinCount": 10
+      },
+      {
+        "id": 216,
+        "seq": 3,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1
+      }
+    ],
+    "customProfileGachaDetails": [
+      {
+        "id": 2240,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 931,
+        "weight": 1
+      },
+      {
+        "id": 2241,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 932,
+        "weight": 1
+      },
+      {
+        "id": 2242,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 933,
+        "weight": 1
+      },
+      {
+        "id": 2243,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 934,
+        "weight": 1
+      },
+      {
+        "id": 2244,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 935,
+        "weight": 1
+      },
+      {
+        "id": 2245,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 936,
+        "weight": 1
+      },
+      {
+        "id": 2246,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 937,
+        "weight": 1
+      },
+      {
+        "id": 2247,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 938,
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "[25点，Nightcord见。]“感谢庆典”收藏礼盒",
+    "startAt": 1790697600000,
+    "endAt": 1791475199000,
+    "assetbundleName": "collection_gacha_5th_live_anv_06",
+    "description": "“[25点，Nightcord见。]‘感谢庆典’收藏礼盒”登场！\n\n以“25点，Nightcord见。”成员“感谢庆典”为主题设计的道具会作为收藏道具出现在“[25点，Nightcord见。]‘感谢庆典’收藏礼盒”中。\n获得的收藏道具除了可用作自定义个人资料的材料外，还可在“我的「世界」”中作为展示用家具进行展示。",
+    "notice": "·消耗水晶时将优先消耗免费水晶。\n·在收藏礼盒中出现的收藏可能会重复。重复获得的收藏可以在自定义个人资料和我的「世界」中多次使用。\n·收藏礼盒的每次抽取都会根据提供比例进行。比如即使某个收藏的提供比例为1%，也并不意味着抽取100次一定会有1次抽到该收藏。\n·关于收藏礼盒的提供比例，详情请在提供比例选项卡中查看。\n·提供比例选项卡中显示的概率由于小数点后第4位会被自动四舍五入，因此可能存在全部相加后不等于100%的情况。\n·即使在抽取收藏礼盒后强行关闭游戏，或者由于连接中断导致未能正常显示招募结果界面，也会正常获得收藏。请在自定义个人资料的收藏和我的「世界」的周边中查看。\n··本次收藏礼盒的限时收藏今后仍有可能再次登场。目前暂时没有再次登场的计划。\n·活动时间若有变更，恕不另行通知。",
+    "customProfileGachaCategory": "temporary",
+    "customProfileGachaBehaviors": [
+      {
+        "id": 217,
+        "seq": 1,
+        "costResourceType": "virtual_coin",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      },
+      {
+        "id": 218,
+        "seq": 2,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 1000,
+        "spinCount": 10
+      },
+      {
+        "id": 219,
+        "seq": 3,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1
+      }
+    ],
+    "customProfileGachaDetails": [
+      {
+        "id": 2253,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 943,
+        "weight": 1
+      },
+      {
+        "id": 2254,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 944,
+        "weight": 1
+      },
+      {
+        "id": 2255,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 945,
+        "weight": 1
+      },
+      {
+        "id": 2256,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 946,
+        "weight": 1
+      },
+      {
+        "id": 2257,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 947,
+        "weight": 1
+      },
+      {
+        "id": 2258,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 948,
+        "weight": 1
+      },
+      {
+        "id": 2259,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 949,
+        "weight": 1
+      },
+      {
+        "id": 2260,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 950,
+        "weight": 1
+      }
+    ]
   }
 ]

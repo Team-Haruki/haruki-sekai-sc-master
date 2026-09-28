@@ -493,5 +493,77 @@
     "onceConvertLimit": 100,
     "refreshCycle": "none",
     "requiredConvertFixtureLevel": 1
+  },
+  {
+    "consumeResourceBoxId": 10024,
+    "convertMinutes": 1320,
+    "externalId": 10024,
+    "id": 45,
+    "mysekaiConvertItemObtainType": "resource_box",
+    "mysekaiConvertItemTabId": 1,
+    "onceConvertLimit": 10,
+    "refreshCycle": "none",
+    "requiredConvertFixtureLevel": 1,
+    "startAt": 1790654400000
+  },
+  {
+    "consumeResourceBoxId": 10025,
+    "convertMinutes": 1320,
+    "externalId": 10025,
+    "id": 46,
+    "mysekaiConvertItemObtainType": "resource_box",
+    "mysekaiConvertItemTabId": 1,
+    "onceConvertLimit": 10,
+    "refreshCycle": "none",
+    "requiredConvertFixtureLevel": 1,
+    "startAt": 1790654400000
+  },
+  {
+    "consumeResourceBoxId": 10025,
+    "convertMinutes": 1320,
+    "externalId": 10026,
+    "id": 47,
+    "mysekaiConvertItemObtainType": "resource_box",
+    "mysekaiConvertItemTabId": 1,
+    "onceConvertLimit": 10,
+    "refreshCycle": "none",
+    "requiredConvertFixtureLevel": 1,
+    "startAt": 1790654400000
+  },
+  {
+    "consumeResourceBoxId": 10025,
+    "convertMinutes": 1320,
+    "externalId": 10027,
+    "id": 48,
+    "mysekaiConvertItemObtainType": "resource_box",
+    "mysekaiConvertItemTabId": 1,
+    "onceConvertLimit": 10,
+    "refreshCycle": "none",
+    "requiredConvertFixtureLevel": 1,
+    "startAt": 1790654400000
+  },
+  {
+    "consumeResourceBoxId": 10025,
+    "convertMinutes": 1320,
+    "externalId": 10028,
+    "id": 49,
+    "mysekaiConvertItemObtainType": "resource_box",
+    "mysekaiConvertItemTabId": 1,
+    "onceConvertLimit": 10,
+    "refreshCycle": "none",
+    "requiredConvertFixtureLevel": 1,
+    "startAt": 1790654400000
+  },
+  {
+    "consumeResourceBoxId": 10025,
+    "convertMinutes": 1320,
+    "externalId": 10029,
+    "id": 50,
+    "mysekaiConvertItemObtainType": "resource_box",
+    "mysekaiConvertItemTabId": 1,
+    "onceConvertLimit": 10,
+    "refreshCycle": "none",
+    "requiredConvertFixtureLevel": 1,
+    "startAt": 1790654400000
   }
 ]
