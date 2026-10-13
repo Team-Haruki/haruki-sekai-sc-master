@@ -20830,6 +20830,40 @@
     "isFullLength": false
   },
   {
+    "id": 703,
+    "seq": 99999104,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "バイオレンストリガー",
+    "pronunciation": "ばいおれんすとりがー",
+    "creatorArtistId": 56,
+    "lyricist": "八王子P",
+    "composer": "八王子P",
+    "arranger": "八王子P",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_703",
+    "publishedAt": 1792911600000,
+    "releasedAt": 1521388800000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "バイオレンストリガー",
+        "creator": "八王子P",
+        "lyricist": "八王子P",
+        "composer": "八王子P",
+        "arranger": "八王子P"
+      }
+    ],
+    "musicCollaborationId": 13,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 716,
     "seq": 99999117,
     "releaseConditionId": 10,
@@ -20892,6 +20926,74 @@
         "arranger": "いよわ"
       }
     ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 723,
+    "seq": 99999123,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "ラヴィ",
+    "pronunciation": "らゔぃ",
+    "creatorArtistId": 45,
+    "lyricist": "すりぃ",
+    "composer": "すりぃ",
+    "arranger": "すりぃ",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_723",
+    "publishedAt": 1792998000000,
+    "releasedAt": 1661011200000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "ラヴィ",
+        "creator": "すりぃ",
+        "lyricist": "すりぃ",
+        "composer": "すりぃ",
+        "arranger": "すりぃ"
+      }
+    ],
+    "musicCollaborationId": 13,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 726,
+    "seq": 99999125,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "アルカリレットウセイ",
+    "pronunciation": "あるかりれっとうせい",
+    "creatorArtistId": 81,
+    "lyricist": "かいりきベア",
+    "composer": "かいりきベア",
+    "arranger": "かいりきベア",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_726",
+    "publishedAt": 1793084400000,
+    "releasedAt": 1480003200000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "アルカリレットウセイ",
+        "creator": "かいりきベア",
+        "lyricist": "かいりきベア",
+        "composer": "かいりきベア",
+        "arranger": "かいりきベア"
+      }
+    ],
+    "musicCollaborationId": 13,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
