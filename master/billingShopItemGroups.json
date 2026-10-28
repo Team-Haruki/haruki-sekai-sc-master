@@ -336,6 +336,48 @@
     "seq": 300370
   },
   {
+    "assetbundleName": "shop_400010",
+    "billingShopItemIds": [
+      400010,
+      400011,
+      400012,
+      400013
+    ],
+    "billingShopItemType": "mysekai_blueprint",
+    "id": 54,
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 2,
+    "name": "[七彩庆典风] 玩偶（第1弹）的设计图",
+    "seq": 400010
+  },
+  {
+    "assetbundleName": "shop_400020",
+    "billingShopItemIds": [
+      400020,
+      400021,
+      400022,
+      400023
+    ],
+    "billingShopItemType": "mysekai_blueprint",
+    "id": 56,
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 3,
+    "name": "[七彩庆典风] 玩偶（第2弹）的设计图",
+    "seq": 400020
+  },
+  {
+    "assetbundleName": "shop_400030",
+    "billingShopItemIds": [
+      400030,
+      400031,
+      400032,
+      400033
+    ],
+    "billingShopItemType": "mysekai_blueprint",
+    "id": 58,
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 4,
+    "name": "[七彩庆典风] 玩偶（第3弹）的设计图",
+    "seq": 400030
+  },
+  {
     "assetbundleName": "shop_410001",
     "billingShopItemIds": [
       410001,

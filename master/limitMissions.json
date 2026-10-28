@@ -710,6 +710,166 @@
     "seq": 1
   },
   {
+    "id": 196,
+    "limitMissionGroupId": 32,
+    "limitMissionType": "login",
+    "requirement": 1,
+    "resourceBoxId": 400095,
+    "selectableRewardGroupId": 0,
+    "sentence": "登录1次游戏。",
+    "seq": 1
+  },
+  {
+    "id": 197,
+    "limitMissionGroupId": 32,
+    "limitMissionType": "clear_live_join_member_meiko",
+    "requirement": 15,
+    "resourceBoxId": 100320,
+    "selectableRewardGroupId": 0,
+    "sentence": "将MEIKO加入编组，累计完成15次演出。",
+    "seq": 1
+  },
+  {
+    "id": 198,
+    "limitMissionGroupId": 32,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 100,
+    "resourceBoxId": 100307,
+    "selectableRewardGroupId": 0,
+    "sentence": "累计消耗100演出能量。（我的「世界」中消耗的也计算在内。）",
+    "seq": 1
+  },
+  {
+    "id": 199,
+    "limitMissionGroupId": 32,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "resourceBoxId": 400082,
+    "selectableRewardGroupId": 0,
+    "sentence": "在活动兑换所中进行3次交换。",
+    "seq": 1
+  },
+  {
+    "id": 200,
+    "limitMissionGroupId": 32,
+    "limitMissionType": "clear_solo_challenge_live_vocal_meiko",
+    "requirement": 3,
+    "resourceBoxId": 400083,
+    "selectableRewardGroupId": 0,
+    "sentence": "选择演唱者含MEIKO的歌曲进行3次挑战演出吧。",
+    "seq": 1
+  },
+  {
+    "id": 201,
+    "limitMissionGroupId": 32,
+    "limitMissionType": "collect_event_point",
+    "requirement": 200000,
+    "resourceBoxId": 400084,
+    "selectableRewardGroupId": 0,
+    "sentence": "累计获得200,000活动积分。",
+    "seq": 1
+  },
+  {
+    "id": 202,
+    "limitMissionGroupId": 32,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 6,
+    "resourceBoxId": 400088,
+    "selectableRewardGroupId": 1003,
+    "sentence": "完成所有的MEIKO纪念日限时任务。",
+    "seq": 1
+  },
+  {
+    "id": 203,
+    "limitMissionGroupId": 33,
+    "limitMissionType": "login",
+    "requirement": 1,
+    "resourceBoxId": 400095,
+    "selectableRewardGroupId": 0,
+    "sentence": "登录1次游戏。",
+    "seq": 1
+  },
+  {
+    "id": 204,
+    "limitMissionGroupId": 33,
+    "limitMissionType": "clear_live_kagamine_leader",
+    "requirement": 15,
+    "resourceBoxId": 14,
+    "selectableRewardGroupId": 0,
+    "sentence": "将镜音铃和镜音连加入编组，累计完成15次演出。",
+    "seq": 1
+  },
+  {
+    "id": 205,
+    "limitMissionGroupId": 33,
+    "limitMissionType": "clear_virtual_live",
+    "requirement": 1,
+    "resourceBoxId": 100034,
+    "selectableRewardGroupId": 0,
+    "sentence": "观看1次虚拟演唱会。",
+    "seq": 1
+  },
+  {
+    "id": 206,
+    "limitMissionGroupId": 33,
+    "limitMissionType": "master_piece_exchange",
+    "requirement": 3,
+    "resourceBoxId": 400095,
+    "selectableRewardGroupId": 0,
+    "sentence": "在心愿碎片兑换所中进行3次交换。",
+    "seq": 1
+  },
+  {
+    "id": 207,
+    "limitMissionGroupId": 33,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "resourceBoxId": 400082,
+    "selectableRewardGroupId": 0,
+    "sentence": "在活动兑换所中进行3次交换。",
+    "seq": 1
+  },
+  {
+    "id": 208,
+    "limitMissionGroupId": 33,
+    "limitMissionType": "clear_solo_challenge_live_vocal_kagamine",
+    "requirement": 3,
+    "resourceBoxId": 400083,
+    "selectableRewardGroupId": 0,
+    "sentence": "选择演唱者含镜音铃或镜音连的歌曲进行3次挑战演出吧。",
+    "seq": 1
+  },
+  {
+    "id": 209,
+    "limitMissionGroupId": 33,
+    "limitMissionType": "collect_event_point",
+    "requirement": 200000,
+    "resourceBoxId": 400084,
+    "selectableRewardGroupId": 0,
+    "sentence": "累计获得200,000活动积分。",
+    "seq": 1
+  },
+  {
+    "id": 210,
+    "limitMissionGroupId": 33,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 200,
+    "resourceBoxId": 400096,
+    "selectableRewardGroupId": 0,
+    "sentence": "累计消耗200演出能量。（我的「世界」中消耗的也计算在内。）  ",
+    "seq": 1
+  },
+  {
+    "id": 211,
+    "limitMissionGroupId": 33,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 8,
+    "resourceBoxId": 400097,
+    "selectableRewardGroupId": 1004,
+    "sentence": "完成以下所有的纪念日限时任务。",
+    "seq": 1
+  },
+  {
     "id": 1000,
     "limitMissionGroupId": 1000,
     "limitMissionType": "clear_live_join_member_kaito",

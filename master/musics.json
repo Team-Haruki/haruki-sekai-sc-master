@@ -14008,7 +14008,7 @@
     "fillerSec": 8.618000030517578,
     "infos": [
       {
-        "title": "サイバーパンクデッドボーイ",
+        "title": "CYBER PUNK DEAD BOY",
         "creator": "マイキP",
         "lyricist": "マイキP",
         "composer": "マイキP",
@@ -17092,7 +17092,7 @@
     "fillerSec": 7.686100006103516,
     "infos": [
       {
-        "title": "ロストアンブレラ",
+        "title": "Lost Umbrella",
         "creator": "稲葉曇",
         "lyricist": "稲葉曇",
         "composer": "稲葉曇",
@@ -17291,7 +17291,7 @@
     "fillerSec": 9.0,
     "infos": [
       {
-        "title": "花溺れ",
+        "title": "沉溺于花中",
         "creator": "shikisai",
         "lyricist": "shikisai",
         "composer": "shikisai",
@@ -18138,6 +18138,39 @@
     "isFullLength": false
   },
   {
+    "id": 584,
+    "seq": 1157901,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "IMAWANOKIWA",
+    "pronunciation": "いまわのきわ",
+    "creatorArtistId": 167,
+    "lyricist": "いよわ",
+    "composer": "いよわ",
+    "arranger": "いよわ",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_584",
+    "publishedAt": 1795330800000,
+    "releasedAt": 1795330800000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "IMAWANOKIWA",
+        "creator": "いよわ",
+        "lyricist": "いよわ",
+        "composer": "いよわ",
+        "arranger": "いよわ"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 585,
     "seq": 2755501,
     "releaseConditionId": 10,
@@ -18457,7 +18490,7 @@
     "fillerSec": 9.0,
     "infos": [
       {
-        "title": "エンヴィキャットウォーク",
+        "title": "嫉妒猫步",
         "creator": "トーマ",
         "lyricist": "トーマ",
         "composer": "トーマ",
@@ -18506,7 +18539,7 @@
     "releaseConditionId": 10,
     "categories": [
       {
-        "musicCategoryName": "image"
+        "musicCategoryName": "mv"
       },
       {
         "musicCategoryName": "mv_2d"
@@ -18542,7 +18575,7 @@
     "releaseConditionId": 10,
     "categories": [
       {
-        "musicCategoryName": "image"
+        "musicCategoryName": "mv"
       },
       {
         "musicCategoryName": "mv_2d"
@@ -18557,8 +18590,8 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_600",
-    "publishedAt": 1794924300000,
-    "releasedAt": 1794924300000,
+    "publishedAt": 1795010700000,
+    "releasedAt": 1795010700000,
     "fillerSec": 9.0,
     "infos": [
       {
@@ -18567,6 +18600,39 @@
         "lyricist": "せきこみごはん",
         "composer": "せきこみごはん",
         "arranger": "せきこみごはん"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 601,
+    "seq": 99999657,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "mv"
+      }
+    ],
+    "title": "ルマ",
+    "pronunciation": "るま",
+    "creatorArtistId": 81,
+    "lyricist": "かいりきベア",
+    "composer": "かいりきベア",
+    "arranger": "かいりきベア",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_601",
+    "publishedAt": 1793689200000,
+    "releasedAt": 1793689200000,
+    "fillerSec": 9.390000343322754,
+    "infos": [
+      {
+        "title": "Ruma",
+        "creator": "かいりきベア",
+        "lyricist": "かいりきベア",
+        "composer": "かいりきベア",
+        "arranger": "かいりきベア"
       }
     ],
     "isNewlyWrittenMusic": false,
@@ -18776,7 +18842,7 @@
     "releaseConditionId": 5,
     "categories": [
       {
-        "musicCategoryName": "image"
+        "musicCategoryName": "mv"
       }
     ],
     "title": "Polar Star",
@@ -19363,7 +19429,7 @@
     "fillerSec": 9.0,
     "infos": [
       {
-        "title": "テトリス",
+        "title": "俄罗斯方块",
         "creator": "柊マグネタイト",
         "lyricist": "柊マグネタイト",
         "composer": "ロシア民謡",
@@ -19445,7 +19511,7 @@
     "releaseConditionId": 10,
     "categories": [
       {
-        "musicCategoryName": "image"
+        "musicCategoryName": "mv"
       }
     ],
     "title": "幸福刑",
@@ -19726,7 +19792,7 @@
     "fillerSec": 9.0,
     "infos": [
       {
-        "title": "マリオネットダンサー",
+        "title": "木偶舞者",
         "creator": "ひらぎ",
         "lyricist": "ひらぎ",
         "composer": "ひらぎ",
@@ -19742,7 +19808,7 @@
     "releaseConditionId": 10,
     "categories": [
       {
-        "musicCategoryName": "image"
+        "musicCategoryName": "mv"
       }
     ],
     "title": "このまんまでいこう",
@@ -20135,7 +20201,7 @@
   },
   {
     "id": 655,
-    "seq": 11000213,
+    "seq": 11000214,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -20168,7 +20234,7 @@
   },
   {
     "id": 656,
-    "seq": 11000214,
+    "seq": 11000215,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -20238,7 +20304,7 @@
     "releaseConditionId": 10,
     "categories": [
       {
-        "musicCategoryName": "image"
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "冲吧！Wonderpyoi",
@@ -20271,7 +20337,7 @@
     "releaseConditionId": 10,
     "categories": [
       {
-        "musicCategoryName": "image"
+        "musicCategoryName": "mv"
       }
     ],
     "title": "告白",
@@ -20365,6 +20431,39 @@
     "isFullLength": false
   },
   {
+    "id": 665,
+    "seq": 1257401,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "ロケットサイダー",
+    "pronunciation": "ろけっとさいだー",
+    "creatorArtistId": 32,
+    "lyricist": "ナユタン星人",
+    "composer": "ナユタン星人",
+    "arranger": "ナユタン星人",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_665",
+    "publishedAt": 1794380400000,
+    "releasedAt": 1794380400000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "ロケットサイダー",
+        "creator": "ナユタン星人",
+        "lyricist": "ナユタン星人",
+        "composer": "ナユタン星人",
+        "arranger": "ナユタン星人"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 666,
     "seq": 1155801,
     "releaseConditionId": 5,
@@ -20399,7 +20498,7 @@
   },
   {
     "id": 667,
-    "seq": 9999971,
+    "seq": 9999970,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -20420,7 +20519,7 @@
     "fillerSec": 9.4443998336792,
     "infos": [
       {
-        "title": "㋰責任集合体",
+        "title": "无责任集合体",
         "creator": "マサラダ",
         "lyricist": "マサラダ",
         "composer": "マサラダ",
@@ -20432,7 +20531,7 @@
   },
   {
     "id": 668,
-    "seq": 9999972,
+    "seq": 9999971,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -20453,7 +20552,7 @@
     "fillerSec": 9.0,
     "infos": [
       {
-        "title": "ネクラチューンサーカス",
+        "title": "阴暗音调马戏团",
         "creator": "かいりきベア",
         "lyricist": "かいりきベア",
         "composer": "かいりきベア",
@@ -20465,7 +20564,7 @@
   },
   {
     "id": 669,
-    "seq": 9999973,
+    "seq": 9999972,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -20497,8 +20596,41 @@
     "isFullLength": false
   },
   {
+    "id": 671,
+    "seq": 2158001,
+    "releaseConditionId": 10,
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "怪獣になりたい",
+    "pronunciation": "かいじゅうになりたい",
+    "creatorArtistId": 999,
+    "lyricist": "Sakuzyo",
+    "composer": "Sakuzyo",
+    "arranger": "Sakuzyo",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_671",
+    "publishedAt": 1795244400000,
+    "releasedAt": 1795244400000,
+    "fillerSec": 6.81820011138916,
+    "infos": [
+      {
+        "title": "想成为怪兽",
+        "creator": "Sakuzyo",
+        "lyricist": "Sakuzyo",
+        "composer": "Sakuzyo",
+        "arranger": "Sakuzyo"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 672,
-    "seq": 9999976,
+    "seq": 9999975,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -20531,7 +20663,7 @@
   },
   {
     "id": 674,
-    "seq": 9999977,
+    "seq": 9999976,
     "releaseConditionId": 1,
     "categories": [
       {
@@ -20565,7 +20697,7 @@
   },
   {
     "id": 675,
-    "seq": 9999978,
+    "seq": 9999977,
     "releaseConditionId": 1,
     "categories": [
       {
@@ -20599,7 +20731,7 @@
   },
   {
     "id": 676,
-    "seq": 9999979,
+    "seq": 9999978,
     "releaseConditionId": 1,
     "categories": [
       {
@@ -20633,7 +20765,7 @@
   },
   {
     "id": 677,
-    "seq": 9999980,
+    "seq": 9999979,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -20665,12 +20797,45 @@
     "isFullLength": false
   },
   {
-    "id": 679,
-    "seq": 9999982,
-    "releaseConditionId": 10,
+    "id": 678,
+    "seq": 9999980,
+    "releaseConditionId": 5,
     "categories": [
       {
         "musicCategoryName": "image"
+      }
+    ],
+    "title": "金時計",
+    "pronunciation": "きんどけい",
+    "creatorArtistId": 226,
+    "lyricist": "TakoyakiKZY",
+    "composer": "TakoyakiKZY",
+    "arranger": "TakoyakiKZY",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_678",
+    "publishedAt": 1794639600000,
+    "releasedAt": 1749139200000,
+    "fillerSec": 9.352999687194824,
+    "infos": [
+      {
+        "title": "金时针",
+        "creator": "TakoyakiKZY",
+        "lyricist": "TakoyakiKZY",
+        "composer": "TakoyakiKZY",
+        "arranger": "TakoyakiKZY"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 679,
+    "seq": 9999981,
+    "releaseConditionId": 10,
+    "categories": [
+      {
+        "musicCategoryName": "mv"
       }
     ],
     "title": "CRASH THE PARTY",
@@ -20699,11 +20864,11 @@
   },
   {
     "id": 683,
-    "seq": 9999986,
+    "seq": 9999985,
     "releaseConditionId": 10,
     "categories": [
       {
-        "musicCategoryName": "image"
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "カラフルファンデーション",
@@ -20732,11 +20897,11 @@
   },
   {
     "id": 684,
-    "seq": 9999987,
+    "seq": 9999986,
     "releaseConditionId": 10,
     "categories": [
       {
-        "musicCategoryName": "image"
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "ファイター",
@@ -20748,7 +20913,7 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_684",
-    "publishedAt": 1795158000000,
+    "publishedAt": 1795147200000,
     "releasedAt": 1763568000000,
     "fillerSec": 8.111100196838379,
     "infos": [
@@ -20764,12 +20929,45 @@
     "isFullLength": false
   },
   {
-    "id": 695,
-    "seq": 9999997,
-    "releaseConditionId": 10,
+    "id": 691,
+    "seq": 9999993,
+    "releaseConditionId": 5,
     "categories": [
       {
         "musicCategoryName": "image"
+      }
+    ],
+    "title": "0.0000034",
+    "pronunciation": "れいてんれいれいれいれいれいさんよん",
+    "creatorArtistId": 302,
+    "lyricist": "むさぬりゆ",
+    "composer": "むさぬりゆ",
+    "arranger": "むさぬりゆ",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_691",
+    "publishedAt": 1795417200000,
+    "releasedAt": 1734019200000,
+    "fillerSec": 9.753100395202637,
+    "infos": [
+      {
+        "title": "0.0000034",
+        "creator": "むさぬりゆ",
+        "lyricist": "むさぬりゆ",
+        "composer": "むさぬりゆ",
+        "arranger": "むさぬりゆ"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 695,
+    "seq": 9999996,
+    "releaseConditionId": 10,
+    "categories": [
+      {
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "花結び",
@@ -20798,7 +20996,7 @@
   },
   {
     "id": 699,
-    "seq": 99999101,
+    "seq": 99999100,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -20831,11 +21029,11 @@
   },
   {
     "id": 703,
-    "seq": 99999104,
+    "seq": 99999103,
     "releaseConditionId": 5,
     "categories": [
       {
-        "musicCategoryName": "image"
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "バイオレンストリガー",
@@ -20865,11 +21063,11 @@
   },
   {
     "id": 716,
-    "seq": 99999117,
+    "seq": 99999116,
     "releaseConditionId": 10,
     "categories": [
       {
-        "musicCategoryName": "image"
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "透過する温度",
@@ -20898,7 +21096,7 @@
   },
   {
     "id": 719,
-    "seq": 11000215,
+    "seq": 11000216,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -20931,11 +21129,11 @@
   },
   {
     "id": 723,
-    "seq": 99999123,
+    "seq": 99999122,
     "releaseConditionId": 5,
     "categories": [
       {
-        "musicCategoryName": "image"
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "ラヴィ",
@@ -20965,7 +21163,7 @@
   },
   {
     "id": 726,
-    "seq": 99999125,
+    "seq": 99999124,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -20999,11 +21197,11 @@
   },
   {
     "id": 735,
-    "seq": 99999134,
+    "seq": 99999133,
     "releaseConditionId": 10,
     "categories": [
       {
-        "musicCategoryName": "image"
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "傀儡のうつつ",
@@ -21032,11 +21230,11 @@
   },
   {
     "id": 739,
-    "seq": 99999137,
+    "seq": 99999136,
     "releaseConditionId": 10,
     "categories": [
       {
-        "musicCategoryName": "image"
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "世界の歩き方",
@@ -21269,7 +21467,7 @@
   },
   {
     "id": 798,
-    "seq": 99999190,
+    "seq": 99999189,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -21302,7 +21500,7 @@
   },
   {
     "id": 799,
-    "seq": 99999191,
+    "seq": 99999190,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -21335,7 +21533,7 @@
   },
   {
     "id": 800,
-    "seq": 99999192,
+    "seq": 99999191,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -21368,7 +21566,7 @@
   },
   {
     "id": 801,
-    "seq": 99999193,
+    "seq": 99999192,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -21401,7 +21599,7 @@
   },
   {
     "id": 803,
-    "seq": 99999195,
+    "seq": 99999194,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -21422,7 +21620,7 @@
     "fillerSec": 6.6315999031066895,
     "infos": [
       {
-        "title": "空に免じて",
+        "title": "念及长空",
         "creator": "傘村トータ",
         "lyricist": "傘村トータ",
         "composer": "傘村トータ",

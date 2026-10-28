@@ -56512,6 +56512,42 @@
     "startAt": 1790838000000
   },
   {
+    "id": 10971,
+    "shopId": 2,
+    "seq": 995630,
+    "releaseConditionId": 1,
+    "resourceBoxId": 10971,
+    "costs": [
+      {
+        "cost": {
+          "resourceId": 13,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 10
+        }
+      }
+    ],
+    "startAt": 1794380400000
+  },
+  {
+    "id": 10972,
+    "shopId": 2,
+    "seq": 995620,
+    "releaseConditionId": 1,
+    "resourceBoxId": 10972,
+    "costs": [
+      {
+        "cost": {
+          "resourceId": 13,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 10
+        }
+      }
+    ],
+    "startAt": 1793689200000
+  },
+  {
     "id": 10973,
     "shopId": 4,
     "seq": 9950014,
@@ -56546,6 +56582,24 @@
       }
     ],
     "startAt": 1790751600000
+  },
+  {
+    "id": 10975,
+    "shopId": 2,
+    "seq": 995610,
+    "releaseConditionId": 1,
+    "resourceBoxId": 10975,
+    "costs": [
+      {
+        "cost": {
+          "resourceId": 13,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 10
+        }
+      }
+    ],
+    "startAt": 1794639600000
   },
   {
     "id": 10976,
@@ -56636,6 +56690,42 @@
       }
     ],
     "startAt": 1790665200000
+  },
+  {
+    "id": 10981,
+    "shopId": 2,
+    "seq": 995600,
+    "releaseConditionId": 1,
+    "resourceBoxId": 10981,
+    "costs": [
+      {
+        "cost": {
+          "resourceId": 13,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 10
+        }
+      }
+    ],
+    "startAt": 1795330800000
+  },
+  {
+    "id": 10982,
+    "shopId": 2,
+    "seq": 995590,
+    "releaseConditionId": 1,
+    "resourceBoxId": 10982,
+    "costs": [
+      {
+        "cost": {
+          "resourceId": 13,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 10
+        }
+      }
+    ],
+    "startAt": 1795417200000
   },
   {
     "id": 10983,

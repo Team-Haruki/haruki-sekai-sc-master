@@ -115,45 +115,27 @@
     "startAt": 1787860800000
   },
   {
-    "assetbundleName": "limitmission_miku_25",
-    "distributionEndAt": 1814975999000,
-    "endAt": 1813755599000,
-    "iconAssetbundleName": "limitmission_kaito",
-    "id": 1000,
-    "keyMissionId": 1005,
-    "name": "纪念日限定任務test1",
-    "seq": 1000,
-    "startAt": 1810364400000
-  },
-  {
-    "assetbundleName": "limit_summer_2024",
-    "distributionEndAt": 1814975999000,
-    "endAt": 1813755599000,
-    "id": 1001,
-    "keyMissionId": 1011,
-    "name": "嘉年華的限時任務test1",
-    "seq": 1001,
-    "startAt": 1810364400000
-  },
-  {
-    "assetbundleName": "limitmission_miku_25",
-    "distributionEndAt": 1814975999000,
-    "endAt": 1813755599000,
+    "assetbundleName": "limitmission_meiko",
+    "barIcon": "LimitMissionMeiko",
+    "distributionEndAt": 1794790799000,
+    "endAt": 1794747599000,
     "iconAssetbundleName": "limitmission_meiko",
-    "id": 1002,
-    "keyMissionId": 1017,
-    "name": "纪念日限定任務test2",
-    "seq": 1002,
-    "startAt": 1810364400000
+    "id": 32,
+    "keyMissionId": 202,
+    "name": "MEIKO纪念日",
+    "seq": 14,
+    "startAt": 1793563200000
   },
   {
-    "assetbundleName": "limit_summer_2024",
-    "distributionEndAt": 1814975999000,
-    "endAt": 1813755599000,
-    "id": 1003,
-    "keyMissionId": 1023,
-    "name": "嘉年華的限時任務test2",
-    "seq": 1003,
-    "startAt": 1810364400000
+    "assetbundleName": "limitmission_twins",
+    "barIcon": "LimitMissionTwins",
+    "distributionEndAt": 1799024399000,
+    "endAt": 1798981199000,
+    "iconAssetbundleName": "limitmission_twins",
+    "id": 33,
+    "keyMissionId": 211,
+    "name": "镜音铃&镜音连纪念日",
+    "seq": 15,
+    "startAt": 1798056000000
   }
 ]

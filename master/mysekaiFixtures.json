@@ -35383,6 +35383,222 @@
     "secondPutCost": 2
   },
   {
+    "id": 1011,
+    "mysekaiFixtureType": "normal",
+    "name": "[万圣节]南瓜",
+    "pronunciation": "はろうぃんのかぼちゃ",
+    "flavorText": "万圣节的南瓜",
+    "seq": 30021001,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "colorCode": "#FF8A00",
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#AF7DFF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#8D8C96"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 1011,
+      "mysekaiFixtureTagId1": 10889,
+      "mysekaiFixtureTagId2": 89
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0021_fixture_pumpkin1",
+    "firstPutCost": 30,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1012,
+    "mysekaiFixtureType": "normal",
+    "name": "[万圣节]南瓜套装",
+    "pronunciation": "はろうぃんのかぼちゃせっと",
+    "flavorText": "万圣节的南瓜套装",
+    "seq": 30021002,
+    "gridSize": {
+      "width": 3,
+      "depth": 3,
+      "height": 3
+    },
+    "colorCode": "#FF8A00",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#AF7DFF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#8D8C96"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1012,
+      "mysekaiFixtureTagId1": 10890,
+      "mysekaiFixtureTagId2": 89
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0021_fixture_pumpkin2",
+    "firstPutCost": 70,
+    "secondPutCost": 20
+  },
+  {
+    "id": 1013,
+    "mysekaiFixtureType": "normal",
+    "name": "[万圣节]枯木",
+    "pronunciation": "はろうぃんのかれき",
+    "flavorText": "万圣节的枯木",
+    "seq": 30021003,
+    "gridSize": {
+      "width": 3,
+      "depth": 3,
+      "height": 11
+    },
+    "colorCode": "#8D8C96",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 7,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#C8BADF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#688100"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1013,
+      "mysekaiFixtureTagId1": 10891,
+      "mysekaiFixtureTagId2": 71,
+      "mysekaiFixtureTagId3": 89
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0021_fixture_deadtree1",
+    "firstPutCost": 25,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1014,
+    "mysekaiFixtureType": "normal",
+    "name": "[万圣节]糖果",
+    "pronunciation": "はろうぃんのきゃんでぃ",
+    "flavorText": "万圣节的糖果",
+    "seq": 30021004,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "colorCode": "#FF8A00",
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#AF7DFF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#8D8C96"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 13,
+    "mysekaiFixtureTagGroup": {
+      "id": 1014,
+      "mysekaiFixtureTagId1": 10892,
+      "mysekaiFixtureTagId2": 89
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0021_fixture_candy1",
+    "firstPutCost": 25,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1015,
+    "mysekaiFixtureType": "normal",
+    "name": "[万圣节]鬼怪稻草人",
+    "pronunciation": "はろうぃんのおばけかかし",
+    "flavorText": "万圣节的鬼怪稻草人",
+    "seq": 30021005,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "colorCode": "#F9F9FE",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FF7FDB"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#8D8C96"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1015,
+      "mysekaiFixtureTagId1": 10893,
+      "mysekaiFixtureTagId2": 89
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0021_fixture_scarecrow1",
+    "firstPutCost": 45,
+    "secondPutCost": 2
+  },
+  {
     "id": 1016,
     "mysekaiFixtureType": "system",
     "name": "[浪漫花园]家",
@@ -43230,6 +43446,204 @@
     "assetbundleName": "mdl_cncollect_fixture_summer3",
     "firstPutCost": 130,
     "secondPutCost": 40
+  },
+  {
+    "id": 90017,
+    "mysekaiFixtureType": "normal",
+    "name": "向阳午后的水井",
+    "pronunciation": "向阳午后的水井",
+    "flavorText": "向阳午后的水井",
+    "seq": 91001018,
+    "gridSize": {
+      "width": 4,
+      "depth": 4,
+      "height": 5
+    },
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 90017,
+      "mysekaiFixtureTagId1": 90017,
+      "mysekaiFixtureTagId2": 90000
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_cncollect_fixture_sun1",
+    "firstPutCost": 130,
+    "secondPutCost": 40
+  },
+  {
+    "id": 90018,
+    "mysekaiFixtureType": "normal",
+    "name": "向阳午后的信箱",
+    "pronunciation": "向阳午后的信箱",
+    "flavorText": "向阳午后的信箱",
+    "seq": 91001019,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 90018,
+      "mysekaiFixtureTagId1": 90018,
+      "mysekaiFixtureTagId2": 90000
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_cncollect_fixture_sun2",
+    "firstPutCost": 15,
+    "secondPutCost": 2
+  },
+  {
+    "id": 90019,
+    "mysekaiFixtureType": "normal",
+    "name": "向阳午后的向日葵",
+    "pronunciation": "向阳午后的向日葵",
+    "flavorText": "向阳午后的向日葵",
+    "seq": 91001020,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 7,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 90019,
+      "mysekaiFixtureTagId1": 90019,
+      "mysekaiFixtureTagId2": 90000
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_cncollect_fixture_sun3",
+    "firstPutCost": 10,
+    "secondPutCost": 1
+  },
+  {
+    "id": 90020,
+    "mysekaiFixtureType": "normal",
+    "name": "爱心樱花树",
+    "pronunciation": "爱心樱花树",
+    "flavorText": "爱心樱花树",
+    "seq": 91001021,
+    "gridSize": {
+      "width": 6,
+      "depth": 6,
+      "height": 5
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 7,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 90020,
+      "mysekaiFixtureTagId1": 90020,
+      "mysekaiFixtureTagId2": 90000
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_cncollect_fixture_heart1",
+    "firstPutCost": 115,
+    "secondPutCost": 10
+  },
+  {
+    "id": 90021,
+    "mysekaiFixtureType": "normal",
+    "name": "爱心樱花拱门",
+    "pronunciation": "爱心樱花拱门",
+    "flavorText": "爱心樱花拱门",
+    "seq": 91001022,
+    "gridSize": {
+      "width": 10,
+      "depth": 3,
+      "height": 9
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 90021,
+      "mysekaiFixtureTagId1": 90021,
+      "mysekaiFixtureTagId2": 90000
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_cncollect_fixture_heart2",
+    "firstPutCost": 100,
+    "secondPutCost": 40
+  },
+  {
+    "id": 90022,
+    "mysekaiFixtureType": "normal",
+    "name": "猫猫花箱座椅",
+    "pronunciation": "猫猫花箱座椅",
+    "flavorText": "猫猫花箱座椅",
+    "seq": 91001023,
+    "gridSize": {
+      "width": 4,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 4,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 90022,
+      "mysekaiFixtureTagId1": 90022,
+      "mysekaiFixtureTagId2": 90000
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_cncollect_fixture_heart3",
+    "firstPutCost": 45,
+    "secondPutCost": 2
   },
   {
     "id": 900002,

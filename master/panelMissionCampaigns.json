@@ -13379,6 +13379,269 @@
     "distributionEndAt": 1792900799000
   },
   {
+    "assetbundleName": "ensemble_collab_2026_pm",
+    "bgmAssetbundleName": "ensemble_collab_2026_pm_bgm",
+    "closedAt": 1795363199000,
+    "id": 14,
+    "informationId": 10932,
+    "name": "[初音未来：缤纷舞台×偶像梦幻祭2]联动纪念印章任务",
+    "panelMissionSelectionType": "auto",
+    "panelMissionSheetGroups": [
+      {
+        "id": 1401,
+        "name": "歌曲",
+        "panelMissionCampaignId": 14,
+        "panelMissionSheets": [
+          {
+            "assetbundleName": "sheet_ensemble_collab_music",
+            "id": 140101,
+            "name": "歌曲卡",
+            "panelMissionSheetGroupId": 1401,
+            "panelMissions": [
+              {
+                "description": "完成1次歌曲《Fusion》。",
+                "id": 14010101,
+                "name": "完成歌曲\n《Fusion》\n1次",
+                "panelMissionSheetId": 140101,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1883
+                  }
+                ],
+                "seq": 1
+              },
+              {
+                "description": "完成3首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "id": 14010102,
+                "name": "完成\n3首不同的歌曲",
+                "panelMissionSheetId": 140101,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 3,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1883
+                  }
+                ],
+                "seq": 2
+              },
+              {
+                "description": "完成5首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "id": 14010103,
+                "name": "完成\n5首不同的歌曲",
+                "panelMissionSheetId": 140101,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1883
+                  }
+                ],
+                "seq": 3
+              },
+              {
+                "description": "完成10首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "id": 14010104,
+                "name": "完成\n10首不同的歌曲",
+                "panelMissionSheetId": 140101,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 10,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1883
+                  }
+                ],
+                "seq": 4
+              },
+              {
+                "description": "完成15首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "id": 14010105,
+                "name": "完成\n15首不同的歌曲",
+                "panelMissionSheetId": 140101,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 15,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1883
+                  }
+                ],
+                "seq": 5
+              },
+              {
+                "description": "完成20首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "id": 14010106,
+                "name": "完成\n20首不同的歌曲",
+                "panelMissionSheetId": 140101,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 20,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1883
+                  }
+                ],
+                "seq": 6
+              },
+              {
+                "description": "完成25首不同的歌曲。\n*自动演出也纳入计算范围。",
+                "id": 14010107,
+                "name": "完成\n25首不同的歌曲",
+                "panelMissionSheetId": 140101,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 25,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1883
+                  }
+                ],
+                "seq": 7
+              }
+            ],
+            "rewards": [
+              {
+                "resourceBoxId": 2035
+              }
+            ],
+            "seq": 1
+          }
+        ],
+        "selectableLimit": 1,
+        "seq": 1
+      },
+      {
+        "id": 1402,
+        "name": "我的「世界」",
+        "panelMissionCampaignId": 14,
+        "panelMissionSheets": [
+          {
+            "assetbundleName": "sheet_ensemble_collab_mysekai",
+            "id": 140201,
+            "name": "我的「世界」卡",
+            "panelMissionSheetGroupId": 1402,
+            "panelMissions": [
+              {
+                "description": "在我的「世界」采集10个材料。",
+                "id": 14020101,
+                "name": "在我的「世界」采集\n10个材料。",
+                "panelMissionSheetId": 140201,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1883
+                  }
+                ],
+                "seq": 1
+              },
+              {
+                "description": "在我的「世界」采集50个材料。",
+                "id": 14020102,
+                "name": "在我的「世界」采集\n50个材料。",
+                "panelMissionSheetId": 140201,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1883
+                  }
+                ],
+                "seq": 2
+              },
+              {
+                "description": "在我的「世界」采集100个材料。",
+                "id": 14020103,
+                "name": "在我的「世界」采集\n100个材料。",
+                "panelMissionSheetId": 140201,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1883
+                  }
+                ],
+                "seq": 3
+              },
+              {
+                "description": "在我的「世界」采集300个材料。",
+                "id": 14020104,
+                "name": "在我的「世界」采集\n300个材料。",
+                "panelMissionSheetId": 140201,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 300,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1883
+                  }
+                ],
+                "seq": 4
+              },
+              {
+                "description": "在我的「世界」采集500个材料。",
+                "id": 14020105,
+                "name": "在我的「世界」采集\n500个材料。",
+                "panelMissionSheetId": 140201,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 500,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1883
+                  }
+                ],
+                "seq": 5
+              },
+              {
+                "description": "在我的「世界」采集700个材料。",
+                "id": 14020106,
+                "name": "在我的「世界」采集\n700个材料。",
+                "panelMissionSheetId": 140201,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 700,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1883
+                  }
+                ],
+                "seq": 6
+              },
+              {
+                "description": "在我的「世界」采集1000个材料。",
+                "id": 14020107,
+                "name": "在我的「世界」采集\n1000个材料。",
+                "panelMissionSheetId": 140201,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 1000,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1883
+                  }
+                ],
+                "seq": 7
+              }
+            ],
+            "rewards": [
+              {
+                "resourceBoxId": 2036
+              }
+            ],
+            "seq": 1
+          }
+        ],
+        "selectableLimit": 1,
+        "seq": 2
+      }
+    ],
+    "progressEndAt": 1795363199000,
+    "selectableLimit": 2,
+    "startAt": 1794024000000,
+    "distributionEndAt": 1796572799000
+  },
+  {
     "assetbundleName": "dc_tieup_pm",
     "bgmAssetbundleName": "dc_tieup_pm_bgm",
     "closedAt": 1783007999000,

@@ -528,5 +528,45 @@
     "name": "连线演唱会\nMemorial Stage",
     "releasedYear": 2023,
     "seq": 7
+  },
+  {
+    "assetbundleName": "resale_collab_es_collection",
+    "customProfileGachaShopGameCharacters": [
+      {
+        "customProfileGachaShopId": 11,
+        "gameCharacterId": 11,
+        "id": 159
+      },
+      {
+        "customProfileGachaShopId": 11,
+        "gameCharacterId": 12,
+        "id": 160
+      },
+      {
+        "customProfileGachaShopId": 11,
+        "gameCharacterId": 13,
+        "id": 161
+      },
+      {
+        "customProfileGachaShopId": 11,
+        "gameCharacterId": 16,
+        "id": 162
+      },
+      {
+        "customProfileGachaShopId": 11,
+        "gameCharacterId": 23,
+        "id": 163
+      },
+      {
+        "customProfileGachaShopId": 11,
+        "gameCharacterId": 26,
+        "id": 164
+      }
+    ],
+    "customProfileGachaTabParentId": 17,
+    "id": 11,
+    "name": "“Ensemble in SEKAI”收藏礼盒",
+    "releasedYear": 2025,
+    "seq": 11
   }
 ]

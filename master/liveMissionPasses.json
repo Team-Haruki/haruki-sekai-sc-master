@@ -182,7 +182,7 @@
   {
     "id": 64,
     "liveMissionPeriodId": 64,
-    "costumeName": "「SF」衣装",
+    "costumeName": "“科幻”服装",
     "character3dId1": 2151,
     "character3dId2": 2152,
     "maleAssetbundleName": "cos0885_body",
@@ -191,16 +191,16 @@
   {
     "id": 65,
     "liveMissionPeriodId": 65,
-    "costumeName": "「フリル」衣装",
-    "character3dId1": 2178,
-    "character3dId2": 2179,
-    "maleAssetbundleName": "cos0900_body",
-    "femaleAssetbundleName": "cos0899_body"
+    "costumeName": "“荷叶边”服装",
+    "character3dId1": 261201,
+    "character3dId2": 261202,
+    "maleAssetbundleName": "cos26122_body",
+    "femaleAssetbundleName": "cos26121_body"
   },
   {
     "id": 66,
     "liveMissionPeriodId": 66,
-    "costumeName": "「旅」衣装",
+    "costumeName": "“旅行”服装",
     "character3dId1": 2253,
     "character3dId2": 2254,
     "maleAssetbundleName": "cos0919_body",
@@ -209,16 +209,16 @@
   {
     "id": 67,
     "liveMissionPeriodId": 67,
-    "costumeName": "「ボタニカル」衣装",
-    "character3dId1": 2282,
-    "character3dId2": 2283,
-    "maleAssetbundleName": "cos0932_body",
-    "femaleAssetbundleName": "cos0931_body"
+    "costumeName": "“植物”服装",
+    "character3dId1": 270201,
+    "character3dId2": 270202,
+    "maleAssetbundleName": "cos27022_body",
+    "femaleAssetbundleName": "cos27021_body"
   },
   {
     "id": 68,
     "liveMissionPeriodId": 68,
-    "costumeName": "「ゲーム」衣装",
+    "costumeName": "“游戏”服装",
     "character3dId1": 2331,
     "character3dId2": 2332,
     "maleAssetbundleName": "cos0943_body",
@@ -227,10 +227,10 @@
   {
     "id": 69,
     "liveMissionPeriodId": 69,
-    "costumeName": "「アウトドア」衣装",
-    "character3dId1": 2353,
-    "character3dId2": 2354,
-    "maleAssetbundleName": "cos0958_body",
-    "femaleAssetbundleName": "cos0957_body"
+    "costumeName": "“户外”服装",
+    "character3dId1": 270401,
+    "character3dId2": 270402,
+    "maleAssetbundleName": "cos27042_body",
+    "femaleAssetbundleName": "cos27041_body"
   }
 ]
