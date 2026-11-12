@@ -6164,6 +6164,10 @@
     "value": "活动加成"
   },
   {
+    "wordingKey": "WORD_BONUSEVENT_TIPS",
+    "value": "※活动期间奇迹晶石、奇异种子掉落概率&经验值限时UP！"
+  },
+  {
     "wordingKey": "WORD_BONUS_DETAIL_ANOTHER_CUT",
     "value": "3DMV特殊镜头"
   },
@@ -8529,7 +8533,7 @@
   },
   {
     "wordingKey": "WORD_EVENT_SHOW_special_material_exchange",
-    "value": "旋律水滴兑换所"
+    "value": "兑换所"
   },
   {
     "wordingKey": "WORD_EVENT_SHOW_stamp_shop",
@@ -14456,6 +14460,10 @@
     "value": "本周已兑完"
   },
   {
+    "wordingKey": "WORD_SHOPBUY",
+    "value": "直接购买"
+  },
+  {
     "wordingKey": "WORD_SHOP_AD",
     "value": "公历"
   },
@@ -14726,6 +14734,30 @@
   {
     "wordingKey": "WORD_SKIP",
     "value": "跳过"
+  },
+  {
+    "wordingKey": "WORD_SKIPTOJEWEL",
+    "value": "前往水晶页签"
+  },
+  {
+    "wordingKey": "WORD_SKIPTOWEBSHOP",
+    "value": "前往官方商城"
+  },
+  {
+    "wordingKey": "WORD_SKIPTOWEBSHOP_JEWEL_URL",
+    "value": "https://pay.nvsgames.cn/payment/5236/topup?from_source=in_game&role_id={0}&goods_tab=cat_5236_20260918113950_rrgvbx"
+  },
+  {
+    "wordingKey": "WORD_SKIPTOWEBSHOP_NOTICE",
+    "value": "在官方商城购买可额外享受更多福利。\\n是否前往官方商城？"
+  },
+  {
+    "wordingKey": "WORD_SKIPTOWEBSHOP_RECOMMEND_URL",
+    "value": "https://pay.nvsgames.cn/payment/5236/topup?from_source=in_game&role_id={0}&goods_tab=cat_5236_20260918114018_0dmbm2"
+  },
+  {
+    "wordingKey": "WORD_SKIPTOWEBSHOP_URL_PREFIX",
+    "value": "https://pay.nvsgames.cn/payment/5236/topup?from_source=in_game&role_id={0}&"
   },
   {
     "wordingKey": "WORD_SKIP_BP",

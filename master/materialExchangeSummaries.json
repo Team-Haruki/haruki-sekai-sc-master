@@ -68721,5 +68721,212 @@
       }
     ],
     "materialExchangeDisplayResourceGroups": []
+  },
+  {
+    "id": 4006,
+    "seq": 10,
+    "exchangeCategory": "home_exchange",
+    "materialExchangeType": "normal",
+    "name": "秋日感恩庆典兑换所",
+    "assetbundleName": "icon_material3010",
+    "startAt": 1795147200000,
+    "endAt": 1797782399000,
+    "materialExchanges": [
+      {
+        "id": 4001075,
+        "materialExchangeSummaryId": 4006,
+        "seq": 10,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 4001075,
+        "refreshCycle": "none",
+        "exchangeLimit": 5,
+        "startAt": 1795147200000,
+        "costs": [
+          {
+            "materialExchangeId": 4001075,
+            "costGroupId": 4001075,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 3010,
+            "quantity": 10
+          }
+        ],
+        "materialExchangeRelationParents": []
+      },
+      {
+        "id": 4001076,
+        "materialExchangeSummaryId": 4006,
+        "seq": 20,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 4001076,
+        "refreshCycle": "none",
+        "exchangeLimit": 2,
+        "startAt": 1795147200000,
+        "costs": [
+          {
+            "materialExchangeId": 4001076,
+            "costGroupId": 4001076,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 3010,
+            "quantity": 200
+          }
+        ],
+        "materialExchangeRelationParents": []
+      },
+      {
+        "id": 4001077,
+        "materialExchangeSummaryId": 4006,
+        "seq": 30,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 4001077,
+        "refreshCycle": "none",
+        "exchangeLimit": 5,
+        "startAt": 1795147200000,
+        "costs": [
+          {
+            "materialExchangeId": 4001077,
+            "costGroupId": 4001077,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 3010,
+            "quantity": 10
+          }
+        ],
+        "materialExchangeRelationParents": []
+      },
+      {
+        "id": 4001078,
+        "materialExchangeSummaryId": 4006,
+        "seq": 40,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 4001078,
+        "refreshCycle": "none",
+        "exchangeLimit": 10,
+        "startAt": 1795147200000,
+        "costs": [
+          {
+            "materialExchangeId": 4001078,
+            "costGroupId": 4001078,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 3010,
+            "quantity": 30
+          }
+        ],
+        "materialExchangeRelationParents": []
+      },
+      {
+        "id": 4001079,
+        "materialExchangeSummaryId": 4006,
+        "seq": 50,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 4001079,
+        "refreshCycle": "none",
+        "exchangeLimit": 10,
+        "startAt": 1795147200000,
+        "costs": [
+          {
+            "materialExchangeId": 4001079,
+            "costGroupId": 4001079,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 3010,
+            "quantity": 30
+          }
+        ],
+        "materialExchangeRelationParents": []
+      },
+      {
+        "id": 4001080,
+        "materialExchangeSummaryId": 4006,
+        "seq": 60,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 4001080,
+        "refreshCycle": "none",
+        "startAt": 1795147200000,
+        "costs": [
+          {
+            "materialExchangeId": 4001080,
+            "costGroupId": 4001080,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 3010,
+            "quantity": 1
+          }
+        ],
+        "materialExchangeRelationParents": []
+      },
+      {
+        "id": 4001081,
+        "materialExchangeSummaryId": 4006,
+        "seq": 70,
+        "displayName": "感恩幸运礼",
+        "isDisplayQuantity": true,
+        "thumbnailAssetbundleName": "item_ganenjie01",
+        "resourceBoxId": 4001081,
+        "refreshCycle": "none",
+        "exchangeLimit": 5,
+        "startAt": 1795147200000,
+        "costs": [
+          {
+            "materialExchangeId": 4001081,
+            "costGroupId": 4001081,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 3010,
+            "quantity": 5
+          }
+        ],
+        "materialExchangeRelationParents": []
+      },
+      {
+        "id": 4001082,
+        "materialExchangeSummaryId": 4006,
+        "seq": 80,
+        "displayName": "感恩心意礼",
+        "isDisplayQuantity": true,
+        "thumbnailAssetbundleName": "item_ganenjie02",
+        "resourceBoxId": 4001082,
+        "refreshCycle": "none",
+        "exchangeLimit": 2,
+        "startAt": 1795147200000,
+        "costs": [
+          {
+            "materialExchangeId": 4001082,
+            "costGroupId": 4001082,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 3010,
+            "quantity": 100
+          }
+        ],
+        "materialExchangeRelationParents": []
+      },
+      {
+        "id": 4001083,
+        "materialExchangeSummaryId": 4006,
+        "seq": 90,
+        "displayName": "感恩珍藏礼",
+        "isDisplayQuantity": true,
+        "thumbnailAssetbundleName": "item_ganenjie03",
+        "resourceBoxId": 4001083,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1795147200000,
+        "costs": [
+          {
+            "materialExchangeId": 4001083,
+            "costGroupId": 4001083,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 3010,
+            "quantity": 200
+          }
+        ],
+        "materialExchangeRelationParents": []
+      }
+    ],
+    "materialExchangeDisplayResourceGroups": []
   }
 ]

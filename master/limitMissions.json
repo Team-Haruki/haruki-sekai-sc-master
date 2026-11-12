@@ -870,6 +870,66 @@
     "seq": 1
   },
   {
+    "id": 212,
+    "limitMissionGroupId": 34,
+    "limitMissionType": "clear_solo_challenge_live",
+    "requirement": 5,
+    "resourceBoxId": 400103,
+    "selectableRewardGroupId": 0,
+    "sentence": "完成5次挑战演出。",
+    "seq": 1
+  },
+  {
+    "id": 213,
+    "limitMissionGroupId": 34,
+    "limitMissionType": "clear_multi_live",
+    "requirement": 10,
+    "resourceBoxId": 400104,
+    "selectableRewardGroupId": 0,
+    "sentence": "完成10次多人演出。",
+    "seq": 1
+  },
+  {
+    "id": 214,
+    "limitMissionGroupId": 34,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "resourceBoxId": 400105,
+    "selectableRewardGroupId": 0,
+    "sentence": "在活动兑换所完成3次兑换。",
+    "seq": 1
+  },
+  {
+    "id": 215,
+    "limitMissionGroupId": 34,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 30,
+    "resourceBoxId": 400106,
+    "selectableRewardGroupId": 0,
+    "sentence": "累计消耗30点演出能量。（我的「世界」中消耗的也计算在内。）  ",
+    "seq": 1
+  },
+  {
+    "id": 216,
+    "limitMissionGroupId": 34,
+    "limitMissionType": "master_rank",
+    "requirement": 1,
+    "resourceBoxId": 400107,
+    "selectableRewardGroupId": 0,
+    "sentence": "提升1次成员的专家等级。",
+    "seq": 1
+  },
+  {
+    "id": 217,
+    "limitMissionGroupId": 34,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "resourceBoxId": 400108,
+    "selectableRewardGroupId": 0,
+    "sentence": "完成以上所有任务。",
+    "seq": 1
+  },
+  {
     "id": 1000,
     "limitMissionGroupId": 1000,
     "limitMissionType": "clear_live_join_member_kaito",
