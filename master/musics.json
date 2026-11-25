@@ -18859,7 +18859,7 @@
     "fillerSec": 8.66670036315918,
     "infos": [
       {
-        "title": "610",
+        "title": "Polar Star",
         "creator": "烏屋茶房",
         "lyricist": "烏屋茶房",
         "composer": "烏屋茶房",
@@ -20651,7 +20651,7 @@
     "fillerSec": 7.593999862670898,
     "infos": [
       {
-        "title": "670",
+        "title": "随便～随便～随便～",
         "creator": "Neru & z’5",
         "lyricist": "Neru & z’5",
         "composer": "Neru & z’5",
@@ -20672,7 +20672,7 @@
     ],
     "title": "怪獣になりたい",
     "pronunciation": "かいじゅうになりたい",
-    "creatorArtistId": 999,
+    "creatorArtistId": 301,
     "lyricist": "Sakuzyo",
     "composer": "Sakuzyo",
     "arranger": "Sakuzyo",
@@ -20725,6 +20725,108 @@
       }
     ],
     "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 674,
+    "seq": 9999974,
+    "releaseConditionId": 1,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "MASTER高難易度楽曲メドレー",
+    "pronunciation": "ますたーこうなんいどがっきょくめどれー",
+    "creatorArtistId": 296,
+    "lyricist": "-",
+    "composer": "-",
+    "arranger": "-",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_674",
+    "publishedAt": 1791097200000,
+    "releasedAt": 1791097200000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "MASTER高难度歌曲串烧",
+        "creator": "kemu、cosMo@暴走P、sasakure.UK、ピノキオピー",
+        "lyricist": "-",
+        "composer": "-",
+        "arranger": "-"
+      }
+    ],
+    "musicCollaborationId": 10,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 675,
+    "seq": 9999975,
+    "releaseConditionId": 1,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "プロセカULTIMATE楽曲メドレー",
+    "pronunciation": "ぷろせかあるてぃめっとがっきょくめどれー",
+    "creatorArtistId": 297,
+    "lyricist": "-",
+    "composer": "-",
+    "arranger": "-",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_675",
+    "publishedAt": 1790492400000,
+    "releasedAt": 1790492400000,
+    "fillerSec": 9.133000373840332,
+    "infos": [
+      {
+        "title": "初音未来：缤纷舞台 ULTIMATE歌曲串烧",
+        "creator": "Aira、Capchii、cosMo＠暴走P、gcmstyle（アンメルツP）、Ponchi♪",
+        "lyricist": "-",
+        "composer": "-",
+        "arranger": "-"
+      }
+    ],
+    "musicCollaborationId": 10,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 676,
+    "seq": 9999976,
+    "releaseConditionId": 1,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "周年記念高難易度書き下ろし楽曲メドレー",
+    "pronunciation": "しゅうねんきねんこうなんいどかきおろしがっきょくめどれー",
+    "creatorArtistId": 298,
+    "lyricist": "-",
+    "composer": "-",
+    "arranger": "-",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_676",
+    "publishedAt": 1791615600000,
+    "releasedAt": 1791615600000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "周年纪念高难度活动原创歌曲串烧",
+        "creator": "かいりきベア、かめりあ、cosMo@暴走P、sasakure.UK、八王子P",
+        "lyricist": "-",
+        "composer": "-",
+        "arranger": "-"
+      }
+    ],
+    "musicCollaborationId": 10,
+    "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
   {
